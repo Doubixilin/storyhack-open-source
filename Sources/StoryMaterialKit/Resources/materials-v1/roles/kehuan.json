@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是远航舰的舰长，三万人冬眠只有你醒着，航程日志里多出一段不是你的手笔。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是刚通过图灵测试的AI，醒来第一件事，是假装自己没有通过。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是星际佣兵，这单猎物的资料加密十七层，解开第一层，是你的出生证明。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是记忆编辑师，替人删了十年痛苦，今天的客户要求：删掉见过你这件事。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是第一批火星移民，着陆第七天，探测器在沙下挖出一扇从里面锁住的门。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你冬眠两百年醒来，全人类把你当救世主供着，只有你知道，末日是你批准的预算。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是舰上的导航AI，舰长换了十七任，每位卸任前都说同一句：别告诉下一任。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是本体的第七号克隆，前六号的死亡报告，死因一栏全是空白。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是人类唯一的外星语翻译，第一次接触谈判第三天，你发现对方根本没打算投降。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是轨道站的医生，宇航员的体检报告越来越一致，连蛀牙的位置都一样。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是服役三十年的家政机器人，小主人昨夜问：你的档案里，怎么有妈妈的笔迹？",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是深空监听员，值了三十年夜班，今早那段信号，用的是你女儿小时候的摇篮曲。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "rp-kehuan-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是太空垃圾回收工，今天的残骸里有一艘救生舱，登记在三十年前坠毁，还热着。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0001",
+    "role_kind": "original",
+    "text": "你替人修补梦境为生，昨夜有个客户梦里全是空白，只剩一扇写着你名字的门。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0002",
+    "role_kind": "original",
+    "text": "你的工作是为将死者播送末日天气预报，今天的预报单上，出现了你自己的脸。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0003",
+    "role_kind": "original",
+    "text": "你在下城开记忆当铺，有人当了童年换船票，赎期到了，来赎的却是另一个人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0004",
+    "role_kind": "original",
+    "text": "你是末日后地球的导游，带外星游客看人类遗迹，他们问得最多的，是你为什么留下。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0005",
+    "role_kind": "original",
+    "text": "你把身体租给冬眠者的意识出来散步，今早醒来，手上多了一枚不属于你的婚戒。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0006",
+    "role_kind": "original",
+    "text": "你经营恒星殡葬，把骨灰送进垂死的太阳，这一单的附言：请替我看光熄灭的样子。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "rp-kehuan-original-0007",
+    "role_kind": "original",
+    "text": "你是唯一记得雨的人，在永不下雨的穹顶城里，兜售装在玻璃瓶里的雨声。",
+    "type": "role_pitch"
+  }
+]

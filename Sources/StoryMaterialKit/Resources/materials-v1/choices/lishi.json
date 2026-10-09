@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "密信是翻案的唯一凭据，验砸了自己的命先没了",
+    "tension": "证据一出手就没有回头路，笔迹若对不上，欺君就是死罪",
+    "text": "我当着百官把袖中密信呈上御案，请陛下当场验看笔迹。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "主动认的罪可能假戏真做，失察也能定成纵凶",
+    "tension": "以退为进，先认小罪堵死对方加码的口",
+    "text": "我摘了冠带跪到丹墀下，说臣有罪，请先治臣失察之罪。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "查无实据就是诬告同僚，反坐我自己",
+    "tension": "当庭点破证人自己屁股不干净，证人先慌",
+    "text": "我转向替他作证的礼部侍郎，问他上月那五千两盐引收在哪座宅子里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "扯出塘报案会同时得罪兵部和内阁",
+    "tension": "把战火从我身上烧到压报这桩更大的罪",
+    "text": "我不接他的问话，反问三日前是谁把西北塘报压在了通政司。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "铁券一出，今后再犯事就无人再替我说话",
+    "tension": "用死人压活人，赌先帝余威还镇得住场",
+    "text": "我请出先帝赐下的丹书铁券，请太常寺当众宣读券文。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "万一搜出那封没烧干净的信，就是自证其罪",
+    "tension": "拿自己家当下酒菜，赌搜查真的什么都翻不出",
+    "text": "我请陛下即刻下旨查抄臣的府邸，以证臣无半字私信往来。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "被有心人听见，明日弹章就添一条交通私语",
+    "tension": "当众递出私谈的钩子，他接了就算上了我的船",
+    "text": "我低声跟首辅说，退朝后金水桥边借一步，扬州的事可以谈。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "亏空罪也能流放三千里，家眷性命从此看天",
+    "tension": "丢卒保车，用一桩罪名盖住十恶不赦的那桩",
+    "text": "我把那半页供状咽进肚里，只认漕粮亏空，不认通敌。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "调卷若被人先换了真的，我就成了无理取闹的小丑",
+    "tension": "当众对质官文书，年份差一天就是伪造铁证",
+    "text": "我请旨调阅兵部存档的调防手令，当众核对其上的印玺年月。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "装病被太医戳穿，欺君之罪当场坐实",
+    "tension": "用体面尽失换一夜喘息，今夜能做很多事",
+    "text": "我称病伏地不起，请容臣明日再对，先把今日这场廷议拖过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "吞了纸就是默认有鬼，嫌疑从此洗不干净",
+    "tension": "毁证于众目睽睽，赌他们不敢剖腹取证",
+    "text": "我当众撕开那封所谓的通敌书，吞下最要命的半角。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "得罪整个御史台，从此言官日日盯着我",
+    "tension": "暗示弹章背后另有主笔，先把水搅浑",
+    "text": "我对着写弹章的御史笑：这笔老辣的字，怕不是令师当年代笔的功劳。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "伪传懿旨是凌迟的罪，我在拿全族赌这一句话",
+    "tension": "借后宫压外朝，赌对手不敢追问懿旨真假",
+    "text": "我搬出太后懿旨，说后宫已有定论，外臣不得置喙。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "多年布下的眼线一朝尽弃，再无人替我传消息",
+    "tension": "掀一张暗牌换今日活命，暗线从此报废",
+    "text": "我供出安插在对方门下三年的账房先生，断尾求生。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "捅了户部的马蜂窝，满朝钱粮官都盼我死",
+    "tension": "用国难级的亏空衬得我的案子不值一提",
+    "text": "我请陛下先问国库亏空的两百万两，再问臣这点俸禄小事。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "孤身赴约，桥下的水最会藏尸首",
+    "tension": "私下摊牌，谈得拢两活，谈不拢今夜先死一个",
+    "text": "我约对方在金水桥单独相见，只带一名随从，赌他也想活着收场。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "谎报户籍是罪，义子若活着露面就是铁证",
+    "tension": "用一句死无对证切断对方顺藤摸瓜的线",
+    "text": "我把义子改籍出族的话咽回去，只说他三年前已经病故。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "若玉佩来路清白，我就是血口喷人",
+    "tension": "一块明器牵出盗陵大案，攻守当场易势",
+    "text": "我盯住他腰间那块玉佩，请陛下问他：这陪葬之物从何而来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "陛下若顺水推舟准了，这一身功名当场清零",
+    "tension": "以辞官做赌注逼宫式求真相，君臣脸面都押上",
+    "text": "我摘下乌纱掷在御阶前，说今日不对个水落石出，臣不走。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "他若把原话上报，我连最后一点转圜都没了",
+    "tension": "在刀笔吏心里种一根刺，审讯先松了三分",
+    "text": "我对审我的官员说：你主子上次保举的名单里，可没写你的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "人情用了就没了，他若摇头，我满盘皆输",
+    "tension": "当庭动用陈年人情，赌老将肯不肯还这笔旧债",
+    "text": "我请押阵的老将军说话——二十年前雁门关，他欠我爹一条命。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "鸡血含久了也腥，被太医验出来就是欺君",
+    "tension": "用一场假病危掐断追问，把廷议拖进太医署",
+    "text": "我当场吐血昏倒在朝班之中——血是昨夜含在嘴里的鸡血。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "让利三成是割肉，对方得寸进尺就白白露了怯",
+    "tension": "用实利换体面收场，赌对方也不想鱼死网破",
+    "text": "我让幕僚传话：各退一步，弹章收回，漕运让出三成。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "信使若已被拿住，我这句话就是欺君铁证",
+    "tension": "一句话撒到底，赌没人看见那道墙头的影子",
+    "text": "我坚称那晚在府中读书，绝口不提翻墙进来的那个信使。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "千户若早被买通，当殿翻供我必死",
+    "tension": "一个时辰的出入记录，能拆穿整段不在场证词",
+    "text": "我请传当日值守玄武门的千户上殿，问他那顶轿子几时出的宫。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "御前失仪，廷杖先打四十，打死不论",
+    "tension": "惊驾之罪和申冤之机只隔一层轿帘",
+    "text": "我拦住御驾喊冤，赌陛下还记得我祖上随龙入关的旧功。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "被指借军情脱身，怯战避罪的帽子扣下来更难摘",
+    "tension": "用边患压内斗，把私怨局抬成国事局",
+    "text": "我指着殿外说，西北八百里加急已到三日，诸公却在此争臣一人。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "字条若落到对方手里，就是结党营私的活证据",
+    "tension": "借皇子之手点对手的炮，火不会烧到我身上",
+    "text": "我退朝时塞给三皇子一张字条，只写对方幕主的真名。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "图若有一处对不上，欺君加诬陷宗室，罪灭三族",
+    "tension": "把称病的谎变成惊天的功，一击翻盘",
+    "text": "我揭开称病不出的真相：臣手里有藩王私兵的布防图。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "知情的老账房还活着，他一开口我就万劫不复",
+    "tension": "焚一页保全局，赌没人记得原账有几页",
+    "text": "我把账本上最黑的那页提前烧了，只交出誊抄过的副本。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "当众发难若被压下，我此生再无缘近他半步",
+    "tension": "喜事冲丧事，贺礼即罪状",
+    "text": "仇家今日嫁女，满城文武都在，我备的贺礼是他当年灭门案的旧证",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "多等一夜，就多一夜被察觉的风险",
+    "tension": "让他爬到我够得着的高度再摔",
+    "text": "我按住今夜动手的刀，等他明早登坛拜将，御赐印信先到手，我再亲手夺",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "独子活下来，我将来要面对的刀也多一把",
+    "tension": "救仇人之子，比杀他更诛心",
+    "text": "我按下刀，先救活他病重的独子——我要他活着看我一样样拿回来",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "冲撞大典是死罪，我押上项上人头",
+    "tension": "没有指控的指控，谁都堵不住",
+    "text": "祭祖大典上我越众而出，不喊冤不递状，只背诵我家十七口的名讳",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "他若狗急跳墙，剩下六份可能永远递不出去",
+    "tension": "凌迟式揭发，让他夜夜不敢合眼",
+    "text": "我把他贪墨的证据分成七份，今日只递第一份，让他慢慢猜后面还有什么",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "离了权力场，我的耳目一夜全断",
+    "tension": "以退为进，孝心是最体面的隐身衣",
+    "text": "我辞了在他手下的差事回乡守孝，复仇要等他把刀从脖子后面收回去",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "再忍三年，知情人可能先死绝",
+    "tension": "真凶另有其人，快刀突然变慢",
+    "text": "我查出当年递刀子的不止他一个，名单上第二个才是主谋，我再忍三年",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "战功越大他越得宠，我可能在帮他封侯",
+    "tension": "先给仇人抬轿，再抽轿杠",
+    "text": "我替他打赢这场仗，大胜之日就是清点旧账之时，功名是复仇的本钱",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "买通刽子手事发，劫法场的罪名我先背",
+    "tension": "刑场上抢人证，刀口下讨供词",
+    "text": "我买通刽子手，在他死仇行刑那日留一口气，让那人活着来指认他",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "忍字头上那滴血，咽下去烫的是自己",
+    "tension": "仇人就在眼前，动他就中了别人的计",
+    "text": "宫宴上他与太子同席，我若发作便替政敌递了刀——我把血咽回去敬酒",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "尸骨若先被别人发现，死无对证的是我",
+    "tension": "让他亲手把自己的罪证挖出土",
+    "text": "我把祖宅地契贱卖给他，诱他掘地改建，地底下埋着旧案的尸骨",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "婚书一出，我父辈的旧盟也翻出来清算我",
+    "tension": "满月喜宴上翻旧婚书，打的是两家人的脸",
+    "text": "他宠妾生子满月我才登门，满月礼里夹着当年那纸被退的婚书",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "被灭口的是活人，我押上一条无辜的命",
+    "tension": "借他的手制造他最新的罪",
+    "text": "我放风说他旧部要翻案，引他杀人灭口，动手那一刻他的罪就坐实了",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "探监即被记档，来日翻案我脱不了干系",
+    "tension": "仇人落魄时的话，比得势时值钱",
+    "text": "我选择在他落败下狱时探监，不为落井，要听他亲口说出当年的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "新妇一夜变寡妇的可能，押上她一生",
+    "tension": "洞房夜摊牌，婚事即战书",
+    "text": "我娶了他的侄女，喜烛下告诉她：我等你伯父来喝这杯茶，等了十年",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "商战翻船，我先赔光复仇的本钱",
+    "tension": "诛心先于诛身，让他数着自己的家当死",
+    "text": "我先动他的钱庄再动他的官位，让他尝到一样样失去是什么滋味",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "兵变不成，我的仇永远没机会报",
+    "tension": "把私仇藏进国难里一起清算",
+    "text": "今日不动手，他在等我也在等；我等的那一天，恰好兵变",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "记错一个鼓点，收网就漏了主鱼",
+    "tension": "用记忆的节拍决定仇人的死期",
+    "text": "我把满门被屠那夜的更鼓声画成图谱，如今按着鼓点一步步收网",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "这一局输掉的是我的实缺官位",
+    "tension": "认输是给仇人喂的安眠药",
+    "text": "我故意在朝堂输给他一局，让他以为胜券在握，骄兵才肯露出破绽",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "惊扰銮驾，状没告成先挨廷杖",
+    "tension": "把冤情抬到神佛面前，官府就没了遮拦",
+    "text": "我借太后礼佛之机呈上血书，佛前喊冤，御史不敢压佛门前的案子",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "恩一还清，他对我再无顾忌",
+    "tension": "还恩是怕报仇时手软",
+    "text": "我把他救过我一次的恩情折算清楚，今日先还恩，明日再算仇，两不相欠",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "戏班被查，顺藤就摸到我这个写戏的人",
+    "tension": "先坏他的名声，再要他的命",
+    "text": "我把他的罪状写成戏文卖给戏班，等满城都在唱，再递上真的状纸",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "三年里每一场酒，都可能露馅",
+    "tension": "卧在仇人榻边学艺，学的就是怎么杀他",
+    "text": "我收刀入鞘上前执弟子礼，认贼作师三年，只学他看人的眼光",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "他若死在任上，我只能掘墓鞭尸",
+    "tension": "专挑他从云端落地的那一下",
+    "text": "我等到他告老还乡那日才动手——官位护不住他了，乡亲也恨透他了",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "查火案的若查到敬酒的次序，我就成了纵火犯",
+    "tension": "人证物证都在席上，火起的时辰我不在场",
+    "text": "我在他庆功宴上敬了第三杯酒，转身离席，半个时辰后他的私库走水",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "看完若下不去刀，我这十年就成了笑话",
+    "tension": "先看仇人是不是人，再决定杀不杀",
+    "text": "我逼自己先看完他这些年写的家书，看完仍能下刀，这仇才算干净",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "赢家若查出刀的来路，下一个咬的是我",
+    "tension": "借刀杀人，两败俱伤我收场",
+    "text": "我把刀卖给他的仇人，自己退到暗处，让两条狼先咬出胜负",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "贺表若被识破机锋，马屁拍成了罪证",
+    "tension": "捧到最高处的文章，是将来拽他下来的绳",
+    "text": "今日他加封公爵，我把贺表写得字字泣血，笔笔都是来日翻案的伏笔",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "同伙等不及单独行动，整个网会被惊动",
+    "tension": "按住同伴的刀，赌的是更大的局",
+    "text": "我拒绝同伙今夜动手的提议：杀他一人易，我要的是他身后那张网",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "请旨若被驳回，我反倒惊动了他的警惕",
+    "tension": "让凶手亲笔给苦主立牌坊",
+    "text": "我请旨为我家修忠烈祠，落成请匾那天，题匾的人就是他",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "原稿一交，我暗中周旋的余地归零",
+    "tension": "把对方捏着的把柄自己先摊开，赌坦白比抵赖值钱",
+    "text": "我在御前交出那封劝进书的原稿，说臣若反，早反了，何必等到今日。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "亏心事说出口就上了档，日后随时可翻出来问罪",
+    "tension": "以一件小罪过开场，赌君王更吃自揭其短这一套",
+    "text": "我伏地叩首，说臣此生只做过一件亏心事，今夜说给陛下听。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "一旦选错，阖族老小连个分头逃命的名分都没有",
+    "tension": "烧了退路就是破釜沉舟，族人从此只能共进退",
+    "text": "我当着阖族耆老烧掉分家文书，把全家性命绑在父亲选的那条路上。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "恩师若翻脸，门生故吏遍朝野，处处是刀",
+    "tension": "把忠心和底线同时摆上桌面，师生情分当场过秤",
+    "text": "我对恩师说：门生可以替您死，但不能替您骗陛下。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "一句失言就是结党营私，她和我的家族都保不住",
+    "tension": "真心话藏在效忠话里，说出口是私情，咽下去是忠心",
+    "text": "我把那句心悦你咽回去，只说愿为殿下肝脑涂地。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "赌咒发誓若日后违逆，天下人共击之",
+    "tension": "在天坛立誓，赖账就是欺天，把誓言抬到不可撤销的高度",
+    "text": "我借着祭天的仪轨当众立誓：此心可质鬼神，百官皆闻。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "兵符离手，旧部从此认符不认人",
+    "tension": "交出兵符就是交出身家，表态用到最重的砝码",
+    "text": "我把脖子上挂了二十年的半块兵符摘下来，放在他的案头。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "话一出口，成了是元勋，败了是逆臣",
+    "tension": "半夜递话是给君王留杀我的余地，也是表孤忠",
+    "text": "我连夜进宫求见，说出那句足以诛九族的话：储君当立贤，不当立长。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "每一条人命都是日后问斩的罪状",
+    "tension": "把最血腥的底交出去，赌他听完还肯信我",
+    "text": "我解下佩剑横在膝上，说这一生杀过的人，今夜逐个说给你听。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "话太直就是胁君，他要恼了，价码变罪状",
+    "tension": "表态之前先要价，把投靠谈成一笔明账",
+    "text": "我问他要一个准话：我表明心迹，你保我一家，还是拿我一家做保。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "义父的罪名若再翻起，我认亲就是自认同党",
+    "tension": "认一门见不得光的亲，把最大的软肋亮给君王看",
+    "text": "我在灵前自陈身份：棺中人是臣的义父，臣为他守了二十年秘密。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "点错一人是结仇，点对了是引火，横竖一身骚",
+    "tension": "一席酒变成一锅端，满座衣冠都在等我开口",
+    "text": "我推开酒盏站起身，说在座诸位谁是忠良，我今夜逐一点名。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "若有人质疑手书真假，欺君之罪连带伪造御笔",
+    "tension": "借死人题字给自己背书，赌对方不敢撕先帝的脸",
+    "text": "我请出先帝手书的中堂，说先帝信我，你信不信随你。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "她若告发，私相授受加诱拐命妇，抄家起步",
+    "tension": "把私奔说得像述职，赌她敢不敢来",
+    "text": "我约她佛前相见，说三日后辰时，后门有人等你，信不信随你。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "新君若真即位，这一枚指印就是我的催命符",
+    "tension": "满朝皆诺我独否，指印就是立场的墓碑",
+    "text": "我在百官联名劝进的表文上，独独按下自己不署名的指印。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "恩情说破就贬值，他若认成挟恩要挟，反遭其祸",
+    "tension": "施恩图报到撕破脸只隔一层衣襟",
+    "text": "我揭开贴身那道旧疤，告诉他当年替他挡刀的人是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "无能的帽子戴上就难摘，前程就此封顶",
+    "tension": "用自贬行直谏，赌君王听得懂这份反话",
+    "text": "我跪着说臣无能，可这句无能，满朝只有臣敢当着陛下说。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "价码谈不拢，忠心就成了待价而沽的笑话",
+    "tension": "把买卖说到脸上，赌他更需要一个明码标价的奴才",
+    "text": "我跟他摊牌：我的忠心是有价钱的，拿一份明明白白的前程来换。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "一句私情足以毁掉两家的门第和她的名节",
+    "tension": "众目睽睽拦命妇的车，说出口就收不回",
+    "text": "我追出十里长亭，当众拦下她的车架，把羞于出口的话说完。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "贺表留档存查，一朝风向变了就是铁证",
+    "tension": "用寿礼夹带政见，看懂的人自然懂",
+    "text": "我借太后千秋节的贺表，把储位之争的态度藏进骈文的下联。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "真凶若是摄政王的人，我这只手就白摊了",
+    "tension": "掌心一行字，掀的是朝堂最大的一口锅",
+    "text": "我把私通敌国的真凶名字写在掌心，摊开给摄政王看。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "他若护不住，我交出去的就是满门性命",
+    "tension": "真相当货卖，先验买家斤两再开价",
+    "text": "我对老将军说：你要的真相我给，但先告诉我，你能护住几个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "戏若被拆穿，欺君之罪连眼泪一起算罪证",
+    "tension": "真眼泪配假誓言，赌对面看不清这出戏",
+    "text": "我哭着谢恩，说肝脑涂地不敢辞——眼泪是真的，话是假的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "他若倒了，我这一揖就是结党铁证",
+    "tension": "满朝面前认师门，一句话选边站死",
+    "text": "我在朝会上突然离席，走到他座位前深深一揖：学生来迟了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "藏旨不宣本是死罪，内容若不利我，罪上加罪",
+    "tension": "私藏多年的密旨见光，朝局当场翻盘",
+    "text": "我把藏在砚台下的那道密旨取出来，说这才是先帝真正的意思。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "祭文传遍天下，一字出错再无改口的机会",
+    "tension": "借祭文行檄文之实，悼念的壳，站队的核",
+    "text": "我把表态的话写进给先帝的祭文里，让天下士人替我传出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "被弃的那一方今夜就会要我的命",
+    "tension": "撕的是约，断的是两头退路",
+    "text": "我当着双方的人撕毁密约，说从今往后我只认一个主子。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "他受不起而恼羞成怒，我这一拜就成了笑话兼罪状",
+    "tension": "把效忠变成一场双向的赌约，先称称他的分量",
+    "text": "我问他：这一拜下去就没有回头路了，你受得起吗。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "新主若察觉二心，阖族在宗祠里发的誓就是罪状",
+    "tension": "口是心非的毒誓，祖宗牌位都在看着",
+    "text": "我跪在宗祠里发誓效忠新主，心里默念的却是旧主的名讳。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "玉玦来路若被倒查，我先帝旧党的身份藏不住",
+    "tension": "一件御赐信物，能正名也能定罪，全看怎么解释",
+    "text": "我取出先帝赐的玉玦拍在案上：这信物的主人是谁，今日说明白。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "两份名单上都是人命，呈上去就再不由我做主",
+    "tension": "把烫手的裁断权还给君王，赌圣心比我的取舍干净",
+    "text": "我把两份名单都呈上御案，请陛下自己挑要哪份，罪臣不挑。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "供状已毁，我若死在牢里，真相随我下葬",
+    "tension": "毁掉纸面留下脑子，赌活着出狱那天还能翻案",
+    "text": "我把真供状烧了默背下来，牢狱关得住人，关不住我脑子里的字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "求情若不允，全家连流放的机会都没有，一起问斩",
+    "tension": "用自由换血脉，把最重的罪名一人扛下",
+    "text": "我请求以自己一人下狱，换全家流放——至少活着。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "称病被拆穿，抗旨加欺君，罪比押送更重",
+    "tension": "接旨是负恩，抗旨是罪，两害相权我选丢官",
+    "text": "我称病不接那道押送旧主的差事，宁可丢了顶戴。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "这一问若坐实父亲知情，等于我亲手送他上刑场",
+    "tension": "刑场上讨一炷香，赌监斩官还剩一丝人味",
+    "text": "我求监斩官宽限一炷香，让我问老父一句话再画押。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "众人若都作壁上观，孩子和我今日一起完",
+    "tension": "亲手把孩子推给旁人，用我的狠心换他的活路",
+    "text": "我当着众人的面把孩子推出去，说我保不住你，求诸位大人发善心。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "幕主的旧部若跳出来翻案，死人救不了我",
+    "tension": "让死人替我背锅，活人才能有明天",
+    "text": "我把罪责引向已经死了三年的幕主，死人不会喊冤。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "破绽若没人看懂，这纸供状就是我的死刑判决",
+    "tension": "在死局里留一道活扣，赌狱外还有肯细看供状的人",
+    "text": "我在供词里埋了一处破绽，盼着看懂的人替我翻案。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "恩师若逃不出，我白搭上一条命加全家的命",
+    "tension": "今夜做逆贼，明日做罪臣，恩义我用命来还",
+    "text": "我连夜放走狱中的恩师，明日我自缚上殿领罪。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "下半本若先落到对方手里，我就是待价而沽的死人",
+    "tension": "交一半保一时，藏一半保一世",
+    "text": "我只交出账册的上半本，下半本在哪，连我妻儿都不知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "除名未必保得住宗亲，谋大逆从来不论族谱",
+    "tension": "先把自己开除出族，再独自去撞那口刀",
+    "text": "我在族谱上把自己除名，从此一人做事一人当，罪不及宗亲。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "稳婆若已被买通，我听到的每个字都是饵",
+    "tension": "下结论前先见人，赌稳婆嘴里还有第二种真相",
+    "text": "我先去见那个唯一知道真相的稳婆，再决定保哪一边。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "下落一说，各方人手抢在我死之前找到那孩子",
+    "tension": "用我一条命买那孩子一条命，当着众人把价码喊出来",
+    "text": "我当众说出藏匿遗孤的下落，用我的命换这孩子一条活路。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "弃官是自弃于体制，从此无官无禄无护身的名分",
+    "tension": "忠孝两难的卷子，我交白卷",
+    "text": "我弃官挂印连夜出城，忠孝两难的局，我选择不答。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "被指夸大敌情，谎报军情的帽子比党争更致命",
+    "tension": "把内斗的火引向边患，赌没人敢在国难前算私账",
+    "text": "我把双方的怒火引向西边战事：国难当头，先打外敌再算内账。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "两边若一对质，两头不是人的我先死",
+    "tension": "一封信两家送，让他们先互相咬起来",
+    "text": "我把密信抄了两份，一份给陛下，一份给他，让他们互相猜忌去。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "祖制救不了罪，白绫三尺也是死，只是死得体面",
+    "tension": "用祖制换死法，赌朝廷还要这张脸面",
+    "text": "我搬出刑不上大夫的祖制，求以白绫代斧钺，给家族留最后体面。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "孩子进宫就是肉票，我稍有差池他先没命",
+    "tension": "把独子送进金笼，赌陛下信人质胜过信我",
+    "text": "我把独子送进宫做人质，换陛下信我不会反。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "兵符一交我就没了牙，对方翻脸我毫无还手之力",
+    "tension": "兵权换家眷，当场钱货两讫，赌对方不敢当众食言",
+    "text": "我提出以交出兵权换赦免家眷，当场交割，一字据一性命。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "贪墨数额太大也是死，等于换个死法",
+    "tension": "贪财的罪名能上折子，谋逆的罪名要上祖坟",
+    "text": "我认了贪污的罪名，只为遮住更要命的谋逆之嫌。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "出卖义父的骂名背一世，义父旧部追杀我一世",
+    "tension": "养育之恩和满门性命放一杆秤上，我选了后者",
+    "text": "我在灵前摔了酒杯，决定出卖养育我二十年的义父。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "验尸惊动真凶，我还没出殓房就成了下一个自缢的",
+    "tension": "死因决定站队，先看尸体再选边",
+    "text": "我连夜验看那具自缢的尸首，先弄清他是不是自己走的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "失职纵囚，缉拿的文书明天就有我的名字",
+    "tension": "放人是死罪，杀人是死心，我选死罪",
+    "text": "我放走押送的犯人，自己吞下失职的罪名，从此浪迹天涯。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "查无实据就是污蔑天家，凌迟都嫌轻",
+    "tension": "身世一揭，诛族的刀先架到皇室脖子上",
+    "text": "我把隐藏二十年的身世当众揭开：要诛九族，先算上龙椅里那位。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "功不抵罪的先例一开，我用银子买命的罪名又添一条",
+    "tension": "把刑案挪到账房谈，赌朝廷更缺赈灾的银子",
+    "text": "我提议以赈灾之功抵罪，把生死局变成朝堂上的讨价还价。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "任何一方先腾出手，第一个清算的就是我",
+    "tension": "同一条消息卖两家，赌他们先互杀后算账",
+    "text": "我答应替一方做内应，转头把约定时辰卖给另一方，赌他们两败俱伤。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "功是将士们挣的，拿来抵私罪，旧部寒心离我而去",
+    "tension": "用边关将士的血换儿子的命，赌军功还值钱",
+    "text": "我请求以军功折罪，拿刚平定的边患抵儿子的死罪。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "午门外血迹未干的多的是，廷杖之下无贵贱",
+    "tension": "拦驾死谏，话出口就只剩君悟或臣死两个结局",
+    "text": "我在午门外拦驾死谏，说这番话出口，要么君悟，要么臣死。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "换婴之事败露，两家上下都活不成",
+    "tension": "用一具死婴偷天换日，赌没人认得这孩子",
+    "text": "我把襁褓里的孩子换成邻家的死婴，交出去的小尸首不是他家血脉。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "查旨意来路本身就是大不敬，查到一半就能掉脑袋",
+    "tension": "跪之前先弄清跪的是谁的刀，赌旨意有转圜的缝",
+    "text": "我先查清那道旨意究竟出自谁的手笔，再决定跪还是不跪。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0001",
+    "scene": "lichang",
+    "stakes": "两边都记我一笔，从此朝中无党可依",
+    "tension": "临场抽名，同党视我为叛徒，主帅也未必信我",
+    "text": "我在弹劾主帅的联名折上划掉自己的名，转身替他向陛下求情",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0002",
+    "scene": "lichang",
+    "stakes": "旧主若翻盘，这张图就是我的凌迟券",
+    "tension": "叛得彻底，新主才肯用；叛得彻底，旧部才恨得深",
+    "text": "我把旧主的军情带去投新主，第一件投名状是我亲手画的布防图",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0003",
+    "scene": "lichang",
+    "stakes": "任何一头发现另一头，我都是首鼠两端的小人",
+    "tension": "摔印是戏，送名册是心，两头下注",
+    "text": "阵营要我表态，我当众摔了旧印，却在夜里把旧部的名册交给旧主",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0004",
+    "scene": "lichang",
+    "stakes": "九天之后若议和不成，骂名变成死罪",
+    "tension": "主和是奸臣的台词，却是实话",
+    "text": "我从主战改为主和，骂名我背，因为我知道粮仓里只剩九天的米",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0005",
+    "scene": "lichang",
+    "stakes": "他若顺势一推，刀尖进的是我的胸口",
+    "tension": "递刀的姿势就是新立的投名状",
+    "text": "我解下佩刀献给曾经的死敌，刀柄朝他，刀尖朝我自己",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0006",
+    "scene": "lichang",
+    "stakes": "两边都可能先拿我这股孤军祭旗",
+    "tension": "第三方的立场，是用锄头立起来的",
+    "text": "我不降也不战，领着全营就地屯田，等两边都撑不住再来请我",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0007",
+    "scene": "lichang",
+    "stakes": "收买的旧账翻出，我先入狱",
+    "tension": "翻供即认罪，认罪即翻案",
+    "text": "我在公堂上翻了供，把自己从人证变成被告——当年的供词本就是买的",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0008",
+    "scene": "lichang",
+    "stakes": "御林军若已换防，我念的就是自己的死刑名单",
+    "tension": "最深的一刀从同伙的背后递",
+    "text": "我先假意应下政变，入宫那刻反锁殿门，把同谋的名字念给御林军",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0009",
+    "scene": "lichang",
+    "stakes": "太子视我为弃子，别人也不敢再用我",
+    "tension": "一把火烧掉站队的凭证，也烧掉庇护",
+    "text": "我把太子的密信当众烧了，烧完说：烧的是信，记的是情，我谁也不欠",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0010",
+    "scene": "lichang",
+    "stakes": "士林清议从此除我的名，退路只剩外戚一条",
+    "tension": "昨日的清名是今日最贵的卖价",
+    "text": "我从清流言官转投外戚门下，入门礼是弹劾我昨日还在夸的人",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0011",
+    "scene": "lichang",
+    "stakes": "新主若疑心我念旧，送粮的车就是罪证",
+    "tension": "叛主的夜里做忠仆的事，两头的账都想还",
+    "text": "旧主败亡那日我开城迎敌，进城后第一件事是给他的家眷送粮",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0012",
+    "scene": "lichang",
+    "stakes": "说客若身负监视之命，我府中再无密事",
+    "tension": "收下说客，等于收下对方全部的人脉底牌",
+    "text": "我把劝我改换门庭的说客留下做幕僚——他认识的路，我今后都用得上",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0013",
+    "scene": "lichang",
+    "stakes": "两派都把我当可用可弃的刀笔",
+    "tension": "把立场明码标价，标的是百姓的米价",
+    "text": "我在两派之间只认一个道理：谁肯减免今年赋税，我的笔就替谁写",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0014",
+    "scene": "lichang",
+    "stakes": "送子事发，新主眼里我仍是旧主的余孽",
+    "tension": "叛其位不叛其人，留一线旧情",
+    "text": "我改投新主前，先替旧主办完最后一件事：把他的独子送出关去",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0015",
+    "scene": "lichang",
+    "stakes": "官帽一摘，从前保我的制度现在只管杀我",
+    "tension": "挂冠不是退场，是换一种打法",
+    "text": "我把官帽摘了放在案上：这顶帽子是朝廷给的，命是百姓给的，我选百姓",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0016",
+    "scene": "lichang",
+    "stakes": "旧参折还在御史台存档，我成了反复小人的范本",
+    "tension": "朝堂上自己打自己的脸，打得越响越真",
+    "text": "昨日我还参他十罪，今日我替他做保——因为真相昨夜才送到我手上",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0017",
+    "scene": "lichang",
+    "stakes": "幼女身世若被翻出，我全家陪她一起死",
+    "tension": "嘴上划清界限，膝下收养遗孤",
+    "text": "我当众否认与废太子的旧交，暗地里把他托付的幼女认作义女",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0018",
+    "scene": "lichang",
+    "stakes": "字据在赢家手里就是废纸，我押的是他人品",
+    "tension": "投机也要先谈赎买的价钱",
+    "text": "我倒向胜面大的那一方，但要求先立字据：城破之日不杀旧人",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0019",
+    "scene": "lichang",
+    "stakes": "喊不动全军，我就是第一个被踏死的",
+    "tension": "倒戈的口号必须比军令更像活路",
+    "text": "我在阵前倒戈，调转枪头只喊一句话：粮道已断，兄弟们跟我回家",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0020",
+    "scene": "lichang",
+    "stakes": "手里的兵权一朝尽失，旧敌随时可取我性命",
+    "tension": "以自贬换立场，官越小，话越真",
+    "text": "我辞去大将军印去做县官，庙堂太远，我要到看得见死人的地方去",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0021",
+    "scene": "lichang",
+    "stakes": "两派同恨我，皇上也未必敢用一个把柄全无的人",
+    "tension": "把两边的贿赂变成自己的贞节牌坊",
+    "text": "我把两派送来的金子和密信一并呈给皇上，从此做个两不靠的孤臣",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0022",
+    "scene": "lichang",
+    "stakes": "三个月里每一天都可能被识破身份",
+    "tension": "投诚是卧底的面具，走时才露出獠牙",
+    "text": "我先投靠再策反，新营帐里三个月，我数清了他们的虚实才走",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0023",
+    "scene": "lichang",
+    "stakes": "党人视我通敌，那半份口供也可能救不出他",
+    "tension": "救敌人于将死，为的是他狱中的那半份口供",
+    "text": "我在朝会上突然为死对头说话，满殿错愕，只有我知他在狱里病得快死",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0024",
+    "scene": "lichang",
+    "stakes": "两边都买凶，我的价码翻着倍往上涨",
+    "tension": "两头收钱，事却办给局外人",
+    "text": "我收下两边的好处，最后把兵权交给第三个人——一个谁都没出过价的人",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0025",
+    "scene": "lichang",
+    "stakes": "对头若收钱不办事，我人财两空",
+    "tension": "用全部身家给旧部赎命",
+    "text": "我退出争夺，把经营十年的商路白送给对头，买他一个不追杀旧部",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0026",
+    "scene": "lichang",
+    "stakes": "朝廷的催战金牌一到，不动兵就是抗旨",
+    "tension": "大军压境只为送信，威胁本身就是谈判",
+    "text": "我带兵过江却按兵不动，派人送一封信给对岸：我不是来打仗的",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0027",
+    "scene": "lichang",
+    "stakes": "三日里任何一个仇家路过，都能取我性命",
+    "tension": "自辱到极点，信任才肯回头看我一眼",
+    "text": "我把自己钉在城门上示众三日——用这身耻辱，换全城相信我已悔改",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0028",
+    "scene": "lichang",
+    "stakes": "旧日檄文里骂过的人，如今坐在谈判桌对面",
+    "tension": "昨日的杀气变成今日的寿数，仇人看我执笔",
+    "text": "我从主战派的檄文写手变成议和使节，同一支笔，今日只写活人的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0029",
+    "scene": "lichang",
+    "stakes": "新君若翻脸，我就是庆功宴上的祭品",
+    "tension": "在新朝的喜宴上哭旧朝的坟",
+    "text": "我在庆功宴上跪请新君为旧主平反，酒过三巡，正是说真话的时辰",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-lichang-0030",
+    "scene": "lichang",
+    "stakes": "两边若先联手杀我灭口，和谈照样开场",
+    "tension": "中间人的命，是谈判桌上最后的抵押物",
+    "text": "我在两边之间传话三年，今日把两边底牌都摊在桌上：要么和，要么我死",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "烧谱若被族人撞见，逐出宗祠比砍头先一步",
+    "tension": "族谱一烧，出身死无对证，可也就真的无家可归了",
+    "text": "我抢先一步烧掉宗祠里记着我出身的族谱原页。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "信物来路若被他当场说圆，我倒成了做贼心虚",
+    "tension": "贼喊捉贼反客为主，先把水搅浑再论真假",
+    "text": "我反咬揭发我的人：他拿出的信物，上月刚从我家失窃。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "陛下若顺势查下去，坦白的大门当场关上",
+    "tension": "抢在对手发难前自爆，把揭发变成坦白",
+    "text": "我自己揭开身世，抢在对手发难之前，把刀柄递到陛下手里。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "老人若豁出去报官，我就是自投罗网",
+    "tension": "带着刀去求情，赌他更怕同归于尽",
+    "text": "我面见那个知道我底细的老人，赌他更怕我鱼死网破。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "他若拿了好处还开口，我就人财两失",
+    "tension": "用一条命买一张嘴，赌他识时务",
+    "text": "我找到唯一的知情人，给他一条活路，换他永远的沉默。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "嬷嬷若记岔了一夜，我的身世当场翻船",
+    "tension": "让最老的一张嘴替我作证，赌她还活着也还记得",
+    "text": "我请出当年的接生嬷嬷，请她当着族人说出我出生那夜的事。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "忠勤在血统面前若一文不值，哭完就该收尸了",
+    "tension": "血脉没法辩，就拿二十年的苦劳抵",
+    "text": "我伏地痛哭，说纵然血脉有疑，这二十年的忠勤也是真的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "印若验出来是真的，我身世更坐实三分",
+    "tension": "把视线从人引到纸，纸假则人真",
+    "text": "我把话题引向对方伪造的宗牒：先查假印，再查假人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "查访本身就会走漏风声，惊动对方先动手",
+    "tension": "先摸清对方底牌，再决定是圆是杀",
+    "text": "我连夜查访当年的稳婆和老仆，弄清对手到底知道多少。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "血不相溶，满殿都是看我笑话的人证",
+    "tension": "古法滴血，一半赌血缘一半赌天意",
+    "text": "我滴血认亲，当众划开手掌，血相不相溶，赌一把天意。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "道观里若真有个像的人，假戏就可能成真",
+    "tension": "造一个替身钓走追查，真的反而安全",
+    "text": "我放风说真正的遗孤另有其人，把追查引去千里之外的道观。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "若有第二个人听过那道口谕，假传就是凌迟",
+    "tension": "死人开的金口，活人驳不倒",
+    "text": "我搬出先帝当年的口谕：他曾亲口认过我，死人作证，谁也驳不倒。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "他若反咬我知情不报，谎言连坐",
+    "tension": "把假兄弟变成同案犯，绑在一条绳上",
+    "text": "我跟冒名顶替的人摊牌：要么一起圆这个谎，要么一起掉脑袋。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "井总有淘的一天，玉佩出水那日就是我死期",
+    "tension": "沉掉的是证据，也是我认祖归宗的最后凭据",
+    "text": "我把随身的玉佩沉入井底，那上面的两个字能要我的命。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "宗人府守卫比大内还严，被擒当场就是宗室逆案",
+    "tension": "改一笔救一族，玉牒一字值千命",
+    "text": "我夜闯宗人府，篡改玉牒上那一行小字。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "秘密若不够分量，自首就是自决",
+    "tension": "拿死刑当敲门砖，赌更大的秘密换更大的命",
+    "text": "我公开承认自己就是通缉十年的钦犯，然后说出一个更大的秘密。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "查王爷的人，头滚得比告密者更快",
+    "tension": "看清执刀的手，再决定躲还是砍",
+    "text": "我先查清告密者的来路，弄清他背后站着哪位王爷。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "心腹若顶不住拷问，假戏立刻穿帮",
+    "tension": "用假靶子消耗真的追查，假的越真，真的越安全",
+    "text": "我让心腹不小心泄露一个假身世，真的那个反而没人再查。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "那位子弟若洗清得快，怀疑马上回头找我",
+    "tension": "让宗正寺忙起来，我的卷宗就压到了箱底",
+    "text": "我抛出另一位宗室子弟的身世疑云，让宗正寺先忙起来。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "太后若不肯给金口，我已经自曝了一半",
+    "tension": "先要护身符再开门亮底，顺序错了就是死",
+    "text": "我借太后召见之机，先讨一道免死的金口再谈身世。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "她若恨我欺瞒多年，转身就去告发",
+    "tension": "用父子之情赌一夜枕边风",
+    "text": "我对知道真相的枕边人说：你可以告发我，但孩子从此没有父亲。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "血白流了的话，罪臣之后的罪名当场坐实",
+    "tension": "把脑袋磕出血，赌君王一瞬恻隐",
+    "text": "我在金殿上自陈罪臣之后，叩首流血，请陛下看在这些年的份上定夺。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "葬录若被人先一步撕了，线索死绝",
+    "tension": "找到那具替死的小尸骨，我的身世才有铁证",
+    "text": "我翻遍义庄的葬录，找当年那具替我下葬的孩童尸骨。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "笔迹若被对出是我幕僚的手，构陷皇亲罪灭门",
+    "tension": "揭发我？先让他自身难保",
+    "text": "我伪造一封对方通敌的书信，把他的揭发变成一场狗咬狗。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "老臣若被拖下水，作保变连坐，我害了恩人",
+    "tension": "用三朝元老的清名压一纸密告",
+    "text": "我请三位顾命老臣联名作保，用他们的清名压过一纸密告。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "实证交出去，藩王的死士先来灭口",
+    "tension": "拿泼天的大案换一桩小事，赌宗人府会做买卖",
+    "text": "我用藩王谋逆的实证，换宗人府永远封存我的卷宗。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "一句梦话走音，十年的功夫全废",
+    "tension": "舌头比刀更藏不住事，先杀自己的乡音",
+    "text": "我把会说前朝官话的习惯一点点改掉，先从口音活成另一个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "他手里若是全本，当堂就是我全族的死期",
+    "tension": "拿全族的命赌一页纸的有无",
+    "text": "我当众与揭发者对质族谱，赌他手里的抄本缺了最关键的那一页。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "内奸若反咬我是同谋，惊雷先劈我",
+    "tension": "献一颗更大的脑袋，换我的脑袋继续长在脖子上",
+    "text": "我揭发身边真正的内奸，用一声更大的惊雷盖住我的身世疑云。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "托的人若被敌方拿住，通敌的帽子扣在我头上",
+    "tension": "顺藤摸瓜摸到敌国，赌消息比命跑得快",
+    "text": "我托人从敌国查来一份旧档案，弄清我的身世到底是谁漏出去的。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "誊本一旦外泄，我这个中间人先死",
+    "tension": "开价只开一半，留白处全是刀",
+    "text": "我把密折誊本推过桌面，只开一半的价：河工三成干股，换他闭嘴三年",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "把柄双刃，他也捏着我的到场记录",
+    "tension": "酒桌上落了笔，谁赖账谁先没脸",
+    "text": "约他到榷场边的酒肆，让伙计当众记账，把私谈变成半公开的把柄",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "妹妹一生的去处",
+    "tension": "用血亲做保，盟约才有了人质",
+    "text": "我提出以妹嫁其子，把盟约写进婚书——婚书比誓言牢靠",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "说错一个字，就是勒索的罪名",
+    "tension": "先亮剑再谈价，底气是吓出来的",
+    "text": "我故意报出他暗仓的位置，看他脸色变了，再慢条斯理开我的条件",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "逼急了他会掀桌去找别家",
+    "tension": "砍价砍到骨头，还要他谢我留情",
+    "text": "我把盐引数目拦腰砍去一半，说剩下的一半是给他留的体面",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "铁券只能用一次的威慑",
+    "tension": "免死金牌拿来换钱，等于自承有罪",
+    "text": "我把先帝赐的丹书铁券拍在案上，问他出多少，买我不拿它说话",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "他会不惜一切先杀掉那三个人",
+    "tension": "同归于尽式的报价，先把退路炸了",
+    "text": "我亮出他私通北境的蜡丸抄件：原件在三人手里，我死即公开",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "事情抖出去，我也要掉脑袋",
+    "tension": "捏着科举舞弊，等于捏着他满门",
+    "text": "我摊牌：他儿子的举人功名是我买的，想赎回功名，拿兵权来换",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "状纸在他手里，我从此是笼中鸟",
+    "tension": "先把自己写进罪状，谈判才没人敢耍赖",
+    "text": "我把写好的自首状推过去：要么合伙，要么一同下诏狱",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "粮价若不崩，囤积居奇的罪名归我",
+    "tension": "卖的是救命粮，开价不必客气",
+    "text": "我告诉他粮价三日内必崩，我手里压着能救市的三万石，只卖给他",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他迟早发现名单不全",
+    "tension": "钱照收，货只给一半，赌他不敢对质",
+    "text": "我收下他的金子，真正的名单缝进腰带，交出去的只是誊抄的一半",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "谎言拆穿之日就是反目之时",
+    "tension": "空头人情换真金白银",
+    "text": "我佯称账本已焚，只留口头上的人情，等他先兑现承诺",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "旧档一旦暴露，我与他绑死",
+    "tension": "主场之利全在地板底下",
+    "text": "我把谈判换到我家旧宅，只因那里地窖藏着能翻盘的旧档",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "警告若被截破，两边都要我死",
+    "tension": "当着他的面做中人，背地里递刀子",
+    "text": "我答应替他引荐太子，引荐信里夹着一句只有太子看得懂的警告",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "借宫宴做局，败露就是欺君",
+    "tension": "乡愁是最便宜的迷魂汤",
+    "text": "我借贵妃寿宴请他赴席，席间让乐工唱他家乡旧曲，乱他心神",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "欠漕帮的人情，比欠他的还贵",
+    "tension": "把江湖势力押进官场谈判",
+    "text": "我借漕帮码头做中人，谈崩了也有第三方收尸，他才不敢翻脸",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "太后若知情，假传懿旨是死罪",
+    "tension": "扯虎皮做大旗，大旗不能破",
+    "text": "我抬出太后的名义压价，说这批军械是宫里要的，看他敢不敢还",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "拖过出兵期，贻误军机的罪名会落到我头上",
+    "tension": "他越急，我的价越高",
+    "text": "我把谈判拖到他出兵前夜，让时辰替我讨价还价",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "命，押在他一念之仁",
+    "tension": "空着手去，是把命押在对方脸面上",
+    "text": "我让随从散尽、孤身赴约，赌主将的骄傲不许他杀一个空手的人",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "装病的谎一破，示弱就成了笑话",
+    "tension": "将死之人的请求最难回绝",
+    "text": "我自称病体支离不久于人世，只求他为幼子留一条活路",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "出了营帐，方圆十里都是他的人",
+    "tension": "入虎穴谈判，气势上先赢一局",
+    "text": "我把谈判桌摆在他营中，只身入帐，赌他不敢在自家军中杀来使",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "信一出手，我与他的罪绑在一起",
+    "tension": "信和借据都是催命符，先烧哪个是学问",
+    "text": "我答应替他递那封要命的信，条件是亲眼看他先烧了欠我的借据",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "他若与死对头讲和，我两头不是人",
+    "tension": "用别人的头颅，抵我欠的债",
+    "text": "我把话题从粮价引到他死对头身上，送他一个更想要的敌人",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "吞不下第三方，反被两家夹击",
+    "tension": "共一桩恶，比共一份利更黏人",
+    "text": "我提议合伙先吞掉第三方的水路生意，把眼前的争执变成分赃",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "师爷反咬，我收买人心的手段全曝光",
+    "tension": "让他窝里先乱，谈判桌上就没空压我",
+    "text": "我把他的疑心引到他自己师爷身上，顺手买下师爷的旧案底",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "任何一头核对口信，我死无葬身之地",
+    "tension": "一根舌头吃两家饭",
+    "text": "我收了他的买路钱，转头把口信一字不改带给他的对头，两头收价",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "他若不加价反而生疑，戏就白唱了",
+    "tension": "抬价的戏要做给看不见的人看",
+    "text": "我故意让他的随从偷听到，我正与别家谈着更高的价",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "假情报误了他的军机，我第一个被清算",
+    "tension": "钩子上挂真饵，他才肯吞",
+    "text": "我答应做他的耳目，递的第一条情报就是真一半假一半的钩子",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "采买若告密，我未开口先输一局",
+    "tension": "知道他缺什么，就掐住了价钱的咽喉",
+    "text": "赴宴前我先买通他府上采买，问清他近来最缺什么，再开口",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "他若早知我看破，今夜就是鸿门宴",
+    "tension": "他拿假货充数，我拿到了压价的刀",
+    "text": "我连夜核对他呈上的盐引字号，找出那三引伪造，再决定杀价几成",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "擅启封衙是重罪，被巡夜的撞见就是现行",
+    "tension": "封条没破而屋内有人动过，说明我不是第一个来客",
+    "text": "我趁夜翻进封了三年的老衙署，从房梁上摸出前任留下的暗格。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "身份败露，从查案人变成案中人",
+    "tension": "诏狱的门只进难出，每走一步都在数自己的心跳",
+    "text": "我扮作送炭的杂役混进诏狱，只为看一眼那卷不存在的案宗。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "若有人明天就来查这卷档，倒插的书脊会立刻出卖我",
+    "tension": "取走内容而留下一切如常，赌没人会再翻这一格",
+    "text": "我抄完密档把原卷倒着塞回架上，让灰尘替我掩去翻动的痕迹。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "撬开底舱若只见盐不见赃，毁船的责任要我一人扛",
+    "tension": "公差是壳，私查是核，两全其美只隔一层木板",
+    "text": "我借巡视河工的名义登上那艘漕船，底舱钉死的木板后才是正题。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "水门年久失修，一脚踏空就是灭口级的意外",
+    "tension": "喂给盯梢者一个假方向，用他们的眼睛替我作伪证",
+    "text": "我故意让眼线看见我走向西苑，自己却从水门进了废宫。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "拓片在手就是烫手山芋，知道我拓过的人都想让我闭嘴",
+    "tension": "凿碑的人最怕的就是有人肯蹲下来看残字",
+    "text": "我拓下碑亭里被凿花的碑文，拼出先帝驾崩当夜的当值名单。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "井口若被人封死，下面多的是几百年的尸骨作伴",
+    "tension": "地宫里没有回头路，火苗一灭就是活人的棺材",
+    "text": "我顺着枯井爬进前朝地宫，火折子只够烧半个时辰。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "老太监若嘴碎，擅闯皇陵的罪名够诛三族",
+    "tension": "买通的是一双闭上的眼睛，赌他拿了钱就真瞎",
+    "text": "我用一锭金子换守陵老太监背过身去半个时辰。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "支开的人若中途折返，两头撞上就再也说不圆",
+    "tension": "声东击西，让同僚的靴子声替我打掩护",
+    "text": "我把同行的巡查引向粮仓，自己拐进了盐课的账房。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "书生皮底下若被搜出官凭，窥探军营就是死罪",
+    "tension": "一身穷酸是最好的铠甲，没人防一个讨水的",
+    "text": "我装作迷路的书生向守军讨水喝，眼睛却数清了辕门里的马匹。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "这个结论一旦说出口，要么换天，要么我死",
+    "tension": "遗诏若有代笔，继位的大统就动摇了",
+    "text": "我把三份笔迹在灯下摆开，找出替人代拟遗诏的那只手。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "开棺一无所获，亵渎宗室灵柩的罪落在我一人头上",
+    "tension": "惊尸是大不敬，验出毒是泼天的案，两头都收不了场",
+    "text": "我掀开王妃灵柩的帷幔，验她指甲缝里是不是砒霜的青黑。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "夹层若被摸到，私藏禁档就是现成的罪名",
+    "tension": "证据贴着心口，搜查的手离真相只差一层布",
+    "text": "我把拓片缝进棉袄夹层，空手走出藏经阁接受搜身。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "太妃若问起用途，我一句答错就是矫诏之罪",
+    "tension": "真手谕办私事，疯子的胡话里藏着先帝的死亡真相",
+    "text": "我拿着太妃的手谕进冷宫，其实是去找那个疯了十年的旧宫人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "错漏若先被正直人发现，玩火的人先烧到自己",
+    "tension": "撒一个蜜饵，钓出衙门里那只看不见的手",
+    "text": "我在档册里留了一处只有自己知道的错漏，等着看谁照着它出手。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "王府马厩夜里比白日人多，被捉住就是行刺王爷",
+    "tension": "官造马蹄铁出现在藩王府，私兵的罪就有了铁证",
+    "text": "我夜探藩王府的马厩，查那批战马蹄铁上的官造印记。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "许诺兑现是私相授受，不兑现就是多一个仇人",
+    "tension": "用一个前程换一把钥匙，赌老吏的嘴比锁严实",
+    "text": "我应承替老书吏的孙子谋个监生，换他说出档房钥匙的藏处。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "印主若是我要保的人，这一句谎就是给他挖坟",
+    "tension": "把真话压回舌根，先弄清眼前这人站在哪边",
+    "text": "我分明认出了密信上的私印，回话时却说从未见过这笔迹。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "漕帮的规矩是沉尸灭口，我和船早晚沉一个",
+    "tension": "沉船是死人守的仓库，撬开它就惊动整条漕线",
+    "text": "我循着漕帮暗号摸到芦苇荡里的沉船，舱里装的不是盐。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "对方若认定死人更便宜，我今夜就走不出这扇门",
+    "tension": "把命摆上桌面谈生意，赌秘密比灭口值钱",
+    "text": "我径直求见对方，说我知道的东西足够换一条命。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "拆墩台等同毁边备，被守军拿住可以就地问斩",
+    "tension": "边关墩台藏私货，守将的叛心就砌在墙里",
+    "text": "我拆开烽燧台下新砌的砖，看夹层里藏的是粮草还是刀枪。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "翻不出东西，劳师动众的罪名就够政敌做文章",
+    "tension": "皇命是最好的撬棍，连守库的都不敢拦",
+    "text": "我请旨清点国库，名正言顺翻遍入库单最底下那一摞。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "查到顶头上司的门生头上，这案子可能先查死我",
+    "tension": "一根手指吃了十七份赈粮，贪腐的线头就在指纹里",
+    "text": "我比对两份赈灾名册上的指印，找出同一根手指按下的十七个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "假账若被识破来路，构陷官长的罪比贪墨更重",
+    "tension": "假饵入水，收网的人自然会替我搅动池底",
+    "text": "我把一份假账册不小心落在茶楼，让该看见的人看见。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "印泥未干撞见主人，掌心向下也藏不住罪证",
+    "tension": "掌心里一个印，能伪造他的亲笔，也能要我的命",
+    "text": "我潜入政敌书房，用他案上的印泥在自己掌心按下他的私印。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "哑仆的手势若会错意，我拿到的可能是催命的假线索",
+    "tension": "跟哑巴做交易，真话全在发抖的手指上",
+    "text": "我找到灭门案里唯一活着的哑仆，用他亡妻的坟址换他比划出当夜的事。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "藏起的那半条线索一旦被对方先找到，我就没了讨价的本钱",
+    "tension": "留一手是护身符，也是催命符，全看对方何时翻脸",
+    "text": "我把查到的真线索只说一半，另一半留着换一家老小的平安。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "对方若不接招直接灭口，我等于报了自己的行踪",
+    "tension": "把刀还回鞘里再敲敲鞘，逼对方先沉不住气",
+    "text": "我把搜到的密函原样送回，附一张字条：我已看过，等你先开口。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "茶里若真有东西，我的命就是查案的最后成本",
+    "tension": "用一条命试一盏茶，赌他比我还想翻案",
+    "text": "我喝下哑仆递来的那盏茶——他若想要我死，这秘密就再没人查了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "起居注若在我手里出了佛堂，私藏国史的罪抄家起步",
+    "tension": "香案之上是虔敬，香案之下是窥秘，一身两职",
+    "text": "我借给太后抄经的差事出入佛堂，佛龛后面藏着前朝起居注。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0001",
+    "scene": "taowang",
+    "stakes": "车底若被枪头捅查，我这条命就折在一桶泔水里",
+    "tension": "城门是生死的筛子，泔水味是我唯一的通行证",
+    "text": "我不走官道，钻进运泔水的车底，从西直门混出城去。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0002",
+    "scene": "taowang",
+    "stakes": "慢一步就被埋进自家的火场，清白随我一起烧成灰",
+    "tension": "火里抢证据，赌命换来日翻案的本钱",
+    "text": "我折返回着火的府邸，抢出那半块能证明清白的兵符。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0003",
+    "scene": "taowang",
+    "stakes": "守兵若多问两句经文，假和尚当场现原形",
+    "tension": "度牒是死人的名字，佛门的皮披在钦犯骨头上",
+    "text": "我剃了须发换上僧衣，过关时双手合十递上化缘的度牒。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0004",
+    "scene": "taowang",
+    "stakes": "棺盖一旦钉死抬错方向，我就真成了下葬的人",
+    "tension": "兵丁再狠也不愿撬棺材，晦气是我最好的保镖",
+    "text": "我混进送葬的队伍，躺在棺材里听头顶的盘查过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0005",
+    "scene": "taowang",
+    "stakes": "披风若被认出是饵，北边的路也会立刻被堵死",
+    "tension": "一件披风买追兵半天错路，赌他们先信眼睛",
+    "text": "我故意在南城门遗下我的披风，自己却折向北边的渡口。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0006",
+    "scene": "taowang",
+    "stakes": "老翁若贪的是赏银，船到江心就是案板",
+    "tension": "一根金簪买一条沉默的船，赌老人的贪心压过疑心",
+    "text": "我用仅剩的金簪求摆渡老翁今夜渡我，旁的什么都不要问。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0007",
+    "scene": "taowang",
+    "stakes": "他若闭门不见，我和孩子就冻死在天亮之前",
+    "tension": "把最后的尊严垫在膝盖下，换一扇肯开的门",
+    "text": "我抱着孩子跪在旧部家门口，赌他还念着当年城头的救命之恩。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0008",
+    "scene": "taowang",
+    "stakes": "替身一旦被追上戳穿，追兵回头只会搜得更狠",
+    "tension": "用一条忠心的命替我引开马蹄，我欠他一场葬礼",
+    "text": "我让忠仆穿上我的衣服骑马向东，自己徒步进了芦苇荡。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0009",
+    "scene": "taowang",
+    "stakes": "绳短一尺摔在冰上，没摔死也爬不出包围圈",
+    "tension": "绳子长度和冰面厚度，我只能信一样",
+    "text": "我从城墙上缒绳而下，下面是结冰的护城河。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0010",
+    "scene": "taowang",
+    "stakes": "咽了路引就再无凭据，遇到故人也证明不了我是谁",
+    "tension": "吞下的是身份，留下的是性命，从此查无此人",
+    "text": "我把官凭路引一张张嚼碎咽了，从今往后做个无名之人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0011",
+    "scene": "taowang",
+    "stakes": "庙里若有人认出了榜文上的脸，香还没烧完我就落网",
+    "tension": "闲人的嘴是不要钱的探子，赌消息比我的画像跑得快",
+    "text": "我先摸去城隍庙听了一炷香的闲言，弄清哪座城门盘查最松。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0012",
+    "scene": "taowang",
+    "stakes": "钦差若清点随从人数，多出来的那个人就地正法",
+    "tension": "最危险的地方挂着免查的牌子，借皇威做伞",
+    "text": "我躲进钦差的仪仗队伍里，追捕的人不敢拦天使的车驾。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0013",
+    "scene": "taowang",
+    "stakes": "他若转手把我卖个好价钱，政敌府里就是我的诏狱",
+    "tension": "敌人是唯一能信的屋檐，赌他需要我这颗棋子活着",
+    "text": "我敲开政敌的偏门，说满城只有你不盼着我死，收留我一夜。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0014",
+    "scene": "taowang",
+    "stakes": "乞丐若两头卖信，破庙就成了给我备的坟",
+    "tension": "一封假信调开满城兵，赌他们舍不得那枚官印",
+    "text": "我托乞丐给追兵送信，说我在城东破庙，庙里埋着我的官印。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0015",
+    "scene": "taowang",
+    "stakes": "船家若半路起了黑心思，江底多得是沉尸的石头",
+    "tension": "用朝廷的价码砸朝廷的网，赌贪心跑赢忠心",
+    "text": "我把海捕文书上的赏格翻一倍，许诺船家到了江南另有重谢。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0016",
+    "scene": "taowang",
+    "stakes": "兵丁若嫌汗臭让我开口，一声不答就露了馅",
+    "tension": "扁担里藏着翻案的名单，三寸竹片隔着我与族诛",
+    "text": "我装作哑巴脚夫挑着货担，搜身的兵丁翻遍箩筐没翻扁担。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0017",
+    "scene": "taowang",
+    "stakes": "水性再好也怕抽筋，名单和我只能浮上来一个",
+    "tension": "冰水、闸刀、暗哨，三重鬼门关换一条活路",
+    "text": "我趁夜泅过水关，怀里用油布裹着那份能翻案的名单。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0018",
+    "scene": "taowang",
+    "stakes": "字迹若被熟人认出，这行字就成了我自报的踪迹",
+    "tension": "一行字买一夜水路，赌追兵识字也贪心",
+    "text": "我在客栈墙上留了行字引追兵去县城，自己却渡了江。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0019",
+    "scene": "taowang",
+    "stakes": "茶棚里多嘴问一句，先暴露的可能是我的口音",
+    "tension": "追我的刀不一样，逃的路就不一样，先认刀再选路",
+    "text": "我伏在茶棚听来往客商说话，先弄清追捕我的是锦衣卫还是地方捕快。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0020",
+    "scene": "taowang",
+    "stakes": "守将若认得真腰牌，假传王府旗号罪同谋反",
+    "tension": "借王爷的虎威过官家的卡，赌小兵不敢惹大王",
+    "text": "我亮出藩王府采买的腰牌，说车上是王爷要的炭，误了时辰你担待。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0021",
+    "scene": "taowang",
+    "stakes": "他若与构陷我的是一党，这一拦就是送货上门",
+    "tension": "拦轿是自投罗网还是绝处逢生，全看御史的政敌是谁",
+    "text": "我当众拦住出巡的御史喊冤，赌他正需要一个扳倒对手的活口。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0022",
+    "scene": "taowang",
+    "stakes": "话若带到别人耳朵里，土地庙就是我的刑场",
+    "tension": "把命系在一个更夫的嘴上，赌他守口如瓶",
+    "text": "我求老更夫替我带句话给内应：三更，土地庙，不见不散。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0023",
+    "scene": "taowang",
+    "stakes": "伤口若溃烂，信物和我得先烂一个",
+    "tension": "贴着血肉的信物，疼，但搜身的人不揭带血的布",
+    "text": "我把玉佩塞进伤口的绷带里，那是唯一能证明身份的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0024",
+    "scene": "taowang",
+    "stakes": "猎户若较真去县里查路引，恩义当场变成围捕",
+    "tension": "恩人也得防，一张假纸隔开的是两家人的性命",
+    "text": "我给收留我的猎户看了张假路引，真名字到死都不能说。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0025",
+    "scene": "taowang",
+    "stakes": "马群若不乱，我一人一骑就是箭靶",
+    "tension": "用一群受惊的马做刀，赌伏兵先要自保",
+    "text": "我单骑冲进围场借惊马冲阵，趁乱撞开堵住山口的伏兵。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0026",
+    "scene": "taowang",
+    "stakes": "丐帮有丐帮的地盘规矩，一碗冷饭也可能买一条命",
+    "tension": "最疼的羞辱是最硬的铠甲，认出我的那一刻才是死期",
+    "text": "我蓬头垢面混在丐群里讨饭，昔日的门生从我面前走过，没认出我。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0027",
+    "scene": "taowang",
+    "stakes": "望楼上多待一息，我的影子就多一分暴露",
+    "tension": "包围圈再密也有针眼，前提是敢登高把它看清",
+    "text": "我攀上城外的望楼，看清三面合围的火把，挑了火把最稀的那一面。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0028",
+    "scene": "taowang",
+    "stakes": "夹层里咳一声，全船的人都要替我陪葬",
+    "tension": "三天不见天日换一个出境，赌官差不翻运粮的底舱",
+    "text": "我借粮商的船队顺流而下，在舱底夹层里躺了三天三夜。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0029",
+    "scene": "taowang",
+    "stakes": "脸毁了就再不是从前那个人，沉冤得雪也认不回旧人生",
+    "tension": "自己毁自己的脸，画像从此对不上活人",
+    "text": "我在脸上划了一刀，疼可以忍，被认出来就是满门抄斩。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-taowang-0030",
+    "scene": "taowang",
+    "stakes": "追兵若不上钩，南北两路一起收网，满门尽墨",
+    "tension": "一家人分两条命走，我拿自己做那根风筝线",
+    "text": "我把妻儿托付给镖局南下，自己独自引着追兵向北去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0001",
+    "scene": "xinren",
+    "stakes": "剑已出鞘，赌的是他喊停的那半秒",
+    "tension": "不接剑是抗命，真抹脖子又太便宜这场试探",
+    "text": "主公把佩剑推过来让我自裁明志，我接剑，先斩断自己一缕头发立誓",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0002",
+    "scene": "xinren",
+    "stakes": "那一炷香里见过的人，能要我的命",
+    "tension": "九成真话里藏一成谎，最难拆穿",
+    "text": "他问我昨夜去了何处，我把行踪连同证人一并说出，独隐去最关键的一炷香",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0003",
+    "scene": "xinren",
+    "stakes": "妻儿的安危从此系于他一念",
+    "tension": "自愿做人质，比辩解一万句管用",
+    "text": "我主动把家眷迁入他指定的宅邸，等于把刀柄递过去换他安心",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0004",
+    "scene": "xinren",
+    "stakes": "忍住不看，就永远不知道信里是不是写着我的名字",
+    "tension": "信是饵，拆了就是自认有异心",
+    "text": "他设局让我截一封密信，我原封不动呈上，连封口蜡印都不碰",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0005",
+    "scene": "xinren",
+    "stakes": "同僚血溅之日，我的名字也洗不干净",
+    "tension": "卖友求荣与弃暗投明，只隔一层窗户纸",
+    "text": "同僚邀我联名声讨主公，我劝他别急，转身把名单抄了一份送上去",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0006",
+    "scene": "xinren",
+    "stakes": "从此没有一寸行踪是自己的",
+    "tension": "把被监视变成我求来的恩典",
+    "text": "我请他派人日夜跟着我，跟到他自己厌烦，疑心也就淡了",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0007",
+    "scene": "xinren",
+    "stakes": "老仆若真倒下，我背上一条命债",
+    "tension": "拿老仆的命当试银针，忠字写得血淋淋",
+    "text": "他赐酒，我先替随行的老仆讨一杯——试毒的机会也是表忠的机会",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0008",
+    "scene": "xinren",
+    "stakes": "细作若察觉被反用，我府中再无秘密",
+    "tension": "让耳目只报我允许他知道的部分",
+    "text": "我认出他安插在我身边的细作，不动声色，每月喂他一条真消息",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他若取出另一半合验，仿品当场穿帮",
+    "tension": "当面对质最险，也最像清白",
+    "text": "夜半他问兵符何在，我带他开匣，匣中兵符早换成我仿的那半块",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0010",
+    "scene": "xinren",
+    "stakes": "旧部的命，和剩下人心里的寒",
+    "tension": "自断一臂以明心迹，血流给他看",
+    "text": "我故意在他面前处置一个贪墨的旧部，让他看见我杀得起自己人",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0011",
+    "scene": "xinren",
+    "stakes": "路引上有我的印，追查起来逃不掉",
+    "tension": "抗命是死，真抓是绝后，我只能两头欺",
+    "text": "他让我亲手去抓我的老师，我领命，路上给老师备好了出城的路引",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0012",
+    "scene": "xinren",
+    "stakes": "恩情一旦说尽，从此两不相欠，也就再没了护身符",
+    "tension": "把情分摆到台面上算，就是逼他讲体面",
+    "text": "我把这些年记下的他的恩义账目当众念出来，念到他不好意思再试探",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0013",
+    "scene": "xinren",
+    "stakes": "瞎子若记错一个声音，我就坐实了罪名",
+    "tension": "最不可能的证人，反而最没人能收买",
+    "text": "我约的见证人是个瞎子，让他听声辨人，证明那夜我去的是义庄",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0014",
+    "scene": "xinren",
+    "stakes": "一句真心话漏出去，就是诛九族的供词",
+    "tension": "两个装醉的人比谁演得更真",
+    "text": "他假装醉酒吐露谋反之意套我的话，我装醉先吐为快：骂的是粮价",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0015",
+    "scene": "xinren",
+    "stakes": "告密者的身份暴露，他全家不保",
+    "tension": "藏信是欺君，交信是自曝，选个死得其所的",
+    "text": "我把私藏的告密信还给他：这信写的是你，送信的是我救下的人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他若真敢发誓，我的牌就打完了",
+    "tension": "把人心之争抬到鬼神面前裁决",
+    "text": "我请他与我去太庙对质，当着祖宗牌位，看谁先不敢发誓",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0017",
+    "scene": "xinren",
+    "stakes": "美人若生了怨，枕边风反过来吹我",
+    "tension": "退回去是打他的脸，收下才是把刀留在鞘里",
+    "text": "我把他派来试探的美人收进偏院，一日三餐照送，就是不见",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0018",
+    "scene": "xinren",
+    "stakes": "欠债的那家从此与我不死不休",
+    "tension": "办脏活表忠，烧契是怕他日后拿这活拿捏我",
+    "text": "我替他去收一笔没人收得回来的旧债，办成之后债契当场烧掉",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0019",
+    "scene": "xinren",
+    "stakes": "对头记恨我，他也未必从此信我",
+    "tension": "把贿赂变成忠心展览，顺便把对头卖了",
+    "text": "我把对头送的厚礼原样抬到厅堂当众清点，请他处置",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0020",
+    "scene": "xinren",
+    "stakes": "我若获罪，岳父一门同诛",
+    "tension": "妻族作保，等于把岳家也押上赌桌",
+    "text": "我让妻子回娘家养病，实则请岳父上书替我作保",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0021",
+    "scene": "xinren",
+    "stakes": "这句话传到太子耳中，我提前站了队",
+    "tension": "大逆不道的实话，反而是最不像反话的答法",
+    "text": "他问我若他与太子相争我帮谁，我说：帮你活到那一天再选",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0022",
+    "scene": "xinren",
+    "stakes": "老卒被拿住，我便是违誓加窃密两罪",
+    "tension": "誓言管得住脚，管不住耳朵",
+    "text": "我当众发誓不窥中军帐，转身买通扫帐的老卒，听他夜里咳嗽几声",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0023",
+    "scene": "xinren",
+    "stakes": "名册一交，旧部的生死不再由我",
+    "tension": "交出刀柄，但说明书还在我手里",
+    "text": "他试探要收回我的旧部，我把名册呈上，附了每人的可用之处与短处",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0024",
+    "scene": "xinren",
+    "stakes": "欠死对头一次作保，来日要加倍奉还",
+    "tension": "敌人的证词比朋友的值钱",
+    "text": "我请死对头在宴席上作证，证明那夜我与他对弈到天亮",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0025",
+    "scene": "xinren",
+    "stakes": "史官若多嘴问来历，就成了居功自傲的罪证",
+    "tension": "当面认怂，背后把功劳簿翻给天下人",
+    "text": "我跪听申饬不发一言，散朝后把当年救驾的伤疤不慎露给史官看",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他若恼羞成怒，下一步就是真局",
+    "tension": "让他知道我知道了，又不给他发作的由头",
+    "text": "我拆穿他设的假局却不点破，只在棋盘上摆出同样的局请他解",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0027",
+    "scene": "xinren",
+    "stakes": "那人若真是忠的，我就成了搬弄是非的小人",
+    "tension": "把疑心这颗雷塞回递雷的人手里",
+    "text": "我托人给他捎句话：疑我之前，先疑那个最殷勤替你查我的人",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0028",
+    "scene": "xinren",
+    "stakes": "查他本身就是不信他，被知道连这证人也没了",
+    "tension": "帮我说话的人，可能是替我掘坟的人",
+    "text": "我暗中查那个替我做证的人收了谁的钱，再决定这证词用不用",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0029",
+    "scene": "xinren",
+    "stakes": "那处山口若被敌军先发现，我就是通敌",
+    "tension": "当着他的面自证清白，笔底下藏着活路",
+    "text": "换防图我请他派人重绘，图上山口我少画一处——留给自己的退路",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-xinren-0030",
+    "scene": "xinren",
+    "stakes": "他日这些死士若被翻出来，就是蓄谋已久的反证",
+    "tension": "刀下留人，留的是自己的私兵",
+    "text": "他让我处置降卒以明心迹，我把降卒编入苦役营，三年后他们是我的死士",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "城破之日，我第一个饿死或战死",
+    "tension": "烧的是自己的生路，烧给敌军看",
+    "text": "粮草只够守一城，我把粮草全拨给边城，自己守的这座，今夜焚仓",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "独子的命，和夫人后半生的恨",
+    "tension": "以亲骨肉填名单，才堵得住悠悠众口",
+    "text": "敌军要我交出门生三百换退兵，我把自己的独子换在最前面凑数",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "三代人的文脉，和我孝子的名声",
+    "tension": "烧家当造生乱，乱中才有活路",
+    "text": "我亲手烧了祖传藏书楼，火光一起，被困的三千饥民才有理由冲出来",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "族谱除名，子孙三代不得科举",
+    "tension": "一颗头颅换七县炊烟",
+    "text": "我写下认罪书独揽罪责，换来陛下赦免随我起事的七县百姓",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "妻儿的命，与我为人夫的资格",
+    "tension": "让谁活就是把谁的命攥在手里",
+    "text": "城破在即，我把妻儿的出城路引让给乳母一家，自己留在城头擂鼓",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "船上三百条性命记在我账上，军心也可能一起沉",
+    "tension": "亲手葬送自己伤兵，换渡口不失",
+    "text": "我下令沉掉运伤兵的船——水浅敌骑可渡，不舍这船，两岸皆亡",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "死后百年，骂名洗不洗得掉全凭运气",
+    "tension": "以死自污，把祸水收进一口棺材",
+    "text": "我把自己通敌的假证据递给御史，用我的斩首换掉全军的审查",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "三城百姓的归属，和我一世清名",
+    "tension": "不签是亡国，签了是卖国，选个死法",
+    "text": "我答应割让三座城池议和，签字那刻，我知道身后要被骂三百年",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "父亲一生清誉，与我归队的退路",
+    "tension": "自泼脏水才进得了敌人的门",
+    "text": "我烧掉父亲留下的清白讼状，认下污名——污名是入敌营最好的路引",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "长子的性命，和他长大后肯不肯认我",
+    "tension": "两个亲生儿子，亲手称了称斤两",
+    "text": "我让长子顶替流放的罪名北上，换来幼子留在身边继承衣钵",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "半生积蓄，和散财后我自己再无退路",
+    "tension": "散财买三天，买的是大局翻盘的窗口",
+    "text": "我把多年攒下的赎命钱全撒给溃兵，让他们替我把旗号再撑三天",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "双目，和后半生只能听不能看的朝堂",
+    "tension": "用身体的一部分，赎一条关键的人命",
+    "text": "太医说剜目可解的毒，我点头：一双眼睛换一张能指认奸臣的嘴",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "二十年心血，和从此两眼一抹黑的战场",
+    "tension": "自毁长城，只因长城里住着百姓",
+    "text": "我把经营二十年的情报网名单烧了，烧了它，敌人才肯放过城里的人",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "三十骑的命，和我在军报上的写法",
+    "tension": "以偏师为饵，鼓声就是我的遗书",
+    "text": "我让副将带主力突围，自己领三十骑向反方向擂鼓，鼓声停处不必寻我",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "女儿一生的幸福，与她懂事后看我的眼神",
+    "tension": "拿女儿下注，赌的是全家活命",
+    "text": "我同意将女儿的画像送入宫中备选，用她的前程换全家一百二十口的命",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "子孙三代的家底，和我在族中的地位",
+    "tension": "破财免的是天下的大灾",
+    "text": "我请旨把自家田产充公赈灾，散尽家财换一个灾民不反的冬天",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "若继任者不可信，这张图就成了敌人的向导",
+    "tension": "死到临头还在交接工作，毒酒才喝得值",
+    "text": "我跪接毒酒时提了一个请求：容我先把未写完的边防图交给继任者",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "不孝的万世骂名，和族人的离心",
+    "tension": "掘自家祖坟守城，人心才会跟着我守",
+    "text": "我下令拆毁祖坟上的石坊取材筑城，祖宗若怪罪，到地底下我再赔罪",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "主帅因此逍遥法外，罪责记在我头上",
+    "tension": "藏起真相的最后一把钥匙",
+    "text": "我把唯一能指证主帅叛国的证人送走隐居，证人活着，比真相活着更要紧",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "兵权一失，我的死活就捏在别人手里",
+    "tension": "削发削权，削到无可再削才安全",
+    "text": "我割发代首谢罪，交出兵权，只求旧部一个不问罪",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "身后名彻底烂掉，还未必救得成几个人",
+    "tension": "背着汉奸的锅，熬孤儿们的粥",
+    "text": "我留下来做降官，万人唾骂无所谓，新朝的账房里才有旧朝孤儿的活路",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "城若守不住，连一个送信的人都没有",
+    "tension": "先杀退路，再谈死战",
+    "text": "我把逃生的小船凿沉，断了所有人回头的念想，要么破城，要么死城",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "我在两朝史书里都将不是人",
+    "tension": "忠字最难写的那一撇，是劝旧主低头",
+    "text": "我亲笔修书劝降旧主，用我的骂名，换满城免屠",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "士气若仍崩，棺材就是我唯一的体面",
+    "tension": "棺材是军令状，活人看的",
+    "text": "我把棺椁先抬到阵前，告诉将士今日我与城共存亡，士气是用命抵押的",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "老琴师若被截下，我这点心思就全露了",
+    "tension": "舍权保人，保的是看不见的江山本钱",
+    "text": "我交出兵符时只求带走一名瞎眼的老琴师，他肚子里装着半部军志",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "我这条命，和无人收尸的下场",
+    "tension": "死也要排资论辈，轮到无牵无挂的我",
+    "text": "我把替死鬼换成自己——那死士家中尚有老母，我家中，已无他人",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "儿子若真认了仇家做父，我这局满盘皆输",
+    "tension": "把亲儿子种进仇人的院子",
+    "text": "我把儿子过继给仇家做嗣子，用我的姓氏断绝，换他成人后的复仇火种",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "对方若毁诺，白衣就是我的寿衣",
+    "tension": "把自己打扮成祭品，才换得动承诺",
+    "text": "我请降那日身穿罪臣白衣入敌营，换取对方承诺：只杀我，不杀降卒",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "城西的守军是真的人，他们被当成了诱饵",
+    "tension": "用空城做弃子，换粮道三日平安",
+    "text": "我放出风声说军粮藏在城西，引敌军主攻空城，真正的粮仓在城东",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "守军若哗变，我先死在自己人刀下",
+    "tension": "生路只给百姓，守军的生路在胜仗里",
+    "text": "我让城中百姓从水门撤退，守军一个不准走——走一个，人心就散一城",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "遗诏若被咬定是伪造，我全家以欺君论处",
+    "tension": "遗诏未读，心虚的人已经招了一半",
+    "text": "我当着满朝文武展开那幅先帝遗诏，黄绢展开前，先看了看谁在出汗",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "账册若落到第三人手里，真相彻底失控",
+    "tension": "用一本账钓出拿账的人",
+    "text": "我不直接揭发，先把账册遗失在他必经的路上，看他捡起来藏不藏",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "老仵作若被买通翻供，再开棺就难了",
+    "tension": "死人骨头比活人嘴硬",
+    "text": "我请当年的仵作上堂重验旧骨，验尸格目一出，二十年的案子就得重审",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "灯谜被顺藤摸瓜，我先落个妖言惑众",
+    "tension": "让全城替我保存这份供词",
+    "text": "我把真相编成灯谜挂在城楼，猜中的人越多，压下它的代价就越大",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "女儿若选择信父亲，我就成了挑拨的恶人",
+    "tension": "借至亲之口问罪，刀从最软的地方进",
+    "text": "我先把真相告诉他女儿，父女反目，比一纸诉状更能要他的命",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "供出去的那一页，足够定我自己的罪",
+    "tension": "自揭其短，证词才没人敢说是构陷",
+    "text": "我把自己当年参与的脏事一并供出，伤敌一千自损八百，我认账",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "他若当场发作，就等于自认了画中事",
+    "tension": "贺礼里埋着命案地图，全场只有他看得懂",
+    "text": "我在他的庆功宴上献一幅画，画中山水是他藏尸的那条河",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "打草惊蛇，蛇可能先咬断线索",
+    "tension": "故事是假的，摔杯子的人是真的",
+    "text": "我让说书人把那桩旧案编成段子，先探探满座宾客里谁摔了杯子",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "若临摹不像，我反倒成了做伪证的人",
+    "tension": "技痒式的揭发，让行家自己得出结论",
+    "text": "我临摹了伪造书信的笔迹当众写一遍，写完问：诸位看这字像谁的",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "替他洗冤的力气，足够真凶销毁证据",
+    "tension": "先洗仇人再杀真凶，立场才立得住",
+    "text": "我先还他一个清白再揭真凶，让所有人看清，我不是为报私仇",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "造册若被人提前抽改，铁证变废铁",
+    "tension": "一枚锈铁钉住二十年前的凶手",
+    "text": "我把尸骨上取下的旧箭簇呈给兵部验造册，箭簇上的作坊号不会说谎",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "人证藏一天就多一天被真灭口的风险",
+    "tension": "诈死钓真凶，惊堂木响在对方松懈时",
+    "text": "我放出风声说人证已死，等他松了手，我再让死人走进大堂",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "扫了新君兴致，我可能是大赦里唯一不赦的",
+    "tension": "借普天同庆的台阶，递最难看的状子",
+    "text": "我选择在新君登基的大赦日呈状，这一天的案子，没有人敢压",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "惊动亡灵是大不敬，宗族先不饶我",
+    "tension": "开棺验空坟，孝堂变公堂",
+    "text": "我在灵堂上当众开棺，棺中陪葬的位置空着——所谓殉葬，原是活人顶包",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "史官若拒绝记录，我的真话当场贬值",
+    "tension": "把真话钉进史书，封口的人得先烧史馆",
+    "text": "我请史官记下今日之事再开口，记录在案，比声嘶力竭更难抹掉",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "查递刀人会惊动背后整条线",
+    "tension": "磨刀之前，先看看递刀的手",
+    "text": "我先查清当初是谁把假证递到我手里的——报信的人未必是朋友",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "造谣生事的帽子，随时扣回我头上",
+    "tension": "舆论先定罪，官府只好跟着审",
+    "text": "我把真相同时卖给塘报抄手和唱本的，堵得住一张嘴，堵不住满城",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "旁人案子若败诉，我的案子一并陪葬",
+    "tension": "借别人的坟，哭自己的爹",
+    "text": "我不为亡父申冤，先为隔壁那桩同款冤案申冤——案子并案子，才压得实",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "状纸若被原路退回，我这绑就白挨了",
+    "tension": "自缚陈情，用罪名换直达天听",
+    "text": "我跪在宫门递状前先把自己绑了：越级告状是死罪，我认，但状要递到",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "寻回他们之前，他们可能已被逐个灭口",
+    "tension": "小人物的供词连起来，能绞死大人物",
+    "text": "我把当年经手的小吏一个个寻回来上堂，让他们串成一条线",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "击鼓鸣冤若证据不足，我先被拖出去杖责",
+    "tension": "选在所有人都来送行的时刻拦人",
+    "text": "我在他离京赴任的饯行宴上击鼓，鼓声一响，他的船就开不成了",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "十处藏点只要被供出一处，就会逐一失守",
+    "tension": "把命变成证据的邮差",
+    "text": "我先把物证拓印十份分藏十处，然后才走进府衙——今日可以死了",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "篡修族谱是重罪，宗族会先清理门户",
+    "tension": "最体面的由头，翻最见不得人的账",
+    "text": "我借修族谱的名义调阅旧档，谱牒里夹着的过户文书才是我要的真相",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "幕僚若反水告密，我连同罪证一起送上门",
+    "tension": "策反身边人来定罪，比万言状纸狠",
+    "text": "我让真相从他最信任的幕僚口中说出来——刀要借他自己的心腹递",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "御前失仪是罪，伤疤若查无此案我便是欺君",
+    "tension": "以身体作证物，满朝无人能移开眼",
+    "text": "我在大朝会上脱下官服露出旧伤疤，说：伤疤的来历，请陛下问兵部",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "药渣若验不出问题，我成了诬陷至亲的逆子",
+    "tension": "验一碗药，验出一屋子人的真心",
+    "text": "我请老郎中当众验那碗补药的药渣，药渣一倒，孝子贤孙就都变了脸",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "被识破真实意图，小亏空就成了我栽赃的工具",
+    "tension": "查小账是幌子，钓的是账外的主子",
+    "text": "我假装只查小钱粮的亏空，顺藤摸到卖官的账——大鱼才不会提前惊",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "里通外国的罪名，比我要揭的罪先砍我的头",
+    "tension": "借外人的笔存本朝的档",
+    "text": "我把真相讲给敌国使臣听，家丑外扬是下策，但有人肯替我记下来",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "丫鬟若被重金买走，我最后的活口就断了",
+    "tension": "最下等的人证，记得最上层的秘密",
+    "text": "我寻回当年被卖掉的丫鬟，她还记得夫人进门前，家里原有的摆设",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "ch-lishi-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "懂行的若被对方先请去，真相就换了写法",
+    "tension": "墨的新旧戳穿供词的先后",
+    "text": "我把两份供词的墨色调给懂行的看：一份三年陈，一份是昨夜新磨的",
+    "type": "choice"
+  }
+]

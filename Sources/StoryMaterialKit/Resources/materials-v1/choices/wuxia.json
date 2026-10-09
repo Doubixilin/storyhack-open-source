@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "被当成怯战，气势和江湖名声先折一半",
+    "tension": "先示弱，把先动手的恶名让给对方",
+    "text": "我收剑入鞘退后半步，说这架可以不打，价码你开",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "死仇就此结下，再无转圜余地",
+    "tension": "揭旧疤逼他先乱",
+    "text": "我当众抖出他三年前在黑风寨欠下的那笔血债",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "看走眼就把命押错了方向",
+    "tension": "动手前一瞬的读招博弈",
+    "text": "我扫他握刀的手，看虎口老茧偏在哪一侧再变招",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "失手就成了偷袭的小人，理亏到死",
+    "tension": "借外力打破对峙的死平衡",
+    "text": "我借说书人惊堂木一响，抢半招先机",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "他不上钩，这条肩就白废了",
+    "tension": "用真伤换一个大局",
+    "text": "我故意把左肩卖给他，引他进我师门的回风剑路",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "他若已叛出师门，这话就是火上浇油",
+    "tension": "拿师门大义压人一头",
+    "text": "我朗声报出他师父名号，问青崖山的规矩还认不认",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "被识破就颜面扫地，还白挨一刀",
+    "tension": "空手套白狼的半息之机",
+    "text": "我朝他身后拱手一礼，赌他会回头",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "先掀桌的人理亏，官司打到哪都输",
+    "tension": "把暗斗掀成明战，抢占理字",
+    "text": "我掀翻酒桌，逼他在众目睽睽下先出刀",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "暴露官府身份，从此江湖路断",
+    "tension": "用庙堂压江湖",
+    "text": "我把怀里官凭拍在桌上，压他一顶朝廷的帽子",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "他真喝了毒酒，我就成了下三滥",
+    "tension": "酒里有没有毒，两个人都得猜",
+    "text": "我赔笑递上一坛酒，说要打先喝个断头酒",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "问错就是无故辱人，他有了动手的理由",
+    "tension": "一句话点中他最怕人碰的东西",
+    "text": "我盯住他腰间玉佩，问是不是从死人身上摘的",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "挑拨不成，反被联手做掉",
+    "tension": "三句话拆他的阵",
+    "text": "我提起他副手跟旧主那段旧怨，让他们自己咬起来",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "赌输了，后背就是靶子",
+    "tension": "赌他不敢在人群里拔刀",
+    "text": "我转身挤进夜市人堆，把他晾在原地",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "围观的从此都知道我是谁，再无匿名",
+    "tension": "私怨摊牌，私斗变公仇",
+    "text": "我解开衣襟露出旧疤，说这一刀我等了七年",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "暗号来路说不清，他必杀我灭口",
+    "tension": "死人开口般的震慑",
+    "text": "我压低声音，报出只有他死去结义兄弟才知道的暗号",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "香烧完，命就是人家的",
+    "tension": "给自己套上时间的绞索",
+    "text": "我立誓一炷香为限：香尽他不倒，我束手就擒",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "剑断名裂，十年苦修一朝清盘",
+    "tension": "以断剑换抽身",
+    "text": "我当众折断佩剑，说从此退出这趟浑水",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "老镖头若不接这个茬，我连退路都没了",
+    "tension": "借江湖规矩捆住他的手",
+    "text": "我请围观的老镖头做见证，把私斗抬成公案",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "诈错了，反被他看穿我在摸底",
+    "tension": "用细节诈供，试他的底",
+    "text": "我问他：你刀上那道缺口，是不是去年腊月留下的",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "谎一拆穿，连谈判资格都没了",
+    "tension": "谎言换时间",
+    "text": "我把他要的东西报了个假藏处，先换一口气",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "他若宁可不要图也要我死，全盘皆输",
+    "tension": "拿信息当人质",
+    "text": "我交出半张图，另半张的下落只有我活着才有用",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "他真敢动手，我死得像个笑话",
+    "tension": "拿命赌他的胆气",
+    "text": "我大笑三声转身就走，把后背卖给他试胆",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "指错了人，先死的是我",
+    "tension": "一句话在他阵营里埋雷",
+    "text": "我点破他队伍里混着对面的人，看阵脚先乱",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "被伏兵撞个正着，连席都回不去",
+    "tension": "示弱离场，实则反侦察",
+    "text": "我借口更衣离席，从后窗翻上屋顶摸清他的伏兵",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "身份若镇不住场，死得更快更惨",
+    "tension": "拿身份当护身符",
+    "text": "我摘下斗笠露出真面目，赌这张脸他不敢砍",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "他若无愧，这敬酒就是讨打的羞辱",
+    "tension": "攻心，拿死人说活人的事",
+    "text": "我把一碗酒泼在地上敬他亡师，问他对不对得起",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "抢错半拍，门户大开任人宰割",
+    "tension": "把胜负押在半拍上",
+    "text": "我数他的呼吸，等他换气的半拍先动手",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "被看成虚张声势，对方反而放胆上来",
+    "tension": "亮而不打，把恐惧留给对方",
+    "text": "我亮出袖中淬毒短刃又缓缓收回去，让他自己掂量",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "钓错了，平白暴露我盯上了谁",
+    "tension": "一个问题钓出两个秘密",
+    "text": "我问他身后那位戴帷帽的是谁，看他先答哪个问题",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "怪招不奏效，手里就剩根烧火棍",
+    "tension": "怪招破套路",
+    "text": "我抄起炉上烧红的火钳当剑，赌他没见过这路数",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "他今夜就出城，渡口一错便永失",
+    "tension": "仇在眼前强收刀",
+    "text": "我按住刀柄数他的扈从，今夜不动手，跟他到落单的渡口",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "席间有人换盏，毒酒进了别人肚子",
+    "tension": "满堂宾客前杀人不见血",
+    "text": "我当众敬酒，杯底淬的毒只够他活到席散",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "他养的那群义子今夜就踏平我的庄",
+    "tension": "留命比要命更狠",
+    "text": "我先废他武功再留他性命，要他活着听我念完那张名单",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "良机一纵，他加固护卫再无破绽",
+    "tension": "复仇让位给救人",
+    "text": "我放弃今夜，转头去救他刀下的人质，仇可以等，人不能",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "暗箭上有毒，我先死在他前头",
+    "tension": "救仇是为了亲手杀仇",
+    "text": "我替他挡下暗箭救他一命，只为让他死在我选的时辰",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "寿宴上千宾百客，我出不了这座庄",
+    "tension": "挑他最得意的日子下手",
+    "text": "我烧了备好的寿礼，今夜寿宴上白发人送黑发人",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "打草惊蛇，他从此深居不出",
+    "tension": "剪羽翼，熬主子的胆",
+    "text": "我先杀他麾下掌刑堂主，让仇家夜夜换地方睡",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "对头连他儿子带我一起算计",
+    "tension": "借刀杀人不沾血",
+    "text": "我把他儿子的行踪卖给他的对头，借刀第一回",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "跪久了，庄里人真当我忘了血仇",
+    "tension": "膝下藏刀，一跪三年",
+    "text": "我放下刀磕头认杀父仇人为义父，这一跪要跪到他卸下防备",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "这一年里他散尽千金买我的命",
+    "tension": "放长线，钉死期",
+    "text": "我亮出师父的断剑：今日只取一臂，余下的账明年今天来结",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "胜之不武，师门清理门户的帖子随后就到",
+    "tension": "趁人之危换一击必杀",
+    "text": "我趁他练功走火的半息出刀，江湖骂名我背了",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "女儿是无辜的，这一笔我也成了恶人",
+    "tension": "诛心先于诛人",
+    "text": "我先递上一封信，信里是他女儿的笔迹，等他手抖再动手",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "师弟沉不住气替我出手，死在山道上",
+    "tension": "唾面自干等真时机",
+    "text": "我收刀入鞘转身下山，全江湖说我怕了，我认",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "盟主早被他喂饱，公审成了我的鸿门宴",
+    "tension": "私仇公办，名正言顺",
+    "text": "我请出武林盟主的金帖，把私仇抬成公审，他逃无可逃",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "他悬赏加倍，满城的刀都冲我来",
+    "tension": "阳谋：死期示众，攻心为上",
+    "text": "我把复仇的时辰刻上城墙，逼他自己乱阵脚先犯错",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "这件事办脏了手，江湖先不容我",
+    "tension": "替仇人办差，把刀递到他咽喉边",
+    "text": "我答应为仇家办最后一件事，事成之日正是动手之时",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "掘开的坟里没有证据，只有第二个受害者",
+    "tension": "先证后杀，怕杀错人",
+    "text": "我先去掘他埋掉的旧案证据，手上有账再手上有血",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "山上是埋伏，连收尸的机会都不留",
+    "tension": "独赴死局，不连累一人",
+    "text": "我拦住同门：只许我一人上山，你们的命留着给我收尸",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "我若输了，断臂的是我，主使永沉海底",
+    "tension": "以武约讼，把口供写进赌约",
+    "text": "我当众挑战，赌注写成输者自断一臂并供出当年主使",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "书房是空的，他等我自投罗网等了三年",
+    "tension": "刀下留一线，先验真伪",
+    "text": "我夜探他的书房，先偷出血案原委，怕杀错了人",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "他早知道我是谁，这三年是将计就计",
+    "tension": "弑师先尽师礼，恩怨两讫再清算",
+    "text": "我认他作恩师三年，今日出师，师徒礼数一项不少地还",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "那人败了，供出刀的来历",
+    "tension": "递刀不递手，血不沾衣",
+    "text": "我把刀借给比我更想杀他的人，我只做收尸的那个",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "坟前陪祭的是他三岁的孙儿",
+    "tension": "挑他唯一做人的一天杀他",
+    "text": "我等他给母亲上坟那日动手，要他跪对了坟头再死",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "旧友出狱第一句话是劝我罢手",
+    "tension": "仇压一压，先捞活人",
+    "text": "我放他今夜周全，条件是换回牢中三位旧友，账改日再算",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "他反咬令牌是我伪造，我成众矢之的",
+    "tension": "罪证示众，众怒替我开刀",
+    "text": "我把他当年灭门的令牌悬上城门，全江湖替我动手",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "官差被买通，十里外等的是我",
+    "tension": "私刑套官法，两头堵死他",
+    "text": "我单剑赴约，官差在十里外候着，杀他前先坐实他的罪",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "他这一病再没起来，血仇烂在我肚里",
+    "tension": "压下刀等他好起来再打",
+    "text": "我忍住没动榻上病重的他，趁人之危的仇报了也是白报",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "同门待我以诚，真到动手那天我先下不去手",
+    "tension": "委身事仇，三年一蛀",
+    "text": "我拜入他的门墙重排辈分，从里头蛀空这座山",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "茶里有他先下的毒，他防我这一天很久了",
+    "tension": "一盏茶断十年恩",
+    "text": "我亮明身份递上一碗茶：喝完这盏，师徒恩断",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "三年里他又害了三条人命，都算在我等的账上",
+    "tension": "以彼之短，铸我之长",
+    "text": "我把复仇延后三年，用这三年学他唯一不会的那路剑",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "她若收了剑穗却不等我，我死都得死在外头",
+    "tension": "以物代命，告白也是立遗嘱",
+    "text": "我把随身剑穗塞进她手里：人回来就还我，回不来就当陪葬",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "我背通缉，她从此欠我一条还不清的命",
+    "tension": "自污保人",
+    "text": "我当着全镖局认了劫镖的罪，只撇清她一个人的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "剑在人在，她的仇家从此夜夜找我",
+    "tension": "把两个人的恩怨并成一个人的",
+    "text": "我说往后你的仇家就是我的仇家，说完把她名字刻上剑身",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "师门除名，回头路当场烧掉",
+    "tension": "撕的是师父的脸，表的是兄弟的心",
+    "text": "我撕了师父的戒酒令陪他喝三碗，从此跟他走一条道",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "灯若不亮，我这个人从此在她面前死绝",
+    "tension": "把答案交给一盏灯",
+    "text": "我约她三更断桥见，话刻在灯笼上——她不点灯我就走",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "玉牌一还，从前同门皆可对我拔刀",
+    "tension": "自废根基换一个自由身",
+    "text": "我当众还了师门玉牌：这身武功还你，这个人我自己留着",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "她若真下了手，我连躲的资格都是自己交出去的",
+    "tension": "用命做抵押的告白",
+    "text": "我把刀递给她：我站这儿不动，信不过就一刀下来",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "罪名坐实，秋后问斩的是我",
+    "tension": "顶罪式表态",
+    "text": "我替他挡下逼问，说那晚的事是我一人做的",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "她的族人若动手，我连还手的立场都没有",
+    "tension": "当众撕毁退路",
+    "text": "我烧了休书，当着她的族人说：不退了，要杀冲我来",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "她看完信走的可能比留的大得多",
+    "tension": "把判决权连同秘密一起交出",
+    "text": "我把藏了十年的信拍在桌上：看完你要走，我不拦",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "话说出口，连退回朋友的位置都没了",
+    "tension": "用笨拙换真心",
+    "text": "我学她家乡的乡音提了亲，说得磕巴，但每个字都对",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "名字一报，旧主那边我已是死人",
+    "tension": "用真面目当投名状",
+    "text": "我摘了蒙面巾站到敌营辕门前，报出真名说来投奔",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "铁券没了，他若反悔我连告状的本钱都没了",
+    "tension": "拿保命符换一个口头约定",
+    "text": "我把免死铁券推过桌面，换他一句话的承诺",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "两件事都做不成，我没脸再去上坟",
+    "tension": "对死人立的双重誓",
+    "text": "我在他坟前磕头：你的仇我接了，你的女儿我也接了",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "她若不肯接那半只碗，碎的就不止是碗",
+    "tension": "摔碎的东西当了信物",
+    "text": "我把共用的粗碗摔成两半，一人一半，碎了也认得",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "他若真杀，父债子还到此为止",
+    "tension": "替父挡刀式摊牌",
+    "text": "我说你要报仇先杀我，我爹欠你的，命在这儿",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "不想走的兄弟，会把这笔账算在我头上",
+    "tension": "一个人替所有人做了断",
+    "text": "我宣布散伙，当众烧了山寨地契，让兄弟各寻活路",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "族老不认，我与全族当场翻脸",
+    "tension": "用最正式的方式断所有后路",
+    "text": "我当着祠堂众人，把她名字写进族谱那一页",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "刀沉了，从前的仇家却不会沉",
+    "tension": "金盆洗手，先过仇家这关",
+    "text": "我说从今天起不杀人了，说完把刀沉进江里",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "她若把半边卖了，我的兵反过来围我",
+    "tension": "半副身家换一个同舟",
+    "text": "我把半边虎符交给她，说另半边在我棺材里",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "她若不认这道疤，我就只剩这道疤",
+    "tension": "用旧伤当定情的凭据",
+    "text": "我牵她手按在心口刀疤上：这条命从这儿起是你捡的",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "吞了证物，我成了唯一说不清的人",
+    "tension": "吞证救人，把官司变成无头案",
+    "text": "我当众指出告发者是诬告，把作伪的契书塞进嘴里吞了",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "她若嫌这日子小，我连江湖都回不去了",
+    "tension": "拿一身功名换一句家常",
+    "text": "我说江湖散了吧，终南山下二亩地，缺个种菜的",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "指环一离手，门中长老皆可诛我",
+    "tension": "江山与人当众二选一",
+    "text": "我把掌门指环褪下来放桌上：我选他，不选这位置",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "她若转身去报官，赏银就是嫁妆",
+    "tension": "先自曝底牌再谈婚嫁",
+    "text": "我揭下通缉我的榜文递给她：这就是你要嫁的人",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "他的仇家从此把账记在我名下",
+    "tension": "当众把别人的祸揽上身",
+    "text": "我朝满楼人抱拳：今日之后他的事就是我的事",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "她若不应，我连赎自己出身的钱都没了",
+    "tension": "退路变现成聘礼",
+    "text": "我把攒了十年的赎身银子全换成喜烛，码在她家门口",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "鞭子挨了，师父若仍不允，这罪就白受",
+    "tension": "先受家法再求放行",
+    "text": "我跪着领了三鞭，说打完了请师父准我下山找他",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "她若嫌这双筷子多余，我连名分都输不起",
+    "tension": "把一生说成了一双筷子",
+    "text": "我说我不求名分，只求你跑路时多带一双筷子",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "旧部看见了，从前的阵营就与我恩断义绝",
+    "tension": "用一件旧物当众站队",
+    "text": "我戴上她送的旧护腕走到阵前，让所有旧部都看见",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "我的命，押在一副随时会断的心脉上",
+    "tension": "一瓶解药两条命，只能活一个",
+    "text": "我把解药给了师弟，自己把毒血压回心脉，赌撑到襄阳",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "杀父之仇从此无期限搁置，夜夜睡不安稳",
+    "tension": "血仇与无辜只能保一头",
+    "text": "我放走了杀父仇人——他女儿正吊在城楼上，刀落人落",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "活下来的人骂我一辈子，城破则全都白死",
+    "tension": "一座城换三十条自家性命",
+    "text": "我一刀砍断吊桥，三十个兄弟留在对岸，城保住了",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "师门视我为叛徒，坟都进不了",
+    "tension": "恩师的清名对十八条人命",
+    "text": "我把真供词交出去，师父的名声毁了，十八条人命活了",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "她的命，和我后半生的每一个夜晚",
+    "tension": "活路只够一个人走",
+    "text": "我选了水道走，把腿慢的师妹留在岸上引开追兵",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "我这条命，和他是否会守信的良心",
+    "tension": "以命换命，当场交割",
+    "text": "我接过那杯毒酒一饮而尽，换他放过门外的孩子",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "全部兄弟的信任，死后寨里的牌位",
+    "tension": "背叛兄弟保下无辜",
+    "text": "我把官军放进山寨，兄弟恨我，妇孺能活",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "全城人的活路，和我点火的那只手",
+    "tension": "烧粮退敌，先饿死自己人",
+    "text": "我亲手点了粮仓，全城挨饿，敌军也断了粮",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "女儿的一生，和她看我最后一眼的眼神",
+    "tension": "一个女儿对三十条人命",
+    "text": "我把女儿许给仇家做妾，换全村三十口人的命",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "后半生的自由，落笔就没了",
+    "tension": "一纸契换一副药",
+    "text": "我签了卖身契，娘的药钱有了，我这辈子没了",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "几百伤兵的命，和史书上我的名字",
+    "tension": "救眼下的人还是保大局的粮",
+    "text": "我在两份军令里撕了救人那份：粮草先走，伤兵听天",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "上半册那几十个人的命，和我咽下去的良心",
+    "tension": "卖一半保一半的折中",
+    "text": "我交出名册上半册，下半册嚼碎咽了，能活几个看天",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "他在青史上的名字，和我夜里合不上的眼",
+    "tension": "让好人背黑锅换他全家活",
+    "text": "我把假口供给出去，死一个清官的名声，活他全家",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "这一声爹，江湖上再洗不干净",
+    "tension": "向杀父仇人低头借兵",
+    "text": "我跪下喊了他一声爹：仇记下了，今天先借兵救人",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "二十年的交情，压不过一堵城门",
+    "tension": "兄弟的命对一城人的命",
+    "text": "我把刀抵在发小咽喉上——不开城门，就是他死",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "全城的存粮，和城门一旦开了就关不上的秩序",
+    "tension": "开门同尽，还是关门独活",
+    "text": "我开城门放流民进来，粮只够十天，十天后一起死",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "城外那些人的命，和我余生的安静",
+    "tension": "保住城里，先杀死城外的情分",
+    "text": "我关上城门，听城外熟悉的声音骂我，一声没应",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "明天那场仗的胜负，和全军骂我的声音",
+    "tension": "救将死的人，赌明天不死",
+    "text": "我把最后一份军粮给了伤兵，明天全军饿着接战",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "他活下去的每一天，都是我的罪证",
+    "tension": "以废代杀，恩情与仇恨一起了结",
+    "text": "我亲手废了他的武功：保他不死，也保他报不了仇",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "秘密半路漏给谁，谁就握住我的生死",
+    "tension": "用漏勺送救命的水",
+    "text": "我把秘密告诉了最守不住秘密的人——只有他能把话递进京",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "苦主的活路，和我经手的每一分银子的来路",
+    "tension": "昧心钱养自家兄弟",
+    "text": "我收下那袋带血的军饷：弟兄过年，苦主没了指望",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "我的命，和他后半生背着'罪人之子'还是'清白人'",
+    "tension": "父替子偿，一命顶一命",
+    "text": "我把罪认了，把我儿子从通缉榜上换下来",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "死者的公道，和我此后每一夜的睡眠",
+    "tension": "烧证据自保，烧了真相",
+    "text": "我放火烧了义庄里的证据，案子沉了，我从此夜夜梦见",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "一座城，和我看人的眼光",
+    "tension": "全城的命押在一个人的忠诚上",
+    "text": "我选了信他这一次，把全城布防图交了出去",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "他若真动了手，我递刀的手一辈子洗不净",
+    "tension": "把最狠的抉择推回给他",
+    "text": "我把刀递给他：要杀你爹自己动手，我不拦也不帮",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "师父若知道被骗，死不瞑目；师娘余生恨我",
+    "tension": "用谎言成全一个壮烈的死",
+    "text": "我瞒下师娘还活着的消息，让师父安心赴死，谎我替他背",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "两个人的一身功夫，从此都是废人",
+    "tension": "谁也别独活，谁也别全好",
+    "text": "我把解药掰成两半，一人半条命，两人都废了武功",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "死者的冤案，和边关若失守的万千性命",
+    "tension": "大局压过公道",
+    "text": "我把真相咽下去，让恶人继续当英雄——边关需要这个英雄",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "任何一边起疑，我都是第一个死的",
+    "tension": "双面间谍，一锤子两头下注",
+    "text": "我答应做内应，转头把消息透给对面——两边我都骗",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "他们若不停手，第一个死的就是劝架的",
+    "tension": "用自己的命当人墙止战",
+    "text": "我把两人都推开，刀架自己脖子上：谁先动手先跨我的尸",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0001",
+    "scene": "lichang",
+    "stakes": "旧主的赏金榜，我的名字排第一",
+    "tension": "阵前解剑，叛得明明白白",
+    "text": "我当众解下佩剑放到敌案上，旧主的赏金从此挂在我头上",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0002",
+    "scene": "lichang",
+    "stakes": "粮仓保住了，开门的是我，罪名洗不脱",
+    "tension": "开门揖盗，换一城炊烟",
+    "text": "我替敌军打开西门，条件是城破那日不烧粮仓",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0003",
+    "scene": "lichang",
+    "stakes": "义兄若胜，第一个清算的是我",
+    "tension": "卖图同时给自己钉棺材钉",
+    "text": "我把义兄的布防图交给对面，背面写满了我自己的死期",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0004",
+    "scene": "lichang",
+    "stakes": "死敌未必念情，旧营一定记仇",
+    "tension": "私纵要犯，自断归途",
+    "text": "我放走押了三年的死敌，牢门外我已无路可回",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0005",
+    "scene": "lichang",
+    "stakes": "船若被截，我连谈判的本钱都没了",
+    "tension": "先清软肋，再亮反骨",
+    "text": "我反水前先把家小送上北去的船，叛旗从此一人扛",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0006",
+    "scene": "lichang",
+    "stakes": "三万将士的去留，全系我这一撕",
+    "tension": "当众碎印，自绝于庙堂",
+    "text": "我在点将台上撕了帅印，三军看着我从将变成匪",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0007",
+    "scene": "lichang",
+    "stakes": "一封送错，两边同时要我项上人头",
+    "tension": "双面传书，火中取栗",
+    "text": "我把新主的密令抄送旧主，两边都当我是自己人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0008",
+    "scene": "lichang",
+    "stakes": "守城半月欠下的血债，旧部先向我讨",
+    "tension": "被敌人说服，比叛变更难看",
+    "text": "我劝降不成反被说动，当场调转枪头攻自己守了半月的城",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0009",
+    "scene": "lichang",
+    "stakes": "哪一个旧友先拔刀，我都还不了手",
+    "tension": "身入旧巢做新鬼",
+    "text": "我戴上敌营腰牌回来赴宴，座上旧友的眼色我一个一个记",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0010",
+    "scene": "lichang",
+    "stakes": "粮道一断，饿死的不只敌军",
+    "tension": "卖道换人，一图三百命",
+    "text": "我把粮道图献给敌帅，换回被俘的三百乡勇，骂名我领",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0011",
+    "scene": "lichang",
+    "stakes": "两军阵前讲分寸，先死的是我",
+    "tension": "反水留一线，刀上有分寸",
+    "text": "我阵前倒戈却不伤旧部一人，刀刀只挑断他们的兵器",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0012",
+    "scene": "lichang",
+    "stakes": "赏金没到手，两边的刺客先到了",
+    "tension": "一火两头卖",
+    "text": "我烧了敌营粮草再回去领赏，两边都欠我，两边都想我死",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0013",
+    "scene": "lichang",
+    "stakes": "营中同袍不知内情，火里先死的是自己人",
+    "tension": "假降真烧营",
+    "text": "我把真降书烧了，递上去的是假的，敌营的火把今夜替我点灯",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0014",
+    "scene": "lichang",
+    "stakes": "内奸没钓到，正道的剑先到了我咽喉",
+    "tension": "自污为饵，钓深水里的鱼",
+    "text": "我放话已投靠魔教，引正道高手来杀我，好让他们撞破真正的内奸",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0015",
+    "scene": "lichang",
+    "stakes": "少主羽翼一成，先除的就是我这把旧刀",
+    "tension": "忠名骂名一起扛",
+    "text": "我跪在旧帅灵前磕完头，起身扶少主登基，满营骂我三姓家奴",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0016",
+    "scene": "lichang",
+    "stakes": "两家先联手清了墙头草",
+    "tension": "骑墙观火，拿两家信用下注",
+    "text": "我把两家的约期都接下来，看谁先失信，我再决定帮谁",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0017",
+    "scene": "lichang",
+    "stakes": "十年里弟兄的刀先锈，心先散",
+    "tension": "忍辱学技，借敌养锋",
+    "text": "我率残部投向北狄，只学他们破重甲的法子，十年后打回来",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0018",
+    "scene": "lichang",
+    "stakes": "旧友半路咬舌明志，我跳进黄河洗不清",
+    "tension": "擒友是假，送证是真",
+    "text": "我亲手擒了来劝降的旧友，押他去敌营，他必须活着见到真相",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0019",
+    "scene": "lichang",
+    "stakes": "各峰首座今夜就来清理门户",
+    "tension": "碎旧威权，立新规",
+    "text": "我把掌门铁令掷下悬崖，从此这门派只听拳头不听牌子",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0020",
+    "scene": "lichang",
+    "stakes": "三家察觉秤被人动了，先联手砸秤",
+    "tension": "退场不退局，做秤砣不做砝码",
+    "text": "我退出争夺却暗助最弱一方，让三家谁也吃不下谁",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0021",
+    "scene": "lichang",
+    "stakes": "弟兄们泉下若知，这祠是骂名砌的",
+    "tension": "以官身葬旧义",
+    "text": "我应了敌营招安，讨的第一个官职是督建阵亡弟兄的祠",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0022",
+    "scene": "lichang",
+    "stakes": "他若不配合演这出戏，假戏就是真罪",
+    "tension": "假弑主真送信",
+    "text": "我当场倒戈捅了主帅一剑，剑从他肋下过，血书从我袖中出",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0023",
+    "scene": "lichang",
+    "stakes": "朝廷拆营调防那日，我图穷匕见的机会也没了",
+    "tension": "散旗不散人，埋甲待时",
+    "text": "我解散义军接受收编，唯一条件是旧部编为一营仍归我带",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0024",
+    "scene": "lichang",
+    "stakes": "令旗一断，七派的旧账全算到我头上",
+    "tension": "折旗退场，打翻全场算盘",
+    "text": "我把盟主令旗折断扔进江里，说这椅子谁爱坐谁坐",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0025",
+    "scene": "lichang",
+    "stakes": "史册落笔：贰臣。三万人未必替我翻案",
+    "tension": "以名节换一城活口",
+    "text": "我改奉敌国正朔，史册随他怎么写，边城三万百姓先活过这个冬天",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0026",
+    "scene": "lichang",
+    "stakes": "蜡像天热化了，七分信变十分杀",
+    "tension": "假头试两家的真心",
+    "text": "我把投名状上的人头换成蜡像，敌营信我七分，旧部保下一条命",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0027",
+    "scene": "lichang",
+    "stakes": "师父心寒，三年里先把我逐出门墙",
+    "tension": "以不孝之名行护门之实",
+    "text": "我劝师父让位给师叔，满门骂我不孝，三年后他们才知道为什么",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0028",
+    "scene": "lichang",
+    "stakes": "师父若当场清理门户，我绝不还手",
+    "tension": "拿最狠的差事见最不敢见的人",
+    "text": "我投了对面做的第一件事：请命去劝降我师父",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0029",
+    "scene": "lichang",
+    "stakes": "两军的箭同时对准中间这个多事的",
+    "tension": "一人当两军，强按牛头",
+    "text": "我按剑立在两军之间：今日谁动手谁死，停战章程我来写",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-lichang-0030",
+    "scene": "lichang",
+    "stakes": "恩公冷笑收下，阵前第一个射我",
+    "tension": "断恩明志，先清账再开战",
+    "text": "我把救过命的令牌还给恩公：恩情两清，下次阵前不必容情",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "驳不动任何一条，当场锁拿下狱",
+    "tension": "认名不认罪，把自己架在火上辩",
+    "text": "我当众认下通缉榜上的名字，再把罪状一条条驳回去",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "他若拔刀，这张脸就是催命符",
+    "tension": "主动亮出对方最怕认出的标记",
+    "text": "我把脸凑到烛火前：这道疤，你找了十年吧",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "醉汉若醒了翻供，罪加一等",
+    "tension": "栽赃给最说不清的人",
+    "text": "我咬定他认错人，顺手把玉佩塞进旁边醉汉怀里",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "问错了底细，他必须先杀我灭口",
+    "tension": "用对方的秘密堵对方的嘴",
+    "text": "我反问他：你说我是钦犯，你腰里的虎头牌哪来的",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "暗号若已作废，我白白自曝来历",
+    "tension": "互相握有死穴，先喊的占优",
+    "text": "我抢先用师门暗号叫破他的身份——要死一起死",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "手腕这一刀，只够换一个听我说完的机会",
+    "tension": "半句真话加一条命做保",
+    "text": "我承认一半：人是我，事不是我做的，说完刀横上手腕",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "帖子若在肚子里被剖出来，罪加欺瞒",
+    "tension": "毁证于一瞬",
+    "text": "我借酒装疯掀了桌子，趁乱把写着旧名的帖子吞进肚",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "废错了手，或者他们根本不看手",
+    "tension": "用一只手换一个清白",
+    "text": "我当场废了右手——钦犯是右撇子，我不是",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "添得不像，作伪证的帽子扣我头上",
+    "tension": "把通缉令画成别人的脸",
+    "text": "我抢过通缉画影当众添几笔：现在它像你了",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "她若迟疑半息，夫妻两人一起完",
+    "tension": "拿最亲的人当证人，也当赌注",
+    "text": "我把妻子推到身前：你告诉他们，枕边人是不是杀人魔",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "谁的旧事不够硬，谁就第一个对我动手",
+    "tension": "鱼死网破式的互相挟持",
+    "text": "我认了身份，再报出在场每人三年前的旧事，看谁敢动",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "面具若被热水一烫，两张脸一起落地",
+    "tension": "让替身替我上刑场",
+    "text": "我换上备好的另一张人皮面具，让他们抓「我」去",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "灵位若压不住场，我成欺师灭祖的小人",
+    "tension": "拿死人压活人",
+    "text": "我跪到师父灵位前不辩，只问：您信我还是信一张纸",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "刺字若是旁人看不懂的暗码，露了等于招供",
+    "tension": "最耻辱的印记成了最硬的证据",
+    "text": "我当众解开上衣露出刺字——是赦，不是囚",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "县官若不让我开口，大牢就是我的口供",
+    "tension": "自投公堂抢话语权",
+    "text": "我自己揭了赏格走进县衙：我自首，但我有话要说",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "信若是伪作，我连最后的退路都烧了",
+    "tension": "压了多年的底牌见天日",
+    "text": "我从鞋底下掏出当年那封保我的信，火漆还没拆",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "卧底没有凭据，反咬不成罪加三等",
+    "tension": "黑白颠倒的险招",
+    "text": "我反咬一口：举报我的才是钦犯，我是奉命卧底",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "头发落地，俗名欠的债却未必肯放过我",
+    "tension": "用佛门斩断俗世追杀",
+    "text": "我当场剃度，从此只有法号，没有俗名",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "剑式一露，仇家的仇家也找上了门",
+    "tension": "用一种身份盖住另一种身份",
+    "text": "我当众使出仇家的起手剑式，坐实另一个身份",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "通缉令若写了，孩子也得跟着跪",
+    "tension": "用细节漏洞抵赖铁证",
+    "text": "我把两个孩子叫出来认爹，赌通缉令上没写我有几个娃",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "他若咬死不认，我多了个必杀我的高官",
+    "tension": "把审案的人拖进案子里",
+    "text": "我认了是漏网之鱼，再指出主审官当年放走我的那只手",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "任何一页经不起查，整个新身份连环塌",
+    "tension": "用一生的证据压一页通缉令",
+    "text": "我把官凭婚书族谱一页页摆开，用二十年新身份压那张旧纸",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "三天后若无人来救，嗓子白废了",
+    "tension": "用嗓子换三天时间",
+    "text": "我趁验明正身前喝了哑药，三天内谁也问不出一个字",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "他若将计就计，我亲手递上杀我的刀",
+    "tension": "向仇人求一个公道",
+    "text": "我把真相告诉了最恨我的人——只有他能证明我不是",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "剥到最后，连我自己都圆不回来",
+    "tension": "身份越剥越多，真相越来越远",
+    "text": "我当众撕了易容——下面还有一层，谁也说不清我是谁",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "律法不会改，我的脑袋会先落地",
+    "tension": "硬顶到底，把案子吵成议",
+    "text": "我认师父传的名，不认朝廷定的罪：抓我，先改律法",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "碎了的信物，拼起来的罪",
+    "tension": "毁证硬抗",
+    "text": "我把信物当堂摔碎：东西毁了，从此死无对证",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "仵作若验出破绽，掘坟之罪再加一条",
+    "tension": "让死人证明死人是我",
+    "text": "我请出义庄那具替身尸骨，让仵作去验「我」的坟",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "他们若逼我用右手再写一遍，当场穿帮",
+    "tension": "用一只生疏的手洗清旧案",
+    "text": "我当众用左手写字，笔迹跟状纸上全对不上",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "他若翻脸不认，我最后一张人情牌作废",
+    "tension": "讨一笔多年前的命债",
+    "text": "我把当年救过的县令请上堂——他欠我条命，今天该还了",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "撕破脸这单黄了，这条黑市门路从此断",
+    "tension": "验货等于当面打脸，赌他货里没鬼",
+    "text": "我把银子推回去一半，说货我先验三成再付尾款",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "被听出弦外之音，价钱立涨三成",
+    "tension": "绕过正主掏中间人的话",
+    "text": "我请中间人喝一杯，酒过三巡套这票货真正的来路",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "他把这当成叫阵，买卖变火并",
+    "tension": "把买卖抬成江湖事，逼他讲理",
+    "text": "我把刀拍在桌上不谈价，只谈谁先坏规矩",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "他反手去告诉失主，我成了多嘴的死人",
+    "tension": "半张底牌试水深",
+    "text": "我添一句这批货是谁丢的我清楚，看他脸色再开价",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "他收线时报官，暗线变死路",
+    "tension": "用银子换退路",
+    "text": "我答应他加码，条件是搭一条出城的暗线",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "他不喊，我再回头就矮了半截",
+    "tension": "用离场抢主动权",
+    "text": "我转身就走，赌他在门槛前喊住我",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "两家一对质，我成江湖上最不值钱的牙人",
+    "tension": "一诺两卖，吃着碗里望着锅里",
+    "text": "我收下他那枚信物，心里已打算转手卖给对家",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他看出来，反倒拿捏住我的急处",
+    "tension": "藏住欲心才压得住价",
+    "text": "我把真要的东西混在添头里，装作随手挑的",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "货到手时我已被捆上第三条船",
+    "tension": "把自己摆上秤盘",
+    "text": "我提出以人换货，把自己押在他庄上三天",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "拖过时辰，对方直接掀桌动刀",
+    "tension": "拖字诀钓幕后",
+    "text": "我把谈判拖到三更，等他背后的主子等不及先露面",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "那是他故意喂的假地名，我自投罗网",
+    "tension": "一句口误值千金",
+    "text": "我记下他方才说漏的地名，改道先查他的货仓",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "话带到时已被添油加醋，下家视我为敌",
+    "tension": "用爽利买一条口信",
+    "text": "我付全价不还价，只求他替我给下家带句话",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "当票流出，仇家顺藤摸到我师门",
+    "tension": "露怯引他抬价露底",
+    "text": "我装穷，把祖传玉佩先当了，钓他的贪心",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "他一封书信核过去，骗局当场穿帮",
+    "tension": "空头竞价抬身价",
+    "text": "我告诉他有第三家在竞价，其实那家的帖子是仿的",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "他扭头不做，这批货我再无处可买",
+    "tension": "烧出缺口换谈判缺口",
+    "text": "我把契约烧了个角，说规矩重写，他先让步我才补全",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "名帖一验是过期的交情，脸面两空",
+    "tension": "拿死人面子压活人买卖",
+    "text": "我请出他师门长辈的名帖，用旧人情换今夜的便宜",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "门路若不通，他认定我拿官面涮他",
+    "tension": "刀砍在价上，枣塞在命里",
+    "text": "我砍去他两成利，补他一条从通缉名单上除名的门路",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "他偏要当堂点验，我名声扫地还挨刀",
+    "tension": "赌他场面上拉不下脸",
+    "text": "我把真假银票混着付，赌他不敢当众清点",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "他恼羞成怒，谈判变结仇",
+    "tension": "拿家事压买卖，戳他最软的肋",
+    "text": "我打断他的要价，先讲他独子在金陵惹的官司",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "门外有人看见封门，和谈成绑架",
+    "tension": "嘴上讲和，桌上已布好局",
+    "text": "我提议各退一步，暗令手下封了茶楼前后门",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "他放我走过去，两家早通过气",
+    "tension": "借对门压对门",
+    "text": "我听完报价拔腿走向对门牙行，逼他当场改口",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "他事后翻到缺口，追讨追到师门",
+    "tension": "残卷充全璧，赌他识货识不全",
+    "text": "我用半本剑谱作价，却不说是残卷",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "合伙是假吞并是真，我连本带人赔进去",
+    "tension": "化砍价入伙，化敌为股",
+    "text": "我邀他联手吃下第三批货，把眼前的争端变成合伙",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他日对质验出反纹，江湖再无我立足之地",
+    "tension": "印是真的，约是假的",
+    "text": "我答应画押，咬破手指按的是师父教过的反纹印",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "他真掀桌，满楼打手围过来",
+    "tension": "寸价如寸刀，试他底线",
+    "text": "我把价压到他亏本线上一寸，就看他掀不掀桌",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "他派人跟梢，渡口变成给我挖的坑",
+    "tension": "缓兵一夜换布局一夜",
+    "text": "我推说银子在城外镖车上，约他三更渡口交割，好安排人手",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "他认出腰牌是仿的，我先成了骗子后成了死人",
+    "tension": "借第三人的刀架在他脖子上",
+    "text": "我掏出他仇家的腰牌晃一下又收回，让他自己掂量",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "三招接不住，货和面子一起赔",
+    "tension": "把价钱押在拳脚上",
+    "text": "我提议以武定价：接他三招，每接一招减一成",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "他在这地界经营十年，围观的都是他的人",
+    "tension": "撕破脸借众口压价",
+    "text": "我当众戳穿货里掺了沙，声音大到满茶楼都听见",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "他真坑了我，我连发作的由头都没有",
+    "tension": "不验是给他脸，话里埋着辈分",
+    "text": "我收下货不验，临走一句你师爷的规矩我还认",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "火势失控，先烧掉的是整条退路",
+    "tension": "用火试出看不见的机关",
+    "text": "我把灯油泼进砖缝，看火苗往哪边爬，暗门就在哪边",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "线索读岔了，真正的暗格就此错过",
+    "tension": "死人身上的碎屑指活人藏东西的地方",
+    "text": "我翻开尸体指甲缝里的朱砂，回头去掀供桌底下的香炉",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "腰带断了，人就交代在迷宫里",
+    "tension": "深入与保命之间只隔一根腰带",
+    "text": "我解下腰带拴在石柱上再进岔道，给自己留条回来的线",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "应更的若是仇家，等于自己报了坐标",
+    "tension": "主动暴露换情报",
+    "text": "我学更夫敲了三声梆子，听黑暗里有没有人应更",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "惊起的不止蝙蝠，还有守夜的人",
+    "tension": "借活物探死路",
+    "text": "我掰半块干粮撒给梁上蝙蝠，看它们惊起时避开哪面墙",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "被真杂役撞见，一句切口就露馅",
+    "tension": "身份赌局，扫把比剑更难拿稳",
+    "text": "我拿香灰抹了脸，扮作扫地杂役混进内院",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "判断反了，正好走进人家布好的局",
+    "tension": "反着常识读痕迹",
+    "text": "我数地上两种脚印，跟浅的那串走——深的太像诱我的",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "凿碑的人若还在，我就成了下一个要埋的",
+    "tension": "有人想埋掉的名字，往往就是答案",
+    "text": "我刮开碑上苔藓，认那半行被人凿掉的落款",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "旧道年久失修，塌了连喊救命的都没有",
+    "tension": "赌没人走的路才是活路",
+    "text": "我不走那扇新门，专挑蛛网最密的旧道下脚",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "黄豆若被对头看懂，等于替他画了地图",
+    "tension": "一路留记号也一路留尾巴",
+    "text": "我在每个岔口撒把炒黄豆，回头能循味，追兵踩上会响",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "箱子若是饵，开箱的手就收不回来了",
+    "tension": "死人的钥匙开活人的锁",
+    "text": "我拿死人怀里摸出的钥匙，去试最不起眼的那口箱",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "留的那半张若被搜出，就是通敌的铁证",
+    "tension": "毁掉证据还是留作筹码，各押一半",
+    "text": "我把搜出的信烧掉一半，另一半塞进靴筒",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "真有人补刀时，装死就得装到底",
+    "tension": "拿命演饵，钓出藏在暗处的人",
+    "text": "我假装中了机关惨叫一声，看暗处有没有人出来验尸",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "引来的若不是猫，就轮到我被引了",
+    "tension": "用最不体面的法子过最要命的关",
+    "text": "我蹲下来学耗子叫，把守库房的猫引开",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "画影若真是我，这地方一夜都待不下去",
+    "tension": "探索变成了查自己",
+    "text": "我揭下墙上泛黄的海捕文书，对着画影照了照自己的脸",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "掀开锅的同时，自己也可能被人掀了底",
+    "tension": "余温说明人刚走，也可能根本没走",
+    "text": "我顺着焦味摸到灶房，掀开那口还温着的锅",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "抹得不够干净，半枚脚印就出卖全盘",
+    "tension": "给后来者指一条错路",
+    "text": "我把脚印倒退着抹掉，只留下往死路去的一串",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "撬错了坟，死者家属的刀比机关快",
+    "tension": "空棺即证词",
+    "text": "我撬开那口棺材——若是空的，比有尸更说明问题",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "辨错了，下一个躺倒的是自己",
+    "tension": "鼻子就是试毒银针",
+    "text": "我抓了把供桌上的香灰闻，辨里头掺没掺迷魂药",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "货郎若被收买，接应就变成围捕",
+    "tension": "把命押在陌生人口风上",
+    "text": "我托过路货郎往镖局捎一句切口，换人手来接应",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "他们若不吵，我被翻出来就是瓮中之鳖",
+    "tension": "以静制动，赌他们内讧",
+    "text": "我钻进经卷堆里装死，等搜我的人自己先吵起来",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "排水沟年久失修，一脚踩空就是三层楼",
+    "tension": "用最狼狈的路绕开最险的局",
+    "text": "我不走楼梯，顺着排水沟爬上三楼——堵我的人都在梯口",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "找错一页，打草惊蛇还一无所获",
+    "tension": "答案藏在没人倒着看的地方",
+    "text": "我把账册倒着翻，密账都藏在页脚的针孔里",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "拓片若被发现，对方立刻知道有人来过",
+    "tension": "只取信息不取财，把痕迹压到最小",
+    "text": "我把值钱物件原样摆回，只拓走一张不走样的纸",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "他若是装哑，我等于当面交了底",
+    "tension": "哑巴的话最贵也最险",
+    "text": "我拦下送水的哑仆，拿一碗酒换他比三个手势",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "站偏半寸，墙上钉的就不是影子",
+    "tension": "生死全凭一瞬的站法",
+    "text": "头顶机簧一响我贴墙站定，任那排弩箭钉进影子里",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "来捡的若是一群人，饵就成了请帖",
+    "tension": "用饵钓出暗处的眼睛",
+    "text": "我故意落一只镖囊在明处，看谁夜里来捡",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "绳头若在井口被人割了，井就是坟",
+    "tension": "井底的东西值得用绳子赌",
+    "text": "我循腐味推开枯井石盖，绳子系上腰才下去",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "被屋主发现门闩动过，行踪全露",
+    "tension": "进别人地盘先改别人的锁",
+    "text": "我把门闩拆下来反着装，给自己留一扇能踢开的门",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "闻错一味，断错一桩命案",
+    "tension": "缺的药比在场的药更会说真话",
+    "text": "我摸进药庐把药罐挨个闻一遍，找少了的那一味",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0001",
+    "scene": "taowang",
+    "stakes": "人堆里也有便衣，扎进灯市可能扎进网里",
+    "tension": "用人群当铠甲",
+    "text": "我逆着人流扎进灯市，追兵的刀在人堆里拔不出来",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0002",
+    "scene": "taowang",
+    "stakes": "袍子骗不了多久，墙那头若是绝地就完了",
+    "tension": "一件袍子买半炷香的命",
+    "text": "我把外袍挂上死胡同口的树枝，人翻进了墙",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0003",
+    "scene": "taowang",
+    "stakes": "桶若被掀开验货，连挣扎的余地都没有",
+    "tension": "尊严和命只能带一样出城",
+    "text": "我跳进运泔水的木桶车，忍着臭混出城门",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0004",
+    "scene": "taowang",
+    "stakes": "马是唯一的脚力，放走了就只剩两条腿",
+    "tension": "拿坐骑当替死鬼",
+    "text": "我割断缰绳放走坐骑，让它驮着我的斗篷往南跑",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0005",
+    "scene": "taowang",
+    "stakes": "银子花光了，这家人若报官我无处可退",
+    "tension": "把命押在陌生人的良心上",
+    "text": "我敲开一户人家的门，把碎银全塞给产妇，换柴房躲一晚",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0006",
+    "scene": "taowang",
+    "stakes": "两家若一照面对了口供，仇恨全算我头上",
+    "tension": "借刀杀人顺便脱身",
+    "text": "我把追兵引到仇家庄子门口，大喊人藏在这儿",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0007",
+    "scene": "taowang",
+    "stakes": "马蹄若真踏偏半寸，装死就成了真死",
+    "tension": "装死混关，一动就露馅",
+    "text": "我抹泥躺进死人堆，听马蹄从身边踏过去",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0008",
+    "scene": "taowang",
+    "stakes": "丹药只有一颗，翻不过山梁就交代在坡上",
+    "tension": "拿药吊命，药尽人亡",
+    "text": "我嚼了最后一颗续命丹，翻过前面那道山梁再死",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0009",
+    "scene": "taowang",
+    "stakes": "杀了一个，赏格和仇恨都翻一倍",
+    "tension": "逃命路上反咬一口",
+    "text": "我回身做了追得最急的那个，让后面的不敢贴太近",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0010",
+    "scene": "taowang",
+    "stakes": "桥那头若没接应，我就是困在孤山的兽",
+    "tension": "断追兵也断自己",
+    "text": "我砍断身后索桥，宁可自己也断了回头路",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0011",
+    "scene": "taowang",
+    "stakes": "号衣对不上口令，关卡就是刑场",
+    "tension": "最险的地方走最直的路",
+    "text": "我偷了身驿卒号衣，大摇大摆从关卡前走过去",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0012",
+    "scene": "taowang",
+    "stakes": "刀真落下来，秘密和我一起入土",
+    "tension": "用沉默保另一个人的命",
+    "text": "我把同伙的藏身地咽进肚里，任凭刀架上脖子",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0013",
+    "scene": "taowang",
+    "stakes": "我若攀不过去，孩子在那头就是孤儿",
+    "tension": "抛孩子那一下，赌墙的高度",
+    "text": "我先把怀里的婴孩抛过墙，自己再徒手攀过去",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0014",
+    "scene": "taowang",
+    "stakes": "疑阵若被人提前动过，我自投罗网",
+    "tension": "预谋的退路终于兑现",
+    "text": "我拐进三个月前就备下的疑阵，追兵只配吃灰",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0015",
+    "scene": "taowang",
+    "stakes": "名字说出去，渡口从此不再安全",
+    "tension": "以诚换命，赌老人家的心软",
+    "text": "我跪在渡口求老艄公渡我，连真名实姓都说了",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0016",
+    "scene": "taowang",
+    "stakes": "火势若烧到民宅，我从钦犯变成死囚",
+    "tension": "放火开路的狠棋",
+    "text": "我把火折子丢进草料场，趁火起人乱出城",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0017",
+    "scene": "taowang",
+    "stakes": "追兵只差一点，这一点就是两条命",
+    "tension": "义气拖慢逃命的脚",
+    "text": "我把重伤的兄弟背上身，速度慢一半，人一个不少",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0018",
+    "scene": "taowang",
+    "stakes": "丧家若认出多了一张生脸，当场拆穿",
+    "tension": "借死人的排场活人的命",
+    "text": "我钻进送葬队伍，披麻戴孝哭了一路出城",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0019",
+    "scene": "taowang",
+    "stakes": "他若赌水无毒一饮而尽，我就暴露了虚弱",
+    "tension": "一碗水拖住一队人",
+    "text": "我给追兵留了碗水和字条：再追，水里有毒",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0020",
+    "scene": "taowang",
+    "stakes": "轿夫若半路加钱翻脸，我连喊冤都不能",
+    "tension": "灯下黑的把戏",
+    "text": "我雇了顶空轿走正门，人趴在轿底",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0021",
+    "scene": "taowang",
+    "stakes": "脏水泼错了人，对方更要灭口",
+    "tension": "临死拉个垫背的，搅乱追兵阵脚",
+    "text": "我喊破追兵里最大官的名字，说他收过我的钱",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0022",
+    "scene": "taowang",
+    "stakes": "苇管若被水草堵了，河底就是棺材",
+    "tension": "拿半条命泡一座城的时间",
+    "text": "我泅进护城河的臭水，含苇管换气，泡到后半夜",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0023",
+    "scene": "taowang",
+    "stakes": "底舱若被封仓查货，我连水都喝不上",
+    "tension": "金蝉脱壳，壳比人跑得快",
+    "text": "我买了快马往反方向放走，自己钻进货船底舱",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0024",
+    "scene": "taowang",
+    "stakes": "头领若不上当，我平白暴露方位",
+    "tension": "用一匹马调开一队人",
+    "text": "我劫了追兵头领的马——人不劫，马劫了，他们先追马",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0025",
+    "scene": "taowang",
+    "stakes": "赌错了，他们正好杀个回马枪",
+    "tension": "反逻辑藏身",
+    "text": "我摸回昨晚藏身的破窑，赌搜过的地方不会再搜",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0026",
+    "scene": "taowang",
+    "stakes": "行家一看步距就拆穿，反倒暴露我不远了",
+    "tension": "脚印说谎",
+    "text": "我在雪地里倒着走，把一行脚印走成来路",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0027",
+    "scene": "taowang",
+    "stakes": "玉没了，往后想说清我是谁都没了凭据",
+    "tension": "活命先杀死过去的自己",
+    "text": "我烧了所有能证明身份的东西，连师父给的玉也扔进火",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0028",
+    "scene": "taowang",
+    "stakes": "仇人的儿子若在家，这碗水就是断头饭",
+    "tension": "把脑袋寄在仇人家的门槛上",
+    "text": "我敲开仇人的门讨一碗水——最险的地方他们想不到",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0029",
+    "scene": "taowang",
+    "stakes": "药粉若被风吹散，诱饵暴露我的真方向",
+    "tension": "断追兵的鼻子和眼睛",
+    "text": "我把追猎的鹰犬引到涂了药粉的诱饵上，废了它的眼",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-taowang-0030",
+    "scene": "taowang",
+    "stakes": "信物若牵出我在乎的人，等于递了把柄",
+    "tension": "用旧案搅浑追兵的线",
+    "text": "我故意在当铺留下一件信物，引他们去查三年前的旧案",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0001",
+    "scene": "xinren",
+    "stakes": "他反水那一瞬，我腹背皆敌",
+    "tension": "把命门交到他刀口之下",
+    "text": "我把后背亮给他守，自己独挑正面三人",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0002",
+    "scene": "xinren",
+    "stakes": "他若真练，缺页剑谱能让他走火",
+    "tension": "用真经试假心",
+    "text": "我让他替我保管剑谱一夜，谱中早抽走最要命的半页",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0003",
+    "scene": "xinren",
+    "stakes": "他报信的对象比我想的大，反咬我一口",
+    "tension": "拿醉话钓内鬼",
+    "text": "我假醉吐真言，句句是饵，只看他半夜去不去报信",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0004",
+    "scene": "xinren",
+    "stakes": "他拿了银子也记住我试探过他",
+    "tension": "一锭银子量一颗心",
+    "text": "我把分赃的大头推给他，看他眼睛先瞟银子还是先瞟我",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0005",
+    "scene": "xinren",
+    "stakes": "错时辰害了不知情的手下，命是我欠的",
+    "tension": "假情报溯源抓内应",
+    "text": "我故意把撤退时辰说错半个时辰，看追兵从哪个方向来",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0006",
+    "scene": "xinren",
+    "stakes": "他若起意，我连最后呼救的东西都没了",
+    "tension": "命根子押在人品上",
+    "text": "我把随身二十年的酒葫芦交给他，里头藏着师门求救的竹筒",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0007",
+    "scene": "xinren",
+    "stakes": "这一刀深得我说不了话就白挨了",
+    "tension": "用一刀买一句真话",
+    "text": "我先替他挡一刀再问话，血比嘴老实",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0008",
+    "scene": "xinren",
+    "stakes": "师兄先和他结了梁子，反倒怪我",
+    "tension": "借一双毒眼替我试人",
+    "text": "我把他引荐给最记仇的师兄，借师兄的眼量人",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他若真是奸细，三更正好杀我",
+    "tension": "拳脚底下见真心",
+    "text": "我约他三更单独过招，生死状当场画押",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0010",
+    "scene": "xinren",
+    "stakes": "他拿那半句真话去邀功，我百口莫辩",
+    "tension": "半句真话称半斤人心",
+    "text": "我把半句真话掺在试探里，听他能替我圆到哪一步",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0011",
+    "scene": "xinren",
+    "stakes": "收信的人先洇开了，我两头都暴露",
+    "tension": "一纸双文试口风",
+    "text": "我借口托他送信，信纸用水写过，洇开是另一行字",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0012",
+    "scene": "xinren",
+    "stakes": "他听懂了我的防心，交情先裂一道缝",
+    "tension": "赤手进龙潭，一句话定后账",
+    "text": "我交出兵刃入庄，只留一句：我若出事，先查我身后这位",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0013",
+    "scene": "xinren",
+    "stakes": "他两样都要，转头把我也卖了",
+    "tension": "银子和血只许挑一样",
+    "text": "我让他先选：拿封口银走人，或留下分仇家的血",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0014",
+    "scene": "xinren",
+    "stakes": "老仆的徒子徒孙来日找的是我们俩",
+    "tension": "灭口纳投名状，把他绑上我的船",
+    "text": "我在他面前杀了知情的老仆，逼他和我一样没了退路",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0015",
+    "scene": "xinren",
+    "stakes": "他真开了价，我才知道这条命在他那值多少",
+    "tension": "把人头价码摆上桌试人心",
+    "text": "我把仇家悬赏我的告示递给他，等他出价",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他若真翻了我的行囊，我袖中的刀得出鞘",
+    "tension": "闭眼比睁眼看得清",
+    "text": "我装睡，听他对着我的行囊自言自语半个时辰",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0017",
+    "scene": "xinren",
+    "stakes": "他半道报了官，我满盘皆输",
+    "tension": "拿灭门的祸试他的胆",
+    "text": "我请他押镖同行三日，镖里装的是朝廷要犯",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0018",
+    "scene": "xinren",
+    "stakes": "他圆住了，从此防我比防敌还深",
+    "tension": "当众将军，私情放到明处烧",
+    "text": "我当着全舵问他昨夜在哪，逼他要么圆谎要么翻脸",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0019",
+    "scene": "xinren",
+    "stakes": "他不出手，我的疑心成了笑话，军心先散",
+    "tension": "以身作饵，收网就这一次",
+    "text": "我故意落单，给内鬼最后一次动手的机会",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0020",
+    "scene": "xinren",
+    "stakes": "他日事发，江湖笑我连拜把子都做假",
+    "tension": "盟誓的酒里我留了后手",
+    "text": "我与他歃血为盟，血里我先吞了半粒解药",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0021",
+    "scene": "xinren",
+    "stakes": "情报是真的，我却先成了卖消息的人",
+    "tension": "用真金白银验他的货",
+    "text": "我把他给的情报原样卖给第三方，验一验真假再回头",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0022",
+    "scene": "xinren",
+    "stakes": "他拿钝刀硬扛，人没了，我悔一辈子",
+    "tension": "钝刀试忠奸",
+    "text": "我交给他一把没开刃的刀护送我，看他发现后换不换",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0023",
+    "scene": "xinren",
+    "stakes": "他记下了，日后那一刀正捅在这儿",
+    "tension": "把刀柄先递过去",
+    "text": "我先说出自己最大的软肋，再看他接不接这句话",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0024",
+    "scene": "xinren",
+    "stakes": "戏演过了头，假死差点真埋",
+    "tension": "一场假死称出满门真假",
+    "text": "我让他替我收尸：死讯放出去，看谁第一个来分我的东西",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0025",
+    "scene": "xinren",
+    "stakes": "他寒了心，钉子锈在敌方，情报断线",
+    "tension": "真心先搁在冰里冻着",
+    "text": "我拒绝他的投诚，让他回去继续当钉子",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他不回头，人和盘缠一起没了",
+    "tension": "放他一条生路量他一颗心",
+    "text": "我把盘缠全给他让他先走，自己留下断后，看他回不回头",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0027",
+    "scene": "xinren",
+    "stakes": "试纸没错，我倒在自己设的局里",
+    "tension": "毒酒照喝，赌他最后一念",
+    "text": "我当众喝他敬的酒，明知袖中试纸已变了色",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0028",
+    "scene": "xinren",
+    "stakes": "他根本没有什么主子，这一问戳穿了戏",
+    "tension": "摸到底牌才算结盟",
+    "text": "我要他带我去见他真正的主子，作结盟最后一道手续",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0029",
+    "scene": "xinren",
+    "stakes": "他凑不齐另半块，先对我动了杀心",
+    "tension": "半块兵符半条命，留一手也留一线",
+    "text": "我把半块兵符交他，另半块在谁手里我至死不说",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xinren-0030",
+    "scene": "xinren",
+    "stakes": "他撑不住死了，我要验的真心随他入土",
+    "tension": "冷眼看他打光最后一张牌",
+    "text": "我袖手看他独战仇家，撑不住才出手，看他留不留后手",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "毒发那夜，没人知道解药本来是我的",
+    "tension": "一条命分成两半用",
+    "text": "我把唯一的解药让给中毒的师弟，自己的毒拿命硬扛",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "桥断了，我的名字从此没人再提",
+    "tension": "一人当关，换一队生",
+    "text": "我留下断后烧了吊桥，让商队先走",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "三日期满，儿子认不认我这个爹都两说",
+    "tension": "骨肉作押，赌人心换天数",
+    "text": "我把亲生儿子送去仇家为质，换全城三日撤围",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "剑谱外传，师门从此在江湖上矮一辈",
+    "tension": "百年衣钵换满城性命",
+    "text": "我交出师门剑谱换停战，祖师牌位前我跪到腿断",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "他若反悔，我连报仇的力气都没了",
+    "tension": "半生修为换四十条命",
+    "text": "我自废一条经脉退出武林，换他放过镖局上下四十口",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "水下有暗桩，我未必游得到火船",
+    "tension": "生路让出去，死路走回来",
+    "text": "我把逃生的小船让给抱孩子的妇人，转身游回火船",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "抄家那日，爹娘的牌位也在抄没之列",
+    "tension": "一身担两罪，抄家换人头",
+    "text": "我供出自己顶罪，让官府抄我家，保住藏在我家的钦犯",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "我背着罪名过下半辈子，儿女三代不得科考",
+    "tension": "清白换一条人命",
+    "text": "我烧掉能为我翻案的信，案子沉了，拿信的人就能活",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "我死了，徒弟带着愧疚练不好剑",
+    "tension": "把活命的机会过给下一代",
+    "text": "我把护心镜给徒弟戴上，自己空门去接那一剑",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "援兵若不来，玉佩就成了我的遗物",
+    "tension": "信物换援兵，孤身喂追兵",
+    "text": "我留下玉佩作信物让援兵先救他们，独自引开追兵向南",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "逐出门墙那日，师父到死都不肯看我",
+    "tension": "一身骂名洗一庄清白",
+    "text": "我认下叛门的罪名被逐，从此全江湖骂我，庄里三百人洗清",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "弟兄们说我卖帮求荣，堂口里先乱了",
+    "tension": "割地换五年喘息",
+    "text": "我割让三家分舵给对头，签下五年不犯之约，血仇先记账上",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "开春前寨里会先饿死几个老人",
+    "tension": "烧掉口粮烧出活路",
+    "text": "我点了粮仓烧给追兵看，全寨人挨一冬的饿，换一冬的活",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "我的师父病在榻上，等的就是这株参",
+    "tension": "救仇人之母，把仇分两半",
+    "text": "我把续命的老参让给仇家的母亲，她无罪，我恨的是他",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "十年心血一朝散，再聚已无可能",
+    "tension": "散伙保人，独背祸根",
+    "text": "我解散一手创立的帮派，弟兄各谋生路，祸事我一人引走",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "师妹活着的一天，都不知道我烧了她的生路",
+    "tension": "私情让位给满门性命",
+    "text": "我亲手毁了找回师妹下落的唯一线索，查下去会搭进整个镖局",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "我死了，他未必领情，冤案未必翻",
+    "tension": "以命为引，把真话灌进满堂耳朵",
+    "text": "我替他喝下那杯毒酒，死之前把他儿子的冤案当众说完",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "刀在那人手里，我睡着等于睁着眼",
+    "tension": "自由换一城医药",
+    "text": "我留下当人质，放大夫出城治瘟疫，刀交给最不放心的人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "下游是瀑布，断缆就是断命",
+    "tension": "把自己从生路上摘下去",
+    "text": "我斩断缆绳让自己随船漂走，把堤上最后的位置让给伤者",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "伏兵的主帅要的是活口，酷刑在后头",
+    "tension": "拿自己当唯一的诱饵",
+    "text": "我独自走进埋伏圈亮出底牌，伏兵只管围我，城头百姓趁机撤",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "图一交，前朝旧部视我为头号叛徒",
+    "tension": "前朝密藏换三千人头",
+    "text": "我把藏了十年的军资图交给朝廷，换边关三千降卒免死",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "墙下我被擒，刑讯时供不供他都难",
+    "tension": "人梯一具，恩怨两清",
+    "text": "我让师弟踩着我的肩翻墙走，墙下的事从此与他无关",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "他们真敢剖，我死无全尸",
+    "tension": "肚腹当棺材，秘密随我埋",
+    "text": "我吞了那封信，字据烂在肚里，他们要搜只能剖开我",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "半生基业成灰，孩子里有一个保不住",
+    "tension": "基业成灰，换几条小命",
+    "text": "我一把火烧了自己的宅院，追兵被引向东，地窖的孩子往西",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "来日我站法场，满堂无人替我说话",
+    "tension": "唯一的生票让给旁人",
+    "text": "我交出免死金牌救一个不熟的门客，我死时无人再救",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "退婚书送到那日，我成了全族的耻辱",
+    "tension": "一副嫁妆换一村平安",
+    "text": "我把嫁妆尽数散给溃兵买他们绕开村庄，婆家当场退婚",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "跪过的人，兄弟再不与我并肩",
+    "tension": "一跪解一围",
+    "text": "我跪下给对头递茶称臣，膝盖换三百口人的粮",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "局若败露，徒儿死时背的还是叛徒的名",
+    "tension": "把最爱的人钉上耻辱柱做局",
+    "text": "我亲手送徒儿下山投敌，全庄骂他叛徒，只有我知道他送的是什么",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "数到最后一个，我已没有力气松手",
+    "tension": "以身为柱，数人头数到自己",
+    "text": "我留在塌陷的矿道里撑住顶木，数着他们一个个爬出去",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "那句话若传错一个字，我白死",
+    "tension": "命换命，话换话",
+    "text": "我把自己卖给死牢替下死囚，刑前只把话说给一个人听",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "念到第三个名字，暗处已有弩上弦",
+    "tension": "字字是刀，当众行刑",
+    "text": "我把血书当众展开，先念人名，再念年月，一个都不跳",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "他添油加醋，真相成了他杀我的刀",
+    "tension": "借仇口说真话",
+    "text": "我把证物交给最恨我的人去公布，我说的话没人信，他的信",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "烧掉的纸灰里，有我自己的清白",
+    "tension": "真相殉葬，换生者周全",
+    "text": "我烧了那份能翻案的供状，死人已经死了，活人还要活",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "她不领情，当夜独自摸进了仇家庄",
+    "tension": "把她的恨接到自己手上",
+    "text": "我按住小师妹拔剑的手：仇家名字我来说，杀人的罪我来背",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "长老里有一个早被他买通",
+    "tension": "把私了钉成公案",
+    "text": "我约三家当面对质，请刑堂长老做见证，堵死他灭口的时辰",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "段子传歪了，死者名声比凶手更臭",
+    "tension": "借众口铄金，让官家堵不住",
+    "text": "我把真相写进说书人的段子，三日之内满州府都会唱",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "香炉翻了，师徒情分一并扑灭",
+    "tension": "在祖师香火前戳破师父",
+    "text": "我当面问师父那句藏了十年的话，殿里香炉还点着",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "她点了头，听完后投的井",
+    "tension": "把真相的生杀权交给受害者家属",
+    "text": "我先问他女儿：你想知道你爹是什么人吗，她摇头我就烂在肚里",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "他编的版本比真的还真，先信了全桌人",
+    "tension": "半枚旧物钓一肚子谎",
+    "text": "我把半枚对得上的玉珏拍在桌上，等他先开口编",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "查账的先动了贪念，账册从此消失",
+    "tension": "借刀验账，我手不沾腥",
+    "text": "我不揭穿，只把真正的账册换个位置，让查账的人自己撞见",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "十派收到十把火，第一个烧的是送信人",
+    "tension": "撒网式公布，杀我无用",
+    "text": "我连夜拓印十份分寄十大门派，灭我一人堵不住悠悠众口",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "债讨完时，知情的人已死了一半",
+    "tension": "真相当人质押着用",
+    "text": "我压下真相，先把他欠下的救命债讨完再算这笔账",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "开棺惊了尸也惊了族老，我先被拿下",
+    "tension": "灵堂验尸，死人开口",
+    "text": "我当着灵堂掀开棺盖，让所有人看病故的帮主指甲里的毒",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "庵堂也未必干净，哑仆活不过初七",
+    "tension": "活口是真相最后的棺材钉",
+    "text": "我把知情的哑仆藏进尼姑庵，真相留一张活口",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "他听出我留了半句，人质先断了手指",
+    "tension": "半真半假，句句都作价",
+    "text": "我只说出一半真相，剩下那一半换他手里的人质",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "盟主看完烧了两本，说以和为贵",
+    "tension": "铁证自明，不作一词",
+    "text": "我把两本账册同时呈上盟主案头，让他自己对笔迹",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "人证路上病死，真相烂在我一人肚里",
+    "tension": "救人也埋案，一肩两断",
+    "text": "我带走唯一人证远走高飞，真相从此只有天知道",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "桥上伏着他的刀斧手，旧地变坟地",
+    "tension": "旧地重摆旧局",
+    "text": "我约他在当年事发的那座桥上对质，他敢来就算输了半招",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "真凶不按牌理，直接灭我满门再找册",
+    "tension": "空城计钓真凶",
+    "text": "我放出风声说账册在我手上，其实册子在谁手里我根本不知道",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "信看完，我做不做人都难了",
+    "tension": "独吞先机，再想给谁看",
+    "text": "我拆开祖师留下的铁匣，里面那封信我先自己读三遍",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "真若杀错，这十年我就是别人手里的刀",
+    "tension": "坟里翻案，怕自己杀错",
+    "text": "我先去核对尸骨上的旧伤，刀口是左撇子，仇可能报错了人",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "他顺势认下恩义，我倒成了负心人",
+    "tension": "一句敬酒翻十年旧案",
+    "text": "我当众给仇人斟酒：敬你当年替我背的黑锅，满座哗然",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "他说到一半毒发，线索断在最要命的半句",
+    "tension": "一命换一言，当众对质",
+    "text": "我用解药换他亲口说出主使，药在袖中，话要当众",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "最会猜的人猜到了，也先动了贪念",
+    "tension": "碎信钓鱼，让聪明人替我查",
+    "text": "我撕了信留下一角，只把那一角送给最会猜的人",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "族老们当场烧了夹层，把我逐出祠堂",
+    "tension": "当众开箱，不让秘密再养蛊",
+    "text": "我在祠堂打开族谱夹层，百年的秘密归了全族，不归我一人",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "查的功夫，送真相的人已被灭口",
+    "tension": "不吃喂到嘴边的肉",
+    "text": "我按兵不动，先查是谁把这份真相送到我手上",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "孩子从此活在两家血仇的缝里",
+    "tension": "童锁藏名，当众揭襁褓里的冤",
+    "text": "我把孩子怀里的长命锁翻开，当他全家面念出里头的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "酒醒后他要我杀人明志，戏演到了刀口",
+    "tension": "委身事仇录口供",
+    "text": "我假意投靠灭门主使，要听他酒后亲口说一遍当年",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "狱卒换了一茬，砖后早被人掏空",
+    "tension": "以身为锁，把证据锁进死牢",
+    "text": "我先一步认罪下狱，狱中那块砖后的东西比我的命值钱",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxia",
+    "id": "ch-wuxia-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "头磕完了，遗属们的刀先冲我来的",
+    "tension": "以头叩门，把丑话说成清账",
+    "text": "我召集当年镖队的遗属，把抚恤银的真相一家一家磕着头说",
+    "type": "choice"
+  }
+]

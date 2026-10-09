@@ -1,0 +1,1661 @@
+[
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "五次背叛，教你的比所有师父加起来都多，学费一次比一次贵。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生遭过十一次背刺，刀刀来自身后，刀刀你都没躲。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "背叛来了五次，最狠的一次没有刀，只有一个没回头的背影。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你被人骗过八次，下一次有人伸手时，你还是把手递了过去。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "三次背叛里，有一次是你背叛了别人，那句对不起你说了半辈子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "十一次背叛，你的信任额度一降再降，目前已暂停新客申请。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "五次背叛，你的识人眼光稳定发挥：一如既往地差。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "四十七个岔路口，你把每一次抉择都走成了绝路或生路。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生落子四十七回，山河为盘，落子无悔。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0004",
+    "reason": "numeric_slot_count_3",
+    "text": "别人回头看一生是长河，你的长河上横着四十七座桥，每座桥只够过一次。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "大风起于七十三个黄昏，每一次风起，都是你转身的地方。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "史书会给你一行字，而九次抉择各有自己的碑。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你在四十七个路口丢下过另一个自己，他们至今站在那里。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "二十六个选择里，有大半你选的不是对的，是心里踏实的那一个。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "有些选择小到你自己都忘了，一百零八件小事，缝成了你这一生。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你这一生没赢在选择多，赢在一百零八次选完都没撒手。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0001",
+    "reason": "numeric_slot_count_4",
+    "text": "四十七次选择，正确率一半一半，另一半被你说成了「丰富阅历」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "系统统计你做了一百零八个选择，其中一部分，你当时只是在赌气。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你在二十六次选择里避开了所有标准答案，走出了一条独家路线。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "九个选择做完，你终于证明：深思熟虑和头脑一热，结果差不多。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "四十七次抉择记录在案，其中相当一部分的后果由他人承担。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "每一次选择都有代价，二十六次，代价合计：一生。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "统计完毕：四十七次选择，没有一次可以撤销。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你做了二十六次决定，世界只做了一次：到此为止。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你本可以有四十七种人生，分支走尽，只领到最费力的那一种。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你这一生走了 12000 天，每一天都踩在刀刃与花之间。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你燃过 15000 个白昼，没有一天向黑夜投降。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "4900 个昼夜，够一个王朝换几轮，你只换了一颗心。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0008",
+    "reason": "numeric_slot_count_3",
+    "text": "你这一程 11000 天，每一天都算数，包括走错那些。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "6100 个清晨，你没有一个赖床到后悔。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你活了 9500 天，把每一天都当成借来的，用得省也用得值。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "4400 天，你硬是把苦日子一天天过甜了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "你这一世 8100 天，回头看，苦的都结了痂，甜的都发了芽。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "8400 天，你的人生没有一天是凑数的水剧情。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你打卡了 7100 天，全勤奖：一生。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你经营这一生 10800 天，没有转让，没有加盟。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "4200 天，一半在赶路，一半在还赶路的债。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你存在了 5600 天，注定被记住的只是零头，这是常态。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "死神来找过你三次，你每次都回了同一句话：改天。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "四次命悬一线，线断过，接住你的有别人，也有你自己。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你死过三次，最后一次醒来时你先笑了，旁边哭的人才敢哭出声。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "四次死里逃生，每次睁眼看到的第一个人，你记了一辈子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你与死神交手七回合，它一局没赢，气得把你拉黑了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "死过四回，你的遗言改了又改，最新一版主要是叮嘱别人浇花。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "七次濒死，你的人生感悟攒了一箩筐，主要是「下次注意」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "四次心跳归零的边缘，监护仪的尖叫你听不见，旁人替你记着呢。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "病历记载你九次濒死，出院小结栏次次都是同一行小字：患者不配合死亡。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "与死亡的四次谈判均无纪要，结果一致：延期执行。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你一生树敌九人，每一个都曾是你敬过的对手。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你的敌人凑得齐一桌酒，九个人，谁敬你的酒里都下过毒。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "江湖传言你有九个死对头，你不辟谣，树敌是成名的另一半。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "十七个仇人，年少时你以为要恨一辈子，如今大半连名字都想不起。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你和第九个仇人对坐喝过一次茶，茶凉了，仇也凉了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "十七个人与你结怨，有几桩是误会，误会的那几桩，你欠一句解释。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "树敌九人，含金量参差，有一位至今仍以为你们是好朋友。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "仇人九名，恨你的理由千奇百怪，最离谱那位是因为你比他高。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "你结怨十七人，对方阵营的盟主换了一任又一任，你还在。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "仇敌编制九人，其中一人就坐在你婚礼的宾客席上。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生结怨三起，过半起因可考，剩下的起因是你。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你的名字传到过三十座城，进城收一次门税，出城多一段传说。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "史馆要为你立传，七卷材料里，一半是你自己都不敢认的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "你攒了三十年声名，散的时候只用了一夜，那一夜很长。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "一百城巡回挨夸，你唯一的黑历史是被画进了年画，还被嫌胖。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你的名字检索量曾连续三十年居首，死因公布当日清零。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "三十年品牌建设，毁于一句话，那句话的出处已不可考。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "名望评估：七城知晓你，敬重你的凑不满一桌，等你死讯的订好了席。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "史料记载你名震三十城，同期人口普查显示，真认识你的凑不齐一桌酒。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "你一生交下二十七个人，个个可以托付身后事，这比打下一座城难。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "十二人陪你横刀立马，散场时无一人背对着你走。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你麾下从无大军，只有十二个肯为你死的人，和一段够他们死的交情。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "七人同舟，渡的是同一条忘川，岸到了，谁也没先上岸。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "十二个人，有的先走了，每年的那一天，桌上多摆一副碗筷。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生结交二十七人，大半的初始好感度是负数。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0003",
+    "reason": "numeric_slot_count_3",
+    "text": "五个伙伴，一半是你捡回来的，一半是自己赖上你的。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你管他们叫生死之交，他们管你叫「那个总闯祸的」，七人口径一致。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "同伴登记十二人，存活确认过半，失联与殉职各占一格。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "伙伴十二人，无一人中途解约，合同期限：终身。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生的人力资本：五人，全部不可再生产。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "名册十二人，勾掉一个少一个，这本账没法对冲。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你亲手了结 6 条命，每一条都先在你心里死过一遍。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "7 条命断在你手上，换来一城人睡了个整觉。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "你刀下第 1 个人和最后一个之间，隔着整条江的水声。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "那 3 次之后，你洗了很久的手，水一直是清的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "5 条命停在你手里，你替他们每人合上过一次眼睛。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你杀过 2 个人，事后都朝着他们倒下的方向站了一会儿。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你杀过 8 人，从那以后吃饭总剩一口。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "这辈子你送走了 11 个人，没一个给你好评。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "确认击杀 10 人，无一错杀，你对此有绝对的把握。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你杀过 7 人，多数该死，只有一个来不及问。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "处决 8 人，无一未遂，悔意：未检出。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生过手八千两白银，最后攥住的，只有掌纹里那点钱茧。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "八千两银子从你手里流过去，像水过闸，闸记住了每一片浪。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0003",
+    "reason": "numeric_slot_count_3",
+    "text": "散财五万两，你散的每一锭都砸出过一个响。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "鼎盛时你家银库八千两，钥匙只有一把，挂在你睡不着的腰上。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你这一生聚财五万两，散财的时候比聚财时更像个人物。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你攒下过三百两，也身无分文过，两种日子，你都把饭做热了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "钱挣到三百两那年，你给家里打了第一张不漏雨的床。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "两万两家财，你记住的不是数目，是凑齐第一笔时手心的汗。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你数钱的样子不好看，九十两，每一分都带着指甲缝里的泥。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "银子到你手上总共两万两，留给自己的，不及给旁人的零头。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "你这一生经手八千两，花得最值的一笔，是那年冬天的炭。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "巅峰存款三百两，如今余额不足一顿酒钱，中间商是你自己。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "你一生赚过八千两，花法只有一种：计划外。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "五万两入账提醒响过一回，之后的提示音全是支出。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "挣八千两用了半生，花完用了一阵子，主要是那阵子太精彩。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "三百两在你手里的存活周期，比昙花长一点，有限。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "资产峰值五万两，终值约等于零，损耗主要发生在「义气」科目。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生现金流八千两，净利润：几个还记得你的人。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "财务审计结论：八千两进出属实，结余与风险承受能力均归零。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "7 个长夜，你一个人的清醒顶住了一城人的酣睡。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0008",
+    "reason": "numeric_slot_count_3",
+    "text": "25 夜无眠，你把这些夜一根一根点成了火把。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你有 14 个睡不着的夜，多数是在想一个人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你失眠过 18 夜，好些夜是在等一个消息。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "4 个通宵，你守着一盏灯，灯守着一个人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "8 夜没睡好，第二天的粥照样熬得很稠。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你走过 21 座城，每座城都替你留了一盏没关的灯。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "14 处关隘，你是一道一道用脚底板量过来的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你踏过 40 座桥，桥桥不同，回头看的人只有你一个。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "28 座城池进进出出，没有一座留得住你，也没有一座敢忘你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你在 11 个码头看过同一个月亮，月亮老说你面熟。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "6 千里路，山川替你作证：这人来过，没白来。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你走过 13 个小镇，每个镇都有一碗热汤记得你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "16 座城走下来，你口袋里装满了不一样的土。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "7 个异乡，你把其中一个走成了故乡。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "12 个地名，念出来像念一串旧相识的小名。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你打卡过 22 个地点，步数排行榜一骑绝尘。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你去过 9 个地方，一多半是因为迷路。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "10 座城市，每座你都欠人家一顿早点钱。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你把 13 个地方走了个遍，驿站小二都管你叫哥。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "行程记录：29 站。回头次数：零。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "7 座城为你开过城门，没有一座为你关过。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你在 15 个地点睡过觉，没有一个叫家。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "你爬上去了，四十年，梯子是你一根一根抽掉的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "三十年高位，你最得意的事，是批过一张让灾民过冬的条子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你有权十五年，用过最大的特权，是放走了一个该抓的孩子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "掌印十五年，你记住的不是印的分量，是第一次盖章时手抖。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你把三年给了朝堂，把每天最后一点清醒，留给了家门那盏灯。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0008",
+    "reason": "numeric_slot_count_3",
+    "text": "你掌权三十年，门卫换了一茬又一茬，每个的名字你都叫得出。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "掌权十五年，你的签字能换一座城，你的书法只能换一顿骂。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "位极人臣十五年，唯一指挥不动的，是你家那只猫。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你掌权四十年，任免名单若干，没有一份写着「心甘情愿」。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0003",
+    "reason": "numeric_slot_count_3",
+    "text": "十五年权柄交接完毕，下一任做的第一件事是烧你的信。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你用七年爬上顶点，顶点的风把你吹回了一个人。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "在位十五年，你签发过的最后一道命令，无人执行。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "十五年的权力，死后折算为谥号一枚，笔画还挺复杂。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你这一生欠下 7 个遗憾，每一个都有山河那么大。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你欠 8 个人一句话，如今这些话重于泰山。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "2 场没能赴的约，让你余生的酒都淡了一分。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你说过 7 次改天吧，改天一直没来。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你欠过 3 个人一句对不起，他们都没等到。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "11 件小事当时不值一提，如今件件压箱底。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你遗憾过 6 次，大半是同一扇门没敲。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "8 个没寄出的春天，在你抽屉里一直绿着。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你遗憾清单有 8 条，第一条是上次没吃饱。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0004",
+    "reason": "numeric_slot_count_3",
+    "text": "6 件憾事，每一件都配一句早知道。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "遗憾清单：10 项。成因高度一致：犹豫。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "7 桩未尽事宜，期限是你的一生。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你的遗憾共 9 例，无一痊愈，全部带瘤生存。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你退过 6 次，每一次都是为了走得更远的那种退。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "你一生 9 次转身，没有一次叫逃跑。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0008",
+    "reason": "numeric_slot_count_3",
+    "text": "你退过 10 步，每一步都在为下一步蓄力。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你撤退过 8 次，每次都把最后一块干粮分给了同伴。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "11 次离开战场，每一次都把自己完整地带了回来。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你 5 次转身就跑，百米成绩因此突飞猛进。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "撤退 8 次，一次都没跑丢，导航都佩服你。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "撤退记录：7 次。追击方损失：不计。你的损失：零。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你撤退 6 次，从未溃逃，两者的区别你很清楚。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "战略转移：9 次。每一次都在敌人算盘之外。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "8 回刀口舔血，你把生死一线走成了阳关道。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "5 次孤注一掷，赌注是你，赢回来的也是你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0008",
+    "reason": "numeric_slot_count_4",
+    "text": "11 次九死一生，那一生次次都归你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "3 次明知不可为而为之，为的是一句承诺。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "6 次冒险，你的行囊里总装着一封没寄的信。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你为 8 个人冒过险，从没为自己排过一次。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "你一生爱过三回，回回都以为是最后一回，回回都认栽。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0004",
+    "reason": "numeric_slot_count_4",
+    "text": "十二场风月，你用一场接一场的大醉还账，醒来时江山都老了一截。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你为爱拔过七次剑，多数对人，有一次对自己，那次伤得最深。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "三个人牵过你的手过江，江风一吹，握疼你的那个散得最早。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "七段情，你给每一段都起了名字，后来名字比人活得久。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "五段感情，你没有一段是敷衍的，这不是傻，是你仅有的本事。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你这一生被七个人暖过，如今想起，手心还是热的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "你爱过五个人，最后学会爱自己，这一课来得晚，但来了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "十二段缘分，你走一段学一道菜，如今做给谁吃都好吃。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "七次心动，次次都以为就此心定，中间隔着的是你的一辈子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "七段恋情，你被发的好人卡凑齐了一副牌。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你的情史九段，开场都是「这次不一样」，散场都是「上次也这么说」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "七段情缘，你分手的理由集齐了一套，最常用的是「我配不上你」，对方都同意了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "十二场恋爱，你的角色从男主角一路演到友情客串。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "情感记录五段，存续期不等，终止原因高度一致：你先松的手。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "你一生卷入三段感情，投入产出比逐年下降，你逐年加仓。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0005",
+    "reason": "numeric_slot_count_4",
+    "text": "十二段亲密关系，冷却时间一段比一段长，最后一段至今未结束。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "九段感情全部终止，其中最长的一段，死于一句没说出口的话。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你伸过 9 次手，每一次都把一个人从深渊边上拽回了人间。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "8 个人因为你活到了白发，这是你一生最重的战功。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "你把 3 条将断的命接回世上，天地欠你一顿酒。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你拉住的 5 个人里，有一个如今也会去拉别人了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你救下的 6 个人，如今饭桌上都多摆着一副碗筷。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你从水里、火里、夜里捞回 9 个人，从没捞过一句谢。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0008",
+    "reason": "numeric_slot_count_2",
+    "text": "被你救过的 5 个人，如今下雨天都会多带一把伞。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0003",
+    "reason": "numeric_slot_count_3",
+    "text": "别人数存款，你数救过的 13 个人，都是一笔一笔的命。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "6 次出手相救，你的锦旗库存为零，全靠自己记。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "9 条命是你捡回来的，建议他们凑钱给你打一面锦旗。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你救活的 10 人里，没有一个出现在你的病床前。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你留下 7 份没签字的欠条，债务人四散天涯。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "记录显示你救过 9 人，动机一栏你从未填写。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你揭开了 5 个秘密，每一个都足以让一座城失眠。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "你知道的 8 个秘密，随便一个都能换一座江山。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你发现了 4 个秘密，都替当事人守到了最后一刻。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "6 个秘密钻进你耳朵，你一个都没拿出去换过钱。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "你听见过 9 句不该听的话，每一句都替你压低了声音。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "你发现的那 2 个秘密，一个是别人的，一个是自己的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0001",
+    "reason": "numeric_slot_count_3",
+    "text": "你挖出过 13 个秘密，八卦协会欠你一个终身会员。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "你知道的秘密有 10 个，说出去能炸一片群聊。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "掌握秘密 9 项，无一泄露，死因风险：高。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "战鼓敲过一百二十通，你的故事才被允许写到最后一页。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "黄沙百战，你的六十回合里，有一半是站在原地没退。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "一百二十个回合过去，卷轴合拢时，你的名字排在伤亡名单的另一边。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0007",
+    "reason": "numeric_slot_count_2",
+    "text": "一百二十回合，天地为局，你是唯一没有离席的棋子。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "日子一回合一回合地过，七回过去，你也学会了不催。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "四十五个回合里，你睡好的觉不多，但每一觉都有人替你留灯。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0004",
+    "reason": "numeric_slot_count_3",
+    "text": "一回合是一页，六十页翻完，书上落的全是指纹。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "四十五回合，像一顿接一顿的饭，有冷的有热的，你都吃完了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "第一百二十回合结束时你回头看，来路上亮着一串小小的灯。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0007",
+    "reason": "numeric_slot_count_3",
+    "text": "你在七个回合里，把「再撑一回合」这句话一直说到了最后。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0008",
+    "reason": "numeric_slot_count_4",
+    "text": "三百个回合，家里的信来了一封又一封，每一封都问你什么时候回。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0005",
+    "reason": "numeric_slot_count_3",
+    "text": "七回合，你唯一没跳过的，是每一回合的教训。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0006",
+    "reason": "numeric_slot_count_2",
+    "text": "一百二十回合打完，裁判问感想，你说：能不能重来一回合。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0002",
+    "reason": "numeric_slot_count_3",
+    "text": "四十五回合，对手换了一拨又一拨，你的存活记录没有断档。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "三百回合的损耗清单很长，你把自己列在最后一条。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0006",
+    "reason": "numeric_slot_count_3",
+    "text": "七回合，每一次结算都扣掉一点什么，最后扣完的是时间。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你的一生反转 7 次，次次都在天意落子之后翻盘。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0002",
+    "reason": "numeric_slot_count_2",
+    "text": "命运翻脸 9 回，你回回都接住了它的下一招。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0003",
+    "reason": "numeric_slot_count_2",
+    "text": "3 次绝处逢生，生的那一边是你自己劈出来的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0001",
+    "reason": "numeric_slot_count_2",
+    "text": "你的生活反转过 4 次，最坏那次带来了一个最好的人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "你经历 6 次翻盘，翻盘后第一个电话都打得通。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0005",
+    "reason": "numeric_slot_count_2",
+    "text": "3 次以为完了，都在一碗热汤里缓了过来。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0004",
+    "reason": "numeric_slot_count_2",
+    "text": "人生转折点：7 处。每一次你都比变化快半步。",
+    "tone": "cold"
+  }
+]

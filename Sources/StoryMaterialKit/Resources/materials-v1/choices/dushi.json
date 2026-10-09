@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "他的信誉，我手里唯一的人证关系",
+    "tension": "用他亲手发过的内容拆他现在的谎",
+    "text": "我把他朋友圈三年前的定位截图翻出来，投到会议室大屏上。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "供应商以后还肯不肯接我的单",
+    "tension": "逼第三方当场作证，谁都没法改口",
+    "text": "我当着他的面拨通那个供应商的电话，开了免提。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "越权查后台被反咬的证据链",
+    "tension": "一个日期戳穿整套不在场说辞",
+    "text": "我把考勤系统后台调出来，问他上个月十五号人在哪。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "他觉得被逼急，谈判彻底破裂",
+    "tension": "把暗处的威胁摆上台面，谁都别想赖",
+    "text": "我掏出录音笔放在桌子中间，说那从上次的原话开始对。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "我体面人的身份，和他鱼死网破",
+    "tension": "私人领域开火，商战变家丑",
+    "text": "我把他车钥匙拍在桌上，问昨晚地库监控里的女人是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "我在股权谈判里的主动权",
+    "tension": "用我的筹码换他先吐出血汗钱",
+    "text": "我说股份可以谈，但今天先把欠工人的工资结了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "视频是我唯一的护身符，删了就没了",
+    "tension": "互相捏着把柄，赌他比我更怕",
+    "text": "我提出各退一步：他撤回投诉，我删掉那段视频。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "我的底牌亮完，再没有加价空间",
+    "tension": "一张纸逼他当场选边",
+    "text": "我把条件写在餐巾纸上推过去：签字，或者法庭见。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "我瞒着的病，和拖不起的时间",
+    "tension": "他以为在跟健康的人打持久战",
+    "text": "我把体检报告折起来塞回包里，笑着接了他的战书。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "谎言一旦被戳穿，我成造假的人",
+    "tension": "用假撤防换他露出下一步",
+    "text": "我说那份底稿早就删了，其实云端的备份还热着。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "我的全部信用，和立刻断裂的资金链",
+    "tension": "空城计，赌他不敢验资",
+    "text": "我瞒下账户里只剩三千块的事，照原价接了他的盘。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "我在圈子里多年攒下的中立名声",
+    "tension": "借行业口碑的刀杀人",
+    "text": "我把他骂我的原话发到五百人的行业群里。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "事情闹大后我自己也收不了场",
+    "tension": "把私斗变成公开审判",
+    "text": "我请旁边看热闹的大V坐下，问他要不要全程直播。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "用了这层关系，我和他岳家彻底结仇",
+    "tension": "捏他最不敢碰的那根神经",
+    "text": "我搬出他岳父的名字，问他敢不敢让老爷子来评理。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "明天全公司都记住我这副撕破脸的样子",
+    "tension": "群众在场，他不敢再耍横",
+    "text": "我按下呼叫铃，让整层楼的同事都过来听听。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "我的饭碗和最后一点体面一起押上",
+    "tension": "光脚的不怕穿鞋的",
+    "text": "我把辞职信和病历一起拍在桌上，说今天必须有个了断。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "如果声音不是他，我成了造谣的小丑",
+    "tension": "开盲盒式对质，赌错满盘皆输",
+    "text": "我当众点开那条语音，赌里面真的是他。",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "我自己也不是完全干净的那一方",
+    "tension": "赌他的事比我的事更经不起查",
+    "text": "我说行，那就报警，看谁先撑不住。",
+    "type": "choice"
+  },
+  {
+    "chars": 14,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "我全家唯一的住处",
+    "tension": "把全部家当变成一句话的分量",
+    "text": "我把房本押上桌，赌他不敢跟。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "他回过神来，我连解释的机会都没有",
+    "tension": "对质是假，保住证据是真",
+    "text": "我借口去洗手间，从消防通道把U盘转移了出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "碰了孩子，这场恩怨再没有底线",
+    "tension": "让他知道我也摸到了他的软肋",
+    "text": "我把话题岔到他儿子的入学资格上，看他脸色变了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "副总手里捏着我的考勤和报销",
+    "tension": "把水搅浑，让火力换个方向",
+    "text": "我指着旁边一直没说话的副总，说真正签字的是他。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "我的职位和在他面前最后的尊严",
+    "tension": "认输换活路，姿态放到最低",
+    "text": "我摘下工牌放桌上：我认栽，但房贷求你宽限半年。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "求来的体面，明天还是要还",
+    "tension": "用最软的地方挡最硬的刀",
+    "text": "我红着眼眶说我妈还在化疗，能不能别选今天。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "他查出根本没有那次见面，我的信誉清零",
+    "tension": "一句话在他阵营里钉进钉子",
+    "text": "我低声问他：你合伙人知道你上周单独见过我吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "他助理反咬一口说我伪造文件",
+    "tension": "他身边有鬼，从此他看谁都可疑",
+    "text": "我把两份不同的合同并排摊开，问他猜哪份是他助理给我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "他知道了我的底，往死里压价",
+    "tension": "亮出穷底牌，讹无可讹",
+    "text": "我打开手机银行余额给他看：我就这么多，你看着办。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "我的职业执照和吃这碗饭的资格",
+    "tension": "认下一切，反而让他无处发力",
+    "text": "我承认那份报告是我写的，署名是我，责任也是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "丢了工作，还要赌劳动仲裁判我赢",
+    "tension": "用他的刀架回他自己脖子",
+    "text": "我说你可以开了我，但竞业协议那两百万你先赔我。",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "dushi",
+    "id": "ch-dushi-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "事情见光，我手里的商业秘密也保不住",
+    "tension": "媒体到场，谁都别想私下摆平",
+    "text": "我发消息让楼下的记者可以上来了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "材料寄出没有回头箭，里面有我的署名",
+    "tension": "公示期举报杀伤力最大",
+    "text": "他竞聘总监的公示期还有三天，我把举报材料掐着点寄给纪检。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "翻旧邮件会在IT后台留下记录",
+    "tension": "找他把我的方案据为己有的铁证",
+    "text": "我翻出他三年前抄送全公司的邮件，逐字比对现在的项目书。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "球场上他试探我，一句话没接住就露底",
+    "tension": "笑着磨刀的每一分都是煎熬",
+    "text": "他约我周末打球，我笑着答应，绝口不提下周要递的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "他倒之前，我先被全行业贴上刺头标签",
+    "tension": "公开处刑，一次到位",
+    "text": "行业峰会上他演讲完，我举手提问，当着五百人念出那组数据。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "副手转头把我的话原样送回去",
+    "tension": "在他阵营里埋一颗怀疑的种子",
+    "text": "我约他现在的副手喝咖啡，无意中聊起他当年怎么对我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "他反告我敲诈，欠条成了呈堂证供",
+    "tension": "撕破脸，逼他当场认账",
+    "text": "我把他当年按手印的那张欠条拍在他办公桌上。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "客户察觉被当枪使，两家一起丢",
+    "tension": "断其臂膀比正面开打更疼",
+    "text": "我不动他，先把他最倚重的那个客户抢过来。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "他真信了，顺手再踩我一脚",
+    "tension": "用低头换他放松警惕",
+    "text": "我在他面前认了怂，说当年的事我想通了，都过去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "匿名件被溯源，我涉嫌商业诋毁",
+    "tension": "借资本的手完成致命一击",
+    "text": "他公司正在融资尽调，我把材料匿名寄给了领投的机构。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "前助理截屏给他，打草惊蛇",
+    "tension": "从身边人找他的软肋",
+    "text": "我加回他前助理的微信，从她朋友圈的定位开始拼他的行程。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "他录音反咬我勒索",
+    "tension": "给他一个用钱买平安的机会",
+    "text": "我约他喝茶，说当年那笔账，今天可以谈个体面的还法。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "小号被扒，舆论反转成我网暴他",
+    "tension": "在他流量最高的地方点火",
+    "text": "他直播带货当晚，我用小号在弹幕里贴出质检报告的截图。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "被挖的人发现真相，回头给他报信",
+    "tension": "掏空他的班底而不留名",
+    "text": "猎头来挖他团队的人，我隐瞒了自己就是背后的推荐方。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "错过窗口期，他缓过来第一个收拾我",
+    "tension": "收刀比出刀更难",
+    "text": "他母亲住院那晚，我把编辑好的曝光帖从草稿箱删了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "我的工作、我的人缘、这个圈子",
+    "tension": "选他最风光的场合揭他的底",
+    "text": "年会上轮到我发言，我脱稿讲了三年前那个项目真正的来历。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "他先察觉的话，用资本优势把我摁死在起步期",
+    "tension": "用壮大自己完成复仇",
+    "text": "我注册了新公司，把他看不上的那个细分市场悄悄吃下。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "身体先垮在他给的工作量里",
+    "tension": "忍辱攒证据，等劳动仲裁一次算清",
+    "text": "他给我穿小鞋，我照单全收，加班记录一条条都留着。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "记者保护不了信源时，第一个被供出的是我",
+    "tension": "借舆论的东风烧他的船",
+    "text": "媒体在追他们公司的环保问题，我把我拍的车间照片给了记者。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "他核对访客记录，想起我那天问过什么",
+    "tension": "光明正大进门，暗地抄他的底",
+    "text": "我以谈合作的名义去他公司，记下前台快递单上的供应商名。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "被发现就是蹲守跟踪，跳进黄河洗不清",
+    "tension": "隔墙收集他酒后吐的真言",
+    "text": "我知道他今晚在哪应酬，订了他隔壁包间。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "他收函那天回头看，我每句汇报都像讽刺，恨意翻倍",
+    "tension": "最后的平静里藏着倒计时",
+    "text": "律师函寄出前，我在公司照常给他汇报工作，一条不落。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "律师的操守不是钱能买的，反手举报我",
+    "tension": "用钱在他身边买一个信息口",
+    "text": "我给他最信任的律师介绍了一单好生意。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "从此我是亲戚圈里那个不顾全大局的人",
+    "tension": "掀了饭桌，谁都别和稀泥",
+    "text": "家族群里长辈劝我们以和为贵，我直接把借条发进了群里。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "供应商破产连累几百个工人，这笔账算谁的",
+    "tension": "曲线绞杀，手上不沾血",
+    "text": "我先举报了他的上游供应商，让断货替我出手。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "我在婚礼上每笑一次，刀就钝一分",
+    "tension": "最狠的姿态是让所有人看见我的大度",
+    "text": "他女儿婚礼请我，我去了，红包包得比谁都厚。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "业委会里也有他的人，材料当晚到他手上",
+    "tension": "借邻居们的公愤办私仇",
+    "text": "物业要换届，我把他侵占维修基金的证据交给了业委会。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "敲诈和维权的边界，一步踏错我先入狱",
+    "tension": "最后通牒，要么体面要么死",
+    "text": "我开出一个价：公开道歉加赔偿，否则材料明天见报。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "万一我出意外，证据永远沉底",
+    "tension": "防丢，也防人心",
+    "text": "我把证据分散存了三个网盘，谁都没告诉，包括我律师。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "心软这一次，他未必领情",
+    "tension": "复仇的底线在哪里，今天知道了",
+    "text": "看到他家孩子蹲在路边系鞋带，我把相机收了，今天算了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "脏水泼出去，先脏的是我的名声",
+    "tension": "借姻亲的压力釜底抽薪",
+    "text": "我把他婚外情的存在透露给了他岳父的生意伙伴。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "她婚礼的平静，和我多年的朋友身份",
+    "tension": "最后期限前的摊牌，成与不成都是终局",
+    "text": "我在她婚礼请柬的回执上写了不去，然后拨通了她的电话。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "她永远不会知道，或者知道时已太迟",
+    "tension": "爱到不署名，付出和告白只能选一个",
+    "text": "我把戒指退了，用那笔钱替她付了店里的违约金，没留名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "我评优的资格，和老板对我的信任",
+    "tension": "一句真话拆了自己立了三年的功",
+    "text": "我当着全部门承认：方案是她的创意，我只是改了PPT。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "我在桌上的中立位置，和这圈人的情面",
+    "tension": "当着一圈人的面划进自己的保护圈",
+    "text": "酒桌上有人逼他喝罚酒，我抢过来干了：这人我保了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "她留下来是出于爱还是出于可怜，永远分不清",
+    "tension": "把选择权交出去，也等于把她推开一半",
+    "text": "我把病历递给她：想清楚，要不要和只剩两年的人谈以后。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "我的矜持，和这段感情最后的机会",
+    "tension": "把主动权塞给他，自己承担被已读不回",
+    "text": "我发了条仅他可见的朋友圈：明天航班，你走我就不等了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "我应得的那份，和兄弟间最后的和气",
+    "tension": "用放弃利益换一个说话的资格",
+    "text": "退家族群之前，我留下一句：爸的病我管，家产我不要。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "我的工龄、赔偿和这个年纪的再就业",
+    "tension": "用一张老脸换一个年轻人的前程",
+    "text": "裁员名单有我徒弟，我举手：那就把我也加上。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "他转身走掉，我连退回恋人身份的路都没了",
+    "tension": "最后通牒式表白，没有中间态",
+    "text": "我把户口本拍在桌上：要么今天领证，要么别再见了。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "我匿名三年的安全区，和现实中的工作",
+    "tension": "几万人在线，秘密出膛就收不回",
+    "text": "直播间连麦时我说漏了嘴：那个人，其实是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "这个行业里我十年攒下的人脉",
+    "tension": "掀桌式表态，不留退路",
+    "text": "我把辞职信递给总监：举报材料我上周就寄总部了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "这个占营收四成的客户",
+    "tension": "把桌下的交易端到桌上",
+    "text": "我跟甲方说：压价可以，上次的回扣我没给，也不打算给。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "我在她心里仅存的那点好印象",
+    "tension": "迟到十年的道歉，先认罪的才轻松",
+    "text": "同学聚会我端着酒过去：当年那封情书是我撕的，对不起。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "她若拒绝，我人房两空",
+    "tension": "用全部身家代替一句嫁给我",
+    "text": "我把房子挂出去那天告诉她：愿意的话，首付写你名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "她也许正在等，这一删就是一生",
+    "tension": "有些表态用沉默完成",
+    "text": "登机口，我把那条没发出去的短信删了，没回头。",
+    "type": "choice"
+  },
+  {
+    "chars": 14,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "下一轮席位调整里我的名字",
+    "tension": "一票改变不了结果，但所有人记住了我",
+    "text": "董事会上我投了唯一的反对票。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "孩子亲妈那边，再无转圜",
+    "tension": "一句话重组一个家",
+    "text": "我把孩子叫过来：以后见了那位阿姨，叫妈。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "这个家从此没有我的位置",
+    "tension": "让最疼他的人看清他",
+    "text": "我把聊天记录打印出来放在岳父面前：您儿子是什么人，在上面。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "我的饭碗，赌一个不确定的回应",
+    "tension": "裸辞式告白，轻重一起放下",
+    "text": "我把工牌、门禁和心里话一起放她桌上，赶末班地铁走了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "她若也不让，孩子要在法庭上做选择",
+    "tension": "舍财留人，底线划得清清楚楚",
+    "text": "调解室里我松口：房子归她，孩子的抚养权我不让。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "全家人的生计，和我哥的职业生涯",
+    "tension": "大义灭亲式表态，弹幕会把我撕碎",
+    "text": "我对镜头说：塌房品牌的代言人，是我亲哥。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "最后一点体面，可能换来更难堪的话",
+    "tension": "讨一个存在过的名分",
+    "text": "我拦住要走的他：可以不爱我，别再说我们不认识。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "我妈知道了会犯心脏病",
+    "tension": "用真金白银买一份清静",
+    "text": "我把欠条撕了：钱不用还，别再来我家店里闹。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "对方嫌麻烦撤回报价，我两头落空",
+    "tension": "跳槽谈判里先保人再保价",
+    "text": "我给猎头回话：翻倍挖我可以，我的团队一个不能动。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "她宁可信他，我成了挑拨的人",
+    "tension": "真话出口，友谊当场过堂",
+    "text": "我把闺蜜拉进楼梯间：你男友昨晚在我店里刷了别人的卡。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "全家的补偿款进度，和亲戚的埋怨",
+    "tension": "一屋子人等着我点头，我成了钉子",
+    "text": "拆迁签字现场，我说：我家不签，多少钱都不签。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "绩效考核表上我的名字",
+    "tension": "五百人的群里，把事做绝",
+    "text": "我在公司群@老板：加班费不要了，我要一个道歉。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "她那一半票根，可能永远用不上",
+    "tension": "仪式感拉满，主动权全给对方",
+    "text": "我把两张连座票撕成一人一半：去不去，你定。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "上诉减刑的机会",
+    "tension": "认罪不认错，各守各的底线",
+    "text": "法庭上我放弃上诉：罪我认，但那句话我没说过。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "他当选后我在科室的日子",
+    "tension": "退一步，但不跪",
+    "text": "我告诉他：院长竞选我退出，但我也不会投你。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "她选了便宜的方案，我恨自己一辈子",
+    "tension": "把生死的决定权还给出事的人，自己承担不孝的骂名",
+    "text": "手术同意书只能签一个方案，我把笔递给刚醒来的母亲。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "我哥的前程，和父母眼里这个家的完整",
+    "tension": "法律和血缘，只能对一个忠诚",
+    "text": "我在举报信落款签下真名，附上我哥经手的全部流水。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "钱散出去，哪个都没救成的可能",
+    "tension": "两半都不够，平分等于两个都耽误",
+    "text": "我把唯一的救命钱分成两半：一半给化疗的妈，一半给妹妹的学费。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "我的房贷、保险和这个年纪的全部退路",
+    "tension": "用中年人的饭碗换年轻人的活路",
+    "text": "裁员最后一个名额，我划掉单亲妈妈的名字，写上自己的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "她的事业，和我们三年感情",
+    "tension": "真相和爱人，只能救一个",
+    "text": "我按下发送键：这段视频会毁了她，也能还死者一个清白。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "瞒不住那天，病情和信任一起爆发",
+    "tension": "瞒住病情也瞒住前程，两头都在倒计时",
+    "text": "我把录取通知藏进抽屉，先带爸去复查，复读的事瞒一天算一天。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "未来十年替两个人的错误还债",
+    "tension": "用净身出户换一个体面收场",
+    "text": "我在离婚协议上签字：孩子归她，债务归我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "我的清白记录，和东窗事发后的刑责",
+    "tension": "一句假话两头都是深渊",
+    "text": "我把证词改了：保住公司的项目，也把自己送进伪证的风险。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "他放弃治疗，是我亲手递的话筒",
+    "tension": "孝顺到残忍，还是残忍到孝顺",
+    "text": "我把氧气面罩的决定权交还给父亲：您自己定，我们都听您的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "三年后同学会上，我用什么心态举杯",
+    "tension": "意气用事的成全，赌的是半生起点",
+    "text": "我把保研名额让给要留校照顾家庭的室友，自己去挤招聘会。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "单子丢了，全队人的工资都没着落",
+    "tension": "拿职位给兄弟们挡刀",
+    "text": "甲方要我换掉跟了五年的施工队，我回：要换先换我。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "我的举报动机被查，英雄变内鬼",
+    "tension": "给正义也给对方连夜销毁证据的时间",
+    "text": "我把偷拍的质检报告同时发给监管局和工厂老板。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "全家族把我当成卖了丈夫的女人",
+    "tension": "孩子不能没有妈，也不能没有真相",
+    "text": "法庭上我只能保一个人，我站起来指认了丈夫。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "病床前无人签字的晚年",
+    "tension": "用钱买断亲情绑架，也买断了晚年",
+    "text": "我把拆迁款分给两个儿子：一人一半，我的养老谁也别管。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "我的病情，等不到下一批药",
+    "tension": "陌生人的孩子和我的命，放在同一杆秤上",
+    "text": "我把最后一支进口药让给隔壁床的孩子，签了放弃优先使用。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "她看了恨我，不看我憋死",
+    "tension": "把引爆的按钮交给当事人",
+    "text": "闺蜜问她丈夫出轨的证据，我把U盘放她面前：看不看你定。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "匿名被查出那天，行业里再无我的工位",
+    "tension": "人在屋檐下，头顶埋着雷",
+    "text": "我按老板的指示做账，同时把原始凭证寄给了税务局。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "人财两空后，孩子连学费都没有",
+    "tension": "百分之一的希望，百分之百的代价",
+    "text": "病危通知书上我签了全力抢救，押上全部积蓄和房子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "官司输了，我赔光还要连累兄弟",
+    "tension": "赎身式创业，赌所有人陪我跳一次",
+    "text": "我付了竞业违约金，带走的不止技术，还有整个病了的团队。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "绑匪发现报警，撕票只需要一秒",
+    "tension": "赎人和抓人同时进行，两头都可能翻车",
+    "text": "我给绑匪转了钱，同时把转账截图发给了警方。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "老师眼里我们成了护短的一家",
+    "tension": "保住孩子的面子，吞下家长的里子",
+    "text": "我没拆穿孩子的谎，先替他向老师认错，回家再关门谈。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "她转身离开，我连婚房都赎不回",
+    "tension": "梦想和婚姻，我先斩后奏选了一个",
+    "text": "我把婚房卖了救公司，合同签完才敢告诉未婚妻。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "我再也穿不了这身白大褂",
+    "tension": "用职业生命换一个迟到二十年的说法",
+    "text": "听证会上我说了真话：执照和父亲的清白，只能留一个。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "我的上司，从此把我当叛徒",
+    "tension": "阵营和良心各投一票，票只有一张",
+    "text": "我把票投给对手的方案，因为它真能救那条产品线。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "出殡那天，门口站着收房的人",
+    "tension": "用最后的资产换最后的人伦",
+    "text": "我跟催债的说：房子收走，先让我把妈的丧事办完。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "我在法庭上的最后一张牌",
+    "tension": "赢官司和保住她的体面，只能选一个",
+    "text": "我删掉能翻盘的聊天记录——那里面也有她最不堪的秘密。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "全组人的年终奖，和我一起蒸发",
+    "tension": "用职业生涯换一次心安",
+    "text": "我在直播里公开了产品的缺陷：工作丢了，但睡得着了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "锅没人背了，但全公司都不敢再用我",
+    "tension": "与其被分食，不如掀桌子",
+    "text": "领导让我俩二选一背锅，我把两份录音发进了公司大群。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "孩子以为爸爸不要他了",
+    "tension": "爱到放手，体面到自虐",
+    "text": "我把孩子送回条件更好的前妻家，退出了家长群。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "围标的圈子知道是我，从此封杀了",
+    "tension": "行业规则的叛徒，食物链的良知",
+    "text": "投标截止前一小时我撤了标书，把底价透给更缺这单的小厂。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0001",
+    "scene": "lichang",
+    "stakes": "律师费要退，行业里再没人敢雇我",
+    "tension": "临阵倒戈，从己方证人变成对方王牌",
+    "text": "开庭前一天，我通知委托我的公司：明天的证人席上，我会说实话。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0002",
+    "scene": "lichang",
+    "stakes": "两边都把我当成了不可控的人",
+    "tension": "一个动作，从多数派变成弃权者",
+    "text": "举手表决时，我把举到一半的手放下了。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0003",
+    "scene": "lichang",
+    "stakes": "这话传回我方，我立刻被踢出代理团队",
+    "tension": "越过敌我线核对真相",
+    "text": "我约对方阵营的律师喝咖啡，说我们代理的这个人，可能骗了我们所有人。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0004",
+    "scene": "lichang",
+    "stakes": "两年心血，和即将到手的胜诉",
+    "tension": "亲手推翻自己的立场",
+    "text": "我连夜把双方材料交叉对了一遍，发现我们一直在替撒谎的人打官司。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0005",
+    "scene": "lichang",
+    "stakes": "被指控作伪证的风险，和双方阵营的信任",
+    "tension": "当众推翻自己，承担伪证嫌疑",
+    "text": "听证会上轮到我发言，我说：我收回上次的证词。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0006",
+    "scene": "lichang",
+    "stakes": "他可以接受道歉，也可以把道歉挂出来羞辱我",
+    "tension": "低头给宿敌递台阶",
+    "text": "我去找了被我骂了三年的对家，说那件事，可能是我错了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0007",
+    "scene": "lichang",
+    "stakes": "董事长若把邮件转出来，我两头不是人",
+    "tension": "表面站队，暗中换轨",
+    "text": "董事会上我投了赞成票，散会后把反对意见单独发给了董事长。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0008",
+    "scene": "lichang",
+    "stakes": "保密协议在我脖子上收紧",
+    "tension": "借旧主的刀，帮新阵营杀人",
+    "text": "我把老东家的内部培训材料，带给了正在起诉他们的公益组织。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0009",
+    "scene": "lichang",
+    "stakes": "被识破那天，两边都容不下我",
+    "tension": "当一天双面人，换一次关键阻击",
+    "text": "我假装还站在原阵营，把他们的行动时间表透给了对面。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0010",
+    "scene": "lichang",
+    "stakes": "他认为我背叛，律师费不付还反咬我",
+    "tension": "从辩护者变成劝降者",
+    "text": "我不再替老板辩护，转而劝他把钱退给工人，争取宽大。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0011",
+    "scene": "lichang",
+    "stakes": "我的工作就是开发商给的",
+    "tension": "从谈判代表变成钉子户的军师",
+    "text": "拆迁动员会上我站起来说我家不搬，而且我帮邻居们把条款看完了。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0012",
+    "scene": "lichang",
+    "stakes": "我交代的一切，都会成为呈堂证供",
+    "tension": "用倒戈换想保的人",
+    "text": "我跟检察官说，我愿意转做污点证人，条件是名单上划掉两个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0013",
+    "scene": "lichang",
+    "stakes": "承认失实，我的记者生涯可能终结",
+    "tension": "亲手推翻自己的成名报道",
+    "text": "我重新采访了当年我报道过的那个骗子，发现他才是唯一的受害者。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0014",
+    "scene": "lichang",
+    "stakes": "院办认为我泄密，家属认为我打官腔",
+    "tension": "医生站到了患方与院方中间",
+    "text": "家属闹到医院，我穿上白大褂挡在科室门口，说责任流程我来讲。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0015",
+    "scene": "lichang",
+    "stakes": "儿子问我：爸你到底是谁这边的",
+    "tension": "从护犊的家长变成讲理的人",
+    "text": "家长群里我发了长文，替那个被孤立的孩子说话，先检讨了我儿子的错。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0016",
+    "scene": "lichang",
+    "stakes": "老领导亲自打电话来问的那一刻",
+    "tension": "用拖延完成无声的转向",
+    "text": "我答应了帮老领导站台，宣传稿却一封都没发出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0017",
+    "scene": "lichang",
+    "stakes": "老盟友把我踢出群，新阵营也未必收我",
+    "tension": "公开换边，撬动整个楼栋的格局",
+    "text": "业委会改选，我把票投给了我一直反对的人，还拉了三个邻居一起。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0018",
+    "scene": "lichang",
+    "stakes": "群聊截图流出去，我成了内鬼",
+    "tension": "潜伏在旧阵营的信息口",
+    "text": "我留在前任公司的群里没退，偶尔点赞，直到他们聊起那个计划。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0019",
+    "scene": "lichang",
+    "stakes": "我成了全家族的公敌",
+    "tension": "掀翻牌桌，让所有阵营一起输",
+    "text": "家族逼我站队争遗产，我提议全部捐了，谁也别争。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0020",
+    "scene": "lichang",
+    "stakes": "我的绩效考核和这个季度的奖金",
+    "tension": "采购负责人替供应商说话",
+    "text": "供应商大会上，我公开说：压价压到这份上，是我们不对。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0021",
+    "scene": "lichang",
+    "stakes": "竞业和保密协议，够我赔到倾家荡产",
+    "tension": "开发商法务倒戈做业主军师",
+    "text": "我去见了被我拒之门外的维权业主，说你们的材料，我帮你们改。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0022",
+    "scene": "lichang",
+    "stakes": "毕业和推荐信，都悬了",
+    "tension": "拒绝给权威背书，哪怕他是恩师",
+    "text": "我把导师让我签名的论文逐条核实，然后撤下了自己的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0023",
+    "scene": "lichang",
+    "stakes": "十万粉丝是最先反噬的力量",
+    "tension": "流量主播公开换边",
+    "text": "直播连麦时，我当着十万粉丝说：这次我站对面。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0024",
+    "scene": "lichang",
+    "stakes": "他们早晚发现情报在我这里断了流",
+    "tension": "做一个只进不出的信息黑洞",
+    "text": "我出席他们的饭局照旧，只是再没透露过我这边半句真消息。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0025",
+    "scene": "lichang",
+    "stakes": "两边都撤回了给我的资源",
+    "tension": "不选边，把火力引回正事",
+    "text": "两边都来拉我站台，我把演讲主题换成了选区那条烂尾八年的路。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0026",
+    "scene": "lichang",
+    "stakes": "家长群里我的人缘，儿子的面子",
+    "tension": "当众反转，站到被围攻者一边",
+    "text": "班级群里家长围攻转学生，我说：欺负人的是我儿子，我已让他道歉。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0027",
+    "scene": "lichang",
+    "stakes": "违约金，和不专业的名声",
+    "tension": "用缺席代替签字",
+    "text": "签约仪式上，我借口去洗手间，再没回那张桌。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0028",
+    "scene": "lichang",
+    "stakes": "公司查到实名意见，我在业内的路越走越窄",
+    "tension": "借政策风向公开换边",
+    "text": "监管部门征求意见，我以业内人身份实名支持了对我们公司不利的那条。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0029",
+    "scene": "lichang",
+    "stakes": "行业资质可能被吊销",
+    "tension": "推翻自己的专业结论",
+    "text": "我翻出三年前我签字的那份评估报告，公开发了更正声明。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-lichang-0030",
+    "scene": "lichang",
+    "stakes": "播出事故，我负全责",
+    "tension": "给受害者一个当场对质的窗口",
+    "text": "我按下直播间连线键，对面是被我们节目组剪辑坑过的嘉宾。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "这个岗位，和我在这个行业重新做人的机会",
+    "tension": "一句实话炸掉整场面试，也炸掉歧视的伪装",
+    "text": "面试官追问简历空窗期，我说：那两年在坐牢。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "他坚持认下去，满场都会搜那个名字",
+    "tension": "否认得越从容，心虚得越明显",
+    "text": "酒会上有人喊我的旧名字，我笑着举杯：认错人了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "三十五岁从头考证，行业不等人",
+    "tension": "壮士断腕，在谎言塌之前先自己拆",
+    "text": "我把假学历原件烧了，第二天递辞呈，从考证重来。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "榜一大哥的钱，和老家亲戚的眼光",
+    "tension": "与其被扒，不如自己扒",
+    "text": "直播间刷屏我的真名，我摘下口罩：对，是我，带货不丢人。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "每吹一次蜡烛，谎言就厚一层",
+    "tension": "知道了答案，选择不拆礼物",
+    "text": "我把亲子鉴定书折好放进内袋，照常回家给孩子过了生日。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "顶包的那位如今是席间的座上宾",
+    "tension": "当众翻案，迟到十年的清白",
+    "text": "同学会上有人问起处分，我说：是我替人顶的，今天把名字要回来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "五百万粉丝，和用假身份接的所有合同",
+    "tension": "亲手杀死自己造的人设",
+    "text": "我注销了经营五年的假身份账号，发了条真名真脸的视频。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "她翻到的不是户口，是我全部的谎言",
+    "tension": "一厘米的距离隔开两个身份",
+    "text": "丈母娘翻行李箱时，我把那本假户口压到了箱底。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "坦白从宽在公司制度里未必成立",
+    "tension": "抢在崩塌前自己引爆，换个说法的机会",
+    "text": "背调电话打来前，我先约了HR：查我之前，听我说完。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "对方要求按手印，左手救不了我",
+    "tension": "一个签名就是一条命",
+    "text": "我用左手签了字——右手笔迹和档案里对不上。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "他嘴里的我，比我价目表传得更快",
+    "tension": "一顿饭钱买断一段过去",
+    "text": "认出我的老邻居来店里，我给他免了单，删了他电话。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "靠人设签的三个代言，违约金在路上",
+    "tension": "降维坦白，把攻击点变成卖点",
+    "text": "我删掉海归精英人设，简介改成：初中文凭，摆过地摊。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "单位、家人、社保记录，全部对得上号了",
+    "tension": "一个名字，把地下情晒进系统里",
+    "text": "医院要家属签字，我在配偶栏写下三年没敢用的真名。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "介绍人手里的优质资源名单，再没我",
+    "tension": "见光死的坦白，赌她爱的是人",
+    "text": "相亲对象夸我的房，我承认：我只是替房东看房的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "我的编制，和那个被我顶替者的下落",
+    "tension": "用今天的前途换二十年前的公道",
+    "text": "我把顶替入学的旧通知书锁进柜子，去教育局递了自查材料。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "他录音了，自首从坦白变成了实锤",
+    "tension": "用自爆当武器，赌他比我更怕光",
+    "text": "深夜勒索电话又来，我说：再逼我，就去自首，大家一起完。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "她拿起的那部，决定我们还有没有以后",
+    "tension": "把审判权交给被骗最深的人",
+    "text": "我把两部手机并排放在桌上，问她想先听哪个版本的我。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "弟弟的前程，替我的过去抵了押",
+    "tension": "一张脸两个身份，赌系统认不出",
+    "text": "警方核对身份，我报出了双胞胎弟弟的身份证号。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "他手里那份原件，随时能要我的命",
+    "tension": "知遇之恩和定时炸弹是同一个人",
+    "text": "我辞退了帮我伪造履历的贵人，聊天记录截图存了但没发。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "她的信任，和我前一段婚姻的烂摊子",
+    "tension": "迟到的坦白，比谎言多一层伤",
+    "text": "我摘下婚戒说了实话：我结过婚，还没离干净。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "赌错就是当场扣留，连返程都没有",
+    "tension": "自己揭开盖子，赌盖子下面已经空了",
+    "text": "入境处我主动补交材料，赌十年前的案底过了追诉期。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "孩子长大后会顺着这句话查到另一半",
+    "tension": "用半句真话顶住一个童年",
+    "text": "孩子问我为什么躲摄像头，我说：爸欠过人钱，没欠人良心。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "受助方顺藤摸瓜，我的真实身份藏不住了",
+    "tension": "把还错的人情还给该得的人",
+    "text": "我把捐了五年的匿名善款改成实名——被感谢错的人不该是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "她若报警，我的人生从八年前算起全部作废",
+    "tension": "冒名者主动敲门，对方可能是深渊",
+    "text": "我给真正的她发消息：你的身份我用了八年，该还了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "利滚利的旧账，认下就是十年",
+    "tension": "用认账换一个重新做人的起点",
+    "text": "债主拿着旧照片堵门，我递上现在的身份证：人没变，钱我认。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "他在国外一个视频电话，就能让灰烬复燃",
+    "tension": "证人离场，秘密只剩我一个保管员",
+    "text": "我把最后一个知情者送上出国的飞机，回来烧了所有合影。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "父亲那边的亲戚，从此把我除名",
+    "tension": "一个姓氏的回归，是一个家族的决裂",
+    "text": "我在家族群发了改名公证：从今天起，用回母亲给的姓。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "行业背调黑名单，一上就是永久",
+    "tension": "把死穴和真本事同时推上桌",
+    "text": "面试最后一轮我摊牌：学历是买的，方案是我做的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "她爱的若只是那身行头，工装就是散场服",
+    "tension": "卸掉所有包装，去见被包装骗来的人",
+    "text": "我把租来的名表行头退了，穿工装去赴那场摊牌的约。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "她被骗婚的证据一旦坐实，我要负刑责",
+    "tension": "抢在她发现真相前，先毁掉合法的假象",
+    "text": "妻子要拿结婚证办贷款，我抢先申请了婚姻无效。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "报价单的来路，和对手公司那条内线",
+    "tension": "用真实竞价压他当场表态",
+    "text": "我把竞争对手的报价单从文件夹里抽出来，推到他面前。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "他接受之后，我方账期的风险敞口",
+    "tension": "让一步的假象里藏着现金流的绞索",
+    "text": "我说价格不动，但付款周期从九十天改成三十天。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "被撞上，就坐实了我不讲规矩",
+    "tension": "偷看还有谁在跟他抬价",
+    "text": "我借口去洗手间，绕到前台看了一眼今晚的访客登记。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "他记恨我，执行阶段处处使绊子",
+    "tension": "越过他，借上级的口施压",
+    "text": "我提起上周饭局上他老板说的那句话，问他认不认。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "他顺势再砍一刀，砍进骨头里",
+    "tension": "亮穷底换一点同情分",
+    "text": "我把计算器转过去给他看，说这个价我们真的就是赔本赚吆喝。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "他不喊，这单就真没了",
+    "tension": "用离场逼他开口喊停",
+    "text": "我合上笔记本起身，说这个数我不如回去把项目砍了。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "拖长的每一天都夜长梦多",
+    "tension": "在边角条款里埋真正的主战场",
+    "text": "我说主合同先放放，先把质保条款谈清楚。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他翻脸掀桌，谈判当场死亡",
+    "tension": "在他和他上级之间插一根刺",
+    "text": "我压低声音问他，这个价格你老板知道吗。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "被当场戳穿就是欺诈",
+    "tension": "让他看见想看的，藏起要命的",
+    "text": "他说要验资，我把账户真余额那页压在文件夹最底下。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "他拿了预付款再毁约，我两头空",
+    "tension": "先吞亏换现金落袋为安",
+    "text": "我当场答应压价两成，条件是预付一半。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他撤单去找愿意签独家的下家",
+    "tension": "用签字权换一条活路",
+    "text": "我把合同里独家两个字圈出来，说拿掉这个我立马签。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "他认出文件并不适用于这个品类",
+    "tension": "借官方口径堵他的压价话术",
+    "text": "我打开手机，给他看行业协会刚发的指导价文件。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "司机回头把我卖了",
+    "tension": "从司机嘴里套他最近的行程和底牌",
+    "text": "我提议休会十分钟，下楼给他司机递了根烟。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "他算准我的死线，慢慢磨",
+    "tension": "用自爆家底换速战速决",
+    "text": "我把厂房租约和员工名单拍在桌上，说撑死三个月，你看着办。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "赌输了，赔掉的是我的积蓄",
+    "tension": "用自己的钱给这笔交易上保险",
+    "text": "我提议对赌：三个月做不到约定销量，差额我自掏腰包补。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "他觉得我查他家人，当场冷脸",
+    "tension": "把谈判从钱转到人情",
+    "text": "我突然问起他女儿留学的事，说有个朋友在那边做中介。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "他顺藤摸瓜找到我的独家货源",
+    "tension": "用模糊信息护住供应链",
+    "text": "他问原材料来源，我报了个大产区的名字，没说具体厂。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "他识破了，或者真有一家我根本谈不动",
+    "tension": "演一出竞价戏逼他加价",
+    "text": "我当着他的面给另一家发了条消息，说考虑好了。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "拖的这一周，对手趁虚而入",
+    "tension": "拖字诀换重新布局的时间",
+    "text": "我说今天到这里，方案我发您邮箱，下周再说。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "他真去查了，发现我谁也不认识",
+    "tension": "借地点暗示我上面有人",
+    "text": "我约他改到管委会对面的茶楼谈，让他自己琢磨。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "他发现我核实过，觉得不被信任",
+    "tension": "顺着他给的材料查他的真客户",
+    "text": "我翻他递来的宣传册，记下案例页那几个客户名。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "他揪住短板继续压价",
+    "tension": "认怂一处，换信任一处",
+    "text": "我承认技术方案不如大厂，但售后我亲自盯。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "货款两空的概率",
+    "tension": "用赊销赌市场，也赌他的人品",
+    "text": "我说定金不用打，先发货，卖出去再结。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他警觉到我在做他的背景调查",
+    "tension": "戳他的旧伤疤，乱他心神",
+    "text": "我问他上次那个合伙人为什么退股，话只说半句。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "谎言越大，尽调越过不去",
+    "tension": "用裁剪过的数据撑住报价",
+    "text": "他要看排产计划，我给了他旺季那版，藏起现在的空转。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "合资意味着他从此进我的董事会",
+    "tension": "换一张牌桌重开一局",
+    "text": "我提议不谈收购谈合资，双方各出一半。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "谎被拆穿，信誉清零",
+    "tension": "用假急事体面脱身",
+    "text": "我接了个闹钟假装的电话，说医院那边催我，改天再谈。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "他反问消息来源，我答不上来",
+    "tension": "借对手的好消息制造他的焦虑",
+    "text": "我提到他竞对上个月刚拿了融资，语气很随意。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "公司不认，我个人担责",
+    "tension": "先斩后奏，逼法务和老板追认",
+    "text": "我当场在合同空白处手写一条补充条款，先签了字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "他要求直接见我老板，我被架空",
+    "tension": "把矛盾上交，把自己摘出来",
+    "text": "我说这价格是我老板给的红线，多一分我做不了主。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "手电筒的电，和我暴露行踪的风险",
+    "tension": "停产三年的厂，排班表上却有上个月的名字",
+    "text": "我用手电照着墙上的排班表，把最后一个名字拍了下来。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "一脚踩空，和被巡夜保安发现",
+    "tension": "爬得越高，看得越全，也越下不来",
+    "text": "我顺着消防梯爬上天台，看那条巷子的灯到底通向哪。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "被监控拍到翻别人抽屉，我先成嫌疑人",
+    "tension": "全公司的东西都寄给了同一个人",
+    "text": "我翻开工位抽屉最底层，那沓快递单的收件人都是同一个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "前台认出我就是上周来闹事的人",
+    "tension": "一身制服是最好的隐身衣",
+    "text": "我借口送外卖混进那栋写字楼，记下了十八层的门禁时间。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "拆开了家的一角，可能就缝不回去",
+    "tension": "母亲瞒了我三十年的另一个身份",
+    "text": "我把母亲旧大衣的内衬拆开，里面缝着一张九十年代的工作证。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "C区锁着的东西，也许锁着就是为了防我",
+    "tension": "废弃区域有新车辙，答案就在门后",
+    "text": "我沿着地库里那道新鲜轮胎印，一直走到被锁住的C区。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "主播看到留言下播，线索就此中断",
+    "tension": "借几万双眼睛替我认线索",
+    "text": "我在直播间留言，问主播身后门上贴的是哪家医院的封条。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "房东中途折返，我连借口都编不圆",
+    "tension": "支开人只有十分钟，翻找要掐着表",
+    "text": "我把房东支去修水管，自己进了那间永远上锁的次卧。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "家里还有别人进出过，我惊动了谁",
+    "tension": "锁换了，说明有人比我先想到",
+    "text": "我用备用钥匙回了趟老宅，阁楼的行李箱锁被人换过了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "暴露我深夜去过那栋楼",
+    "tension": "撒一把饵，心虚的人先咬钩",
+    "text": "我在业主群发了张楼道照片，看谁先跳出来问我去了几楼。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "护工回头看见我，我就再没有第二次机会",
+    "tension": "夜里的垃圾车装的未必是垃圾",
+    "text": "我跟着那个每天半夜倒垃圾的护工，走到住院部后楼梯。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "这一退，现场可能就被人清干净了",
+    "tension": "多看一步可能踩雷，先留后手",
+    "text": "我退回电梯口，决定天亮前先把看到的告诉律师。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "电脑有登录日志，他明早就会知道",
+    "tension": "整层楼只剩我和他电脑的开机密码",
+    "text": "我假装加班留到最后，等保洁走后打开了他的电脑。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "保安嘴快，明天全物业都知道有人在查",
+    "tension": "一包烟换一个值班室里听来的名字",
+    "text": "我递给保安一包烟，套他上个月是谁调走了监控硬盘。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "翻动病人的私物，被家属撞见就说不清",
+    "tension": "昏睡的人身边，一直有个影子在付钱",
+    "text": "我翻开病床枕头下的缴费单，缴费人签的是个陌生名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "学妹被识破，连累她丢了实习",
+    "tension": "借一张生面孔问一句熟脸问不出的话",
+    "text": "我把工牌借给学妹，让她替我去前台问那天的访客记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "跟丢的风险和被发现的风险一样大",
+    "tension": "两个人里只有一个通向真相，押错即落空",
+    "text": "我蹲在天桥底下听完那两个人的争执，才决定跟哪一个。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "短信里的内容，可能改变我接下来所有选择",
+    "tension": "信息越多越危险，我先挑最不伤人的看",
+    "text": "我把找到的旧手机充上电，先只看了通话记录没敢看短信。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "门里住的人认出我根本不是物业",
+    "tension": "门开的瞬间，谎言和真相只有一步",
+    "text": "我谎称物业查漏水，敲开了七楼三年没亮过灯的门。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "柜子里开出来的东西，未必是我想要的",
+    "tension": "每一声锁响都可能惊动保安",
+    "text": "我把那串捡来的钥匙挨个试了整层楼的储物柜。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "对方发现纸条被动过，从此再无线索",
+    "tension": "留一个还没惊动对方的观察哨",
+    "text": "我没声张，把纸条拍了照又原样塞回门缝。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "她察觉我的用意，转头告诉了当事人",
+    "tension": "叙旧的壳，套话的心",
+    "text": "我约前同事喝奶茶，绕着弯子打听她被裁那天的会议记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "门后其实还有人，我的脚印已经留下",
+    "tension": "全身而退，线索装进口袋",
+    "text": "我退出那个房间，反手把门虚掩回原来的角度。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "问急了，全家都知道我在翻旧账",
+    "tension": "亲戚的沉默比回答更有信息量",
+    "text": "我在家庭群里旁敲侧击，问舅舅当年为什么突然搬去南方。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "院长一个电话，我的选题和执业都悬了",
+    "tension": "证件一亮就没有回头话",
+    "text": "我亮出记者证，问院长那批过期药最后流向了哪里。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "相册内容一旦被我看见，我和他就完了",
+    "tension": "一步跨过信任的边界就再也回不去",
+    "text": "我用他平板上没退出的账号，点开了那个加密相册。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "巷子没有监控，我出事也没人知道",
+    "tension": "抠掉门牌就是此地无银",
+    "text": "我跟着导航走进城中村最深的巷子，找门牌被抠掉的那栋。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "表哥多嘴问一句，全家都知道我在查谁",
+    "tension": "熟人一句话，顶我蹲三天",
+    "text": "我托做物业的表哥调了电梯监控，只要除夕那晚的。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "盯一夜，可能什么也等不到",
+    "tension": "退一步，把暗处让给猎物",
+    "text": "我先撤到楼下便利店，隔着玻璃盯住那个单元门口。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "高速上被甩脱，或者被逼停",
+    "tension": "跟车不加油不休息，赌对方先停",
+    "text": "我跟学校请了假，开车跟着那辆灰色面包车上了高速。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0001",
+    "scene": "taowang",
+    "stakes": "所有能证明我清白的聊天记录也一起没了",
+    "tension": "与过去断联，从此只有一个活口知道我活着",
+    "text": "我把手机卡掰断冲进下水道，换了台只存一个号码的老人机。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0002",
+    "scene": "taowang",
+    "stakes": "被发现就是从职场逃亡变成社会新闻",
+    "tension": "体面人最后的出逃口是最脏的门",
+    "text": "我从后厨的泔水门钻出去，混进了收厨余的三轮车队。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0003",
+    "scene": "taowang",
+    "stakes": "他们调监控发现我走时，连前台都要被问罪",
+    "tension": "用一件小物买两小时的时差",
+    "text": "我故意把工牌落在前台，让他们以为我还在楼上加班。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0004",
+    "scene": "taowang",
+    "stakes": "试衣间也有监控，换装路线会被完整复盘",
+    "tension": "人海战术，赌追踪者只看颜色不看脸",
+    "text": "我在商场连换三家试衣间，出来时外套帽子全换了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0005",
+    "scene": "taowang",
+    "stakes": "阿婆信了不该信的人，我可能连累她",
+    "tension": "陌生人最不设防的善意是我唯一的盾",
+    "text": "我敲开独居阿婆的门：查燃气，借你家阳台用一下。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0006",
+    "scene": "taowang",
+    "stakes": "车在机场被发现那天，我的存款也冻结了",
+    "tension": "给追踪者留一条最显眼也最错的线索",
+    "text": "我把车留在机场停车场，人坐上了去邻省的大巴。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0007",
+    "scene": "taowang",
+    "stakes": "代驾是无辜的，引到半道出了事我背一辈子",
+    "tension": "花钱买个替身，赌对方认车不认人",
+    "text": "我塞给代驾两千块：照原路开，把后面那辆车引开。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0008",
+    "scene": "taowang",
+    "stakes": "护工推下来一具遗体，我的镇定当场破功",
+    "tension": "最冷的地方反而最安全",
+    "text": "我躲进医院的太平间通道，那里没有监控也没有人来。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0009",
+    "scene": "taowang",
+    "stakes": "检票员多看一眼，孩子也跟着暴露",
+    "tension": "最慢的车最不查身份",
+    "text": "我用孩子的学生证买了张绿皮车站票，混在返校人流里。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0010",
+    "scene": "taowang",
+    "stakes": "他们顺着 EXIF 查原图，假定位变成真把柄",
+    "tension": "用一条假命换几天的安静",
+    "text": "我给催收发了张天台的自拍，定位在三百公里外。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0011",
+    "scene": "taowang",
+    "stakes": "赎当期限一过，婚姻的最后信物也没了",
+    "tension": "当掉的不是戒指，是最后一点回头路",
+    "text": "我把婚戒当了三百块，换了不记名电话卡和一晚床位。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0012",
+    "scene": "taowang",
+    "stakes": "警察到场调监控，我的去向全部留档",
+    "tension": "借公家的声势清开一条私人的路",
+    "text": "我按了警铃，然后趁人群朝警笛涌时从另一侧离开。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0013",
+    "scene": "taowang",
+    "stakes": "老板一个电话核实，我就从客人变成贼",
+    "tension": "把生人的店变成临时的家",
+    "text": "我求便利店老板让我躲进冷库，说我是他表妹。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0014",
+    "scene": "taowang",
+    "stakes": "他拍下我所在车厢，下一站有人接站",
+    "tension": "一秒定生死的城市浪漫，也是豪赌",
+    "text": "地铁关门前最后一秒我挤了进去，看他被隔在站台。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0015",
+    "scene": "taowang",
+    "stakes": "一件外套被偷，我就成了没有身份的人",
+    "tension": "全部身家穿在身上，人在家在",
+    "text": "我把病历和身份证缝进羽绒服夹层，现金分装进四只袜子。",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0016",
+    "scene": "taowang",
+    "stakes": "家属回头数人，我一个生面孔混在白事里",
+    "tension": "没人会多看送葬的人第二眼",
+    "text": "我跟着出殡的队伍走出小区，低着头。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0017",
+    "scene": "taowang",
+    "stakes": "他开着免提，我所有狼狈都被人旁听",
+    "tension": "把命交到仇人手里，赌恨里还剩点旧情",
+    "text": "我给最恨我的那个人打电话：现在只有你能帮我。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0018",
+    "scene": "taowang",
+    "stakes": "临检一来，这里第一个被清场",
+    "tension": "城市缝隙里过夜的常识，也是悬崖",
+    "text": "我退了酒店改投洗浴中心，过夜不用登记身份证。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0019",
+    "scene": "taowang",
+    "stakes": "律师还没来得及保存，我的号就被注销",
+    "tension": "证据离岸，我这条命反而成了消耗品",
+    "text": "我把真相压成三句话发给律师，然后关机。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0020",
+    "scene": "taowang",
+    "stakes": "朋友在出口等不到我，两辆车都暴露",
+    "tension": "用两分钟的盲区洗掉一路的轨迹",
+    "text": "我让网约车开进隧道，趁信号丢失换到朋友车上。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0021",
+    "scene": "taowang",
+    "stakes": "真外卖员回来取箱，我的戏当场穿帮",
+    "tension": "这座城市里，外卖员可以去任何楼层",
+    "text": "我抱着外卖箱走进写字楼，从货梯下到卸货区。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0022",
+    "scene": "taowang",
+    "stakes": "货车半路开厢验货，我成了偷渡客",
+    "tension": "方向是逃亡里最贵的情报",
+    "text": "我在高速服务区跳下大巴，钻进反方向的货车车厢。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0023",
+    "scene": "taowang",
+    "stakes": "全国观众里，也有正在找我的人",
+    "tension": "聚光灯下，他们不敢动手",
+    "text": "我故意从记者的直播镜头前走过那个路口。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0024",
+    "scene": "taowang",
+    "stakes": "下班铃一响，盾就没了",
+    "tension": "用规则当盾，赌对手比我还怕动静",
+    "text": "我把自己反锁进档案室，赌他们不敢在上班时间砸门。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0025",
+    "scene": "taowang",
+    "stakes": "公交开走的方向，正是他们守着的路",
+    "tension": "离安全最近的一步，我没能迈进去",
+    "text": "我在派出所门口站了十分钟，转身上了夜班公交。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0026",
+    "scene": "taowang",
+    "stakes": "她没看手机，或者她被盯上了",
+    "tension": "电量耗尽前把命递出去",
+    "text": "我用最后百分之三的电发了定位给闺蜜，只有两个字：救我。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0027",
+    "scene": "taowang",
+    "stakes": "队长抽查排班表，多出一个不存在的保洁",
+    "tension": "最危险的路就是最近的路",
+    "text": "我换上保洁服推着车，从正门和他们擦肩而过。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0028",
+    "scene": "taowang",
+    "stakes": "他现任在家，这一晚毁掉两个家",
+    "tension": "在最不想低头的人面前低头",
+    "text": "我敲开前夫的门：让我躲一晚，孩子明早还要上学。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0029",
+    "scene": "taowang",
+    "stakes": "手机里唯一没备份的，是那份证据",
+    "tension": "断尾求生，设备比人更会说真话",
+    "text": "我跳车前把手机扔进河里，让信号沉在水底。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-taowang-0030",
+    "scene": "taowang",
+    "stakes": "陌生人是无辜的，他会替我进那扇门",
+    "tension": "祸水东移，我金蝉脱壳",
+    "text": "我把包塞给狂奔的陌生人，自己转身走向派出所。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0001",
+    "scene": "xinren",
+    "stakes": "那些与他无关、却解释不清的旧对话",
+    "tension": "用彻底透明换他闭嘴",
+    "text": "他让我交手机，我当着他的面解锁，把聊天记录从头翻到尾。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0002",
+    "scene": "xinren",
+    "stakes": "他只要追问一句行程细节就露馅",
+    "tension": "一半真话撑住场面",
+    "text": "他问昨晚去哪了，我说加班，没说见的是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0003",
+    "scene": "xinren",
+    "stakes": "他发现我留了一手，信任当场归零",
+    "tension": "交权之前先看清交的到底是什么",
+    "text": "我答应把银行卡交给他管，先悄悄查了那张卡的流水权限。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0004",
+    "scene": "xinren",
+    "stakes": "这些细节日后吵架都会变成武器",
+    "tension": "主动揭开旧伤疤换一句我没瞒你",
+    "text": "我把前任的事从头到尾讲了一遍，包括最难堪的那段。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0005",
+    "scene": "xinren",
+    "stakes": "赌输就是人财两空",
+    "tension": "押上全部真相赌一次",
+    "text": "他要试探我，我干脆把那笔钱的去向全盘托出，赌他听完还信我。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0006",
+    "scene": "xinren",
+    "stakes": "他觉得我心虚才反问",
+    "tension": "把考题抛回给出题人",
+    "text": "我说可以签，但你先说说，为什么偏偏今天提这个。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0007",
+    "scene": "xinren",
+    "stakes": "他说我冷血，感情被条款判了死刑",
+    "tension": "把信任问题转成合同问题",
+    "text": "我提出签补充协议，钱的事写进条款，别用猜的。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0008",
+    "scene": "xinren",
+    "stakes": "他认为我在回避，疑心更重",
+    "tension": "用更大的共同利益盖过小猜忌",
+    "text": "我不答他的问题，反而把公司下个季度的计划摊给他看。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他把我的离场当成了默认",
+    "tension": "不接招，赌他自己冷静下来",
+    "text": "我说你今天情绪不对，我先走了，想清楚再找我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0010",
+    "scene": "xinren",
+    "stakes": "他要面对一个还没确诊的坏消息",
+    "tension": "用更大的秘密证明小的隐瞒是善意",
+    "text": "我把抽屉里那份体检报告拿给他看，说本想等结果出来再说。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0011",
+    "scene": "xinren",
+    "stakes": "那个朋友被供出来后，怪我多事",
+    "tension": "逼他交出消息源",
+    "text": "他说有人看见我和客户吃饭，我问是谁看见的，几点、第几个电话。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0012",
+    "scene": "xinren",
+    "stakes": "流水里那几笔说不清的报销",
+    "tension": "用过度配合的气势反过来镇住他",
+    "text": "合伙人要查我的账，我把三年流水全调出来打印，摔在他面前。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0013",
+    "scene": "xinren",
+    "stakes": "他记下了那个号码",
+    "tension": "一个秒按的动作守住秘密",
+    "text": "手机响的时候我瞄了一眼，按掉了，说推销电话。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0014",
+    "scene": "xinren",
+    "stakes": "他要的恰恰是态度上的臣服",
+    "tension": "认态度的错，守行为的线",
+    "text": "我承认那件事我处理得怂，但钱一分没动，你可以去查。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0015",
+    "scene": "xinren",
+    "stakes": "他的双标被戳穿，恼羞成怒",
+    "tension": "用镜像问题逼他自己定规则",
+    "text": "我问他：今天换作是我查你手机，你给不给。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0016",
+    "scene": "xinren",
+    "stakes": "一旦见了家长，再没有退路",
+    "tension": "用更大的承诺压住眼前的猜疑",
+    "text": "我提议这个月把双方父母见了，把事定下来。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0017",
+    "scene": "xinren",
+    "stakes": "搬走容易，搬回来难",
+    "tension": "用物理退让换情绪降温",
+    "text": "我把钥匙放桌上，说房子你先住，我搬去酒店。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0018",
+    "scene": "xinren",
+    "stakes": "他真同意了，我也有不想被看的角落",
+    "tension": "对等条款逼他权衡代价",
+    "text": "我说要查可以，咱们互相查，今天一次查干净。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0019",
+    "scene": "xinren",
+    "stakes": "他知道我有过二心",
+    "tension": "用放弃掉的选项证明忠诚",
+    "text": "我把那份没签的离职offer给他看，说留下是因为你。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0020",
+    "scene": "xinren",
+    "stakes": "万一记录对不上，越描越黑",
+    "tension": "用商家的记录自证清白",
+    "text": "我顺着他说的那家餐厅，打电话问那晚的订位记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0021",
+    "scene": "xinren",
+    "stakes": "那个联系人是我业务上唯一的线人",
+    "tension": "用加码的配合换彻底翻篇",
+    "text": "他要我当面删掉那个联系人，我删了，然后把手机递过去让他检查。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0022",
+    "scene": "xinren",
+    "stakes": "监控里拍到了我没提过的一个同行人",
+    "tension": "借公共设施自证行踪",
+    "text": "我把物业的电梯监控调出来，让他看我几点回的家。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0023",
+    "scene": "xinren",
+    "stakes": "他真把客户搞丢了，账算我头上",
+    "tension": "把烫手的位置让给他，让他自己查出真相",
+    "text": "我说行，你怀疑的那个项目，从今天起你亲自跟。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0024",
+    "scene": "xinren",
+    "stakes": "他认定我拿他妈当挡箭牌",
+    "tension": "用更急的事压住猜忌",
+    "text": "我说别吵了，先去把你妈的手术费交了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0025",
+    "scene": "xinren",
+    "stakes": "推掉的客户不会等我",
+    "tension": "自我软禁式表态",
+    "text": "我取消了今晚的饭局，说等你信我了，我再出去应酬。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他从此对这个客户耿耿于怀，单子悬了",
+    "tension": "把最炸的信息自己先点爆",
+    "text": "我说那个客户确实追过我，我拒了，聊天截图在这儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0027",
+    "scene": "xinren",
+    "stakes": "助理把我卖了",
+    "tension": "查他的疑心是从哪来的",
+    "text": "我记下他今天盘问我的每个问题，回头问他助理他上午见了谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0028",
+    "scene": "xinren",
+    "stakes": "对方在电话里说漏了别的事",
+    "tension": "三方对质，一次了断",
+    "text": "我当面拨通那个人的电话开免提，说你自己问。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0029",
+    "scene": "xinren",
+    "stakes": "他要的恰恰是那句空头承诺",
+    "tension": "拒绝空头承诺，拿出可验证的行动",
+    "text": "我说你要的保证我给不了，我能给的只有以后每笔账都给你看。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xinren-0030",
+    "scene": "xinren",
+    "stakes": "老板知道我拿他挡家务事",
+    "tension": "借上级之口做不在场背书",
+    "text": "我把老板请来吃饭，让他当面说我这段时间都在忙什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "我的案底，和他从此欠我的一辈子",
+    "tension": "一个人把两个人的罪扛了",
+    "text": "认罪书签了自己那份，弟弟那份我压在了桌垫底下。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "三十五岁前最后一次晋升窗口",
+    "tension": "把机会让给更需要它的恩人",
+    "text": "我退出了竞聘，把述职PPT发给了带我的师傅。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "麻药推进去之前，秘密随时可能被护士说漏",
+    "tension": "瞒着她挨这一刀",
+    "text": "配型只有一个能用，我告诉妹妹捐献者找到了，没说是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "未婚妻那句我们算什么，我答不上来",
+    "tension": "赌上婚姻救一条命",
+    "text": "我把婚房挂了出去，钱今晚就打进他爸的手术账户。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "我在这个行业的口碑",
+    "tension": "背锅换一个年轻人的前程",
+    "text": "我在甲方群里认了错，说是我的疏漏，把实习生摘了出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "二十年的收藏一朝散尽",
+    "tension": "用身外物换母亲的栖身之所",
+    "text": "债主上门，我把话题引到拍卖我那批收藏，别提我妈的房子。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "我的房贷断供在即",
+    "tension": "用我的位置换别人的缓冲",
+    "text": "我跟老板谈：裁员名单换我，条件是赔偿金给足那几个年轻人。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "他逢人就讲我的不是，名声彻底烂掉",
+    "tension": "让他恨我，好保全他和其他人的关系",
+    "text": "我故意让合伙人相信，方案是我一个人搞砸的。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "问得越细，越显得我凉薄",
+    "tension": "先看清深渊的深度再跳",
+    "text": "我去银行问清了担保人的连带条款，才决定替不替哥签这个字。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "我的病情在这三个月里走向哪边",
+    "tension": "一次让号，我的复查再等三个月",
+    "text": "我把排到的专家号让给了候诊区那个抱着孩子的父亲。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "她迟早知道是我动的手脚，感激还是怨恨两说",
+    "tension": "用谎言包一层体面的保护",
+    "text": "裁员名单上有她，我托人把她调去子公司，跟她说那边发展更好。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "我的全部积蓄",
+    "tension": "用钱和产权换手足安宁",
+    "text": "家庭会议上我把存折推给大姐，说妈的养老院钱我出，房子归你。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "股权稀释到我失去控制权",
+    "tension": "用身家换队伍完整",
+    "text": "我跟投资人谈，估值砍一半可以，创始团队一个不许动。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "我今年评职称就差这一笔",
+    "tension": "借规则内的操作给后来者铺路",
+    "text": "评优材料里我把自己删了，把带教的护士名字顶了上去。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "瞒得越久，真相揭开时他们越疼",
+    "tension": "用一个人的沉默换全家的团圆",
+    "text": "我把诊断书折起来塞进抽屉最里面，年夜饭照常吃，红包照常发。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "她丈夫知道我的门牌号了",
+    "tension": "把自己家变成她的避难所",
+    "text": "楼上传来砸门声，我冲上去把那个被家暴的女人拉进我家，反锁了门。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "财产、房产，几乎全部",
+    "tension": "认输换最低限度的父子关系",
+    "text": "法庭上我放弃抗辩，只求法官把孩子的探视权写清楚。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "问出口，就要承担答案",
+    "tension": "最后一问，怕错杀任何可能",
+    "text": "签放弃抢救同意书前，我又问了一遍医生：还有没有什么是我没问到的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "孩子长大后会从别人嘴里听到另一个版本",
+    "tension": "花钱买我在孩子心里的完整",
+    "text": "我跟前妻谈，抚养费加倍，条件是别告诉孩子我为什么离开。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "行业禁入的风险",
+    "tension": "替下属顶雷，保住整个组",
+    "text": "竞标前一天，标底泄露的风声我自己扛了，在群里说责任在我。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "这部戏可能是我最后的机会",
+    "tension": "把镜头让给一个还没有名字的演员",
+    "text": "导演说删新人的戏保我的，我说删我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "三年的感情、人脉、上升期",
+    "tension": "借外派规则完成自我放逐",
+    "text": "公司要选一个去边疆常驻三年的，我举了手，换团队留下。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "保额花完那天，戏就演不下去了",
+    "tension": "把理赔包装成好消息",
+    "text": "我把确诊单拍照发给保险公司，跟家里只说出差补助涨了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "车废了，人也未必拦得住每一辆",
+    "tension": "用自己的车当路障",
+    "text": "暴雨夜桥洞积水，我把车横在入口，站在雨里拦后面的车。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "兄弟姐妹把我的认错当义务，变本加厉",
+    "tension": "低头换老人安度晚年",
+    "text": "赡养谈判里我先开口认错，说这些年是我没做好，钱我多出。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "我刚翻红的职业生涯",
+    "tension": "用自己的黑料替她挡枪",
+    "text": "热搜在扒她，我把自己当年那桩丑事主动喂给了营销号。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "报告若不合适，我连牺牲的资格都没有",
+    "tension": "悄悄把自己变成那个刚好合适的人",
+    "text": "决定捐肝前，我瞒着所有人先去做了全套配型和评估。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "我的那一份，和反悔的资格",
+    "tension": "弃权换一份制度性保障",
+    "text": "拆迁款分配会上我说我那份不要了，但妈的养老必须写进协议。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "万一决定错了，我一辈子想如果是我来决定",
+    "tension": "在最痛的关口退后一步",
+    "text": "抢救室门口，我把家属决定权让给了从外地赶来的他哥。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "行业里很快没人记得我",
+    "tension": "体面退场，把饭碗留给她",
+    "text": "我把客户资源全部交接给徒弟，对外只说我要休息一阵。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "这个家从此再也坐不齐一桌人",
+    "tension": "用最团圆的场合揭最破碎的真相",
+    "text": "我把亲子鉴定报告放在年夜饭的转盘上，转到了他爸面前。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "业务员认出被调查的是老客户，先给他通风报信",
+    "tension": "顺着保单找那条被隐瞒的就医线",
+    "text": "我以续保为名，把近三年的理赔记录全调了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "录音若被认定剪辑，我因诽谤入狱",
+    "tension": "全网见证，没有撤回键",
+    "text": "股东大会直播连线时，我打开了那段会议录音。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "她选择烧掉照片，继续骗下去",
+    "tension": "把引爆权递到当事人手里",
+    "text": "我约她出来，把照片推过去，说你先看，看完再决定告不告诉他。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "孩子从我一个走神里读出什么",
+    "tension": "揣着炸雷扮演平常",
+    "text": "拿到鉴定结果那天，我照常去接孩子放学，买了他爱吃的糖炒栗子。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "事务所把线索压下来，还惊动了他",
+    "tension": "借审计的职权撕开缺口",
+    "text": "我把账目问题写成线索，寄给了正在做年报审计的事务所。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "根本没人在查他，我的底牌当场露馅",
+    "tension": "诈出一个抢先坦白",
+    "text": "我告诉财务总监：他已经在查你了，不如先跟我说说。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "这一个月里，文件可能被转移",
+    "tension": "把雷的引信再留一个月",
+    "text": "真相就在那份文件里，我合上保险柜，决定等他手术做完再开。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "老会计早被收买了，我引狼入室",
+    "tension": "让活着的证据自己开口",
+    "text": "我不揭发他，我把当年被顶罪开除的老会计请回了公司。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "亲戚反目，老人受刺激",
+    "tension": "当众揭穿谁偷偷过户了老人的房子",
+    "text": "家族聚会上，我把老宅的产权查询结果投屏到了电视上。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "越界查询他人信息，我先违法",
+    "tension": "一笔钱拽出一个藏着的人",
+    "text": "我沿着那笔异常转账，找到了收款方的参保单位。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "两百个邻居，从此看我的眼神也变了",
+    "tension": "当众反转人设",
+    "text": "业主群里正在夸他，我把电梯监控的截图发了进去。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "他签了又反悔，反咬我诱导",
+    "tension": "用豁免换一份证词",
+    "text": "我找到当年的经手人，说我不为追责，只要他在情况说明上签个字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "记者等不及，先发了不实版本",
+    "tension": "压住消息等最佳出手时机",
+    "text": "记者追问进展，我说还在核实，其实证据链昨晚已经闭合。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "材料若石沉大海，我的实名留在对方桌上",
+    "tension": "借大势递上关键一刀",
+    "text": "巡视组进驻的公告贴出来当天，我预约了信访登记。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "她转头跟他摊牌，两人合力对付我",
+    "tension": "让枕边人先咬他",
+    "text": "我让他的情人相信，他打算把一切都推到她头上。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "邮件发出前我出任何意外，都算畏罪",
+    "tension": "换一条更安全的引信",
+    "text": "我删掉了写好的举报帖，改存成加密文件，设了定时邮件。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "投资方反问消息来源，我涉嫌损害商业信誉",
+    "tension": "釜底抽薪，让他的前途自己塌",
+    "text": "我不动他本人，先把真相告诉了马上要跟他签约的投资方。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "利用她的疼爱，这通电话我欠她一辈子",
+    "tension": "示弱钓出长辈守了二十年的秘密",
+    "text": "我给小姨打电话哭了半小时，她果然把当年的事全说了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "我也在验收单上签过字",
+    "tension": "当众拆台，一分钟葬送他的总监梦",
+    "text": "公司全员会上，我替他把那份验收报告投了原图。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "入职背调，用的是我的真名",
+    "tension": "卧到他心脏旁边找证据",
+    "text": "我应聘进了他参股的那家公司，工位就在档案室隔壁。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "保安拖走我之前，全网已经截了图",
+    "tension": "借他的场子宣他的判",
+    "text": "直播带岗时主持人请他寄语，我抢过话筒念了判决书的案号。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "玩具熊随时可能被送人、被扔掉",
+    "tension": "用孩子不知情的纯真保管成人世界的雷",
+    "text": "我把U盘缝进了女儿的玩具熊里，跟谁都没说。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "嫂子拿着截图去闹，战火先烧到老人",
+    "tension": "借官方数据戳破他的失业谎言",
+    "text": "我把他任职受雇信息的截图，发给了一直被蒙在鼓里的嫂子。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "副手被查之前，把我也供了出来",
+    "tension": "用一枚小卒换全盘",
+    "text": "我把他副手的报销问题无意间透露给他，等他俩互相咬出主线。",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "大舅添油加醋，真相变成另一个样子",
+    "tension": "借别人的嘴点火，我的手是干净的",
+    "text": "我先把真相告诉了最沉不住气的大舅。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "他说了之后，我发还是不发，都是罪人",
+    "tension": "用职业生涯换一句真话",
+    "text": "我把记者证押在桌上，说我可以不发，但你要亲口跟我说一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "群里每个人对我的信任",
+    "tension": "一张图同时炸三个家",
+    "text": "我把两份出生证明并排拍了照，发进了三家人的群里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "取证方式不合法，证据被排除，我还惹上官司",
+    "tension": "在他以为最安全的地方引爆",
+    "text": "法庭调解室里，我当着调解员放了那段他以为删掉了的语音。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "dushi",
+    "id": "ch-dushi-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "任何一路认定我诬告，我都翻不了身",
+    "tension": "三路齐发，不给他灭火的时间",
+    "text": "我把材料分三份，分别寄给了纪委、税务和他正在谈的新东家。",
+    "type": "choice"
+  }
+]

@@ -1,0 +1,25 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+LocalLibrary/
+FactoryWork/
+Secrets/
+Legacy/
+logs/
+Tests/EndToEndTests/Artifacts/
+*.key
+*.p12
+*.mobileprovision
+# Private books and exported user packages must not be added accidentally.
+*.epub
+*.novelproject/
+*.storyworld/

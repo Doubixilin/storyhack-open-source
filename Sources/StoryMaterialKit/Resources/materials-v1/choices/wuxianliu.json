@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "他若翻盘，我成了全团公敌",
+    "tension": "当众拆穿他攒了三个副本的人设",
+    "text": "我把他上一局借刀杀人的路线复盘给全团听，一条一条对时间线。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "契约也捆住我，撕破脸再无退路",
+    "tension": "借主神的规矩捆住他的手",
+    "text": "我提议签系统公证契约停战：谁先动手，谁当场扣五千积分。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "道具亮出来，就等于告诉大家我只有这一件",
+    "tension": "用我的不可替代性换一条命",
+    "text": "我把唯一的防御道具拍在桌上：杀我之前，先想想谁替你们探下一个房间。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "他若真是二周目玩家，会先灭我的口",
+    "tension": "一句话戳破他藏着的信息来源",
+    "text": "我问他：这扇门的密码我们谁都没试过，你是怎么知道的。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "积分烧完，这个副本后半程我裸奔",
+    "tension": "用全部身家摆出一副同归于尽的样子",
+    "text": "我当着两队人的面点开商城，把刚到账的积分全换成一次性爆发符。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "我从此在这批人里再无信誉可言",
+    "tension": "拿全队的生路当他的人质",
+    "text": "我退到通关门前半步：再逼我，我推门就走，你们全留在惩罚副本里。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "他知道的我的秘密，只多不少",
+    "tension": "用秘密换沉默，谁先声张谁输",
+    "text": "我低声告诉他：你攒击杀数换隐藏职业的事，别逼我说给新人听。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "被看穿就是阳奉阴违，罪加一等",
+    "tension": "认怂是假，把守夜的刀攥在手里是真",
+    "text": "我拱手认怂：队长你来当，物资你先挑，只要今晚值夜的排班表归我写。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "徽章来历说不清，我也脱不了干系",
+    "tension": "一件证物把私怨变成公审",
+    "text": "我把失踪队友的徽章扔在他脚边，问他打算怎么解释上面的血。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "他若选择放弃通关先杀我，我满盘皆输",
+    "tension": "把命和通关绑在一起，赌他不敢赌",
+    "text": "我说要杀我随时，但BOSS房的完整地图，全副本只有我一个人见过。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "数错一个，我的指控就全盘垮掉",
+    "tension": "不慌不忙地凌迟他的信用",
+    "text": "我点了根上个副本带出来的烟，慢悠悠数他这一局撒的三个谎。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "惊动剧情人物，任务线可能被改写",
+    "tension": "借副本规则的嘴封他的口",
+    "text": "我让里屋的NPC证人出来，问他敢不敢当着剧情人物的面再说一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "武器交了，他若翻脸我连还手都没有",
+    "tension": "用示弱换一个当众回答不了的问题",
+    "text": "我主动交出武器，条件是搜身之前他先回答：上一轮投票你为什么弃权。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "我的底牌也一并摊在了所有人眼前",
+    "tension": "让数据替我说话，赌他不敢当众翻脸",
+    "text": "我把系统面板调成全员可见，任务进度那一栏正对着他。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "被拆穿后，新人这个保护色就没了",
+    "tension": "虚张声势，赌他摸不清我的来路",
+    "text": "我笑了：你真以为我是随机匹配进来的新人？",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "猜错格子，我就成了污蔑队友的小人",
+    "tension": "当众点破他藏药，仁义大旗归我",
+    "text": "我把中毒的队友扶到他面前：解药在你背包第三格，你打算什么时候给。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "输了我在这个副本里连底裤都不剩",
+    "tension": "把冲突一次性结算，省得夜长梦多",
+    "text": "我提出单挑定胜负，赌注是两队合并，输的人交出全部道具栏。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "他若发现被直播，第一个杀我灭口",
+    "tension": "不辩驳，让全团自己看他的吃相",
+    "text": "我悄悄按下共享视野，让他当着所有人的面表演，我一句话不说。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "门后若只是死路，我的气势当场破产",
+    "tension": "拿副本规则的威慑对他的系统特权",
+    "text": "我说你背后是主神，我背后是这扇门，咱们看谁的后台先开口。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "交易不成，我和他只能活一个",
+    "tension": "用他的黑材料当场勒索",
+    "text": "我把他私聊我的截图投到队伍频道：要我保密的话，价码重新开。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "符咒方位一变，他先死，嫌疑先落我头上",
+    "tension": "嘴上服软，手上拆他的保命符",
+    "text": "我低头认错说刚才是我急了，顺手把他放在桌角的符咒转了个方向。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "出了副本他若反悔，公证的就是我的死期",
+    "tension": "把私斗押后，先保共同的利益",
+    "text": "我说要么联手先通关，出了副本再约生死局，积分走公证。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "他知道有隐藏任务后，我睡不安稳了",
+    "tension": "半张底牌钓他的真实意图",
+    "text": "我把隐藏任务的触发条件说出口一半，停住，看他脸色变没变。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "没了人证，他杀我连解释都不用",
+    "tension": "清场逼他露出真面目，或露怯",
+    "text": "我让新人们先退到走廊，然后对他说：现在没有观众了，你敢动手吗。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "豁免券亮了相，等于告诉他我只有一张",
+    "tension": "让他算清楚杀我的收益是零",
+    "text": "我掏出一张死亡豁免券在他眼前晃：杀我，你什么都得不到。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "猜错师承，他反咬我久病成医贼喊捉贼",
+    "tension": "用专业细节把他钉在下毒者的位置上",
+    "text": "我把中毒症状一条条念出来，问他下毒的手艺是不是瘟疫副本学的。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "刀真被别人拿到，第一个试刀的是我",
+    "tension": "一件神兵把水搅浑，火就烧不到我身上",
+    "text": "我说这把刀是BOSS掉的谁抢到归谁，然后把它扔向两队中间的空地。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "谎报系统任务是重罪，被举报就抹杀",
+    "tension": "真假难辨一句话，先乱他的心神",
+    "text": "我告诉他：系统刚给我发了私聊任务，目标是你。信不信由你。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "时间真耗光了，我和他一起被副本消化",
+    "tension": "用共同的死线压他收手",
+    "text": "我把通关倒计时投到墙上：还剩四十分钟，你确定要把时间花在我身上？",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "烙印一亮，人类阵营从此容不下我",
+    "tension": "用最大的秘密换最大的一次威慑",
+    "text": "我当众撕开衣袖，露出和BOSS同款的烙印：现在你猜猜我站哪边。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "仇恨拉脱了，BOSS转头拍碎安全屋",
+    "tension": "借BOSS的刀报自己的仇",
+    "text": "我把他的队伍引向BOSS仇恨区，自己躲进安全屋看结算名单",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "朝夕相处下来，我竟觉得他没那么该死",
+    "tension": "把杀心腌进收益里",
+    "text": "我咽下这口气先跟他组队刷完这个本，收益到手再清算",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "他转手把药让给了伤员，毒错了人",
+    "tension": "救命的手里藏着送命的引子",
+    "text": "我趁他治疗真空期递上一瓶回复药，瓶底沉着慢毒",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "回放可以伪造，他一句质疑我就成了造谣者",
+    "tension": "真相是最不缺帮手的刀",
+    "text": "我当众放出他上一轮卖队友的死亡回放，让全副本的人替我动手",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "他感念这一救，从此把我当兄弟",
+    "tension": "恩情是利息，死期是本金",
+    "text": "我把复仇延后一天，今天先救他一次——我要他欠着命去死",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "入队考核那一关，我险些死在他手里",
+    "tension": "仇人最不设防的是自己人",
+    "text": "我申请加入他的队伍，笑着喊他前辈，等他分战利品时露出破绽",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "买家顺藤摸瓜查到我，两把刀同时落下",
+    "tension": "借刀杀人不沾血",
+    "text": "我把他最怕的灵异NPC的触发条件，匿名卖给他的旧仇家",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "管理员查日志，篡改者的惩罚是违规者的十倍",
+    "tension": "篡改规则借系统的手",
+    "text": "我在他必经之路的规则告示上加了一条假条款，引他违规受罚",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "他不接招，笑着把碎片捡起来说做得挺像",
+    "tension": "用羞辱换他失控",
+    "text": "我当着他的面碾碎他送过别人的同款信物，逼他先动手吃规则惩罚",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "传送判定先于我出手，他带着战利品走了",
+    "tension": "最甜的时刻捅最深的刀",
+    "text": "我把仇怨压到结算前一秒，在传送门开启的瞬间动手，让他带着胜利死",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "他记住了水下的脸，复活后第一个找我",
+    "tension": "救命之恩是杀他的通行证",
+    "text": "我先把他从溺水里捞出来，再在深水区剪断他的供氧管",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "系统顺查旧案，连我的灰色记录一起翻了出来",
+    "tension": "用规则杀人最干净",
+    "text": "我向系统举报他上一轮违规，借GM的手名正言顺罚掉他",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "旧队友两头传话，我的计划他一字不落全知道",
+    "tension": "杀心换成挖墙脚的耐心",
+    "text": "我放弃私刑，转而收编他的旧队友，让他死在众叛亲离里",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "他手里还有替代品，我白烧半年积蓄",
+    "tension": "烧钱买他走投无路",
+    "text": "我在拍卖行蹲他急需的道具，高价抢下再当面熔掉",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "杀手接单前先把我卖给了他",
+    "tension": "倾家荡产买一颗子弹",
+    "text": "我把复活后攒的全部积分压成一份刺杀委托，自己不出面",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "他这次真心想帮我，我的刀反而拔不出来",
+    "tension": "钓他故技重施",
+    "text": "我故意在他面前示弱装穷，等他主动提出再坑我一次时反杀",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "他根本没中毒，我暴露了自己的手段",
+    "tension": "解药才是最狠的恐吓",
+    "text": "我在他庆功的酒里下了解药——毒在他进副本前就喂过了",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "队友全程看在眼里，下一个被不救的是我",
+    "tension": "战场上的见死不救最难定罪",
+    "text": "我在BOSS狂暴阶段恰好不给他留技能冷却，借刀杀得干干净净",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "黑市惯例，出价者先验资，我暴露了",
+    "tension": "一块钱买全服的刀",
+    "text": "我把他的藏身坐标挂到黑市，人头价码我只出一块钱",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "规则只认本副本的罪，旧账它不管",
+    "tension": "把这个世界的法度当刀使",
+    "text": "我当众揭穿三年前那场意外，赌副本规则会清算他的旧罪",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "他认出笔锋，将计就计在决斗场埋了人",
+    "tension": "用假名钓他轻敌",
+    "text": "我在决斗邀请里写错自己的名字，让他以为接战的是个软柿子",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "那一刀留了病根，我的状态再没回满",
+    "tension": "苦肉计要舍得真挨刀",
+    "text": "我先替他挡一刀立信，等他彻底不设防再连本带利收回来",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "公会看中他的本事，反而护得更紧",
+    "tension": "让他自己走进别人的绞索",
+    "text": "我把他的真实身份捅给他正在巴结的大公会，借刀不见血",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "重置后他比我多一整轮的先机",
+    "tension": "死不可怕，记得才可怕",
+    "text": "我在轮回重置前最后一夜动手，让他带着全部记忆重新做人",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "凶物认主后格外温顺，反倒助他涨了一截实力",
+    "tension": "礼物裹着诅咒",
+    "text": "我故意输掉赌局输给他一件道具——那是认主即反噬的凶物",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "副手忠心耿耿，连夜把我的计划呈了上去",
+    "tension": "敌人的亲信是最快的刀",
+    "text": "我把复仇计划告诉他最信任的副手，赌那副手比我更想他死",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "报备记录在案，我此后每次动手都被系统重点复核",
+    "tension": "先手把私斗洗成自卫",
+    "text": "我抢在他动手前先向系统报备旧怨，把正当防卫的口子留在今天",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "黑市连夜补货，价格翻倍，他记下了仇",
+    "tension": "断他的退路再收他的命",
+    "text": "我赶在他兑换复活币前插队买断全部库存，让他的命没有下一条",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "那对父母替他求情，我下不去手",
+    "tension": "让他在最软的地方挨刀",
+    "text": "我把动手的日子定在他父母的忌日——这个副本世界真有那两个人",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "错过这次，他的防备再无缝隙",
+    "tension": "到嘴的仇要先查有没有毒",
+    "text": "我放弃这次完美时机，因为系统提示：杀他的人会继承他的诅咒",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "动了真情，通关评价里会被系统记一笔",
+    "tension": "明知到期就散，偏要把话说满",
+    "text": "我把回归倒计时亮给她看：还剩七天，我打算用六天喜欢你，留一天告别。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "没了钥匙，下一场我的命悬在他一念之间",
+    "tension": "钥匙给出去，等于把生路让给了别人",
+    "text": "我把通关钥匙塞进他手里：下一场如果只能走一个，你别回头。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "全队从此知道我的软肋长什么样",
+    "tension": "一句话把自己绑上她的生死簿",
+    "text": "我当着全队说：以后投票处决，谁投她，先过我这一关。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "她若连这个都不肯给，答案已经很明显了",
+    "tension": "在人人用假名的轮回里，讨一个现实的地址",
+    "text": "我说等出了这个副本，带我去看看你现实里住的那条街。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "复活卡没了，下一个死的就是我自己",
+    "tension": "三个副本的命，换一次不说出口的表态",
+    "text": "我把攒了三个副本的复活卡过户到她名下，一句话都没解释。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "交底交错了人，我的孤独就成了他的把柄",
+    "tension": "把自己最荒凉的底摊开，换一个收留",
+    "text": "我告诉他：我现实里已经没什么人了，所以这一轮，我赌你们。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "降等的代价是下一局的难度翻着倍来",
+    "tension": "当着规则的面犯规，把降等当聘礼",
+    "text": "我说你记得规则吧，副本里动真情的人评价降等。我不在乎。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "这个问题问出口，她看我的眼神就回不去了",
+    "tension": "用最坏的假设，试她最真的答案",
+    "text": "我问她：如果有一天我站在主神那一边，你下不下得去手。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "半张符落到敌人手里，等于给他指了我的路",
+    "tension": "一件道具，把两个人焊成彼此的坐标",
+    "text": "我把通讯符掰成两半一人一半：下次失散，就凭它找人。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "得罪了资深者，往后副本里没人替我兜底",
+    "tension": "用一条康庄大道，换一个前途未卜的小队",
+    "text": "我当着她的面拒绝了资深者抛来的橄榄枝，说我的队伍在这儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "豁免券是我唯一一次后悔的机会，给出去了",
+    "tension": "四个字，把没说出口的全说了",
+    "text": "我把死亡豁免券点了赠送，备注只写了四个字：替我看看。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "这话传到队里，我领队资格当场作废",
+    "tension": "坦白一次以权谋私，赌她懂还是躲",
+    "text": "我承认了：上次投票我保的不是队伍，是你。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "真名若被写进诅咒道具，我死都不知道怎么死的",
+    "tension": "交出真名，等于交出一个世界的牵挂",
+    "text": "我把现实里的真名告诉了她，在轮回里，真名比命贵。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "通宵守夜，明天进BOSS房的是个熬空的身体",
+    "tension": "用行动表态，一个字都不提",
+    "text": "我举手当了今晚的守夜人，只为让她睡这个副本第一个安稳觉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "队长若选择换人不换心，我俩一起被踢出局",
+    "tension": "把自己和她捆成一个不可分割的条件",
+    "text": "我跟队长摊牌：她走我也走，你们重新算算通关人数。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "赎身积分是天文数字，这个约定可能根本没有那天",
+    "tension": "把告白说成一个不知哪年兑现的约定",
+    "text": "我说等积分攒够赎身那天，我在主神广场的老位置等你。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "他若哪天翻脸，杀我不用费第二刀",
+    "tension": "拿命门当定情信物，信到这个份上",
+    "text": "我把自己最大的弱点讲给他听，等于把刀柄递了过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "她若觉得我握了她的短，防我胜过信我",
+    "tension": "拆穿她的伪装，再把她护进怀里",
+    "text": "我说你装资深者装得很像，可我见过你新手期发抖的样子，那时我就想护着你。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "信里若有真情报，我等于自断耳目",
+    "tension": "一把火烧掉离间的引信，也烧给全队看",
+    "text": "我当着全团把那封挑拨的信烧了：我的立场，不用别人替我传话。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "剧情人物若是她本人扮演，我就成了当众出丑的那个",
+    "tension": "借剧情的壳，说一句不打算收回的话",
+    "text": "我说这副本里的婚约是剧情需要，但我刚才那句我愿意，不是。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "我若下一秒倒地，就再没有第二支药了",
+    "tension": "全队只有一支药，给谁就是一份供词",
+    "text": "我把最后一支治疗药剂推给她：你的命比我的通关评价值钱。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "系统最擅长拿玩家的心软开刀",
+    "tension": "十九次都熬过来了，一句想留下全盘推翻",
+    "text": "我告诉她：我轮回了十九次，这是第一次想留下。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "永久绑定意味着她死，我的评价陪葬",
+    "tension": "用系统都没想到的操作，锁死两个人的绑定",
+    "text": "我把组队申请点了永久，期限那一栏连系统都愣了一下。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "瞒过全队的事实摆上台面，信任再也拼不完整",
+    "tension": "坦白欺瞒，再把赃物双手奉上",
+    "text": "我承认那个隐藏任务我瞒了全队，因为奖励只有一份，我想留给你。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "她若真死了，这句话我要背着过每一个副本",
+    "tension": "一句分工，把自己的命垫在她脚底下",
+    "text": "我说从今天起后勤归我管，你只管往前冲，死了算我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "现实世界几千万人，这句话可能永远兑不了现",
+    "tension": "传送白光里抢出来的半句话",
+    "text": "我在离开副本的最后一秒回头对她说：现实见，别让我找太久。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "娃娃只有一个，下次替我死的东西就没有了",
+    "tension": "玩笑的口吻，做最重的托付",
+    "text": "我把替死娃娃挂上她的背包：别摘，摘了我就真生气了。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "她若只听得进前半句，我连个解释的机会都没了",
+    "tension": "把最难堪的开头摊出来，换后面的干净",
+    "text": "我跟她说实话：我接近你本是为了任务，任务早就完成了，人没走。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "道具让出去，这一局的凶险全得拿命扛",
+    "tension": "用全部收益换一张人情的空白支票",
+    "text": "我在全员面前表态：这局关键道具我一分不要，我只要带她活着出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "NPC死亡不可逆，这份心意只有我一个人在扛",
+    "tension": "对着一个回不来的人，说一个约",
+    "text": "我把两串糖葫芦放在她墓碑前：这个副本我替你通了，下个副本换你等我。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "这一局裸装出局，下一局的死亡率翻倍",
+    "tension": "救人和通关只能选一个，我选了人",
+    "text": "我把钥匙插进了关着队友的那扇门，把通关道具留给了下一局的自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "票型不合我意，我也得笑着执行",
+    "tension": "最痛的刀不敢握，递给大家一起握",
+    "text": "复活卡只有一张，我把选择权交给全团投票，自己弃权。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "他若不肯，全队陪他一起死在这里",
+    "tension": "让他死，先让他死个明白",
+    "text": "救他能拖住BOSS三分钟，够全队撤离，我把这个决定告诉了他本人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "半剂药可能两个都救不回来，我一手赔两条命",
+    "tension": "不选边，赌两个半条命能凑出一个活人",
+    "text": "我把最后一支解毒剂分成两半，两个人各吊半条命。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "名字报上去就撤不回，内鬼还在队里笑",
+    "tension": "用一个清白的人，换全队一张船票",
+    "text": "系统要我指认一个内鬼换全队生路，我报了自己的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "他若醒不过来，那张字条就是我的罪状",
+    "tension": "理性上满分的决定，字条上写不下",
+    "text": "我选了通关评价更高的路线，把昏迷的队友安置在安全屋，留了张字条。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "找不到第三条路，机关替我两个都收",
+    "tension": "拒绝副本给定的死法，跟设计者叫板",
+    "text": "两个只能活一个的机关前，我踹碎了计时器，我偏要找出第三条路。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "对面收了积分不放人，我连报复的本钱都没了",
+    "tension": "三个副本的家底，换一个人回来",
+    "text": "我把积分全转给对面队伍，换他们放走我的人质队友。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "活着的队友看我的眼神，从此不一样了",
+    "tension": "当队长的第一课：亲手签下放弃谁",
+    "text": "我按下了放弃救援的按钮，把这份愧疚记在自己账上，带队继续走。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "记号若被看穿，我死在谁手里都合理",
+    "tension": "用一场假公平，换一个我自己扛的结局",
+    "text": "我说抓阄吧，但我提前在自己的纸团上做了记号。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "剧情崩坏的清算，第一个找我",
+    "tension": "拿文字游戏对抗主神的剧本",
+    "text": "我把剧情NPC挡在身后：规则说他必须死，可规则没说是今天。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "契约若较真，献祭栏里躺着的是我的名字",
+    "tension": "用规则漏洞让祭品和刽子手换位",
+    "text": "我把献祭名额写成了BOSS的真名，赌系统的契约不认物种。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "走出副本的那一刻，我连他们的脸都认不出",
+    "tension": "人活了，为什么活的却再也想不起来",
+    "text": "我答应主神的交易：删掉我在这个世界的所有记忆，换全队通关。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "惩罚副本的存活率，系统标注为百分之三",
+    "tension": "一个地狱，换三张赦免令",
+    "text": "我把自己锁进惩罚副本，换系统撤销对他们三个的追杀令。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "我的命，和那个新人不一定领的情",
+    "tension": "留下的人几乎必死，我选了当留下的那个",
+    "text": "两个新人只能带走一个，我让老队员背那个跑得慢的，我留下陪另一个。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "他若反悔，我既输了副本又输了人",
+    "tension": "把胜负拱手让人，换队伍的全身而退",
+    "text": "我把通关密钥交给对手队长，条件只有一个：让我的人先走。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "他若是被栽赃的，我亲手杀了唯一信我的人",
+    "tension": "用最先举手，堵所有人说徇私的嘴",
+    "text": "证据指向跟我最久的兄弟，我第一个投了赞成处决票。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "降级意味着下个副本难度照涨，装备照砍",
+    "tension": "数字和命之间，我替全队做了主",
+    "text": "我用全队降级换了无人死亡，评价栏一片飘红，没人说话。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "他若活着出来，第一句问的就是我凭什么",
+    "tension": "用谎言替他做他绝不会答应的决定",
+    "text": "我骗他说门后有解药让他安心进去，那其实是唯一的安全舱。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "万一解药就在下一个房间，我死得毫无意义",
+    "tension": "抢在规则之前，给自己留一个全尸",
+    "text": "我把最后一颗子弹留给了自己，变成怪物的倒计时还有六十秒。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "系统若不止扣积分，我害了所有人",
+    "tension": "掀桌子拒答，拿全队的钱包赌系统讲理",
+    "text": "我撕了那张二选一的任务卡：大不了全员扣积分，命一条不少。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "他通关之后第一件办的事，可能就是办我",
+    "tension": "救一个仇人，还是保一份地图",
+    "text": "我选择救那个恨我的老玩家，因为只有他记得通关的全部细节。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "水位涨得比预计快，我的时间按秒算",
+    "tension": "闸门要人拉，拉闸的人不走",
+    "text": "我把两个孩子都推上绳索，自己留在涨水的地下室拉闸门。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "折返的路上，多数人的生路也可能因我断掉",
+    "tension": "先尽义务再尽本心，两头都不肯放",
+    "text": "我选了救多数人，然后独自回去找那一个，死也要死个明白。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "没了手，下个副本我连刀都握不住",
+    "tension": "不选他们任何一个，选我自己身上的零件",
+    "text": "我把两个必选其一的祭品，换成了自己的一双手。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "从这一秒起，队里再没人信我的公正",
+    "tension": "给了民主，再亲手收回来，骂名我来背",
+    "text": "我让全队举手表决，然后一票否决了表决结果。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "十年阳寿是估的，没人知道自己还剩几年",
+    "tension": "系统开价的那一刻，我连价都没还",
+    "text": "我用十年阳寿向主神加购了一个都要的选项。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "他毒解之后，第一个要算的就是中毒这笔账",
+    "tension": "救最恨的人，为了最不恨的那些人",
+    "text": "我把解药给了仇人，因为他一死，他的队友会拉我们全队陪葬。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "往后每个夜里，我都得重新点一次引线",
+    "tension": "一边一个人，一边所有人，雷管在我手里",
+    "text": "我亲手炸断了唯一的桥：桥上是他，桥这头是全世界。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "名单核验若较真，伪造者罪加一等，她还得死",
+    "tension": "用一场伪造，替她从死亡名单上偷一个位置",
+    "text": "我把牺牲名单上她的名字划掉写上了我的，笔迹模仿得很像。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0001",
+    "scene": "lichang",
+    "stakes": "队长没看懂，当众把我列进必杀名单",
+    "tension": "骂名我背，活路你们拿",
+    "text": "我当众撕了队旗宣布投敌，转身前把真正的逃生图塞进队长口袋",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0002",
+    "scene": "lichang",
+    "stakes": "BOSS拿真图对了一遍，三处错漏成了我的罪状",
+    "tension": "用掺假的忠诚换进门资格",
+    "text": "我向BOSS递交投名状，第一份礼是队友的布防图——画错了三处",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0003",
+    "scene": "lichang",
+    "stakes": "两边都把我当叛徒，子弹从两个方向来",
+    "tension": "用背叛的姿势做保护的事",
+    "text": "我把枪口从自己人身上挪开对准旧队友，赌只有反派身份能救全队",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0004",
+    "scene": "lichang",
+    "stakes": "策反任务是双向的，对面也收到策反我的悬赏",
+    "tension": "拿庄家的钱挖庄家的墙脚",
+    "text": "我接受系统的策反任务，背叛奖励十倍积分——我打算连庄家一起卖",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0005",
+    "scene": "lichang",
+    "stakes": "旧友反握刀柄，替我完成了投名状",
+    "tension": "投名状的刀刃向内",
+    "text": "我退出公会加入对面，入伙条件是亲手处决旧友——刀柄朝着我的方向",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0006",
+    "scene": "lichang",
+    "stakes": "两份情报拼在一起，缺的那页是我自己",
+    "tension": "真话是最安全的谎言",
+    "text": "我两边都宣誓效忠，两边递的情报都是真的，也都缺最后一页",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0007",
+    "scene": "lichang",
+    "stakes": "他们鼓掌通过，然后让我坐进处刑椅",
+    "tension": "投奔的最高境界是接管",
+    "text": "我在决战前夜敲响敌营的门，开口第一句：你们老大的位置我来坐",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0008",
+    "scene": "lichang",
+    "stakes": "敌营政审严格，我背的罪名成了加分项",
+    "tension": "用污名换通行证",
+    "text": "我把队友的罪名全揽下来被逐出队伍，正好名正言顺潜进敌营",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0009",
+    "scene": "lichang",
+    "stakes": "拒绝的那一刻，我在两边都没了退路",
+    "tension": "最大的诱惑是最大的叛徒价",
+    "text": "我拒绝反转——哪怕系统开价是让我离开无限游戏",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0010",
+    "scene": "lichang",
+    "stakes": "怪物比我先看了那张图",
+    "tension": "披着兽皮的人最清楚兽的心",
+    "text": "我当众投靠怪物阵营，悄悄把人类的软肋图换成了它的死穴图",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0011",
+    "scene": "lichang",
+    "stakes": "他动摇是演的，我递的话成了他的投名状",
+    "tension": "软肋是最准的撬棍",
+    "text": "我策反敌营那个动摇的小队长，用他母亲还在等他的那条世界线",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0012",
+    "scene": "lichang",
+    "stakes": "他们说那天是误会，可我倒戈的旗已经升了",
+    "tension": "把底裤一样的真相晾在阵前",
+    "text": "我向旧队友宣布倒戈，理由只有一句：你们通关的条件是牺牲我",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0013",
+    "scene": "lichang",
+    "stakes": "控制是真的，我交代得比它问的还多",
+    "tension": "最安全的卧底是失了智的那种",
+    "text": "我假装被BOSS精神控制，倒在敌营里听它向傀儡交代真正的计划",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0014",
+    "scene": "lichang",
+    "stakes": "另一半不知情的人真降了",
+    "tension": "用诈降钓内鬼",
+    "text": "我提议全队集体诈降，但只告诉了一半人——叛徒就藏在这一半里",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0015",
+    "scene": "lichang",
+    "stakes": "系统把我的烧卡视频剪成了策反宣传片",
+    "tension": "用公开处刑表忠心",
+    "text": "我把系统发来的叛徒任务截图全队，当着系统的面烧掉任务卡",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0016",
+    "scene": "lichang",
+    "stakes": "投诚书是敌营总攻的作战序列",
+    "tension": "一次反转带走整面墙",
+    "text": "我从敌营叛回来，带回的不是情报，是敌营全体玩家的投诚书",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0017",
+    "scene": "lichang",
+    "stakes": "那条世界线里，我的队友死得更早",
+    "tension": "用输换来赢的可能",
+    "text": "我在投票里把关键一票投给对面，用阵营崩盘换一条被埋的世界线",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0018",
+    "scene": "lichang",
+    "stakes": "两边先联手清剿造谣者",
+    "tension": "用谣言给双方递刀",
+    "text": "我向两边同时出售对方即将叛变的假消息，等他们火并",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0019",
+    "scene": "lichang",
+    "stakes": "暧昧到期那天，两边的账单一起寄到",
+    "tension": "用暧昧当缓冲垫",
+    "text": "我拒绝BOSS的招揽但收下了信物，让两边都觉得我欠着他们的",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0020",
+    "scene": "lichang",
+    "stakes": "假据点里恰好藏着真的伤员",
+    "tension": "用一次漂亮的背叛换一次更漂亮的背叛",
+    "text": "我把倒戈演到极致：先出卖一个假据点，等敌人扑空再亮真立场",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0021",
+    "scene": "lichang",
+    "stakes": "名单打开第一页，写着劝降者是我",
+    "tension": "借投诚换知情权",
+    "text": "我劝全队投靠更强的阵营，真正的原因是那边握着我们的死因名单",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0022",
+    "scene": "lichang",
+    "stakes": "开门时旧队友的箭先到了——他们没收到我活着的消息",
+    "tension": "潜伏的终点是开门",
+    "text": "我在敌营混成二把手，等旧队友攻城时亲手打开城门",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0023",
+    "scene": "lichang",
+    "stakes": "旧队伍没切割，全员陪我上通缉榜",
+    "tension": "用自毁换他们的清白",
+    "text": "我把自己的叛变挂上论坛直播，用舆论逼旧队伍赶紧切割保命",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0024",
+    "scene": "lichang",
+    "stakes": "座次换完才发现，弱势方的底牌是我",
+    "tension": "一个人的叛变是杠杆",
+    "text": "我在两方谈判桌上当场换座次，用我的倒戈给弱势方凑齐翻盘的票",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0025",
+    "scene": "lichang",
+    "stakes": "频道里有人回了，用的不是他的语气",
+    "tension": "最深的潜伏连活人都不知情",
+    "text": "我把真正的立场写在只有死人能看到的频道里——等一个阵亡队友的回话",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0026",
+    "scene": "lichang",
+    "stakes": "替身道具全服只剩这一件，用掉就没了",
+    "tension": "用假死买真信任",
+    "text": "我接受敌营的处决考验，刀落的瞬间用替身道具换出一条命",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0027",
+    "scene": "lichang",
+    "stakes": "新兵们跟我走了，走向我编的那个方向",
+    "tension": "反向劝进的攻心术",
+    "text": "我劝对面的新兵别学我叛变，话说得越诚恳，他们越想跟我走",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0028",
+    "scene": "lichang",
+    "stakes": "旧队友没来，来的是两边的赏金猎人",
+    "tension": "用自己的脑袋当集结号",
+    "text": "我在阵营频道发自己戴敌方徽章的自拍，等旧队友来清理门户",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0029",
+    "scene": "lichang",
+    "stakes": "坟是空的，他们躲在暗处看我演",
+    "tension": "最狠的伪装是表演无情",
+    "text": "我假装倒戈打入内部，第一件事是给旧队友的坟献花——就在他们眼前",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-lichang-0030",
+    "scene": "lichang",
+    "stakes": "两边都决定先除掉这个变量",
+    "tension": "把骑墙变成定价权",
+    "text": "我对两边都说了实话：我帮赢的那边。然后我去让赢变得便宜",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "错误一旦被修复，被删掉的可能是我",
+    "tension": "我的存在本身成了系统里的一个错误",
+    "text": "系统提示该玩家已死亡而我还站着，我按灭了提示，谁都没让看见。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "糗事说出口就收不回，往后全团都拿它打趣我",
+    "tension": "用一段没法造假的记忆，和冒牌货对簿公堂",
+    "text": "我把只有真身才知道的童年糗事说出来，赌复制体读取不到这一段。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "他若答对了，我才是多余的那一个",
+    "tension": "同一个问题，真的那个才知道答案在第几层",
+    "text": "他们让我和另一个我对质，我提了一个只有我俩私下聊过的问题。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "队友若拿出他还活着的证据，撒谎的我立刻现形",
+    "tension": "用一个没人能核实的死讯，给身份定罪",
+    "text": "我抢先指着队友说他是伪物，因为真的那个，三小时前死在我怀里。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "仇家寻上门时，还的不是他的命，是我的",
+    "tension": "顶替一个死人的名字，连他的因果一起接",
+    "text": "我把姓名牌翻过去戴：从今天起我是死掉的那个人的身份，他的仇我背。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "世界观污染是重罪，系统清算起来我先死",
+    "tension": "赌一个剧情人物接得住轮回者最大的秘密",
+    "text": "我承认自己不是这个世界的人，把主神空间的事全倒给了那个NPC。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "黑户没有补给没有保护，死在副本里连讣告都没有",
+    "tension": "用从所有记录里消失，换一次查无此人",
+    "text": "我捏碎身份重置卡，宁可做黑户，也不做系统档案里有名有姓的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "档案造假被系统验出，罪名比通缉令上还重",
+    "tension": "给自己造一个经得起查的过去",
+    "text": "我用积分兑了一份假档案：烈士遗孤，父母双亡，查无可查。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "队长死而复生这件事，从此全队人人皆知",
+    "tension": "拿最不该记住的事，证明我最该被信",
+    "text": "我当众背出队长上一局的死亡细节，那是只有亲历者才知道的。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "真少爷若回来，我这个假的就是现成的凶手",
+    "tension": "将错就错顶一个身份，步步都是认亲现场",
+    "text": "我跟着叫我少爷的老管家走，先当一天少爷，弄清这具身体的死因。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "他们若选择核验，我连被验的资格都没有",
+    "tension": "把核验变成站队，逼全团选边",
+    "text": "我拒绝接受系统的身份核验：要么信我这个人，要么现在散伙。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "有人真按地址找过去，挖出的是一座空坟",
+    "tension": "用一句真话撒一个谎，听者自己去悟",
+    "text": "他们问我现实里的家在哪，我报了个地址，那是我上辈子埋骨的地方。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "日记若落到改记忆的人手里，等于我递上了刀",
+    "tension": "用一本日记，对抗一群人被改过的记忆",
+    "text": "我发现全队的记忆里都没有我进队那天，我什么都没问，只是开始写日记。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "捆着的这一夜，谁想杀我都不用费劲",
+    "tension": "拿一夜的毫无反抗，换一个清白的早晨",
+    "text": "我主动申请被捆一夜：明早还活着的我，才算真的我。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "这家人真正的秘密，比认错人可怕得多",
+    "tension": "一声爹换一个庇护，谎言从开口就生了根",
+    "text": "我顺着他的称呼喊了声爹，认错人的场合，先认下来再说。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "烧尸若被目击，我百口莫辩就是杀人凶手",
+    "tension": "毁掉身份危机的物证，顺便当上唯一的正版",
+    "text": "我烧了那具和我一模一样的尸体，骨灰扬进河里：现在只剩一个我了。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "系统若回答修得起，我下一秒就被格式化",
+    "tension": "反过来拿捏系统，赌它缺不了我这个变量",
+    "text": "我质问系统：如果我是bug，你修不修得起，修好我，谁陪你跑这个副本。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "甄别期间，假货随时可能先动手",
+    "tension": "真人各有记错，只有复制品背标准答案",
+    "text": "我把队友分开问同一个问题，答得一字不差的那个，才是假的。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "顶替之罪已够下狱，通缉之罪他们宁可信其有",
+    "tension": "认一半罪撇一半命，赌他们分得清轻重",
+    "text": "我承认自己顶替了死者的名字，但这份通缉令上的人，真不是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "旧队友若在这支队伍里，我连装不认识都来不及",
+    "tension": "换个壳重新活，赌没人翻旧账",
+    "text": "我用新人的身份混进另一支队伍，旧名字和旧仇一起埋了。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "队友若先看到这个错误，怀疑的种子提前发芽",
+    "tension": "给未来的自己留一条只有我能对的口令",
+    "text": "我故意在档案上写错自己的生日，真被掉包那天，这就是我的暗号。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "暗号对上又露馅，罪名从可疑变成坐实",
+    "tension": "偷来的半句暗号，赌天亮前不被拆穿",
+    "text": "他们对暗号，我接了下半句，上半句是我昨晚从他梦话里听来的。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "纹身一亮，这个世界的猎杀名单从此有我",
+    "tension": "用禁忌身份当护身符，吓退地头的规矩",
+    "text": "我把轮回者的纹身亮给这个世界的捕快：要抓我可以，先想清楚抓的是人还是别的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "失忆装久了，他们拿旧事试探的频率会越来越高",
+    "tension": "用一片空白接住所有试探，听比说安全",
+    "text": "我扮演失忆：名字我认，人我不熟，你们讲，我听着。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "明早若是我自己对不上，规矩先勒死我",
+    "tension": "用一夜一换的口令，把混进来的东西逼出破绽",
+    "text": "我让队伍定一条只有今晚有效的暗号，明早对不上的，就不是队友。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "队友若怕我，比怀疑我更难收拾",
+    "tension": "把最深的恐惧当口供，换一个信字",
+    "text": "我坦白自己记不清父母的脸了，轮回太多次，我开始不像个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "没有身份牌，商城、补给、组队权限全部作废",
+    "tension": "毁掉系统给的定义，自己给自己上户口",
+    "text": "我把系统发的身份牌熔了打成一把刀：我是谁，轮不到一张牌说了算。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "那个被抹掉的人，很可能就是下一个被抹的我的先例",
+    "tension": "一张合照证明我们的记忆集体缺了一角",
+    "text": "我找出队伍合照里那个不存在的人，然后把他从每个人的记忆里问了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "管理员若请示了上级，我的罪名直达天听",
+    "tension": "借着主神的名头扯虎皮，赌下级不敢核验",
+    "text": "我冒充主神的巡视者，命令副本管理员给我开门，赌他没见过真的。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "遗物里若真有指向我的东西，这一夜就是我的刑期",
+    "tension": "拿自己做饵，赌清白熬得过一夜",
+    "text": "我申请和死者的遗物独处一整夜：如果他真是我杀的，天亮前我必露马脚。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "复活币没了，下个副本死一次就是真死",
+    "tension": "全部家当换一条可能送命的线索",
+    "text": "我把仅有的复活币推过去，换他那份没人敢接的隐藏任务线索",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "他要真是大佬，我这点斤两反被他拿捏",
+    "tension": "用实力证明他没资格坐地起价",
+    "text": "我出价前先让他亮上个副本的通关评价，用S级截图压他的价",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "他信以为真顺手毁掉，我没了护身的东西",
+    "tension": "把底牌说成垃圾才压得住价",
+    "text": "我故意说这件道具我用着烫手，其实它是我唯一的保命符",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "被听出在盘底细，他当场掀桌",
+    "tension": "闲聊里藏着验货的钩子",
+    "text": "我把话题岔到门口巡逻的NPC身上，套他上个副本队友的死因",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "消息是假的，我白送一件硬通货",
+    "tension": "用一笔买卖换一张入场券",
+    "text": "我拒绝收积分，只要他讲出主神空间哪一层正在招核心成员",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "他看穿我的套路，反过来钓我",
+    "tension": "藏一半筹码钓他的急迫",
+    "text": "我把两瓶治疗药剂摆上桌，只谈一瓶的价，另一瓶等他加价再亮",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "他察觉我在数他的命根子，交易变杀局",
+    "tension": "验货是假，盘点他的家底是真",
+    "text": "我借口验看道具真伪，把他背包里所有物品的摆法记进脑子",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "安全屋的规则他比我熟，反被将一军",
+    "tension": "借副本规则当测谎仪",
+    "text": "我提出交易改在安全屋里谈，那儿说谎会被规则当场吞掉",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "他恰好认识那公会的人，一句话戳穿我",
+    "tension": "凭空造一个竞价的影子买家",
+    "text": "我告诉他S级公会正在收同款，现在不出手就没这个价了",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "他真带了人来，坐标成了我的死期",
+    "tension": "亮软肋换他的真话",
+    "text": "我把自己的副本坐标报给他换情报，赌他不敢只身来抢",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他宁可鱼死网破，拖到他队友咽气再迁怒我",
+    "tension": "吃准了他没时间跟我耗",
+    "text": "我把价压到底线以下，赌他比我急——他队友的倒计时只剩两小时",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "他的笔记是抄来的残篇，我的回档是真货",
+    "tension": "两件无价之物对赌",
+    "text": "我提出用一次回档机会换他的规则笔记，双方都不知对方底数",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "他选那里正是为了埋我",
+    "tension": "让他以为占了地利",
+    "text": "我把交易地点让给他定，装作吃了亏，那副本我刷过三遍",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "规则护的是先收钱的一方，我搞反了",
+    "tension": "拿规则当担保人",
+    "text": "我让他先交货再谈价，赌系统规则不允许当面反悔",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "他冲着添头来，顺手把正主也卷走了",
+    "tension": "用添头掩护正主",
+    "text": "我拿出三件他见过的普通道具，第四件才是交易真正的标的",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "他当众拨通公会频道对质，我成了骗子",
+    "tension": "借一面倒了半边的旗吓人",
+    "text": "我抬出公会名号谈折扣，其实我被除名已经三天了",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "新规对我更不利，白拖一夜",
+    "tension": "用时辰当筹码",
+    "text": "我把谈判拖到天黑，等副本规则刷新，价格按新规重定",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "他宁可撕破脸也不放人，我暴露了对那人的志在必得",
+    "tension": "醉翁之意在人不在货",
+    "text": "我直说我不要道具，我要他队里那个会解规则的奶妈",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "没有积分压阵，他看轻我，价越谈越硬",
+    "tension": "藏富才能活过这场谈判",
+    "text": "我把积分全换成等值道具再上桌，防他看见余额起杀心",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "他当场翻脸不认旧账，还反咬我讹他",
+    "tension": "把旧账焊进新买卖里",
+    "text": "我答应以物易物，另搭一句他欠我的人情，人情比积分难赖",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "烧的是唯一真图，他那份才是抄本",
+    "tension": "烧掉货源垄断定价权",
+    "text": "我当着他的面把多出来的那份地图烧了，从此价格我说了算",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "两个买家通了气，联手压我的价",
+    "tension": "借刀抬价，坐收渔利",
+    "text": "我让他去跟第三个买家竞价，自己退到一边看他们互相抬价",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "他真信了，扭头走人，还说我有病",
+    "tension": "真话当诈术使",
+    "text": "我坦白这道具有反噬，赌他以为我在压价耍诈反而更想要",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他装没听见，我知道这人不能深交，可买卖还得做",
+    "tension": "一个错数字测出他的人品",
+    "text": "我报价时故意算错一位数，看他是纠正还是装没听见",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "机制触发时他装死闪开，我白白让利",
+    "tension": "用爽快换一条命",
+    "text": "我答应他的价，条件是下个副本他替我挡一次必死机制",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "他讲的天衣无缝，因为故事练过一百遍",
+    "tension": "来历对不上，东西不敢沾",
+    "text": "我请他先讲这道具从哪个副本捡的，讲错一个字我转身就走",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "他专宰新人，同情价里掺了三分假",
+    "tension": "示弱是最便宜的还价",
+    "text": "我把新人身份顶在头上装可怜，用同情价拿货",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "他反手举报我私聊记录，我先被盯上",
+    "tension": "借风声催他仓促出手",
+    "text": "我提醒他管理员最近在严查私下交易，逼他降价速战速决",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "他知道我怕什么，下次专往这儿下刀",
+    "tension": "亮伤口换信任",
+    "text": "我把自己的死亡惩罚明细摊给他看，证明我输得起，压他的心理价位",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "他俩对过口径，我成了跳梁小丑",
+    "tension": "两头询价戳破他的虚报",
+    "text": "我假装通讯中断退出谈判，绕到他队友那儿问同一件货的价",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "拓出来的字若读错一个，全队按错的规则送死",
+    "tension": "被抹去的规则往往是最致命的那条",
+    "text": "我先把规则纸条上被涂掉的第三条，用铅笔侧着拓了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "新人回不来，我在队里就坐实了拿人填坑的名声",
+    "tension": "用别人的命替我探未知，良心和命二选一",
+    "text": "我让最不怕死的新人先进门，自己留在门口数他的脚步声。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "积分是后半程的救命钱，抄错了就血本无归",
+    "tension": "真金白银买时间，赌门牌里藏着房间的秘密",
+    "text": "我花两百积分兑了一小时夜视，赶在熄灯前把整层楼的门牌抄下来。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "若真是鬼打墙，全队的时间已经被偷走了一半",
+    "tension": "先确认这层楼会不会自己动，再决定信不信任地图",
+    "text": "我在走廊口放了块标记石，拐三个弯后折回来，看它还在不在原地。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "撬锁的动静可能引来查房的，而查房的不是人",
+    "tension": "死人的时间表里藏着杀人规律",
+    "text": "我撬开护士站的抽屉，把每份病历上的死亡时间挨个记进本子。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "队友若觉得我神神叨叨，后面的警告就没人听了",
+    "tension": "一条发现救了全队，也暴露了我一直在盯细节",
+    "text": "我拦住全队：这面镜子里的我们比本人慢半拍，谁都别看第二眼。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "暗门后可能是捷径，也可能是副本特意留的陷阱",
+    "tension": "建筑图上没有的通道，往往是副本的良心",
+    "text": "我烧了半截蜡烛测风，顺着气流找地图上根本不存在的暗门。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "被发现藏私图，队里的信任当场清零",
+    "tension": "瞒着队友攒一张只有我知道的活命图",
+    "text": "我假装系鞋带落在队尾，把巡逻怪物的行走路线画在烟盒背面。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "钥匙若是一次性的，我就永远失去开那扇门的机会",
+    "tension": "符封着的门最诱人，也最可能要命",
+    "text": "我把捡到的钥匙在每扇门上都试了一遍，唯独跳过贴着符的那扇。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "假死道具失效快一秒，我就真死了",
+    "tension": "装死混过死线，呼吸声就是赌注",
+    "text": "我给自己套了层假死状态，让巡逻的那个东西从我身上跨过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "卡进度若触发惩罚，全队替我买单",
+    "tension": "和系统机制对着干，摸它的脾气",
+    "text": "我把探索度卡在百分之四十九不往上推，先看看这副本逼不逼人走主线。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "日志有主，被主人撞见我翻它的东西",
+    "tension": "被撕掉的那晚，就是这栋楼死过人的那晚",
+    "text": "我翻值班日志翻到最后一页，对照今天的日期找被撕掉的那一篇。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "病房里若真有东西，没人知道我在哪",
+    "tension": "独吞线索的代价是拿全队当猴耍",
+    "text": "我谎称收到系统提示把队伍引开，独自折回那间上锁的病房。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "等着的十分钟里，别处的队友少了一份照应",
+    "tension": "一根头发判断有没有东西进出过这间房",
+    "text": "我用一根头发丝粘在门缝上，退出去，等十分钟再回来看。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "管道里爬不出去也喊不应，死了都收不了尸",
+    "tension": "分兵快一倍，落单险十倍",
+    "text": "我把队伍分成两路让他们走大路，自己钻进通风管道抄近路。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "它若不想聊只想吃，我等于敲了敲门",
+    "tension": "主动向藏在暗处的东西递话，赌它想聊",
+    "text": "我对着空教室轻声说我们知道你在看，然后等那个声音接话。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "在我低头记数的时候，那些画可能也在记我",
+    "tension": "一屋子眼睛同时看的地方，不是出口就是坟",
+    "text": "我把墙上每幅画的眼睛朝向记下来，拼出它们一起盯着的那个位置。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "第九条若是禁忌，我等于亲手按下处刑开关",
+    "tension": "主动引爆规则，抢在副本前头拿先手",
+    "text": "我趁怪谈还没触发，先一步把校规第九条大声念了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "祭品若不合它的口味，收礼的未必放人",
+    "tension": "和副本里的神明做一笔没写条款的生意",
+    "text": "我把包里的祭品摆在神像前，换它背后壁龛的门开一条缝。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "罗盘若早被污染，我走的是一条死路",
+    "tension": "信一件来路不明的旧道具，还是信眼睛",
+    "text": "我摸出上个副本留下的罗盘，它指着墙壁而不是门，我跟着它走。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "装糊涂装到它动手那天，第一个受害的不知道是谁",
+    "tension": "队里混进了东西，点破它可能当场开团",
+    "text": "我让队友报数确认人数，多出来的那一个，我装作没看见。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "绕路多耗的时间，可能正好撞上巡逻的空窗",
+    "tension": "消失的荧光标记出一块看不见的死亡区",
+    "text": "我用荧光粉撒了一路做记号，回头时有一段光凭空断掉了，我绕着走。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "回来时柜门若开着，我下半辈子都走不出这个副本",
+    "tension": "留他一人赌柜子够结实，带他一起赌他的命硬",
+    "text": "我把重伤的队友藏进储物柜，独自下地下三层找出口图。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "撕启事的动作若犯了规则，全镇的人都知道我动了它",
+    "tension": "贴了满楼的启事，可能是唯一的活人留下的信",
+    "text": "我撕下寻人启事的一角，对着阳光看夹层里有没有第二行字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "问错了问题，他可能从扫地大爷变成别的什么",
+    "tension": "NPC嘴里的旧闻，往往就是通关的钥匙",
+    "text": "我装迷路凑近扫地的大爷，套他三十年前那晚的事。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "楼梯间若更凶险，这个馊主意算我头上",
+    "tension": "放弃近在眼前的进度，换一条不熟悉的生路",
+    "text": "我提议退出这条走廊改走楼梯间，哪怕要多绕两层楼。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "符若镇不住它，我赔上的是两条命",
+    "tension": "拿队友当饵，收网还是收尸就看这一下",
+    "text": "我把一张符贴在队友背后让他假装落单，钓那个跟了我们一路的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "真查出谁穿着白鞋，今晚队伍就得见血",
+    "tension": "规则指向队里，查鞋就是查鬼",
+    "text": "我把副本简介里不要相信穿白鞋的人那句圈出来，挨个看队友的脚。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "赌输了，后半程补给减半，人也照样进那扇门",
+    "tension": "把直觉变现成官方背书的保险",
+    "text": "我拿出一半积分押给系统公证：赌那扇门后是安全屋，错了积分充公。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "知道得越多，副本对我的关注可能也越多",
+    "tension": "一滩水揭开这栋楼的旧用途，规则全要重读",
+    "text": "我蹲下来闻了闻那摊水渍：是福尔马林，这层楼以前是停尸房。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0001",
+    "scene": "taowang",
+    "stakes": "送葬规矩若不许活人沾边，我等于自己走进了棺材",
+    "tension": "藏进一支给死人开路的队伍，赌追兵不敢拦",
+    "text": "我把外套反穿，混进送葬的NPC队伍里，跟着唢呐声往城外走。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0002",
+    "scene": "taowang",
+    "stakes": "司机若把我卖了，我连买命的积分都没了",
+    "tension": "用全部身家买一段不知通向哪的路",
+    "text": "我把积分全押给开破卡车的司机：别问去哪，开多快给多快。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0003",
+    "scene": "taowang",
+    "stakes": "他们识破之后，我的每一招都会被反着读",
+    "tension": "一块假伤口，换半小时的喘息",
+    "text": "我故意在岔路口丢下带血的绷带，把追兵引向反方向的死巷。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0004",
+    "scene": "taowang",
+    "stakes": "没了提示音，规则触发了我也收不到警告",
+    "tension": "关掉保命的信息源，换一个不被定位的静默",
+    "text": "我关了系统提示音，追兵的猎犬能听见提示音的震动。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0005",
+    "scene": "taowang",
+    "stakes": "下水道塌了，连个给我收尸的都没有",
+    "tension": "两害相权，选那个至少不会盯着你看的",
+    "text": "我拖着断腿爬进下水道，宁可赌塌方，也不赌身后那个东西的眼神。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0006",
+    "scene": "taowang",
+    "stakes": "两个人都跑不掉的可能性，翻了一倍",
+    "tension": "负重一倍，速度慢一半，命还是绑在一起",
+    "text": "我把重伤的队友背上肩：要死死一块，谁也别想活着丢下谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0007",
+    "scene": "taowang",
+    "stakes": "傀儡若被当场拆穿，垃圾箱就是口现成的棺",
+    "tension": "一明一暗两条命，赌追兵只追会跑的那个",
+    "text": "我启动替身傀儡往东边跑，本人钻进垃圾箱等天亮。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0008",
+    "scene": "taowang",
+    "stakes": "符阵失控，我和他站的是同一个圈",
+    "tension": "诈降只有一次机会，炸不响就是真降",
+    "text": "我跪下来向追兵投降，双手举高的瞬间引爆了埋好的符阵。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0009",
+    "scene": "taowang",
+    "stakes": "她若在水里挣扎出声，两条命一起交代",
+    "tension": "跳河是生路，也可能是一起冻僵的死路",
+    "text": "我把小NPC的眼睛蒙上，抱着她跳进了冰河。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0010",
+    "scene": "taowang",
+    "stakes": "法力见底，接下来二十四小时我是个废人",
+    "tension": "让猎人漫山遍野追一头猪，我笑不出声",
+    "text": "我用最后的法力改了自己命牌的气息，让追踪咒锁到一头野猪身上。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0011",
+    "scene": "taowang",
+    "stakes": "号声若吹错一个音，全城都知道有人冒充",
+    "tension": "用敌人的军令调动敌人，错一拍就露馅",
+    "text": "我抢了巡逻兵的号角，吹出三长两短，那是他们撤防的信号。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0012",
+    "scene": "taowang",
+    "stakes": "他若活着回去，我背着割桥的名过一辈子",
+    "tension": "斩断追兵的路，也斩断他的路",
+    "text": "我割断吊桥绳索的时候，队友还在桥那头没过来。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0013",
+    "scene": "taowang",
+    "stakes": "BOSS若正好在家，我从猎物变成了外卖",
+    "tension": "从一个杀手手里，逃进另一个杀手家里",
+    "text": "我钻进副本BOSS的巢穴，猎人不敢进的地方，就是我的生路。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0014",
+    "scene": "taowang",
+    "stakes": "他们若停下不追，我就得一个人踩完剩下的雷",
+    "tension": "把杀场变成顺风车，错一步先碎的是我",
+    "text": "我数着心跳穿过雷区，让身后的追兵替我排雷。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0015",
+    "scene": "taowang",
+    "stakes": "道具若还有别的用途，我扔的是全队的活路",
+    "tension": "毁掉悬赏的由头，也毁掉自己通关的路",
+    "text": "我把通关道具扔进河里：没了它，他们追杀我就没了意义。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0016",
+    "scene": "taowang",
+    "stakes": "传送判定不认我，我被弹回追兵的正中间",
+    "tension": "蹭别人的生路，被发现就是全场公敌",
+    "text": "我混进即将通关离场的玩家队伍，赌传送的光柱多带一个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0017",
+    "scene": "taowang",
+    "stakes": "他若不在乎，我等于把最后一张牌喊没了",
+    "tension": "一声真名，把猎人和猎物的位置换一秒",
+    "text": "我冲着追兵喊出他们队长的真名，赌他不敢让手下听见这个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0018",
+    "scene": "taowang",
+    "stakes": "冰柜从外面锁死的声音响起时，赌局就结束了",
+    "tension": "用体温清零换一次查无此人",
+    "text": "我把自己锁进冰柜调到最低温，赌那东西靠热源找人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0019",
+    "scene": "taowang",
+    "stakes": "水塔只有一条下去的路，守不住就是瓮中之鳖",
+    "tension": "绝境里把逃亡改成死守，赌援兵比围兵先到",
+    "text": "我不跑了，转身爬上水塔，逃不掉就占一个他们仰攻不了的位置。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0020",
+    "scene": "taowang",
+    "stakes": "脚步数错一个方向，我跑进的就是包围圈",
+    "tension": "把唯一的保命符让出去，拿耳朵当防线",
+    "text": "我用隐身符换队友先走，自己留在原地数追兵的脚步声。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0021",
+    "scene": "taowang",
+    "stakes": "车上的乘客若发现我多了一口气，规矩就作废了",
+    "tension": "上一辆不载活人的车，赌司机讲规矩",
+    "text": "我扒上那趟午夜灵车，用三张冥币买了到终点站的沉默。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0022",
+    "scene": "taowang",
+    "stakes": "窗外若是十八楼，我只是换了个死法",
+    "tension": "三秒的障眼法，买一条不知道通向哪的窗",
+    "text": "我咬破手指在墙上画了扇假门，拖延三秒，够我翻窗。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0023",
+    "scene": "taowang",
+    "stakes": "插队要抵押，抵押物是我下个副本的全部收益",
+    "tension": "从一个地狱跳进另一个地狱，赌那边的死期晚一点",
+    "text": "我向系统申请紧急副本插队，哪怕是S级，也好过被堵在这儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0024",
+    "scene": "taowang",
+    "stakes": "我若记错一条规则，先犯规的就是我",
+    "tension": "借规则的刀杀人，我自己也在刀口上跑",
+    "text": "我把追兵引进了规则怪谈区，在那里，跑得慢的才会犯规。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0025",
+    "scene": "taowang",
+    "stakes": "手环若离体报警，我的反方向就是自报家门",
+    "tension": "让追杀令满城追一只鸟，方向我自己定",
+    "text": "我把定位手环绑在信鸽腿上放了，看它往哪飞，我就往反方向跑。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0026",
+    "scene": "taowang",
+    "stakes": "引开保安的我，再没有第二张门卡",
+    "tension": "门后只有一条路，我把它让给了别人",
+    "text": "我把唯一的门卡从门缝底下推给队友，自己转身去引开保安。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0027",
+    "scene": "taowang",
+    "stakes": "尸袋拉链若被拉开，我连挣扎的姿势都没有",
+    "tension": "装成一具尸体，赌检查的人嫌晦气",
+    "text": "我跳上运尸车躺进尸袋，和那些再也不会动的人挤在一起。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0028",
+    "scene": "taowang",
+    "stakes": "第三方若不存在，信号弹就是我的葬礼焰火",
+    "tension": "把所有敌人都引来，赌他们先打起来",
+    "text": "我朝天上放了一枚信号弹，不是求救，是赌还有第三方想搅这局。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0029",
+    "scene": "taowang",
+    "stakes": "往后再被通缉，我拿不出任何不在场证明",
+    "tension": "斩断追踪的根，也斩断了自证的路",
+    "text": "我删掉了系统里自己所有的足迹记录，包括能证明我清白的那几条。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-taowang-0030",
+    "scene": "taowang",
+    "stakes": "规则若有时限，天亮之后我就跪在刑场中央",
+    "tension": "三米的庇护圈，追兵只能围着打转",
+    "text": "我跑进教堂跪在神像前，规则里写着，祭坛前三米内禁止杀戮。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0001",
+    "scene": "xinren",
+    "stakes": "赌输了，三秒够死一回",
+    "tension": "用自己的命当诱饵验人",
+    "text": "我把后背亮给他三秒，看他拔不拔刀——规则说内鬼今晚必动手",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0002",
+    "scene": "xinren",
+    "stakes": "他收下我的保命符，转头拿去换了积分",
+    "tension": "把彼此的命押在对方口袋里",
+    "text": "我提议互换一件保命道具保管，谁有异心谁先舍不得交出来",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0003",
+    "scene": "xinren",
+    "stakes": "他翻了，可他也只是怕我带不动队",
+    "tension": "一句谎话当探针",
+    "text": "我故意报错自己的积分余额，看他夜里翻不翻我的背包",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0004",
+    "scene": "xinren",
+    "stakes": "符被规则抹掉，他察觉被监视，信任归零",
+    "tension": "放他单飞，暗中留眼",
+    "text": "我答应跟他分头行动，在他必经之路上贴了张探测符",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0005",
+    "scene": "xinren",
+    "stakes": "他恼羞成怒，说我拿救命之恩做局",
+    "tension": "用恩情试他的成色",
+    "text": "我把上一轮他救我那件事当众重提，看他是感动还是心虚",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0006",
+    "scene": "xinren",
+    "stakes": "内鬼将计就计，三个版本都成了我的黑料",
+    "tension": "三个版本的饵钓一条鱼",
+    "text": "我把真计划说给三个人，每人版本差一个细节，等谣言回流找内鬼",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0007",
+    "scene": "xinren",
+    "stakes": "真凶就锁在屋里，逃都没处逃",
+    "tension": "用同归于尽的姿态换一夜安心",
+    "text": "我要求今晚同睡一个安全屋，门从里面锁死，谁也别想单独行动",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0008",
+    "scene": "xinren",
+    "stakes": "他接了，我的武器从此认了新主",
+    "tension": "以空手试人心",
+    "text": "我主动交出武器让他保管，赌他不接就是心里有鬼",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他真信了，任务尽头是规则杀",
+    "tension": "用假任务测真信任",
+    "text": "我编了个假隐藏任务引他去验证，他真去找就说明他信我",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0010",
+    "scene": "xinren",
+    "stakes": "系统提示可以伪造，他看我的眼神更冷了",
+    "tension": "亮后台自证清白",
+    "text": "我把系统的私聊提示给他看，证明我没收到背叛任务",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0011",
+    "scene": "xinren",
+    "stakes": "真正的内鬼最擅长这时候叹气",
+    "tension": "沉默和辩解都是答案",
+    "text": "我当众放出上一轮内鬼的名单旧事，看谁先辩解谁先沉默",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0012",
+    "scene": "xinren",
+    "stakes": "他开门就给了我一刀，说夜里敲门的就是诡",
+    "tension": "一个下意识动作见底色",
+    "text": "我半夜敲他房门说规则变了，看他开门前先摸武器还是先点灯",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0013",
+    "scene": "xinren",
+    "stakes": "试出来了，新人没回来",
+    "tension": "用新人当试金石",
+    "text": "我把最弱的新人托付给他，他若吞了新人我就看清他了",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0014",
+    "scene": "xinren",
+    "stakes": "契成了，他第一个叛，半条命换全队",
+    "tension": "借系统之力锁死人心",
+    "text": "我提出结血契绑定，背叛方当场掉半血，他敢签才算真队友",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0015",
+    "scene": "xinren",
+    "stakes": "没人变色，说明鬼藏得比我想的深",
+    "tension": "一封假信炸出真鬼",
+    "text": "我假装收到系统的离间私信并当众念出来，看谁会变了脸色",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他拿着钥匙开了门，门后只够过一个人",
+    "tension": "把生路先让出去",
+    "text": "我把逃生路线的钥匙交给他，自己走另一条，赌他会回来接应",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0017",
+    "scene": "xinren",
+    "stakes": "他联络的是系统客服，替我查隐藏奖励",
+    "tension": "装睡的人耳朵最灵",
+    "text": "我装睡，听他半夜用暗号跟谁联络",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0018",
+    "scene": "xinren",
+    "stakes": "他报的数字是我告诉他的减一",
+    "tension": "先脱盔甲的人最危险",
+    "text": "我把复活币数目如实相告，赌他也亮一次家底",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0019",
+    "scene": "xinren",
+    "stakes": "清单公开后，我们成了全副本最肥的猎物",
+    "tension": "用制度逼出猫腻",
+    "text": "我提议全队公开登记道具清单，谁藏私谁出局",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0020",
+    "scene": "xinren",
+    "stakes": "真有人拿我的恐惧做局，我就连防身的秘密都没了",
+    "tension": "弱点说出口就成了探针",
+    "text": "我把自己最怕的那种怪物告诉全队，看谁在下场战斗里恰好站错位置",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0021",
+    "scene": "xinren",
+    "stakes": "后手先被识破，网破鱼走",
+    "tension": "以自己为饵收网",
+    "text": "我故意落单，给内鬼一个下手的机会，暗处留了后手",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0022",
+    "scene": "xinren",
+    "stakes": "下一轮他站在安全区看我死",
+    "tension": "预支一条命测人心",
+    "text": "我把救命的技能用在他身上，看下一轮他还不还这条命",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0023",
+    "scene": "xinren",
+    "stakes": "最信我的人先寒了心",
+    "tension": "从最干净的人查起才有公信力",
+    "text": "我要求检查每个人的系统面板，从最信我的那个查起",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0024",
+    "scene": "xinren",
+    "stakes": "他收了押金连夜退队，我人财两空",
+    "tension": "真金白银买一颗定心丸",
+    "text": "我把一半积分转给他当押金，赌他不会卷款跑路",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0025",
+    "scene": "xinren",
+    "stakes": "剪影里多出一个不该在的人",
+    "tension": "嘴上的信任，眼睛的不信任",
+    "text": "我说我信他，然后整夜盯着他帐篷的剪影",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他嘴上说没事，从此走在我三步之后",
+    "tension": "自曝其短换坦白的资格",
+    "text": "我当众承认上一轮误杀过队友，看他还敢不敢把后背给我",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0027",
+    "scene": "xinren",
+    "stakes": "真有急事的人也不敢说话，情报断了",
+    "tension": "让秘密无处生根",
+    "text": "我把通讯器调成全员频道，谁想私聊谁就有鬼",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0028",
+    "scene": "xinren",
+    "stakes": "照办的是最老实的新人，我错杀了好人的信任",
+    "tension": "假规矩钓真内鬼",
+    "text": "我编一条假规则混进队伍守则，谁照办谁就是抄过系统的底",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0029",
+    "scene": "xinren",
+    "stakes": "他们的回放里，杀死我的人长了张熟脸",
+    "tension": "用解剖自己换解剖权",
+    "text": "我调出自己上一轮的死因回投放给全队，换取看他们的",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xinren-0030",
+    "scene": "xinren",
+    "stakes": "他安慰我三分钟，套道具套了半小时",
+    "tension": "崩溃是最快的卸妆水",
+    "text": "我故意在他面前崩溃说不想玩了，看他是安慰我还是套我的道具",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "他们拦不住，我赌我的死亡惩罚比想象中轻",
+    "tension": "把必选题答成自选题",
+    "text": "我按下献祭一人的确认键，填的是自己的名字——积分已提前转给队友",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "新人吓得当场退队，护盾白送",
+    "tension": "用命换一个还没证明过自己的人",
+    "text": "我把唯一的一次性护盾塞给新人，自己硬扛BOSS的即死判定",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "他醒来后活着，恨我一辈子",
+    "tension": "替他做他绝不肯做的决定",
+    "text": "我投票献祭那个重伤的队友，在他醒来前把决定独自扛下来",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "记号被看穿，队友宁可同归于尽也不欠我",
+    "tension": "用必输的签换他们的生",
+    "text": "我提议抽签决定牺牲者，但我先抽——签筒里每张签都做了记号",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "没有记忆，我连为什么牺牲都想不起来",
+    "tension": "最重的代价从来看不见血",
+    "text": "我拿十年的游戏记忆换全队过关，出门我连他们的脸都认不出",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "她的死触发隐藏剧情，副本难度翻倍",
+    "tension": "数据也有温度，按键有千斤重",
+    "text": "我选择牺牲这个副本里NPC的女儿，系统说她只是数据，我手抖了",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "地狱难度里先死的恰恰是被保下的那位",
+    "tension": "用确定的惨败换不确定的团圆",
+    "text": "我拒绝任何牺牲，宁可全员扣分降级，回头再刷一次地狱难度",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "谎言戳破时已经进了献祭阵，没人能换我下来",
+    "tension": "用谎话抢赴死的资格",
+    "text": "我谎称自己有复活币，骗大家把牺牲位让给我",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "往后每个副本，我都是全队最慢的那个人",
+    "tension": "用半条命换全队的天长地久",
+    "text": "我选择献祭自己的惯用手，换这个副本的怪物永世不追杀队友",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "队长早就知道，他只是等我先开口",
+    "tension": "冷静地计算谁更该死",
+    "text": "我把去死的名额让给队长，我查过，他的保险受益人是他妹妹",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "规则发现名单有假，献祭翻三倍",
+    "tension": "借系统的刀公报私仇",
+    "text": "我偷偷改了献祭名单，把规则指定的恩人换成了我的仇人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "新人出了副本就退游，我的积分成了沉没成本",
+    "tension": "三年积累换一个菜鸟的命",
+    "text": "我选择牺牲全部积分跌回一级，保住那个还不会玩的新人",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "下一场战斗里，我先被自己的惨叫暴露",
+    "tension": "用往后每一战的生不如死结账",
+    "text": "我把自己的痛觉永久调高十倍卖给系统，换队友一条命",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "崩塌比传送快半秒",
+    "tension": "用毫秒之差赌命",
+    "text": "我让大家先走，我留下触发最后的规则——赌副本崩塌慢过传送",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "传送门的代价，是带走关于她的全部记忆",
+    "tension": "最疼的那刀是她帮我捅的",
+    "text": "我牺牲了这个副本里刚跟我拜过堂的NPC，是她笑着把我推进传送门的",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "隔壁队里有个人曾救过我的命",
+    "tension": "用敌人的命填规则的坑",
+    "text": "我把牺牲指标转嫁给隔壁队——他们昨晚刚偷了我们的补给",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "下个副本投票放逐，全票通过的是我",
+    "tension": "用一辈子的孤立换一时的团圆",
+    "text": "我选择失去被信任这个属性，从此人人防我，但他们活着",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "猫上个月就丢了，没人忍心告诉我",
+    "tension": "把遗言说得很小",
+    "text": "我把必死任务揽下来，只要求他们出去后替我看看现实里的猫",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "没有称号加成，下个副本我们连入场资格都不够",
+    "tension": "拿名声换命",
+    "text": "我牺牲掉本赛季所有称号，换系统撤回那条团灭规则",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "没了记忆，连我自己都走不出这个副本",
+    "tension": "用自己的导航换全队的出口",
+    "text": "我把只有我知道的活路记忆卖给系统，往后我带不了路，但他们活着",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "诡宠通灵，它看我的最后一眼像在看叛徒",
+    "tension": "用另一个忠心的命挡灾",
+    "text": "我隐瞒了替身代死的规则漏洞，因为替身只能是我养了三年的诡宠",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "他真正想活，是我误判了他的沉默",
+    "tension": "替他行使他下不去手的权利",
+    "text": "我把队友的反对票全部作废，替他按下了献祭他自己的按钮",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "下一轮里他们记得一切，唯独不记得回家的路是谁烧的",
+    "tension": "用岸换船",
+    "text": "我牺牲掉回家这条结局线，换全队带着记忆进入下一轮",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "十分钟结束，我成了新的副本怪谈",
+    "tension": "拿清醒换他们的命",
+    "text": "我把自己的SAN值抵押给邪神，换十分钟无敌期护住全队",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "好感清零后，她把我列进了可疑名单",
+    "tension": "用被遗忘换她的生还",
+    "text": "我选择献祭暗恋我的队友对我的好感度，她能活，只是不再记得我",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "他们活着出去后，把我的故事讲成了反面教材",
+    "tension": "用一票反对成全我的成全",
+    "text": "我让大家表决，我唯独投下谁都不牺牲，然后独自留在了原地",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "守卫收钱后指的那扇门，通向更深的怪谈",
+    "tension": "用战利品买一条不存在的生路",
+    "text": "我把通关奖励全押给守卫NPC，贿赂它放全队走暗门",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "小孩活下来了，队伍里再没人跟我说话",
+    "tension": "正确的账，烂掉的心",
+    "text": "我提议救大人弃小孩，数字上最划算——说完我自己先吐了",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "尸潮只挡了二十九秒",
+    "tension": "三年家底换半分钟",
+    "text": "我烧掉攒了三年的道具库，火光能挡尸潮三十秒，够他们跑了",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "有人连夜给我转分，想替我垫底",
+    "tension": "用散财买到垫底的资格",
+    "text": "我提议牺牲者由积分最少的人当，我垫底——昨天我故意把分散光了",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "日志里有我的名字，我成了知情不报的共犯",
+    "tension": "用系统自己的账本砸系统的锅",
+    "text": "我把系统的结算日志投到广场大屏，让所有人看见积分流向哪里",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "面板可以伪装，我撕错了就得偿命",
+    "tension": "朝夕相处的队长是个已注销的号",
+    "text": "我当众撕开队长的玩家面板——那串ID属于三年前就注销的死人",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "真相捂在怀里发酵，队友的死都算在我头上",
+    "tension": "让真相等一条活路",
+    "text": "我把真相压到通关后再说，现在戳破，全队当场就散",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "它看了眼刻字，把王座连同我一起拍碎",
+    "tension": "让怪物照一次镜子",
+    "text": "我把BOSS的真实身份刻在它自己的王座上，赌它会停手",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "回溯里的凶手，长着一张和我一样的脸",
+    "tension": "铁证面前，演技再好也穿帮",
+    "text": "我用回溯道具重放案发那一夜，让所有当事人无话可说",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "谜面被官方收编，成了洗白的宣传题",
+    "tension": "自己挖出来的真相才扎得进心里",
+    "text": "我把真相写成谜面散布出去，让玩家们自己查——查到的才会信",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "规则没禁止说谎，只禁止我不信",
+    "tension": "用规则撬规则的嘴",
+    "text": "我当面质问系统管理员，赌规则禁止它对玩家说谎",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "放回时少了一颗螺丝，有人知道我来过",
+    "tension": "把烫手的真相塞回暗处",
+    "text": "我把发现真相的线索原样放回，装作没来过——知道的人都活不长",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "直播没结束，我的频道先被系统封了",
+    "tension": "最直白的真相最血腥",
+    "text": "我向全队直播解剖那只NPC，它胸腔里是上一批玩家的名牌",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "它信了，然后把我和系统一起清算",
+    "tension": "把怪物变成证人",
+    "text": "我把真相告诉BOSS——它是被系统骗得最惨的那个，也许能反水",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "验证的动作本身，成了系统需要的确认",
+    "tension": "真相比谎言更会钓鱼",
+    "text": "我先验证真相是不是系统埋的饵——这个季节已有三人死于知道太多",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "三方对质前先达成了共识：灭我的口",
+    "tension": "用猜忌链当公证处",
+    "text": "我把真相拆成三份，分别说给三个互不信任的势力，让他们互相印证",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "公证生效那一刻，我的账号被标记为异常",
+    "tension": "让庄家给自己的罪证盖章",
+    "text": "我用积分兑换记忆公证，把真相钉死在系统记录里，删不掉",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "他选了第三条：把真相包装成他的功劳",
+    "tension": "用摊牌逼他现形",
+    "text": "我把真相告诉那个一直在骗我们的人，看他是灭口还是跪地求饶",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "第四次消音封的是我的声带",
+    "tension": "用封号的风险换三秒钟的清醒",
+    "text": "我在全员频道念出阵亡名单的真版本，被系统消音三次也要念完",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "信仰没塌，队友一个个被喂进了规则",
+    "tension": "信仰塌了，队伍就死了",
+    "text": "我选择隐瞒：队友们信仰的引路人，是这个副本的饲养员",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "拍下它的是官方小号，成交价正好是我的全部余额",
+    "tension": "用拍卖行钓幕后黑手",
+    "text": "我把真相的钥匙——一段录音——挂上黑市拍卖，谁心虚谁就会来买",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "两个版本都有人信，真相从此成了罗生门",
+    "tension": "谎言最怕的辟谣者是真凶",
+    "text": "我把两个互相矛盾的真相同时放出去，逼幕后的人亲自下场辟谣",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "测试做到一半，我自己先没通过",
+    "tension": "先自证，再逼人",
+    "text": "我当众给自己做玩家认证测试，证明我还是我——他们中间有东西不是",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "重置终究来了，只是换了个理由",
+    "tension": "让真相给亡者让路",
+    "text": "我把真相咽下去——说出来系统会重置副本，队友的牺牲全白费",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "他们要的报酬是：真相烂在肚子里",
+    "tension": "借外敌的刀砍内鬼的头",
+    "text": "我把真相告诉敌对阵营，换他们联手对抗真正的庄家",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "第七条规则生效了，代价是我成了规则的执行人",
+    "tension": "在庄家的合同上加一条庄家的罪",
+    "text": "我在规则怪谈的空白处写下第七条规则，署上系统的真名",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "这次是真的，送信的人死在我门口",
+    "tension": "对真相最大的敬意是怀疑",
+    "text": "我拒绝听真相，先撕了那封信——有人拿真相当过三次杀人的诱饵",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "奖励到账了，附赠一枚洗不掉的追踪印记",
+    "tension": "用庄家的丑闻跟庄家兑奖",
+    "text": "我把真相当作隐藏通关条件交了上去，赌系统会兑现奖励",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "老玩家们早就知道，他们才是鱼塘的股东",
+    "tension": "一行小字掀翻整个鱼塘",
+    "text": "我当众复原被抹掉的系统公告：所谓新手保护期，是筛选期",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "封口费里附着契约条款，收钱即认罪",
+    "tension": "收钱是为了留证",
+    "text": "我装傻接下系统发的封口费，反手把转账记录群发",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "第一个人说漏之后，剩下的人连夜统一了口径",
+    "tension": "让谎言自己绊倒自己",
+    "text": "我把真相拆成一个个问题逐个问，让每个知情人自己说漏一个字",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "出去的人记住的是被消音的半截",
+    "tension": "把真相托付给来不及核实的耳朵",
+    "text": "我在传送门关闭前最后一秒喊出真相，让活着出去的人替我验证",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "它听完打了个饱嗝，说还想听续集",
+    "tension": "怪物是唯一不收封口费的听众",
+    "text": "我把真相喂给副本里的诡，以秘闻换它一夜不杀人",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "ch-wuxianliu-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "他们猜的版本比真相狠十倍，全都算在我头上",
+    "tension": "用沉默当杠杆",
+    "text": "我公开宣布我知道真相但永不说，让所有势力来猜我握的是什么",
+    "type": "choice"
+  }
+]

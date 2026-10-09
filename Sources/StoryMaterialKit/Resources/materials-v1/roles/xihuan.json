@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 35,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是预言中的勇者，全村凑钱给你打的剑，只有你知道预言下半句被祭司烧了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是屠龙者，凯旋那天龙血还没干，国王的使者在城门口拦下了你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是大魔导师，塔顶的星空图你看了四十年，昨夜它少了一颗星。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是圣女，神迹加身，今早祈祷时神第一次回应你，只说了一个字：跑。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是被召唤的异界人，语言不通，可他们给你戴上王冠时，所有人都在哭。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是圣骑士团长，誓约护国，昨夜国王的密令只有五个字：屠城，天亮前。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是魔王，刚统一黑暗大陆，勇者们却在你的城门外排起了求职长队。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是勇者的随从，管钱管马管退路，勇者不知道的逃生路线你画了七张。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是酒馆老板娘，听过的秘密比国王的情报官多，昨夜有个醉鬼说了不该说的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是法师塔的扫地学徒，魔力为零，但每本禁书借给了谁，你都有账。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是宫廷医师，国王的病历你敢写，王子的病历你不敢写。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是神殿忏悔室的修士，今早来忏悔的人，声音和昨天处死的异端一模一样。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是商队向导，走荒漠三十年，这次的地图没有水源，却标满了坟墓。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xihuan",
+    "id": "rp-xihuan-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是巨龙的图书管理员，龙睡着了，它的藏书里夹着一页写给人类的道歉信。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0001",
+    "role_kind": "original",
+    "text": "你是魔药贩子，专卖安慰剂，直到有个病人喝你的假药痊愈了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0002",
+    "role_kind": "original",
+    "text": "你是边境守夜人，灯塔三百年没亮过，你值第一班，它亮了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0003",
+    "role_kind": "original",
+    "text": "你是刽子手，行刑九十九次，明天那位的罪名是“知道了不该知道的”。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0004",
+    "role_kind": "original",
+    "text": "你是死灵法师的房东，他欠租三个月，你说要赶人，他笑着打开了地下室。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0005",
+    "role_kind": "original",
+    "text": "你是给英雄写讣告的抄写员，今早的名单上，有明天才出发的勇者。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xihuan",
+    "id": "rp-xihuan-original-0006",
+    "role_kind": "original",
+    "text": "你是半兽人厨子，在王都开了十年店，今晚有人带了一双银筷子来试你的汤。",
+    "type": "role_pitch"
+  }
+]

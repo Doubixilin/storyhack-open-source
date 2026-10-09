@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是和亲的公主，喜轿出雁门那日，你把半块虎符缝进了嫁衣的衬里。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是废居冷宫的皇后。第三年冬至，新帝遣人送来密旨：替朕，毒死太后。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是垂帘的长公主，昨夜小皇帝在你案上搁了盏毒茶，天亮前又亲手撤走了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是班师的女将军，万人夹道夸你封侯，你只盘算拿兵符换天牢里那个人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是待选的世家嫡女，殿选前夜，妆匣里多了张字条：别入选。字迹是你亡母的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是亡国那日自城楼跃下却没死成的公主，如今在新朝教坊，弹前朝的破阵乐。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是太医院院使的独女，父亲死于一碗药膳，验尸格目是你瞒着众人亲手填的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是小姐的陪嫁丫鬟，姑爷书房里那封要她命的信，此刻正贴着你的心口。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是宫里的教养姑姑，二十年只教会小主们一件事：把真话咽下去的姿势。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是教坊司的琵琶伎，今夜指名点你的，是当年抄你满门那道旨意的执笔人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是公主的暗卫，护了她十年。今夜新令送到，目标一栏写着她的封号。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是城南的绣娘，十里红妆的嫁衣出自你手，穿它的人，占的是你的婚约。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "rp-gufeng-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是王府的女史，教小郡主念书。她近日总问：先生，我娘到底是怎么死的？",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0001",
+    "role_kind": "original",
+    "text": "你在鬼市开当铺，只收后悔。今夜有人捧着一纸婚书，要当掉没嫁成的那个人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0002",
+    "role_kind": "original",
+    "text": "你守着皇陵外一座无名坟，每年清明，都有不同的人来，烧同一封信。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0003",
+    "role_kind": "original",
+    "text": "你在忘川支流撑船，渡不肯喝孟婆汤的痴魂，船钱是一段生前的记忆。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0004",
+    "role_kind": "original",
+    "text": "你是义庄的女仵作，验过三百具尸首，今夜这具的心口，纹着你的小名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0005",
+    "role_kind": "original",
+    "text": "你在雁门关外卖酒，酒钱不收银子，只收行商一段不敢带回家的实话。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0006",
+    "role_kind": "original",
+    "text": "你是给宫里送花的卖花女，今日这束白菊，收货人一栏，写着你亡母的名字。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "rp-gufeng-original-0007",
+    "role_kind": "original",
+    "text": "你在江南修伞，伞骨里替人藏话。有把伞十年无人来取，伞柄刻着你的生辰。",
+    "type": "role_pitch"
+  }
+]

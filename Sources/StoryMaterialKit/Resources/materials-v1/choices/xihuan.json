@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "唯一的护身文书，被撕就再无凭据",
+    "tension": "把私人对峙抬成公开抗命，逼他在权威面前露底",
+    "text": "我把盖着国王火漆的赦令拍在桌上，看他敢不敢当众撕。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "赌输了当场死，赌赢了也烧掉安插多年的线人",
+    "tension": "一句话把他的队伍变成定时炸弹",
+    "text": "我朝他身后的副官喊话：答应你们的赏金单子，正缝在我衣襟里。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "剑和颜面一起交出，反抗筹码清零",
+    "tension": "用屈辱换距离，离他越近机会越近",
+    "text": "我把剑连鞘推过去，跪得干脆，膝行两步替他擦靴尖的灰。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "裁判若驳回，拖延本身就坐实心虚",
+    "tension": "在死局里硬抠出一个钟头",
+    "text": "用他的规矩要求决斗裁判，把胜负拖到正午钟声，等我的人进城。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "纹记一亮，潜伏三年的身份就此作废",
+    "tension": "把群众变成我的证人席",
+    "text": "我摘下兜帽亮出精灵王庭的纹记，让围观者替我问他有没有资格动手。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "圣物离身，琴盒主人还不知自己成了同伙",
+    "tension": "搜身搜不出，他却看见了我递东西的手",
+    "text": "把圣物塞进邻座吟游诗人的琴盒，我两手空空迎上去。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "收税官若反咬，我就是两家的公敌",
+    "tension": "把他的贪心引向更肥的猎物",
+    "text": "我指向角落数金币的收税官：你的钱袋子在那儿，不在我这。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "地窖是死胡同，烟散之前想不出下策就完了",
+    "tension": "断他追路也断我自己回头路",
+    "text": "我掀翻烛台烧断吊桥索，趁浓烟退进地窖。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "图在我胃里，他有一百种法子取",
+    "tension": "让他杀不得，也放不甘",
+    "text": "提出用半张矿图换一夜通行，另半张我当场吞进肚里。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "伪证一旦被识破，罪名翻倍算在我头上",
+    "tension": "让他先向自己人解释清白",
+    "text": "我把一封仿他笔迹的通敌信，'失手'掉在他脚边。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "疤痕亮明，全城都知道我是漏网的那个",
+    "tension": "用旧伤疤质问他今天凭什么再抓一次",
+    "text": "解开衣领露出审判庭的烙疤：你们抓的异端，早被你们烙过了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "马和补给都没了，骗局撑不过明早",
+    "tension": "可怜相是最好的隐身衣",
+    "text": "我让马驮着行李受惊跑远，装作被抛弃的旅人求他收留一夜。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "番号若被当场核穿，唬人变成自供",
+    "tension": "一支不存在的军队替我撑腰",
+    "text": "我随口报出城外第三军团的番号，赌他不敢不去查。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "听错一个字，整场对峙的价码就报错",
+    "tension": "不改的是筹码，改的才是真话",
+    "text": "我让他把条件连说三遍，听他哪一遍的誓词改了字。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "断匕若被搜出，连谈判的资格都没了",
+    "tension": "缴械是假的，退路是真的",
+    "text": "我交出佩剑让他放心，袖里贴臂还绑着一柄断匕。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "头领一旦脱身，商路上再无我容身处",
+    "tension": "用别人的罪换自己的生路",
+    "text": "揭发同行商队头领私运魔晶，把搜查引向他的货箱。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "赌错一步，圣像前多一具无名的尸首",
+    "tension": "把性命押给神的台阶",
+    "text": "我赌他不敢在教堂台阶前见血，站在圣像阴影里不还手。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "誓言若本就不值钱的神职，我一无所获",
+    "tension": "用他的神套住他的嘴",
+    "text": "要他用神名起誓放行，一旦反悔，他的圣职就保不住。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "他若灭口灭得快，把柄就成了催命符",
+    "tension": "把他的把柄变成我的盾牌",
+    "text": "低声问他：你上司知道上个月你私放的那个女巫吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "全部家当喂了河，出去后是赤贫的自由",
+    "tension": "钱买不了命，但能买三息混乱",
+    "text": "我把赎金袋扔进河里，趁他们捞钱，从运尸车底出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "火线一亮就没有回头，唬不住就一起烧",
+    "tension": "同归于尽成了我唯一的谈判席位",
+    "text": "摊牌：我怀里的炼金火线连着满屋酒桶，点火只要一口气。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "他若也有抗体或不信，我就只剩真的病",
+    "tension": "疫病比刀剑更好使",
+    "text": "我咳出血丝给他看：瘟疫村出来的，你敢近身吗。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "小偷的烙印一旦落下，这辈子都洗不白",
+    "tension": "用小罪给大罪打掩护",
+    "text": "我认下小偷的罪名，把'偷圣杯'的死罪咽下去，保住卧底身份。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "她若翻脸不认，我连最后一张脸也丢了",
+    "tension": "把私债变成公审",
+    "text": "我请围观的女爵评理，她欠我一条命，当众赖不掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "手废了就再也握不了剑，话却未必有用",
+    "tension": "用一手血换他把话听完的十息",
+    "text": "徒手按住他拔到一半的剑，掌心割开也不松，逼他听完。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "筹码用一次就废，下回只剩仇恨",
+    "tension": "拿他最软的肋骨开门",
+    "text": "用他儿子的下落做筹码，只换我身后孩子先出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "佣兵两头收钱两头卖，我也在被卖的名单上",
+    "tension": "价码比忠诚响的时候，他的刀阵就散了",
+    "text": "朝佣兵们亮出双倍预付金：谁收，谁就是他今天的掘墓人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "阵纹若昨夜被雨冲花，这三步就是送死",
+    "tension": "把败退做成离场魔术",
+    "text": "我认输后退三步，正好退进预先画好的传送阵纹里。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "烟是真是假，他抬头就能验证",
+    "tension": "用他自己的火警救我的命",
+    "text": "告诉他真凶此刻在烧他的账房，不信就闻闻烟味。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "传到公爵耳朵里，我多了个更大的敌人",
+    "tension": "把秘密变成人尽皆知的保险",
+    "text": "故意高声谈论'公爵私生子的来信'，让半条街替我作证。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "人头落地时，我的脑袋也进了悬赏册",
+    "tension": "把十年隐忍换成十息快意",
+    "text": "我现在就拔剑，当着满殿宾客斩下他的脑袋，不管逃不逃得掉",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "三个月里他若先察觉，死的就是我全家",
+    "tension": "让复仇慢到他自己都忘了这杯酒",
+    "text": "我压下仇恨敬他一杯，往酒里下三个月才发作的毒",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "他若认出我，救命之恩成了接近他的死证",
+    "tension": "把刀换成一根扎进良知的刺",
+    "text": "我改杀他为救他一次，让他往后夜夜想不清我为何救他",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "影卫死光那夜，他会悬赏到半个大陆",
+    "tension": "剥光他的壳，再碰他的人",
+    "text": "我先杀他身边的影卫，把恐惧留给他慢慢熬",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "婚礼宾客里坐着的旧部，会先认出我的脸",
+    "tension": "挑他最幸福的一天收债",
+    "text": "我等他婚礼那日动手，让他最风光时坠下去",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "取证的路上若被截杀，真相随我入土",
+    "tension": "把私仇让给国法，慢但干净",
+    "text": "我收剑入鞘，转身去取他通敌的铁证，来日让他死于王法",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "十年朝夕，我怕先对这孩子下不去手",
+    "tension": "把复仇种进他的家门",
+    "text": "我把仇人的独子收作学徒，十年后再亮出真名",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "他顺着歌谣查源头，第一个找到我",
+    "tension": "让全城的耳朵替我先审他一遍",
+    "text": "我雇吟游诗人把当年的血案编成歌，先在城里唱起来",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "跟丢一次，他立刻换巢，线索断根",
+    "tension": "一只鸽子换一条罪证的来路",
+    "text": "我故意放走他的信鸽，跟着它找到他藏赃的山谷",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "输了横尸当场，赢了全城知道寻仇的来了",
+    "tension": "先折断他的刀，再谈他的命",
+    "text": "我当众挑战他的剑术第一护卫，赢了就只废不杀",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "他若撒个圆满的谎，我可能下不去手",
+    "tension": "仇报之前，先要一句迟到的真相",
+    "text": "我压住剑柄，先问清我妹妹死前他到底说过什么",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "火势若漫到佃户家，我成了自己最恨的那种人",
+    "tension": "烧掉他的粮，钓出他的人",
+    "text": "我放火烧了他的粮仓，引他离开卫队，半路截他",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "政敌若把他活着卖掉，我的仇成了别人的政绩",
+    "tension": "借别人的朝堂报自己的仇",
+    "text": "我向他的政敌献上投名状：用他的命换我一席之地",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "棺材若被钉死验尸，假戏就成了真葬",
+    "tension": "死一次，换一个没人防备的身份",
+    "text": "我假装病死在牢里，让'亡者'亲手打开复仇的门",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "孩子若转身告诉他，我的暗棋变明靶",
+    "tension": "让孩子替我问出我不敢问的那句",
+    "text": "我把匕首递给他的小儿子，告诉他这把刀沾过谁的血",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "矿夺到一半被反咬，我连翻身本钱都赔进去",
+    "tension": "诛心先于诛命",
+    "text": "我决定不杀他，改为夺走他视为命根的那座矿",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "还人情的过程，可能被他看出我的来历",
+    "tension": "先把账结清，再把命讨回",
+    "text": "我先还清欠他的人情，再拔剑——不让任何人说我忘恩",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "内院规矩森严，跪进去未必站得出来",
+    "tension": "用膝盖换一把贴近他喉咙的位置",
+    "text": "我跪在他脚下求收留，等他亲手把我放进内院",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "兄弟若念旧情压下证据，我白送一条活路给他",
+    "tension": "借他兄长的刀，不沾我的血",
+    "text": "我放过他本人，转而把他出卖兄弟的证据送到他结义兄长手上",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "功成名就前暴露，十年经营一朝清零",
+    "tension": "用他的名养我的刀",
+    "text": "我用他的名字立战功，等我比他更有名那日再揭晓身份",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "失手之后，女儿连买药的人都没了",
+    "tension": "用药瓶上的刻度定死期",
+    "text": "我决定今晚动手，哪怕同归于尽——女儿的药只够再撑三天",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "错过这次，他入冬就躲进王城再不出来",
+    "tension": "让一村人的命排在仇前头",
+    "text": "我把复仇的日子押后，先救下他正要屠的村",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "他若辩得有理，我十年仇恨就没了着落",
+    "tension": "先审判，再处刑，桥就是法庭",
+    "text": "我在他必经的桥上等他，给他一次辩解的机会再动手",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "他疯起来会先杀遍当年的知情人",
+    "tension": "用恐惧先收一笔利息",
+    "text": "我让俘虏带话回去：讨债的已经进城，让他自己先疯",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "七户人七张嘴，走漏风声死一窝",
+    "tension": "把一把刀换成七把",
+    "text": "我放弃单打独斗，把名册交给同样家破人亡的七户人家",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "他卧薪尝胆三年，回来先杀的就是我",
+    "tension": "留他的命，拿走他的名",
+    "text": "我斩断他的剑而不杀他，让他活着听世人叫他手下败将",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "手令若有暗记，围府的兵会调头围我",
+    "tension": "让他的军队亲手锁他的门",
+    "text": "我先用他的印章伪造手令，借他自己的兵围他的府",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "他若听不出弦外之音，我白白暴露行踪",
+    "tension": "挑他最软的一天递最硬的话",
+    "text": "我在他母亲的忌日登门，只说一句'我替她还愿来了'",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "查到最后若真是误会，这十年我该如何自处",
+    "tension": "刀出鞘前，先确认刀口对着谁",
+    "text": "我压住冲动，先查清当年下令的是他还是他身后的主教",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "他若察觉账本丢了，会先烧掉所有同党",
+    "tension": "放人留证，让王法替我磨刀",
+    "text": "我放走他的马车，只扣下那箱能定他死罪的账本",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "他若听懂了装不懂，这三年连朋友都难做",
+    "tension": "借一句嘱咐把命托付出去，又不给他拒绝的负担",
+    "text": "出征前夜把护身符塞进他手里，只说'替我还回来'，别的都咽回去。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "烙印一亮，自由民的身份当场作废",
+    "tension": "最不敢示人的东西，成了最直白的表白",
+    "text": "解开十年没摘的手套，露出和他一样的奴隶烙印。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "贵族席的婚约、家族的颜面，一并押上",
+    "tension": "全场目光下的一次站队",
+    "text": "在比武大会颁奖时，当众把冠军花环戴到那个平民侍从头上。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "被当众甩开手，明年全村都会替我记住",
+    "tension": "节庆给了我三次机会，第三次不许再怂",
+    "text": "借着丰收祭的篝火舞，第三次邀舞时握住她的手没再松开。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "名单太长，她会觉得我的忠诚不值钱",
+    "tension": "用我的忠诚给她的仁慈标价",
+    "text": "向女王宣誓效忠，条件是赦免我名单上的三十七个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "他日若发现我无路可退，感动会变成负疚",
+    "tension": "把孤注一掷包装成从容选择",
+    "text": "告诉他'我为你留下'，没说船票早就退了三个月。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "诗集收不回，名字抹不掉，退路全烧",
+    "tension": "七年的暗恋一次性摊牌",
+    "text": "把写了七年的诗集摔在他面前，扉页上全是同一个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "龙听得懂真话，也记得住骗子的味道",
+    "tension": "向绝对的强者先承认怕，再谈条件",
+    "text": "跪在龙面前说真话：我怕你，但我更怕这座城烧掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "誓词一改，圣职、前途、甚至脑袋都悬",
+    "tension": "神圣的场合说僭越的实话",
+    "text": "在圣殿宣誓时把誓词改了三个字，全场骑士都听见了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "他若只是感激，我这份心就永远归类为'救命之恩'",
+    "tension": "用伤口换一个他走不开的听众",
+    "text": "借替他挡箭躺在担架上的功夫，把憋了三年的话说完。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "二王子若真把我当心腹，我就再也下不了他的船",
+    "tension": "表态本身就是烟雾弹",
+    "text": "当众宣布效忠二王子，把政敌的刀从真正的继承人身上引开。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "马蹄声一远，这句话就成了没有下文的债",
+    "tension": "不给对方拒绝的机会，也不给自己后悔的机会",
+    "text": "说完就转身上马，不等回答，答案我不要，话你得收下。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "冬天一到，我的温柔就成了最大的残忍",
+    "tension": "用谎言给她一个秋天",
+    "text": "答应娶她，把'我活不过冬天'那句诊断咽下去。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "神收了信仰若仍不放人，我连怨恨的资格都没了",
+    "tension": "人跟神讨价还价的胆子就这一次",
+    "text": "跟神明谈条件：我把信仰给你，把她从祭品名单上划掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "真脸若正是她家通缉令上那张，表白即自投",
+    "tension": "先交出真面目，才敢要真心",
+    "text": "摘下易容的魔法耳环，用真脸对她说排练过的那句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "她若不开门，我连回城堡的钥匙都押在了门外",
+    "tension": "卸掉所有身份，只带一个人来敲门",
+    "text": "把铠甲和爵位钥匙留在门口，空着手敲开她的面包房。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "对手若不讲规矩，这一礼就是我的葬礼",
+    "tension": "生死场上先谈情，等于把后背交给剑",
+    "text": "在决斗场中央朝看台上的她举手行吻手礼，对手还站在对面。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "钟停了他若装没听见，我不能再讲第二遍",
+    "tension": "喧嚣替我保密，也替我壮胆",
+    "text": "趁全城为他庆功的钟声盖过一切，在他耳边说了只讲一遍的话。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "她若真只当我是盟友，这件冬衣就白绣了",
+    "tension": "心意藏在礼物的针脚里",
+    "text": "用'盟友'的名义送她冬衣和边境地图，盟友不会绣并蒂花。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "团里若有人两头接单，我连她最后一面都赶不上",
+    "tension": "拿自己当赎金，换她的命",
+    "text": "向佣兵团摊牌：我入伙的价钱就是我自己，条件是别接杀她的单。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "牢狱和绞架是真的，她的回应未必",
+    "tension": "自首式表白，把把柄和真心一起交出",
+    "text": "当众承认那晚烧领主粮仓的人是我，罪名我背，人我要。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "她若已心归圣坛，翻墙的我只是个笑话",
+    "tension": "跟神抢人，只抢到六十分钟",
+    "text": "翻过修道院围墙，在她发愿前一小时说出那个'不'字。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "两边若都信了我的话，收尸的时候没人来",
+    "tension": "表忠的对象是假的，誓是真的",
+    "text": "向篡位者献上忠诚誓言，每个字都对着他身后真正的王。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "姐姐若当了真，这场戏就得赔上三个人",
+    "tension": "假目标真目的，瞒过满府的眼睛",
+    "text": "宣称我追求的是她姐姐，让全家放松了看守她的塔楼。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "国王的脸面和我的前程，都在这一横上",
+    "tension": "把国家仪式挪作私情，全场都懂",
+    "text": "借用授勋仪式，把本该献给国王的剑横放在她脚下。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "军法不问缘由，败将的罪名照领",
+    "tension": "用自曝其短证明那个人重于胜利",
+    "text": "把败仗的真相告诉国王：我回头去救了一个人，所以输了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "她若听不懂，我的真心就是一场自言自语",
+    "tension": "誓言里藏着只有她听得懂的另一层",
+    "text": "起誓时用了精灵语的古义，'效忠'和'求偶'只差一个音。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "她家若仍不点头，我成了无姓也无家的游魂",
+    "tension": "烧掉姓氏来求婚",
+    "text": "扯下家族纹章披风扔进火盆，换她家族一句'既往不咎'。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "龙的'不反对'有时只是'暂时不吃你'",
+    "tension": "跟一头龙讨价还价嫁娶",
+    "text": "跟她的巨龙监护人谈判：三样聘礼换一句'不反对'。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "疤是真的，她记不记得那晚是另一回事",
+    "tension": "身体比嘴更早表白过",
+    "text": "扯开衣领露出七年前替她挡的那道旧疤：你要证据，这就是。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "选了井，往后每个清明都只能对着坟头说话",
+    "tension": "一瓶药，全村和娘只能救一头",
+    "text": "把唯一一瓶解药倒进井里救全村，母亲的那一份就没有了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "真相只要漏出去一天，赦令就是共谋的铁证",
+    "tension": "救弟弟的手，从此洗不干净",
+    "text": "签下赦免弟弟的文书，把真凶的名字永远烂在肚子里。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "信烧了就再无凭据，罪名要跟一辈子",
+    "tension": "用自己的冤案换恩人的命",
+    "text": "当众烧掉能证明我清白的信，保住写信人的性命。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "北门放进来的火，会烧掉我守粮仓的理由",
+    "tension": "弃守一半城，保住全城的命",
+    "text": "下令放弃北门，守军全撤去粮仓，城可以破，人不能饿死。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "邻郡的战书来时，没人记得救下的麦子",
+    "tension": "一头龙替我做选择",
+    "text": "把龙引向邻郡的军械库，救下麦田，从此两国结仇。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "仗打赢了，女儿一辈子是教会的债奴",
+    "tension": "拿孩子的未来当军费的抵押",
+    "text": "用女儿的名义向教会借兵，债将来由她还，仗今天就得打。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "这一跪传遍诸国，往后没人再怕我的旗",
+    "tension": "一跪换一城人的肚子",
+    "text": "向宿敌下跪求粮，尊严留在他脚下，粮食运进我的城。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "信没了，王后在这世上就只剩我的记性",
+    "tension": "最后的念想当筹码",
+    "text": "拿王后留给我的遗信换敌帅退兵三十里，信一到手就烧不了第二遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "绞索落下的声音，后半生夜夜重放",
+    "tension": "忠臣和友人只能当一个",
+    "text": "把挚友通敌的证据交给国王，救全城，亲手送他上绞架。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "棺里若空着，我认的姓和我这个人都是假的",
+    "tension": "答案在棺材里，开棺就是欺祖",
+    "text": "先撬开生父的棺材，确认遗骨手里攥着什么，再决定认不认这个姓。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "孩子看我的眼神，比领主的刀更难躲",
+    "tension": "一个孩子的刑期换一条街的门板",
+    "text": "判那个偷面包的孩子有罪，保住整条街不被领主连坐。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "摄政王倒了，'野种'两个字跟我进史册",
+    "tension": "扳倒他的梯子，也是我自贬的台阶",
+    "text": "公布血统证明扳倒摄政王，同时承认自己是私生子。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "先祖的手稿烧一页少一页，这笔账记在族谱我名下",
+    "tension": "三百年藏书换一村活人",
+    "text": "烧了祖传的图书馆，用一车灰烬换追兵放弃屠村。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "恩师上火刑架那天，我学的每一个字都开始烫",
+    "tension": "出卖恩师，救满门学生",
+    "text": "向议会举报恩师的异端学说，火就烧不到我的学徒们。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "战后清算的名单上，第一个名字是我",
+    "tension": "用死囚的命填城门的缺口",
+    "text": "放出战俘营里的死囚打前锋，城门守住了，罪我来认。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "改信的文书一旦昭告，旧神的信徒先与我为敌",
+    "tension": "跪着把剑保住",
+    "text": "答应改信敌国的神，剑还在手里，誓言留给神去追讨。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "十年免税的窟窿，是百姓替我垫的赎金",
+    "tension": "父亲赢了，城主输了",
+    "text": "用海港免税十年换回被俘的儿子，国库的账由后世骂我。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "若我是被拐来的，养母三十年的爱都成了案底",
+    "tension": "挖开养恩找生恩",
+    "text": "掀开养母的墓比对胎记，弄清我到底是弃婴还是赃物。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "封印若失败，王冠和王国一起喂了岩浆",
+    "tension": "救世界的代价是解散自己的国",
+    "text": "把王冠扔进火山口完成封印，王国从此没有王。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "谎言破的那天，溃逃比战败死得更多",
+    "tension": "一个谎言撑住三千人的战线",
+    "text": "告诉远征军'援军在路上'，最后的渡鸦其实三天前就死了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "火舌舔上来时，再没有第二个妹妹来换我",
+    "tension": "用自白顶罪",
+    "text": "在审判庭上承认自己才是女巫，换妹妹走出火刑场。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "被砍断的那半船人，名字我一世忘不掉",
+    "tension": "替一船人决定谁配活",
+    "text": "弃船时先砍断救生艇的绳，一艘坐不满，两艘都得沉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "祭司的信徒若翻案，救人的都成了渎神的",
+    "tension": "死人扛罪，活人进村",
+    "text": "把瘟疫村的罪名推给死去的祭司，活人才能进村救人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "救活的万人口碑，正好凑成我谋反的罪证",
+    "tension": "粮仓一开，忠奸就说不清",
+    "text": "借大饥荒开仓放粮，救万人，坐实了'叛臣收买民心'。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "她的剑若比原谅快，我受着",
+    "tension": "亲手打碎她心里那座像",
+    "text": "向女儿坦白她崇拜的英雄是我出卖的，等她拔剑或原谅。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "恶魔从不亏，边境线守住的年头都算我的命",
+    "tension": "用几十年阳寿划一条线",
+    "text": "答应恶魔的交易：拿走我的寿数，留下这条边境线。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "原文若写的就是我，逃跑的念头会玷污这场牺牲",
+    "tension": "先弄清祭品的名字再赴死",
+    "text": "剖开预言里'双子择一'的原文，确认被牺牲的那个是我还是弟弟。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "他若手快，真相和我的头一起落地",
+    "tension": "把翻案的希望押给刽子手的良心",
+    "text": "在绞索落下前喊出真相，赌行刑官敢不敢抗命停手。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "药方若曝光，明君的名声和我一起进棺材",
+    "tension": "国不可一日无君，君不可知药从哪来",
+    "text": "给垂死的国王喂续命药剂，没人知道药引是十个死囚的心头血。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "债主选了谁，另一个人的死都记在我手上",
+    "tension": "把最毒的抉择推给出题人",
+    "text": "摊开两张欠条：救老师傅还是小徒弟，让债主当众替我选。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0001",
+    "scene": "lichang",
+    "stakes": "旧主的赏金榜，今晚就添我的名字",
+    "tension": "一跪两重天，旧主新敌同时看清我",
+    "text": "我当众折断旧主的令牌，单膝跪向昨日还兵刃相向的人",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0002",
+    "scene": "lichang",
+    "stakes": "两方都会说我通敌，百姓未必来得及谢我",
+    "tension": "城门只开一条缝，够人出去，不够兵进来",
+    "text": "我打开城门，但不是为敌军——是为城里困了三个月的百姓",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0003",
+    "scene": "lichang",
+    "stakes": "他们若搜身搜到夹层，归降就成了赴死",
+    "tension": "献袍是假，藏刀是真",
+    "text": "我假意投诚，把敌军的布防图缝进献上的礼袍夹层",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0004",
+    "scene": "lichang",
+    "stakes": "箭若真离弦，村子和我救一个",
+    "tension": "用一支没拔的刀抗一道令",
+    "text": "我拒绝执行屠村令，把军刀插回鞘里，任凭督战队搭箭",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0005",
+    "scene": "lichang",
+    "stakes": "上头若说我弃关，停战书就成了我的死刑令",
+    "tension": "一座关换两岸的活人",
+    "text": "我提出停战，用我守的这座关隘换两军伤员先过河",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0006",
+    "scene": "lichang",
+    "stakes": "信若落到敌方主战的将领手里，我两头成叛徒",
+    "tension": "放一个人，赌一封信",
+    "text": "我私下放走敌方信使，让他带回我写的劝降信",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0007",
+    "scene": "lichang",
+    "stakes": "敌方若收完兵再毁约，我卖了个空",
+    "tension": "用一面旗换三百条命",
+    "text": "我在阵前倒戈，条件是敌方立约赦免我带过来的三百老兵",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0008",
+    "scene": "lichang",
+    "stakes": "王室平叛的名单上，我排第一",
+    "tension": "烧掉委任状，自立一面旗",
+    "text": "我把王室的密令当众烧了，宣布这支军队从今夜起只听边民的",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0009",
+    "scene": "lichang",
+    "stakes": "账目若被任何一边查清，两边都当我是奸细",
+    "tension": "用敌人的钱救敌人围的城",
+    "text": "我接受敌国的金币，转手买成粮药送回了围城",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0010",
+    "scene": "lichang",
+    "stakes": "副官若先斩后奏，我死在自己人手里",
+    "tension": "用自己人的疑心当掩护",
+    "text": "我去敌营谈判，故意让我的副官以为我已经叛变",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0011",
+    "scene": "lichang",
+    "stakes": "箭若带毒，我连向谁解释的机会都没有",
+    "tension": "一箭挡掉所有退路",
+    "text": "我帮曾经的死敌挡下自己人的暗箭，从此两边都容不下我",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0012",
+    "scene": "lichang",
+    "stakes": "长官若活着出来，第一个清算的就是我",
+    "tension": "用旧恩人的生路换新主的信任",
+    "text": "我劝降老长官，把他保命的密道位置透露给他的敌人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0013",
+    "scene": "lichang",
+    "stakes": "新王若容不下这孩子，我的效忠书墨迹未干就作废",
+    "tension": "拿归顺换一个孩子的命",
+    "text": "我宣布效忠新王，条件是旧王的幼子必须以宾客身份活着",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0014",
+    "scene": "lichang",
+    "stakes": "戒指若在朝堂上被认出，我连辩的席位都没有",
+    "tension": "用一枚戒指钓出所有暗箭",
+    "text": "我戴上敌军将领送的戒指上朝，让所有人猜我变了没有",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0015",
+    "scene": "lichang",
+    "stakes": "有人袖里藏匕，神殿的地砖先喝血",
+    "tension": "让神明当唯一的卫兵",
+    "text": "我请两方统帅到中立的神殿，把剑都留在门外再谈",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0016",
+    "scene": "lichang",
+    "stakes": "两边若对质笔迹，我死在两个军营之间",
+    "tension": "用泄密制造和平",
+    "text": "我把真正的作战计划同时送给两边，逼他们谁也不敢先动",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0017",
+    "scene": "lichang",
+    "stakes": "同袍出狱后若重操旧业，账算我头上",
+    "tension": "拿前程换一串钥匙",
+    "text": "我拒绝新阵营的封赏，只领一纸赦令放走地牢里的旧同袍",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0018",
+    "scene": "lichang",
+    "stakes": "真话出口，两边的箭会同时找到目标",
+    "tension": "一个人站在两支军队中间说真话",
+    "text": "我在两军对垒时站出来，说出那场战争是谁先撒的谎",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0019",
+    "scene": "lichang",
+    "stakes": "转身若慢了半拍，两边的枪头都朝我",
+    "tension": "用一次转身定一场战的胜负",
+    "text": "我假装归顺，等他把我编入先锋，再于阵前调转枪头",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0020",
+    "scene": "lichang",
+    "stakes": "圣殿若宣布我叛教，我曾救过的人先砸石头",
+    "tension": "用一顶圣冠换一句实话",
+    "text": "我辞去圣殿的职，因为我查到供奉的神谕出自宰相的笔",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0021",
+    "scene": "lichang",
+    "stakes": "领主若先吓破了胆，我成了孤军",
+    "tension": "借一支笔替别人宣战",
+    "text": "我把降书改成战书，替那个不敢反抗的小领主出头",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0022",
+    "scene": "lichang",
+    "stakes": "两边打完之后，清算名单上都有我",
+    "tension": "用中立搭一座逃兵的桥",
+    "text": "我选择退到城墙外，既不帮攻方也不帮守方，只收容逃兵",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0023",
+    "scene": "lichang",
+    "stakes": "两边若都看见，我同时背了降与叛两个名",
+    "tension": "借敌人的旗送旧主最后一程",
+    "text": "我用敌国的旗帜裹住战死的旧主，给他一个不被践踏的葬",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0024",
+    "scene": "lichang",
+    "stakes": "他们若就地处决，笼门都来不及开",
+    "tension": "拿囚笼当拜帖",
+    "text": "我把自己关进囚笼送进敌营，赌他们不敢杀一个自缚的使者",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0025",
+    "scene": "lichang",
+    "stakes": "火光照亮的第一个名字，就是我",
+    "tension": "一把火烧掉两边的野心，只烧断自己的后路",
+    "text": "我替敌方烧毁己方的浮桥，断了这场仗，也断了我的退路",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0026",
+    "scene": "lichang",
+    "stakes": "他们回家后若被抓丁，恨的是我",
+    "tension": "用遣散令换掉征发令",
+    "text": "我劝我的士兵放下武器回家种田，军令我来扛，骂名我来背",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0027",
+    "scene": "lichang",
+    "stakes": "两国若同时封口，银子成了我的买命钱——买我的命",
+    "tension": "用受贿的银子买一场公审",
+    "text": "我收下双份的俸禄，然后把两份账目同时递给两国的史官",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0028",
+    "scene": "lichang",
+    "stakes": "他们若疑我通旧主，新帐旧帐一起算",
+    "tension": "用新主的恩典还旧职的债",
+    "text": "我转投敌营的第一件事，是请求他们释放我昨夜亲手抓的俘虏",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0029",
+    "scene": "lichang",
+    "stakes": "认罪书传开后，我方先不容我",
+    "tension": "用一桩旧罪换一张椅子",
+    "text": "我公开承认当年错杀了对方的人，以此换谈判桌上的一席",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-lichang-0030",
+    "scene": "lichang",
+    "stakes": "印丢了兵也借了，回不来时我两边都输了",
+    "tension": "借仇人的刀砍共同的灾",
+    "text": "我把帅印留在帐中，只身去对面借兵，回来打第三方的兽潮",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "口诀一旦说错半个音，冒充王族就是死罪",
+    "tension": "一句口诀胜过十份族谱",
+    "text": "当众背出先王寝宫的密道口诀，全场只有王室血脉会这个。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "老仆若先我一步死，真相就永远是我的妄想",
+    "tension": "用认罪保命，把真相存进活人嘴里",
+    "text": "认下'冒牌货'的罪名被拖走，真身份留给唯一知情的老仆。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "她若答得滴水不漏，我就坐实了心虚",
+    "tension": "把验身变成审问，审问官变成嫌疑人",
+    "text": "反问验身的女祭司：您怎么知道王室该有这颗痣，谁告诉您的？",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "稳婆若已被收买，襁褓布就是我的裹尸布",
+    "tension": "最卑贱的证人握着最贵重的真相",
+    "text": "请出当年接生的稳婆，她手里的襁褓布比族谱有分量。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "顶针若也是证物，我连最后一点母亲都留不住",
+    "tension": "用放弃一切换一个不值钱的念想",
+    "text": "主动摘冠脱下礼服，只求留下母亲留下的那枚顶针。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "火不认我，整条手臂和整个身份一起成灰",
+    "tension": "让神来做亲子鉴定",
+    "text": "伸手进圣火验血统，烧的是谎言还是我，赌了才知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "被抓时手里捧着名册，做贼的罪名正好配冒牌的罪",
+    "tension": "一页新纸出卖一场旧阴谋",
+    "text": "偷进档案塔翻二十年前的洗礼名册，看那页纸为什么是新浆。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "天亮后无论谁是王，我都是全国通缉的逃王",
+    "tension": "不戴这顶冠，就不用答这道题",
+    "text": "加冕前夜从寝宫暗道离开，把王座和疑问一起留给天亮。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "修道院若真藏着人，我亲手给他引了杀身祸",
+    "tension": "给猎犬一根别人家的骨头",
+    "text": "放出风声说真正的继承人在南境修道院，猎手们连夜上路。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "交易一旦失衡，我们手里捏着的是彼此的命",
+    "tension": "把柄对把柄，谁都别先松手",
+    "text": "跟揭穿我的人做交易：他保秘密，我保他妹妹的前程。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "日后想认祖归宗，火盆里只剩灰",
+    "tension": "毁掉证据就是毁掉自己一半",
+    "text": "烧掉能证明身世的信物，从今天起只做铁匠的儿子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "疤若被说成伪造的伤妆，忠仆就成了戏子",
+    "tension": "伤疤记得谁是真的",
+    "text": "揭开左肩的旧箭疤，那是十年前替'真王子'挡下的那一支。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "他若背得一字不差，被戳穿的反而是我",
+    "tension": "谎言禁不起重讲",
+    "text": "让证人当众把细节复述三遍，第三遍他一定说漏编的那处。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "龙若昂首喷息，争议和争议者一起烧干净",
+    "tension": "让传说来投票",
+    "text": "借龙认主的古礼站到它面前，它低头，比任何文书都响。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "他若先讲国法后讲师生，我亲手选了自己的刽子手",
+    "tension": "把刀递到最可能原谅我的人手里",
+    "text": "向审问我的旧恩师坦白一切，赌他教我识字的那些年不是假的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "签完这一笔，夜里敲门的人都带着旧怨",
+    "tension": "用真名向所有仇人报坐标",
+    "text": "在比武名册上签下真姓，一笔下去全国的旧账都会来找我。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "总管若发现尾巴，那个孩子活不过这个月",
+    "tension": "银钱的流向比族谱诚实",
+    "text": "跟踪每月往乡下汇款的总管，找出被换掉的那个孩子如今是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "王座上的人若先动手，认罪书就是我的死刑令",
+    "tension": "用我的认罪换他的现形",
+    "text": "承认我是替身，再指出真正的骗子此刻就站在王座旁边。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "摄政王若拿了王位还要灭口，我两头都输",
+    "tension": "拿江山换草民的命",
+    "text": "用王位继承权向摄政王换一纸赦令，保下收养我的那家人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "她若哪夜认出枕边人的手不对，善意全成罪孽",
+    "tension": "替死人活着，向未亡人说谎",
+    "text": "继续扮演战死的哥哥，连他的遗孀都不能知道真相。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "对错了调子，我在太后面前就是个冷血的骗子",
+    "tension": "一句童谣击穿所有质疑",
+    "text": "对出只有母女俩知道的摇篮曲下半句，让王太后自己哭出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "敌国若顺竿认下这个'王子'，两国开战罪在我",
+    "tension": "用一个假王子换真麻烦出门",
+    "text": "散布'国王的私生子在敌国为将'，让质疑我的人先去打仗。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "甲不合身或被人指出铜片换过，戏就成了罪",
+    "tension": "让死人替我作证",
+    "text": "穿上父亲当年的旧铠甲出席议会，甲认人，人认甲。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "坟里躺的是替身还是我自己，由不得我挑",
+    "tension": "认罪认到死，家人才活得成",
+    "text": "跪领'欺君'的罪名，用一个假死换全家真活。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "药碗见底之前，我没有任何退路",
+    "tension": "让魔药来宣判我是谁",
+    "text": "喝下验亲的古法魔药，血脉若假，我当场化灰。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "流放令一下，谁都能在路上'处理'一个无姓之人",
+    "tension": "不争真相，只要活路",
+    "text": "在身份听证会上自请流放，离开这个姓氏比揭穿它更干净。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "议长若经得起查，我就成了唯一的靶子",
+    "tension": "让质疑别人的人先尝尝被质疑",
+    "text": "把血统争议引到议长身上，他母亲的出身也没人敢查。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "改脸的魔法一失效，满朝都看见两张脸",
+    "tension": "连预言都能骗，唯独骗不过镜子没电的那天",
+    "text": "用魔法改写镜中倒影的脸，让预言里'真王之相'对不上我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "剑若纹丝不动，质疑变成铁案，再无翻身",
+    "tension": "传说只认手，不认嘴",
+    "text": "伸手去拔插了二十年的石中剑，拔不出，我就是最大的笑话。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "民心若散了，自白书就是我的退位诏和判决书",
+    "tension": "把审判权交给最没资格审判我的百姓",
+    "text": "向全城自白我是买来的替身，请他们决定还要不要这个'王'。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "他若翻脸，欠条作废还结下死仇",
+    "tension": "拿旧账当筹码，逼他咽下低价",
+    "text": "我把佣兵团的欠条拍在桌上，要求折成三成的护送费",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "他若先找到蛋，我手里就空了",
+    "tension": "一枚没人找到过的蛋，换一队人的活路",
+    "text": "我提出用龙蛋的下落换他撤回对商队的悬赏",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "血契一成，我若失手同样被反噬烧心",
+    "tension": "把信任换成咒术，谁都别想赖",
+    "text": "我要求把口头约定改成血契，违约者受魔法反噬",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "冷场太久，他可能当我没诚意直接走人",
+    "tension": "谁先开口谁先输",
+    "text": "我让他先报底价，自己只转着杯里的蜜酒不接话",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "定金打过去，人质若已被灭口就血本无归",
+    "tension": "用钱买主动权，却先露了底",
+    "text": "我答应预付一半定金，但坚持人质先过我这一关",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "他若去城主府求证，谎言当场穿帮",
+    "tension": "借一顶我未必还戴得上的帽子压人",
+    "text": "我暗示银月城主是我旧主，让他掂量翻脸的代价",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "骑士一走，他的耐心也跟着走",
+    "tension": "用别人的刀壮自己的胆",
+    "text": "我借窗外巡逻的圣殿骑士，提醒他这条街归谁管",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他若认出信是求来的不是授意的，筹码尽失",
+    "tension": "借第三方的笔迹抬高身价",
+    "text": "我搬出商会会长昨夜的亲笔信，推到烛火边给他看",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "他若与那家对质，我两边都别想再进门",
+    "tension": "让他和想象中的对手竞价",
+    "text": "我提起他对手那家商行刚开的价，慢悠悠地添柴",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "秘银见了光，从今夜起惦记它的不止他一个",
+    "tension": "亮出家底换一句痛快话",
+    "text": "我把暗格里的秘银锭直接摆在桌上，断了他的猜疑",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他若转头报官，我全军覆没",
+    "tension": "用违禁品的实话换走私的价",
+    "text": "我摊牌：商队里根本没有香料，只有一整车弩箭",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "暴露身份，这单之后再无暗中行事的可能",
+    "tension": "借势掀桌，身份就是新底价",
+    "text": "我掀开斗篷露出王家徽章，交易条件全部重谈",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "他若把话传回去，雇主第一个除掉我",
+    "tension": "把身后人的刀指给他看，逼他站我这边",
+    "text": "我告诉他雇我的人其实想让我们谈崩",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "事情败露，我的名字就上了商会的黑名单",
+    "tension": "拿空货换真金，赌他验货之前船已离岸",
+    "text": "我收下金币，却没告诉他那批货三天前就被劫了",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "中途改道被发现，护卫会先拿我祭旗",
+    "tension": "一路同行走的是两条路",
+    "text": "我点头答应护送的路线，把真正的目的地咽回肚里",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "幻术散了，他掘地三尺也会把我挖出来",
+    "tension": "用魔法偷一笔现钱",
+    "text": "我用施了幻术的铜币付账，赌他天亮之前不会清点",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "装得太像，他会压到连本都不给我留",
+    "tension": "示弱钓他的贪心",
+    "text": "我故意咳嗽着压低报价，装出急着脱手的样子",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "护卫若忠心，他立刻警觉我多事",
+    "tension": "一句话在他阵营里埋刺",
+    "text": "我把酒杯推给他的护卫，问他上一个雇主死在哪",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "副手告密，我就成了两头挨刀的叛徒",
+    "tension": "从内部撬松这张谈判桌",
+    "text": "我单独约他的副手去后巷，开价比他高一倍",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "随从不领情，反显得我黔驴技穷",
+    "tension": "当众挑他的家丑",
+    "text": "我当着他的面问随从：你主子上次谈的买卖，你分到几个铜板",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "他若吃准令箭是借来的，我连翻本的钱都没有",
+    "tension": "用一道未必护得住我的令箭全押",
+    "text": "我把全部身家押上去，赌他不敢拒绝王室的采买令",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "输了丢货款，赢了背人命债",
+    "tension": "把谈判变成一场明码标价的赌命",
+    "text": "我提议赌注换成决斗，赢的人拿走全部货款",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "沼泽里回不来，地图对他一文不值对我亦然",
+    "tension": "用半条命换一张纸",
+    "text": "我答应替他走一趟黑沼泽，换他手里的龙鳞地图",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他若不追，我今晚连落脚的钱都没谈下",
+    "tension": "用离场逼他追出来加价",
+    "text": "我起身掀了桌上的蜡烛就走，让他以为买卖彻底黄了",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "精灵若与他交好，两人联手抬价的是我",
+    "tension": "抬出一个买家压卖家的价",
+    "text": "我把话题引向角落的精灵商人，说他的货更便宜",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "分赃那夜，谁先动刀还不一定",
+    "tension": "把对手临时变成同伙",
+    "text": "我提议合伙去抬隔壁那场拍卖的价，分赃对半",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "仓里若藏着见不得光的东西，我就走不出那扇门",
+    "tension": "验货是假，摸清他底仓是真",
+    "text": "我借口验货，要求亲眼看看他仓库里的'龙骨'",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "舱里的东西若认生，我活不到成交",
+    "tension": "用一夜的合作换一次探底",
+    "text": "我答应成交前先去他船上待一夜，查清货舱里锁着什么",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "他若验出是牛血，我按骗子行规断指",
+    "tension": "押一滴说不清的液体赌他的贪念",
+    "text": "我用一滴龙血当定金，让他自己想办法验证真假",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "试出来的答案，他可能立刻就改",
+    "tension": "一个喷嚏试出他真正的宝贝",
+    "text": "我假装失手打碎他的样品瓶，看护卫先护瓶子还是先护人",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "读错顺序的人，按悼词的规格被下葬",
+    "tension": "正读是悼词，逆读是警告或地图",
+    "text": "刮开祭坛青苔，把符文按逆序读，正序是写给外人看的悼词。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "上不来，就只能在地底找第二条命",
+    "tension": "下去的路就是烧掉的桥",
+    "text": "踩着塌了半边的旋梯下到钟室，绳子只够单程。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "队友日后对上图，信任当场归零",
+    "tension": "独吞的图纸比王冠烫手",
+    "text": "壁画里的王冠我描进袖口，回头告诉队友这屋只有灰。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "灯油耗尽，下半程全程摸黑",
+    "tension": "烧了它的家，换我的路",
+    "text": "把最后半瓶灯油泼上蛛网点火，逼开堵门的巨蛛。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "狼若先认出了我的味道，门里门外都是死",
+    "tension": "猎人变成我的门卫",
+    "text": "把鲜肉挂在追兵的必经洞口，让恐狼替我看门。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "他若指错一步，水道就是水葬道",
+    "tension": "在最黑的洞里做最老的生意",
+    "text": "用一袋盐跟穴居的盲眼兽人换下层水道的走法。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "戏演砸就从客人变成主菜",
+    "tension": "被俘虏才看得到巢穴全貌",
+    "text": "解下武器举着火把走进哥布林巢，装成迷路的祭品贩子。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "钥匙不认我，就等于向全塔广播我是外人",
+    "tension": "祖宗留的后门只认自家人",
+    "text": "把祖传的开门铜钥匙插进锁孔，赌它认的是血统不是主人。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "错一个数字，门后等我的是机关不是宝藏",
+    "tension": "死者的忌日是活人的密码",
+    "text": "拓下三块墓碑的卒年，年份连起来正好是开门的数字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "憋不住那口气，来年的蘑菇长得格外肥",
+    "tension": "呼吸本身成了赌注",
+    "text": "屏息穿过蘑菇林，孢子雾里多喘一口就留下当肥料。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "它若先认出了念咒的人，我成了祭品",
+    "tension": "错误的咒语是正确的陷阱",
+    "text": "朝石像鬼低声念错唤醒咒，让它把后来的盗墓贼认作主人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "夜里真出事，第一个被怀疑的就是守夜人",
+    "tension": "为了独占深处的秘密，先弄瞎大家的耳朵",
+    "text": "踩碎地上的预警骨铃，再告诉守夜同伴今晚很安全。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "风停了，线索和我的方向感一起停",
+    "tension": "让整座废墟替我指路",
+    "text": "顺着排水渠的冷风走，风往哪儿灌，密门就在哪儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "多看它一眼，它可能也在数我",
+    "tension": "摆错方向的守卫在告密",
+    "text": "数走廊两侧盔甲的朝向，有一具看反了，它在看门后。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "过不去，人和粮食一起喂机关",
+    "tension": "用明天的口粮买今天的命",
+    "text": "解下干粮袋压上陷阱踏板，人滚过去，粮食喂机关。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "信送不到，缚灵的利息按年来讨",
+    "tension": "跟死人做邮差",
+    "text": "答应替塔里的缚灵送信给它的后裔，换它别吹熄我的火把。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "指错了，领队位置和队员信任一起沉湖",
+    "tension": "推翻全队三天路线的一锤",
+    "text": "摊开整张测绘图比对裂缝走向，指出主墓室不在山下在湖底。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "武士若查出金盘经了我的手，罪名加倍",
+    "tension": "赃物是最好的路标，指去别人家",
+    "text": "把神殿失窃的金盘丢进竞争者的营地，引圣堂武士去翻他们的账。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "松手是坠崖，不松是被拖上去",
+    "tension": "绳子那头握着什么，荡到一半才知道",
+    "text": "拽着垂进地缝的树根荡过去，树根上有东西也在拽。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "数错台阶或回了嘴，都会让它找到我",
+    "tension": "谁先接话，谁就暴露自己听得见",
+    "text": "石厅里有东西学我说话，我装聋，继续数我的台阶。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "撕掉的若是关键警告，下一队死在我手里",
+    "tension": "真相少一页，抚恤金多十倍",
+    "text": "找到先遣队全灭的日记，撕掉最后一页再上交公会。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "两队若对图，第一个要埋的是我",
+    "tension": "半张图比整张图更会杀人",
+    "text": "给两队寻宝佣兵各递半张图，让他们互堵在死廊。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "垫不稳，机关替我封门，人在门里",
+    "tension": "不贪这一层，才走得出下一层",
+    "text": "把触发一半的落石机关重新垫稳，原路退出封门。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "输了交出名字，它日念名唤魂躲不掉",
+    "tension": "骑士死了几百年还守骑士规矩",
+    "text": "跟守门的活化盔甲比剑三回合，赢它让路，输它一个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "门认了我的血，门里的东西也认得了",
+    "tension": "灭门的血今天成了通行证",
+    "text": "咬破手指把血抹上血族纹章门，我家被灭的姓氏就是钥匙。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "算错尺寸，炸药把我和密室一起捏碎",
+    "tension": "滴水声是免费的内视术",
+    "text": "把耳朵贴在锁孔上听门内滴水的间隔，先算出石室大小再决定炸哪儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "蝠群散得快，猎人们回头也快",
+    "tension": "会发光的路标最容易看错",
+    "text": "放走笼里的荧光蝠，让猎人们跟着光群扑向反方向。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "精灵认出戒指的那天，向导就变成猎手",
+    "tension": "向最懂古物的眼睛撒谎",
+    "text": "密匣里只有一枚戒指，我戴上，告诉精灵向导匣子是空的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "极昼就剩今日一天，错过要等明年",
+    "tension": "天时是最锋利的撬棍",
+    "text": "借着仲夏极昼不落的太阳，硬闯只在夜里苏醒的墓园。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "头发入了树精的手，往后它顺着发就能找我",
+    "tension": "森林只收过路费，不收买命钱",
+    "text": "向拦路的树精献上剪下的一绺头发，讨一根能通行的枯枝。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0001",
+    "scene": "taowang",
+    "stakes": "嗓子一旦忍不住，全队工人都得替我陪葬",
+    "tension": "装哑比装死难，哑三天不露馅更难",
+    "text": "剃掉长发抹上煤灰，混进下矿的哑工队伍，三天不说一个字。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0002",
+    "scene": "taowang",
+    "stakes": "羊散了追兵就通了，我只有一群羊的时间",
+    "tension": "羊群是最便宜的拒马桩",
+    "text": "赶着羊群挤在城门口，追兵的马过不来，我先过去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0003",
+    "scene": "taowang",
+    "stakes": "驿马停下的那一刻，猎犬就会调头",
+    "tension": "马跑得越急，追得越偏",
+    "text": "把斗篷系在受惊的驿马上放它沿大道跑，我钻进运咸鱼的车。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0004",
+    "scene": "taowang",
+    "stakes": "冰裂了，冬天替我收尸，追兵连手都不必脏",
+    "tension": "冰面是唯一的桥，也是唯一的坟",
+    "text": "从磨坊水车的转轮翻进结冰的河，赌冰面吃得住一次落点。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0005",
+    "scene": "taowang",
+    "stakes": "涨水的速度不等人，洗得掉气味洗不掉溺水",
+    "tension": "用肮脏换隐身",
+    "text": "不走陆路，退进涨水的下水道，臭味正好洗掉猎犬记的味儿。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0006",
+    "scene": "taowang",
+    "stakes": "老头若贪第二颗，会把船划回追兵的码头",
+    "tension": "倾家荡产买一次不回头",
+    "text": "把最后一颗祖母绿拍在渡船老头手心：开船，别回头看我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0007",
+    "scene": "taowang",
+    "stakes": "哪个醉鬼说漏了真方向，我就亲手埋了自己",
+    "tension": "谣言跑得比马快，还不用喂料",
+    "text": "让满酒馆的人都知道'赏金犯往北去了'，北桥其实早封着。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0008",
+    "scene": "taowang",
+    "stakes": "抖得不对火候，就是此地无银",
+    "tension": "最危险的地方张开双手走过去",
+    "text": "主动走进关卡讨水喝，搜身时抖得越真，他们越懒得细看。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0009",
+    "scene": "taowang",
+    "stakes": "主教若已倒向王室，钟声就是我的讣告",
+    "tension": "把命押给一条快被遗忘的古法",
+    "text": "敲响教堂的避难钟，拽住门环喊出圣所权，赌主教不敢当众拒绝。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0010",
+    "scene": "taowang",
+    "stakes": "查内鬼要花时间，追兵不给我时间",
+    "tension": "不揪出内鬼，逃到哪儿都是中转站",
+    "text": "逃之前先弄清谁卖的行程，名单上只剩三个知道我路线的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0011",
+    "scene": "taowang",
+    "stakes": "碰上见过我本人的旧识，这颗痣就是靶心",
+    "tension": "用最显眼的改动骗最熟悉的眼睛",
+    "text": "把通缉画像上的那颗痣点在自己脸上另一处，差之毫厘。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0012",
+    "scene": "taowang",
+    "stakes": "犯人的家属若认出我，哭喊声会要我的命",
+    "tension": "看热闹的人堆里没人看脸",
+    "text": "躲进绞刑台下的人群，最安全的地方是执刑官的脚边。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0013",
+    "scene": "taowang",
+    "stakes": "湖底捞不出尸首，骗局撑不过三天",
+    "tension": "用遗物导演自己的死亡",
+    "text": "在岔口留下银扣子和常用的毒药瓶，证据说'我投湖了'。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0014",
+    "scene": "taowang",
+    "stakes": "狼不认通缉令，也不认我这个活人",
+    "tension": "拿狼当追兵的墙",
+    "text": "夜里翻进狼群出没的猎场，狼认得血味，不认得通缉令。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0015",
+    "scene": "taowang",
+    "stakes": "岸防若不上钩，走私贩会把我当货交出去",
+    "tension": "拿命换一格不见天日的舱位",
+    "text": "跟走私贩交换：我替他引开岸防，他船舱底给我留一格。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0016",
+    "scene": "taowang",
+    "stakes": "信若被比对笔迹，两队人马合成一队",
+    "tension": "猎人们互咬的时候，猎物在赶路",
+    "text": "给两路追兵各留一封'密信'，让他们在山口先打一场。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0017",
+    "scene": "taowang",
+    "stakes": "她若早就恨透了我，报官会比翻书还快",
+    "tension": "把旧情当成最后的时差",
+    "text": "扑进前女友的店里跪下求她报官，她会，但会拖到天黑。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0018",
+    "scene": "taowang",
+    "stakes": "消息若比他先到，金牌就是罪加一等的证物",
+    "tension": "死人的赦令吓唬活人",
+    "text": "向追兵队长出示免罪金牌，赌他还不知道国王已经死了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0019",
+    "scene": "taowang",
+    "stakes": "停下来的每一息，距离都在缩短",
+    "tension": "逃得再快，不如看清谁在追",
+    "text": "回头数追兵的旗号换了几次，弄清到底是谁在要我死。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0020",
+    "scene": "taowang",
+    "stakes": "他们若不信赌徒的鬼话，会让我吐出来",
+    "tension": "证据进肚子，罪名降级",
+    "text": "把密信嚼碎咽了，被抓到也只是个欠债跑路的赌徒。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0021",
+    "scene": "taowang",
+    "stakes": "家属哭错了名字，戏就穿帮",
+    "tension": "死人的队伍不收活人的通缉令",
+    "text": "混进送葬队伍披上孝布，棺材里躺着我愿意顶替的死人。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0022",
+    "scene": "taowang",
+    "stakes": "侍从若被当场识破打死，这份债背一辈子",
+    "tension": "用一个人的险换我的生",
+    "text": "把随行侍从打扮成我的样子走正门，真身从粪池暗道出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0023",
+    "scene": "taowang",
+    "stakes": "出了火场我一无所有，仇家还有悬赏",
+    "tension": "到嘴的肉要舍得吐",
+    "text": "放弃到手的赎金，只带一口气跑出火场，钱比命烫手。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0024",
+    "scene": "taowang",
+    "stakes": "猎户若反过来要挟我，这座山就是坟场",
+    "tension": "秘密换秘密，谁也不欠谁",
+    "text": "用'你儿子在对面山上的事'换猎户一夜闭嘴和一双干靴子。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0025",
+    "scene": "taowang",
+    "stakes": "同伴若不知情，这份信任救不回来",
+    "tension": "用队友当鱼饵钓幕后主使",
+    "text": "故意让赏金猎人抓住同伴，好让他带我去见出价的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0026",
+    "scene": "taowang",
+    "stakes": "战友若正是领赏抓我的人，刺青就是自供状",
+    "tension": "旧番号是最后的信用",
+    "text": "扯开袖子亮出旧皇家卫队的刺青，向老战友要一匹马。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0027",
+    "scene": "taowang",
+    "stakes": "认错了蹄铁，我绕着绕着就撞进他们怀里",
+    "tension": "追兵的蹄印替我看路",
+    "text": "在马厩认出追兵换下的蹄铁，反推出他们的歇脚点，绕开走。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0028",
+    "scene": "taowang",
+    "stakes": "一个走音一个踉跄，台下百双眼睛都成了绳索",
+    "tension": "最显眼的舞台是最黑的藏身处",
+    "text": "藏进剧团的女装里登台唱完一整幕，台下就坐着搜捕的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0029",
+    "scene": "taowang",
+    "stakes": "焰火有间隔，我的命卡在两响之间",
+    "tension": "全城替我打掩护",
+    "text": "借着祭典焰火翻城墙，每一声爆响盖住一次落脚。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-taowang-0030",
+    "scene": "taowang",
+    "stakes": "精灵若不讲武德，箭靶就是我本人",
+    "tension": "把追杀变成一场赌局",
+    "text": "向追杀我的精灵游侠提议比箭：我输任绑，赢借道。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0001",
+    "scene": "xinren",
+    "stakes": "他若转身就走，我撑不过今晚",
+    "tension": "把命押给一句没说出口的承诺",
+    "text": "我把唯一的解毒剂递给他，自己吞下那条毒蛇咬出的伤口",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0002",
+    "scene": "xinren",
+    "stakes": "船一离岸，剑和我谁先到岸都难说",
+    "tension": "交出家底换一个上船的资格",
+    "text": "我让他替我保管家传剑，自己空手上他的船",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0003",
+    "scene": "xinren",
+    "stakes": "数到九时听见的风声，就是答案",
+    "tension": "用最笨的办法要一个最真的答案",
+    "text": "我背对他站在悬崖边数到十，赌他不会推我",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0004",
+    "scene": "xinren",
+    "stakes": "他若就是那个叛徒，名单成了讣告",
+    "tension": "把全队的安危押在他一双眼上",
+    "text": "我把队伍里真正的叛徒名字写下来，只给他一个人看",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0005",
+    "scene": "xinren",
+    "stakes": "真名若是假的，我替他背的就是死罪",
+    "tension": "各押一个秘密，谁也不欠谁",
+    "text": "我答应替他向圣殿隐瞒身份，但要求他说出真名",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0006",
+    "scene": "xinren",
+    "stakes": "夜里那只替我盖毯子的手，也可能握刀",
+    "tension": "睡给一个人看，比醒着难",
+    "text": "我把守夜的位置让给他，自己先睡下，刀留在枕边",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0007",
+    "scene": "xinren",
+    "stakes": "他若读完后退一步，这队就散了",
+    "tension": "用一桩旧罪换他一句不问",
+    "text": "我拒绝发誓，但把当年没烧掉的判决书递给他",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0008",
+    "scene": "xinren",
+    "stakes": "他若偷看路线，上线连我一起杀",
+    "tension": "用我最大的秘密试他的胆子",
+    "text": "我让他跟着去见我的上线，看他敢不敢蒙眼过桥",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他若记得悬赏金额，我就走不出这间屋",
+    "tension": "拿自己的脑袋赌他的立场",
+    "text": "我说出通缉令上的旧名字，看他拔不拔剑",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0010",
+    "scene": "xinren",
+    "stakes": "咒一旦结错人，烧穿的是我的心",
+    "tension": "把信任做成一道会烧的咒",
+    "text": "我提议两人互换护符，谁背叛谁就被咒术烧穿心脏",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0011",
+    "scene": "xinren",
+    "stakes": "他若直接拔剑，我临死都没法解释",
+    "tension": "演一场背叛，换一场真心",
+    "text": "我假装中了敌人的收买，试探他会不会立刻告发我",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0012",
+    "scene": "xinren",
+    "stakes": "他若再输一次，没人替我收尸",
+    "tension": "把全队的命押给一个输过的人",
+    "text": "我把指挥权交给他，哪怕他上次害死了三个人",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0013",
+    "scene": "xinren",
+    "stakes": "赌输的人是我时，藏的那些事全得见光",
+    "tension": "把审问变成赌局，谁先心虚谁先输",
+    "text": "我拒绝接受他的测谎术，改用对赌：输的人交代一切",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0014",
+    "scene": "xinren",
+    "stakes": "他若事后知道我瞒了，这一仗赢了也散了",
+    "tension": "用半截真相试他的脊梁",
+    "text": "我隐瞒了援军迟到的消息，先看他是否仍愿并肩",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0015",
+    "scene": "xinren",
+    "stakes": "他若连夜离队，正好踏进敌营的包围",
+    "tension": "用一个会让他冲动的消息试他的纪律",
+    "text": "我把他妹妹的下落告诉他，赌他不在今晚单独离队",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他若日后改口，我就是私毁军令的死罪",
+    "tension": "当众断退路，请他替我作证",
+    "text": "我当着全队撕掉领主给的密令，只留他一个见证人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0017",
+    "scene": "xinren",
+    "stakes": "泉水若对我变黑，我瞒的事就藏不住了",
+    "tension": "借神明的耳朵听彼此的心跳",
+    "text": "我提议在圣泉边各自起誓，泉水的反应替我们作证",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0018",
+    "scene": "xinren",
+    "stakes": "他若问都不问就杀，我不敢再背对他",
+    "tension": "用一条人命看他的成色",
+    "text": "我让他处置被俘的刺客，看他下手前问不问缘由",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0019",
+    "scene": "xinren",
+    "stakes": "路线真泄露那天，我也没了退路",
+    "tension": "设一道只有一个出口的泄密陷阱",
+    "text": "我把撤退路线只告诉了他一个人，祸从谁口出一看便知",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0020",
+    "scene": "xinren",
+    "stakes": "他若觉得受辱，这比不喝还糟",
+    "tension": "用行动说清：我防毒，但不防你",
+    "text": "我收下他递来的酒，当着他的面倒掉一半再喝",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0021",
+    "scene": "xinren",
+    "stakes": "他若带着书投敌，我连追的筹码都没有",
+    "tension": "把命根子塞进一只没把握的手",
+    "text": "我把真正的魔法书交给他，赝品留在自己怀里",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0022",
+    "scene": "xinren",
+    "stakes": "夜里伤口化脓时，谎就瞒不住了",
+    "tension": "用一个小谎换一个同伴的命",
+    "text": "我把伤药让给他，谎称自己包里还有一瓶",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0023",
+    "scene": "xinren",
+    "stakes": "他若发现图在我身上，钥匙会先变成凶器",
+    "tension": "交钥匙不交图，各留半条命",
+    "text": "我答应分他宝藏的钥匙，但藏图的那半张我缝在伤口里",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0024",
+    "scene": "xinren",
+    "stakes": "明早缺了谁，活着的那个去收尸",
+    "tension": "用一场分离验一段过命的交情",
+    "text": "我提议今夜分头走，明早在断头台边碰头——谁都不许先死",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0025",
+    "scene": "xinren",
+    "stakes": "疑心拖过三夜，队友会先动手清理门户",
+    "tension": "用一夜的不信任守住最后的身份",
+    "text": "我拒绝交出家徽戒指，宁可他对我的疑心再留一夜",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0026",
+    "scene": "xinren",
+    "stakes": "箭若有毒，我连当面问清的机会都没有",
+    "tension": "用血表态，用眼神留底牌",
+    "text": "我替他挡下那一箭，却把怀疑的眼神留在他随从身上",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0027",
+    "scene": "xinren",
+    "stakes": "他若杀了俘虏，我们要的情报也死了",
+    "tension": "借俘虏的血看他是哪种人",
+    "text": "我把审讯俘虏的活推给他，看他是用刀还是用话",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0028",
+    "scene": "xinren",
+    "stakes": "计划若今夜就传到对面，源头只有他",
+    "tension": "把所有防备卸给一个可能的内鬼",
+    "text": "我把最后一名护卫支走，单独告诉他我真正的计划",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0029",
+    "scene": "xinren",
+    "stakes": "若他是吓退我，大路尽头等着的才是埋伏",
+    "tension": "用三天的脚程买他一句话的真假",
+    "text": "我选择相信他关于森林的警告，放弃我走了三天的近路",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xinren-0030",
+    "scene": "xinren",
+    "stakes": "谷里他若勒马投敌，我连跳马的方向都没有",
+    "tension": "把方向和后心同时交出去",
+    "text": "我提议共骑一匹马穿越亡灵谷，缰绳交给他握",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "门破那一刻，没人回头看我",
+    "tension": "用一扇门的重量换一队人的生路",
+    "text": "我留下来顶住城门，让商队先走，哪怕马夫都认得我的死相",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "尸潮不留全尸，连墓碑都省了",
+    "tension": "一张符换一个人，我留下付账",
+    "text": "我把唯一的传送符拍在同伴胸口，自己面对涌来的尸潮",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "血放到第几碗会死，我并不知道",
+    "tension": "拿命当买路钱，一滴一滴付",
+    "text": "我用自己的血喂饱那头守门魔物，换队伍安然过桥",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "祭坛上的规矩，替死的人连名字都不留",
+    "tension": "用一句闲话盖住一条命",
+    "text": "我顶替抽签抽中的女孩去做祭品，只说'她的辫子比我编得好看'",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "今年我三十九",
+    "tension": "接一把倒计时的刀",
+    "text": "我接过诅咒之剑，明知每个用过它的人都活不过四十",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "他若出狱后翻案不成，我白吊在城头",
+    "tension": "用一顶不属于自己的罪名换一条命",
+    "text": "我当众承认罪名换他被释放，绞索我替他来戴",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "雨停之后，我再也想不起为谁求的雨",
+    "tension": "拿最贵的东西付一场雨的账",
+    "text": "我把记忆的秘术倒着用——忘掉她的脸，换这场雨停下来",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "龙若反悔，牧人和我一起喂它",
+    "tension": "把自己当赎金谈条件",
+    "text": "我请求龙把我带走，条件是从此不许它再伤一个牧人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "三年后阵若不肯还，我成了一尊空壳",
+    "tension": "用三颗心跳换满城呼吸",
+    "text": "我把心脏借给炼金阵三年，换回全城孩子免于瘟疫",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "绳子断得够不够快，我没法试第二次",
+    "tension": "断掉追兵的路，也断掉自己的",
+    "text": "我斩断吊桥绳索，连同站在桥头的自己一起坠下去",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "黑纹爬上心口那天，瞒的事会一起烂掉",
+    "tension": "把解药让出去，把病藏起来",
+    "text": "我把护命的圣水让给重伤的斥候，瞒下自己的黑血纹",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "他若签完就撕，我的死连个见证都没有",
+    "tension": "一条命换一行字",
+    "text": "我独自走进谈判帐，用我这条命换停战协议上的签名",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "追兵若不上钩，暗道迟早被掘出来",
+    "tension": "把活路分完，把死路留给自己",
+    "text": "我把逃生的暗道位置告诉所有人，自己引开追兵的马蹄",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "它住进来的那天，'我'还剩多少没人知道",
+    "tension": "把身体当赎金分期付款",
+    "text": "我答应巫妖成为它的容器，只求它放走船上的学徒",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "从此灯下无影，圣殿的门槛再不许我进",
+    "tension": "拿魂换命，典当的规矩不退不换",
+    "text": "我把自己的影子卖给夜魔，换弟弟从它的梦里活着回来",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "黑夜里若有商船触礁，账也算我头上",
+    "tension": "让一城黑暗换一港平安",
+    "text": "我选择熄灭灯塔引开敌舰，任家乡的海岸黑一整夜",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "他若到死都不认，这杯酒白喝了",
+    "tension": "用一杯毒换一个真话",
+    "text": "我接过国王递来的毒酒，只为让他亲口承认那桩冤案",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "明日再开战时，我连个清白的身份都没有",
+    "tension": "烧掉自己的路，填平众人的坑",
+    "text": "我烧掉能证明我清白的信，换这场内斗今夜就停",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "他若伤好再捅一刀，我连喊冤的气力都没有",
+    "tension": "让捅我的人先活下来",
+    "text": "我让治疗师先救那个捅伤我的俘虏——他知道的比我的命值钱",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "刑若再上半轮，牙先碎的可能是我",
+    "tension": "把秘密咽进胃里，用命封口",
+    "text": "我咬碎牙里的情报吞下肚，挨完这顿刑也不能让它落入敌手",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "咒成时我五十岁，咒散时我已经八十",
+    "tension": "拿后半生换他们逃命的半天",
+    "text": "我用一半寿命催开禁咒，把逃走的百姓罩进结界",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "奴隶主若转手卖我出海，赎金名单上没有我",
+    "tension": "一副镣铐换二十三副打开",
+    "text": "我把自己押给奴隶主，换回矿井里二十三个哑童的自由",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "承诺若不兑现，我等于白白送上门",
+    "tension": "把命押在敌人的一句口信上",
+    "text": "我主动走进包围圈，用自己换他们被放行的承诺——信不信由天",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "族人活下来那天，先烧的是我的画像",
+    "tension": "毁掉根，救下人",
+    "text": "我毁掉族人唯一的圣物，断了敌军死守的理由，也断了回家的路",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "他若回城后翻脸不认，烙印可翻不了脸",
+    "tension": "替他背一个一辈子的印记",
+    "text": "我代替他接受烙印，从此永不能进王城，换他活着带兵回去",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "火烧起来时，塔楼里只有一个出口——朝下",
+    "tension": "把自己当火把点亮生路",
+    "text": "我把龙火引到自己藏身的塔楼，为同伴烧出那条突围的路",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "泉眼只认一个人，让出去就再没我的份",
+    "tension": "把神给的反悔让给一个陌生人",
+    "text": "我拒绝最后一次复活的机会，把圣泉让给后来的人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "下一道诅咒落在我身上时，谎就成了真话",
+    "tension": "用一个谎把活命的东西送出去",
+    "text": "我摘下免咒的护身符给她戴上，骗她说我还有一枚",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "赦令若出海就作废，我连回来问罪的船都没有",
+    "tension": "用我的'消失'换他们的'留下'",
+    "text": "我答应被流放海外，换王国赦免跟着我造反的村民",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "灵魂撕掉的那块，补不回来",
+    "tension": "拿魂当补丁堵住天灾",
+    "text": "我撕开自己的灵魂封住裂隙，让法师们少死十九个",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "金粉若牵到王室，主教会先灭我的口",
+    "tension": "一件小证物逼一个大人物开口",
+    "text": "我把验尸刀递还给主教，请他当众解释死者指甲里的金粉",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "信徒的石头会比他们的忏悔先到",
+    "tension": "砸碎三百年信仰只要三秒钟",
+    "text": "我打开圣物匣给全城看：里面空的，供了三百年的只是谎言",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "游侠若被买通改口，我连人带证一起完",
+    "tension": "用鼻子拆穿一支笔",
+    "text": "我请游侠当庭嗅那封'遗诏'——墨里有宫廷才用的龙涎香",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "他若真没撒谎，我就成了逼供的恶人",
+    "tension": "黑暗是最好的测谎仪",
+    "text": "我让证人摸黑复述那晚，错一个字，就证明他在背词",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "他若先护刀，我今晚就得死在这张桌边",
+    "tension": "一张票试出他是鳏夫还是凶手",
+    "text": "我把她失踪那夜的船票拍在她丈夫面前，看他先护脸还是护刀",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "封印一解，咒反噬的痛我得当众咽下",
+    "tension": "把自己的伤疤当呈堂证供",
+    "text": "我解开自己的封印，让全城看见祭司大人给我下的缄口咒",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "挖空了就完了——诬告圣职者的罪归我",
+    "tension": "让铁锹替我说话",
+    "text": "我带村民去挖教堂的后院，挖到什么由他们亲眼看",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "答错了是弑君，答对了也是弑君",
+    "tension": "一句话把王座拖进证人席",
+    "text": "我当众问国王：十年前城门是谁下令关的——替他记着的人还活着",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "认出的那家人，可能先联手灭我这个多事的",
+    "tension": "让证物们当面对质",
+    "text": "我把两枚一模一样的家徽戒指并排放在桌上，让他们自己辨认",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "她若反咬我施妖术，火刑架就是我的证人席",
+    "tension": "让死者自己走进来",
+    "text": "我让镜子替她作证：镜里的人没有影子，'亡妻'从来就没死",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "传说若不准，我和真相一起烧成灰",
+    "tension": "借龙焰当法官",
+    "text": "我提议让龙来判断真伪，传说它只对撒谎的人喷火",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "新娘若先拆开，我和她总有一个活不过婚礼",
+    "tension": "让喜服变成檄文",
+    "text": "我把真相缝进送给新娘的嫁衣里，婚礼当天全城都会读到",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "他收手与否，我从此再没东西能制衡他",
+    "tension": "用真相的余温换活着的平静",
+    "text": "我烧掉证据换他收手，秘密从此只有我们两个死人知道",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "他若宁可儿子听见也不认，我手里的牌就空了",
+    "tension": "用亲情当撬棍",
+    "text": "我逼他自己说出真相——我把他的儿子请来了，就站在帐外",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "家属若不要跪要血，我的沉默成了包庇",
+    "tension": "用沉默换一场迟到的跪",
+    "text": "我答应保守秘密，条件是他当面向被害者家属磕三个头",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "议长若醒来先查来源，石头会指向我",
+    "tension": "让石头替死者说梦话",
+    "text": "我把供词的每个字录进回响石，今夜放进议长的枕头里",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "剂量重了是投毒，轻了他只当我紧张",
+    "tension": "让药替我问出不敢问的",
+    "text": "我假装什么也不知道，只在他的茶里下微剂量的吐真剂",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "粮食若真够数，谎报军情的就是我",
+    "tension": "让账本打仗",
+    "text": "我打开地窖让他们清点军粮，数字会替我揭穿这场'大捷'",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "重审若维持原判，我两罪并罚",
+    "tension": "用自己的罪名换别人的重审",
+    "text": "我撕掉伪证，宁可背上诬告的罪名也要让陪审团重审",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "风语术若被说成妖法，他们先烧我",
+    "tension": "让信徒亲耳拆自己的信仰",
+    "text": "我让被他骗了十年的追随者亲耳听这段风语术",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "他若答'知道'，我连要挟的立场都没了",
+    "tension": "用一个问题当最后通牒",
+    "text": "我按下揭发信，先问他一句：你女儿知道自己的学费哪来的吗",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "谎言塌的那天，孤儿和我一起被埋",
+    "tension": "用真相的缺席换一个屋顶",
+    "text": "我选择沉默，让谎言护住那群靠它活下去的孤儿",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "果实若完好无损，亵渎神迹的罪归我",
+    "tension": "让一只虫子推翻一场布道",
+    "text": "我当众切开他的'神迹'果实，里面的虫洞比布道词诚实",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "回音若说没人信，我死得像个笑话",
+    "tension": "把真相先送出必死之地",
+    "text": "我用最后一段传讯术把证据送出城，不管自己能不能活到回音",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "他若顺势杀我灭口，坟里正好添个伴",
+    "tension": "让活人看自己的坟",
+    "text": "我把他真正的墓碑指给他看：三年前他就'死'过一回了",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "信若指向我的出身，真相先砸的是我自己",
+    "tension": "让一封旧信先替我哭完",
+    "text": "我揭开画像背后的夹层，先替母亲读完那封没寄出的信",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "审判若被操纵，证据和我一起定罪",
+    "tension": "用筹码换一场阳光下的对质",
+    "text": "我同意交出证据，但交换条件是流放令撤换成公开审判",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "他若半路推我下楼，'自杀'又多一例",
+    "tension": "让旧地重游替死者问话",
+    "text": "我带他重返案发的钟楼，逼他再走一遍那夜的楼梯",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "马夫若先被灭口，引线断在第一步",
+    "tension": "让最不起眼的耳朵当导火索",
+    "text": "我把真相告诉了他的马夫——从底层烂起的楼，塌得最彻底",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xihuan",
+    "id": "ch-xihuan-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "钟敲响后我就不能再躲，明晨之前必须拿出证据",
+    "tension": "用钟声预支一场审判",
+    "text": "我在加冕礼前夜敲响丧钟，让全城猜谁死了，答案明天揭晓",
+    "type": "choice"
+  }
+]

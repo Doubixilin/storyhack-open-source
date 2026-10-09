@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "先亮出观察就等于交出信息优势；他若顺着圆谎，我反而被动",
+    "tension": "一个细节逼他在说谎与改口之间现形",
+    "text": "盯着他虎口的新茧发问：上周你握的到底是刀，还是别的东西",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "唯一的实物筹码，他若抢走或毁去，我空手而归",
+    "tension": "物证上桌，话就没有收回的余地",
+    "text": "把那张被水浸过的车票拍在桌上，问他要不要解释日期",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "我的不在场证明，从此他手里也捏着我",
+    "tension": "用自认风险钓他露底",
+    "text": "先承认案发当晚我去过现场，看他得意时说出哪句不该知道的话",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "若他当场对质师兄，我的信誉和这条线一起断",
+    "tension": "诈出来的联盟裂缝",
+    "text": "随口说一句'你师兄昨晚已经跟我谈过了'，看他的手往哪摸",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "记录是我唯一的筹码，给了就收不回",
+    "tension": "情报换真话，成交即破局",
+    "text": "提出用死者最后一通来电记录，换他一句实话",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "他若已知情，我此刻的沉默就是认罪",
+    "tension": "守住自己的底牌不被反咬",
+    "text": "把口袋里的钥匙串攥紧，只字不提我进过那间锁着的库房",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "若他顺势编圆，我白白送给他一个证人",
+    "tension": "让他从被告变成证人，阵脚自乱",
+    "text": "把话题拐到保洁阿姨的目击时间上，逼他先替时间线作证",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "打草惊蛇；若无人接听，主动权尽失",
+    "tension": "一按拨号，全屋人一起上秤",
+    "text": "当面拨打那个变声电话留下的号码，看谁的口袋在震",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "他若起疑跟出来，我的信息渠道当场曝光",
+    "tension": "离席三分钟的暗战",
+    "text": "借口去洗手间，把他脱口而出的名字发给队友先查",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "细节问得太准，他就知道我查到了哪一层",
+    "tension": "烟味是穿帮的身份痕迹",
+    "text": "问他什么时候开始抽死者那个牌子的烟，数他回答前停了半秒",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "复印件离手，原件的安全也押上了",
+    "tension": "禁页见光，他必须先表态",
+    "text": "摊出尸检报告里被涂黑那页的复印件，等他开口",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "律师若辟谣，我在他眼里就成了诈唬",
+    "tension": "离间他和辩护人",
+    "text": "说他雇的律师刚给我寄了一份'很有诚意的材料'",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "他若录下这句，收买证人罪先落我头上",
+    "tension": "把骨气明码标价",
+    "text": "问他要多少钱，才肯说出那晚是谁支开了保安",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "知情不报；日后败露，我从查案人变成涉案人",
+    "tension": "认出死者这件事本身就是嫌疑",
+    "text": "绝口不提我认得尸体脚踝上那道旧疤",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "暴露我的调查深度，他此后处处设防",
+    "tension": "用痛点打乱他的防守阵型",
+    "text": "突然问他和死者姐姐的那笔债，把火引开再兜回来",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "弄湿的是人家桌面，理亏在先，气势让三分",
+    "tension": "慌乱中的取舍就是答案",
+    "text": "故意把水杯碰倒在文件上，看他先抢救哪一份",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "记者的胃口喂不饱，放出的话收不回",
+    "tension": "借舆论的刀架在桌上",
+    "text": "当着他的面接通记者电话，只说'我这边有进展'五个字",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "试探意图全露，他从此警惕我每一句寒暄",
+    "tension": "称呼即试探，回头那一秒最诚实",
+    "text": "起身告辞，到门口回身补一句'晚安，李老师'——看他认不认这个称呼",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "计时的小动作被发现，对峙升级成敌意",
+    "tension": "谎言耗时的就是生造的部分",
+    "text": "请他复述那晚的行程，掐着表数他在哪一段停顿最久",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "伪造证据，败露即出局",
+    "tension": "假证物钓真反应",
+    "text": "念出死者生前给他写的那封'没寄出的信'——信其实是我仿的",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "守诺就成了包庇共犯，毁诺就断了所有后路",
+    "tension": "以沉默换赃证",
+    "text": "只要他交出账本，我保证今晚的事不出这扇门",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "深夜独处，我的人身安全押在他没同伙上",
+    "tension": "主场易位，他的镇定会掉漆",
+    "text": "提议现在就重回案发现场，当面对质每一个细节",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "他若认定我在虚张声势，反将我一军",
+    "tension": "借大势压人，体面的台阶也是倒计时",
+    "text": "提到纪委已经入驻他们单位，给他最后一次体面开口的机会",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "被察觉就打草惊蛇，此后滴水不进",
+    "tension": "明修问话，暗取证物",
+    "text": "谈话中途收走他用过的茶杯——指纹比答案更诚实",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "若他有合理解释，我暴露了自己核过天气",
+    "tension": "时间感穿帮，说明他根本不在他声称的地方",
+    "text": "问他女儿今晚怎么没来送伞——雨半小时前就停了，他为什么还说'外面在下雨'",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "没有证据的指控，是递给对方反攻的刀",
+    "tension": "空枪上膛，赌他先眨眼",
+    "text": "直视他说出真凶的名字，但把证据扣在手里一张不亮",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "他若看穿话术，从此对我的每个设问免疫",
+    "tension": "纠错冲动最难压住",
+    "text": "说凶手'惯用左手'与他描述不符，激他下意识地纠正我",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "情绪失控会被记录在案，削弱我全部的证词分量",
+    "tension": "真情还是表演，只隔一张纸",
+    "text": "让眼泪掉在证物袋上，看他是递纸巾还是皱眉",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "答应的那一刻，我也成了可被拿捏的人",
+    "tension": "以罪换罪的灰色交易",
+    "text": "用放弃追查他挪用公款为条件，换他供出同伙",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "他若狗急跳墙先动手，我连退半步的时间都没有",
+    "tension": "姿态即武器，虚张也是张",
+    "text": "把手缓缓伸进内袋，像要掏东西，逼他先眨眼",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "十秒后无论他说什么，我都可能收不住手",
+    "tension": "复仇与真相只隔十秒",
+    "text": "把刀拍在他面前，给他十秒钟说清楚十年前那个雨夜",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "错过今晚，他下周就举家移民",
+    "tension": "亲手放掉最好的时机",
+    "text": "已经跟到他楼下，看见他女儿跑出来喊爸爸，我把车开走了",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "万一查错了人，这十五年恨错了对象",
+    "tension": "复仇前的最后一次验证",
+    "text": "动手前再查一遍当年的卷宗，确认他不是被人推出来的替罪羊",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "手法本身就是认罪书，我也跑不掉",
+    "tension": "以彼之道的仪式感复仇",
+    "text": "今晚就动手，用他当年用的同一种手法，让警察一看就懂",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "装得越久，越怕自己一个眼神演砸",
+    "tension": "仇恨藏在每天的寒暄里",
+    "text": "继续每天去他的修车铺打招呼，笑着递烟，等他自己露出马脚",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "儿子可能是无辜的，我报复错了靶子",
+    "tension": "借刀杀人，手不沾血",
+    "text": "把他儿子肇事逃逸的证据匿名寄给媒体，借舆论烧他",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "两人若先对质，会发现是我在中间点火",
+    "tension": "让他们在窝里互咬",
+    "text": "给他当年的同伙递话：他要拿你顶罪，先看谁先咬谁",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "他若赌我不敢公开，谈判崩了我反而被动",
+    "tension": "用他的体面换我的正义",
+    "text": "约他谈：你自首，我就把手里的东西烂在肚子里，让你家人永远不知道",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "逼急了狗急跳墙，他会先查出我是谁",
+    "tension": "诛心先于诛人",
+    "text": "不动他，先动他最在乎的那间厂，一点点掐断他的资金链",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "他只要矢口否认，我连报警的资格都没有",
+    "tension": "没有证据的正面拦截",
+    "text": "在他常走的隧道里等他，手里只有一股拿不到口供就不散的念头",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "他若加速，我连躲的余地都没有",
+    "tension": "用遗照逼他当场现形",
+    "text": "把母亲的遗照举到他车前，看他是刹车还是加速",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "烧掉的是三年的准备，重新布局不知何年",
+    "tension": "真相裂开一条缝，仇恨悬在半空",
+    "text": "原定动手的夜里把计划全烧掉，只因发现他书房里也供着我父亲的照片",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "满座宾朋里若有人认出袖扣来历，当场掀桌",
+    "tension": "贺礼即战书",
+    "text": "他邀我参加寿宴，我笑着答应，贺礼里放着那枚从凶案现场捡的袖扣",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "料放早了，他有充足时间公关洗白",
+    "tension": "选他最怕摔的高度松手",
+    "text": "挑他竞选商会会长的当口，放出第一块料的边角",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "白纸黑字的信，日后是我共谋的假象",
+    "tension": "原谅是糖衣",
+    "text": "给他写一封原谅信，字字恳切，只为换他放松戒备的那顿饭",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "收钱那天起，我在法律上也是勒索犯",
+    "tension": "用交易完成羞辱",
+    "text": "开价让他买回我手里的证据，钱全转给受害者家属，我只想看他低头",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "伪证者一慌，会先向他报信",
+    "tension": "从链条最软的一环下手",
+    "text": "先找上当年替他作伪证的人，用十五年前的假口供撬开今天的缺口",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "族人从此分成两派，我成了掀桌的不肖子孙",
+    "tension": "家宴变公堂",
+    "text": "当着全族人的面问他：我爹失踪那晚，你的船为什么半夜出海",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "老宅是他的地盘，私闯被撞见，他有的是手段",
+    "tension": "入虎穴取旧证",
+    "text": "潜回那间废弃的老宅，在地板下找他以为永远不会有人翻的东西",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "记者若被收买，材料从此石沉大海",
+    "tension": "放手比动手更难",
+    "text": "放弃亲手复仇，把材料交给一个和我毫无瓜葛的调查记者",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "孩子是无辜的，每压一天，我的债多一分",
+    "tension": "拿人命做杠杆",
+    "text": "把他儿子的救命骨髓配型结果压在手里，等一个让他亲口认罪的开价",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "他若按兵不动，我的局永远收不了网",
+    "tension": "无中生有，钓他出手",
+    "text": "让他偶然发现我掌握了一条并不存在的目击证人线索，引他先动",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "装得太过的醉会起疑，他转头就去查我的底",
+    "tension": "借醉掏他的心窝子",
+    "text": "在酒桌上装醉，哭着喊爹，听他拍着我肩膀说漏了什么",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "协议一签，我就永远失去举报的权利",
+    "tension": "用法律的外衣行复仇之实",
+    "text": "跟他的律师谈：让他赔出全部身家给基金会，换我不把证据交给警方",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "树太大，我可能连枝都够不着就被碾碎",
+    "tension": "升级仇恨的坐标",
+    "text": "把复仇对象换成他背后真正下命令的人，先扳倒那棵大树",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "他若带了人来，故地就是第二个案发地",
+    "tension": "故地重游的心理战",
+    "text": "把他约到当年的事发地，带着录音设备，逼他在原地重演那一夜",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "若骸骨才是他，我十五年的局全建在沙上",
+    "tension": "仇人身份随时可能崩塌",
+    "text": "验一验那具刚出土的旧骸骨，DNA可能告诉我恨的人早已死了",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "法庭上证据不足的每一天，他都是自由的",
+    "tension": "收手是更深的复仇",
+    "text": "举枪的最后一刻改了主意，把他活着交给法庭，让他多活几十年慢慢烂",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "他若就此善终，我这把刀永远出不了鞘",
+    "tension": "救命之恩裹着杀意",
+    "text": "救下他突发心梗的命，在救护车上握着他的手，等一个更长远的清算",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "对手用完我，会连我一起灭口",
+    "tension": "借敌人的敌人下刀",
+    "text": "等他最恨的商业对手主动联系我，我递上的每份材料都淬过火",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "之前的口供作废，伪证责任追上来",
+    "tension": "翻供的每一秒都在重写我的嫌疑等级",
+    "text": "向审讯我的警官承认之前撒的那个谎，把真时间线和盘托出",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "她若只信正义使者，我就失去唯一的帮手",
+    "tension": "动机见光，人设落地",
+    "text": "对她说：我查这案子是找人，不是伸张正义——赌她不转身走",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "从暗处走到明处，他若反咬骚扰，我先被立案",
+    "tension": "摊牌换破绽，他动就有戏",
+    "text": "当着嫌疑人的面承认我跟踪了他半个月，逼他做出反应",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "他若把这话卖给原主，我成了两家的敌人",
+    "tension": "双面人的最后一次选择",
+    "text": "跟线人摊牌：我知道你是谁的人，现在选边，选我",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "家属的信任与警方的清白，可能一起失去",
+    "tension": "迟到十年的自我介绍",
+    "text": "把藏在鞋跟里的照片交给家属，承认我比他们更早认识死者",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "答案可能证明我全家都在案子里",
+    "tension": "父子之间隔着一纸伪证",
+    "text": "给十年没联系的父亲打电话，问他当年为什么改了我的口供",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "职业生涯、警方的耐心、我的安全，一次性全押",
+    "tension": "真名押上去，话才有斤两",
+    "text": "在记者会上公开推翻警方结论，落款用我的真名",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "她感激的那个'好心人'死了，剩下欺骗她的我",
+    "tension": "幕后的人走到台前",
+    "text": "向她承认：匿名信是我写的，报警电话也是我打的，恨我也行",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "身份半露，他顺藤摸瓜就能摸到真相",
+    "tension": "用一层假坦白盖住真底牌",
+    "text": "向嫌疑人'坦白'我是私家侦探，隐瞒真正的委托人就是死者本人",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "她若因此不敢把证人交给我，案子失血",
+    "tension": "强撑的人设亲手拆掉",
+    "text": "把失眠药放到桌上给她看，承认我没有看上去那么稳",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "他可能来谈，也可能来推",
+    "tension": "拿命当会议室",
+    "text": "站到天台边给真凶发消息：我知道是你，一个人来谈谈",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "污染现场的罪名坐实，我的证词从此打折",
+    "tension": "自爆以换取最后的话语权",
+    "text": "向团队承认：第一个发现尸体的是我，我还动过现场",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "两头都在漏：她不可信，我也不干净",
+    "tension": "感情与证据分居两地",
+    "text": "承认我对嫌疑人动了心，但把那段关键监控继续锁在柜子里",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "错一个字，我在这家人面前永远闭嘴",
+    "tension": "家宴变公堂",
+    "text": "借酒劲说出'那晚开车的不是你，是你儿子'，看全桌人的脸",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "两个秘密只要有一个失控，连环炸",
+    "tension": "用一个雷盖住另一个雷",
+    "text": "在坦白前先抛出一个更大的秘密，让所有人去消化它，替我挡住追问",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "她若崩溃追问，我必须交代那晚我在做什么",
+    "tension": "迟到三年的半句遗言",
+    "text": "对死者的母亲低下头：电话响到第三声时，我没有接",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "警队的身份、人脉、保护，一并上交",
+    "tension": "退场姿态也是进攻",
+    "text": "把辞职信拍在队长桌上，附上我私自保存的全部卷宗副本",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "他今晚就知道该除掉谁",
+    "tension": "给真凶递一面镜子",
+    "text": "当众承认我就是当年那个'目击者小孩'，让真凶自己对号入座",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "交易一旦见光，证词和律师执照一起作废",
+    "tension": "证词挂牌出售",
+    "text": "跟对方律师直说：我可以出庭，前提是你们先撤掉对她的起诉",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "真放弃的人留不住队友，装放弃也是",
+    "tension": "以退为饵，钓沉不住气的人",
+    "text": "对众人宣布我'准备放弃了'，引出那个最怕我放弃的人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "他若只看见无能，我连现在的位置也保不住",
+    "tension": "旧伤疤当介绍信",
+    "text": "把当年被退回的立案回执拿给他看，承认我无能了二十年",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "理解说出口，我就再也做不回旁观者",
+    "tension": "共情是最锋利的审讯",
+    "text": "告诉真凶：我知道你的动机，而且我理解——这句理解是真话",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "他若摊牌的内容我接不住，搭档变对家",
+    "tension": "信任开价，先付定金",
+    "text": "对搭档表态：查到底我陪你，但现在告诉我，你瞒了我什么",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "她若不信这张纸，否认就成了真的",
+    "tension": "明面上推开，暗地里拉住",
+    "text": "当众否认和她的关系，转身在桌下把写着'信我'的纸条塞进她手心",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "保管之物见光，我和死者的关系必须重新定义",
+    "tension": "哀荣之下无戏言",
+    "text": "趁葬礼所有人都在，站在遗像旁说出死者托我保管的东西",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "躲一次伤一次，她不会再问第二遍",
+    "tension": "用工作挡真心，挡得住一次",
+    "text": "被追问感情时把话锋引向案子：先让我把这页报告念完",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "无人知晓的行踪，失踪了都没人报警",
+    "tension": "黑暗里只有两个知道真相的人",
+    "text": "约真凶在旧戏院见面，一个人去，关掉定位",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "她若认出袖扣的来处，求婚现场变审讯现场",
+    "tension": "誓言与证物同盒奉上",
+    "text": "向她求婚，戒指盒里同时放着从现场捡回的那枚袖扣",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "任何一句被对质，我两头都不是人",
+    "tension": "两份相反的'真心话'",
+    "text": "向甲坦白金主是乙，向乙坦白金主是甲，看谁先沉不住气",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "咽回去的那句，终会变成别人捅我的刀",
+    "tension": "真话的边界由我划定",
+    "text": "只坦白'我去过现场'，把'我认识凶手'五个字咽回去",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "交出她就卷进来，不交我就顶着嫌疑",
+    "tension": "我的清白和她的前途共用一份证据",
+    "text": "交出能洗清我嫌疑的录音——但录音会暴露妹妹那晚也在场",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "真凶脱罪，父亲的坟头保住，我永远知情",
+    "tension": "一页纸烧掉两个真相",
+    "text": "烧掉能定真凶的账本——因为里面也有父亲当年受贿的那几页",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "撤稿即共谋，家属永远等不到我的交代",
+    "tension": "用笔换尸骨",
+    "text": "答应真凶的条件：我撤下报道，他交出另一具尸体的位置",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "翻案的最后窗口，从此焊死",
+    "tension": "自由明码标价，公平概不还价",
+    "text": "放弃上诉换妻子取保候审，让真相停在二审",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "寄出就没有撤回键，全家一起上榜",
+    "tension": "信封比防弹衣薄",
+    "text": "把唯一原件寄给纪委而不是销毁，赌它跑得比追杀快",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "被放弃者若死了，我余生都听得到那扇门",
+    "tension": "放弃的那个人会看见警车开走",
+    "text": "两个证人只能护一个，把警力引向更可能活着的那个",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "他们若选择私了，我成了递刀的人",
+    "tension": "把刀子递到受害者手里",
+    "text": "对死者父母说实话：证据链在我手里断了，报仇和坐牢他们选一个",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "他倒了，我二十年的案卷全部陪葬",
+    "tension": "弑师者先弑己",
+    "text": "当庭说出真凶是我恩师——毁掉他，也毁掉我经手的每个案子",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "删掉的十秒，是套在我脖子上的绞索",
+    "tension": "护一个人，脏一个案子",
+    "text": "删掉监控里她出现的那十秒，从此我手里捏着两个案子",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "孩子若知道是我，他余生都在恨正义",
+    "tension": "拿无辜者当人质的正义",
+    "text": "用凶手儿子的前途做筹码逼他自首——孩子没有错，错的是我",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "药只有一份，我家里也躺着病人",
+    "tension": "救凶手等于再杀一次死者",
+    "text": "把救命的药让给昏迷的嫌疑人——他活着，真相才活着",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "她安全了，而我的用处用完即弃",
+    "tension": "自己的命上秤砣",
+    "text": "跟绑匪谈：放人质，我来做你们的人质——我比她有交换价值",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "从此每个同类案件的新闻都是对我的问责",
+    "tension": "平安的价格是真相下架",
+    "text": "交出证据换全家迁出这座城市，让真凶继续体面",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "任何一边查实，人质第一个遭殃",
+    "tension": "一次背叛服务两边",
+    "text": "把假情报同时卖给两伙人——无论哪边赢都能换出人质，也可能两头都输",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "赌错了，人质的血有我的指纹",
+    "tension": "千万双眼睛替我押注",
+    "text": "在直播连线里公开勒索电话，逼绑匪当众选择撕票还是谈判",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "职衔、信誉、自由，一份供词全收走",
+    "tension": "翻旧案先翻自己",
+    "text": "承认三年前办错了案：放跑了真凶，关进了无辜者——今天两个都要救",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "他若活着知道真相，恩情就变仇恨",
+    "tension": "生的名额只有一个",
+    "text": "把两张船票藏起一张，对搭档说只买到一张——走的人不该是我",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "他选哪一个，我都已经不在棋盘上了",
+    "tension": "把领导的算盘掀到桌面上",
+    "text": "借媒体曝光逼上级二选一：弃车保帅，还是全盘翻案",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "他若先开枪后搜身，我什么都没留下",
+    "tension": "枪膛是空的，赌注是满的",
+    "text": "带着空枪去赴约，赌真凶更想要证据而不是我的命",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "低头这一次，我在他面前永远抬不起头",
+    "tension": "恩怨倒灌，尊严清零",
+    "text": "向仇家低头求一份不在场证明，去救当年判我入狱的警察",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "走的人一身轻，留下的人替我背锅",
+    "tension": "孝与义各站一个站台",
+    "text": "在最后期限前带母亲离开，把案子和未亡人都留在身后",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "两人若串供，我涉嫌诱供，满盘皆输",
+    "tension": "囚徒困境由我开局",
+    "text": "告诉甲'乙已经招了'，告诉乙'甲已经招了'——只能赌一个先崩",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "私了见血，我的默许就是共谋",
+    "tension": "证据交给仇恨，还是交给程序",
+    "text": "把偷拍的罪证交给死者的妻子，而不是警方——公义私了，选一个",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "签字笔一落，死者的名字再没有机会被念对",
+    "tension": "亲人的命，陌生人的公道",
+    "text": "签下保密协议换哥哥的医疗费，从此真相锁进我的喉咙",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "逃兵的标签贴上，以后没人再听我分析",
+    "tension": "认怂比逞英雄难",
+    "text": "当众承认自己害怕了，退出专案组，把位置让给敢开枪的人",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "无辜者多关一天，我的沉默就重一斤",
+    "tension": "沉默此刻是慈悲，也可能是帮凶",
+    "text": "两个嫌疑人里我知道谁是无辜的，但没有证据——选择沉默，继续找",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "车队里任何一双眼睛认出我，罪名就地加刑",
+    "tension": "罪名当通行证用",
+    "text": "利用通缉犯的身份混进押解车队，接近那个只有他能指认我的人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "撤稿先例一开，我的笔从此有价",
+    "tension": "新闻理想过秤，人命那头沉",
+    "text": "用撤稿换线人全家安全出境——头版和人命二选一",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "他们若选择联手，第一个灭口的是我",
+    "tension": "离间是我唯一的武器",
+    "text": "让两个知情人互相以为对方已泄密，赌他们内讧而不是联手",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "名单生效之日，我从证人席走进被告席",
+    "tension": "自清者先自污",
+    "text": "在听证会上交出名单——名单最后一行是我自己的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0001",
+    "scene": "lichang",
+    "stakes": "我阵营里每个敬过我酒的人都成了敌人",
+    "tension": "公开倒戈",
+    "text": "在庆功宴上站到我曾经的对头身边，举杯说他查了三年的事是真的",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0002",
+    "scene": "lichang",
+    "stakes": "笔迹和措辞习惯会出卖我",
+    "tension": "双面文书",
+    "text": "表面继续替他们写结案报告，暗地里把每一处漏洞抄送给对方律师",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0003",
+    "scene": "lichang",
+    "stakes": "他可以不原谅我，只欣赏我的毁灭",
+    "tension": "向受害者求教",
+    "text": "找到被我亲手送进监狱的人：我需要你教我，怎么把我这边的墙拆了",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0004",
+    "scene": "lichang",
+    "stakes": "万一两边都在骗我，我成了没有阵营的人",
+    "tension": "换边前的最后验货",
+    "text": "倒戈之前，亲眼看完那份被压下的原始笔录，确认新立场不是另一个骗局",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0005",
+    "scene": "lichang",
+    "stakes": "布防图若害了旧同僚的命，我永远洗不净",
+    "tension": "投名状",
+    "text": "把队里的布防图带给对方，换他们信我这一次",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0006",
+    "scene": "lichang",
+    "stakes": "旧案若被翻出问题，无辜的同事替我背锅",
+    "tension": "声东击西拖时间",
+    "text": "在内部会议上把矛头引向一个无关的旧案，拖延他们销毁新证据",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0007",
+    "scene": "lichang",
+    "stakes": "督查若和他们一条裤子，我等于自首",
+    "tension": "借外力翻盘",
+    "text": "借督查进驻的东风，把憋了两年的材料递上去",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0008",
+    "scene": "lichang",
+    "stakes": "来接头的人也许正是当年提拔我的人",
+    "tension": "用投诚做饵",
+    "text": "故意让他们以为我抓到了对方阵营的把柄，引他们派人来接头，录下全程",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0009",
+    "scene": "lichang",
+    "stakes": "师傅身败名裂，我这一身本事也成了脏的",
+    "tension": "弑师",
+    "text": "把师傅当年教我的破案手法一步步拆给辩护律师听，告诉他哪步被用来造假",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0010",
+    "scene": "lichang",
+    "stakes": "他若不怕，我连走的资格都没有",
+    "tension": "以沉默换自由身",
+    "text": "跟旧上司摊牌：让我体面地走，我就让那件事体面地烂掉",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0011",
+    "scene": "lichang",
+    "stakes": "伪证的嫌疑从此跟着我",
+    "tension": "无声的反水",
+    "text": "庭审作证前夜烧掉准备了两周的证词，出庭只说三个字：不知道",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0012",
+    "scene": "lichang",
+    "stakes": "答案若是恩师，我的信仰二次崩塌",
+    "tension": "倒查自己被利用的起点",
+    "text": "重回我办砸的第一个案子现场，看当年是谁递给我那根关键证物",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0013",
+    "scene": "lichang",
+    "stakes": "从此我和他一样是通缉犯",
+    "tension": "劫囚式纠错",
+    "text": "在押送车上动手脚放走那个罪犯，因为我知道真正的卷宗写了什么",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0014",
+    "scene": "lichang",
+    "stakes": "内鬼闻声会先一步清理痕迹",
+    "tension": "技术性搅局",
+    "text": "公开质疑案件的物证保管链，让所有人的注意力从谁是内鬼上移开",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0015",
+    "scene": "lichang",
+    "stakes": "一桌同仁的目光就够把我钉死",
+    "tension": "宴席上的罪行认领",
+    "text": "借师父退休宴全员到齐的机会，放出那段他不在场的证明——其实是我伪造的",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0016",
+    "scene": "lichang",
+    "stakes": "哪一边先识破，我就死在哪一边",
+    "tension": "三层间谍",
+    "text": "答应替他们传递假情报给新盟友，转头把接头暗号改了两个字",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0017",
+    "scene": "lichang",
+    "stakes": "我的证词效力从此都要打折",
+    "tension": "自爆式反转",
+    "text": "开庭时站起来说的第一句话是：检察官阁下，我要检举我自己",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0018",
+    "scene": "lichang",
+    "stakes": "收网那天，我的隐瞒害了所有人",
+    "tension": "知情不报",
+    "text": "没告诉新盟友，我曾经的搭档已经盯上了我们，正在收网",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0019",
+    "scene": "lichang",
+    "stakes": "他们可以用妹妹反过来要挟我一辈子",
+    "tension": "亲情开价",
+    "text": "提出条件：我交出旧阵营的全部部署，换我妹妹从这场浑水里摘出去",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0020",
+    "scene": "lichang",
+    "stakes": "两张票暴露我的犹豫，最后一条都未必走得成",
+    "tension": "静水深流的逃亡预备",
+    "text": "收到调令那一刻我明白他们已经起疑，不动声色地订了两张不同方向的票",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0021",
+    "scene": "lichang",
+    "stakes": "翻案翻到自己头上，渎职罪在等我",
+    "tension": "自我审判",
+    "text": "用三天把我亲手钉死的案卷全部重读，在每页边角写下当年的疑点",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0022",
+    "scene": "lichang",
+    "stakes": "律师执照和身家性命，十分钟内全部清零",
+    "tension": "辩护人反噬",
+    "text": "当众指认坐在主位的人才是真凶——十分钟前我还是他的辩护人",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0023",
+    "scene": "lichang",
+    "stakes": "话说出口就剪不回去了",
+    "tension": "借采访发檄文",
+    "text": "借媒体追问我为什么辞职的麦克风，说出那句准备已久的话",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0024",
+    "scene": "lichang",
+    "stakes": "烧掉的是唯一能证明他清白的遗物",
+    "tension": "迟到的决裂",
+    "text": "跪在师父灵位前烧掉他留给我的结案章，灰烬里我第一次承认恨过他",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0025",
+    "scene": "lichang",
+    "stakes": "家门上那份先引来的，可能是灭口的人",
+    "tension": "不给自己留退路的检举",
+    "text": "把当年签字的每份假报告复印两份，一份给纪委，一份贴在我家门上",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0026",
+    "scene": "lichang",
+    "stakes": "箱子过安检的那三秒，决定我的余生",
+    "tension": "眼皮底下运赃",
+    "text": "倒戈时带走一只装满证据的箱子，告诉他们只是一箱旧衣服",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0027",
+    "scene": "lichang",
+    "stakes": "两人若在走廊撞上，我当场变成弃子",
+    "tension": "空城计式的谈判",
+    "text": "约两边主事人在同一家茶馆的不同包厢，让他们都以为我是去赴对方的约",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0028",
+    "scene": "lichang",
+    "stakes": "收手等于同时背叛两边",
+    "tension": "刚出狼窝又见虎",
+    "text": "反转的最后一刻收手——新盟友销毁证据的手法和旧东家一模一样",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0029",
+    "scene": "lichang",
+    "stakes": "指纹若没问题，我凭空坐实了诬陷",
+    "tension": "用自曝换真相",
+    "text": "申请重验那枚定案的指纹，哪怕申请本身就是承认我当年造了假",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-lichang-0030",
+    "scene": "lichang",
+    "stakes": "证据被排除，我另加一条妨碍司法",
+    "tension": "法外递证",
+    "text": "在宣判前把新证据塞进法官的案卷，赌程序漏洞能给真相开一条缝",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "他们真打过去，店主根本不认识我",
+    "tension": "谎话说得越具体越像真的",
+    "text": "咬死证件是真的，主动报出'老家'村小卖部老板的名字——赌他们不会真打电话",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "他若真是硬茬，我的挑衅罪加一等",
+    "tension": "被查的人先查人，气势倒灌",
+    "text": "抢先质疑盘问者的身份：工牌给我看看，编号我记一下",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "真名一出口，旧案、旧仇、旧账全部上线",
+    "tension": "用更大的雷炸掉小的怀疑",
+    "text": "承认我不姓林，然后说出那个比假身份更惊人的真名",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "他若沉住气不接，我的虚张声势当场穿帮",
+    "tension": "虚空设局，钓他露底",
+    "text": "反问对方：你查过我的档案？那说说第十三页写了什么——档案根本没有十三页",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "他若反咬回来，两张假脸一起撕",
+    "tension": "替死鬼就在邻座",
+    "text": "把话题引到同席另一位'来宾'身上——他的请柬编号比我的更可疑",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "同伙若不在岗，免提音就是我的判决书",
+    "tension": "铃声是审判的倒计时",
+    "text": "当场拨通'单位'的电话，赌电话那头的同伙比对方先开口",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "听者若较真去医院核实，窟窿反而更大",
+    "tension": "可怜的谎比完美的谎耐查",
+    "text": "红着眼眶承认身份是买的——为了给重病孩子挂专家号，半真半假最致命",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "王阿姨若当众说不记得，我连退路都堵死",
+    "tension": "借老人的慈眉善目当不在场证明",
+    "text": "抬出主人家老太太作证：'王阿姨看着我从侧门进来的'——侧门根本没监控",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "进了那道门，牌就不归我出了",
+    "tension": "以进为退，赌后半场",
+    "text": "主动提出去派出所'配合核实'，赌到了那儿我有别的牌",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "他若录音，敲诈未遂先落我头上",
+    "tension": "秘密只卖给同样脏的人",
+    "text": "把识破我的人拉到走廊：开个价，或者我们互相装作没认出来",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "弃子若反水，整条暗线连根拔",
+    "tension": "弃车保帅，车是我亲手放的",
+    "text": "在被揭发前先'揭发'自己安插的人，用一颗弃子换信任",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "对方若拍桌确认，我的镇定就成了挑衅",
+    "tension": "半秒的演技决定生死",
+    "text": "被叫出真名时只抬了半秒眼皮，随即笑问'您是不是认错人了'",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "问得越急，越暴露我在意的是谁泄的密",
+    "tension": "审讯者变成被审讯者",
+    "text": "反过来套他的话：他怎么认出我的？知道我旧身份的人一只手数得过来",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "口袋里的东西会替我说出真实身份",
+    "tension": "断尾求生，外套是尾巴",
+    "text": "借口接工作电话离席，从后厨走，外套里的东西全留在椅背上",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "搅得太狠，会有人反过来数我用过几个名字",
+    "tension": "搅浑水，让所有人一起裸泳",
+    "text": "指认死者生前用过三个名字——把'身份造假'从罪变成人人都有的嫌疑",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "满屋的人里只要有一个报警，我说不完第二句",
+    "tension": "最危险的真话换最大的话筒",
+    "text": "扯掉假发和眼镜承认我就是通缉照上的人——然后说出死者真正的死因",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "他若早已卖过我一次，这暗示就是自曝",
+    "tension": "沉默换沉默，陈年旧账当货币",
+    "text": "向可能戳穿我的旧相识递话：当年的事我守口如瓶，今天换你",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "比对一上线，这张纸就是铁证",
+    "tension": "真手签字，假名落款",
+    "text": "用真指纹按在签收单上，赌系统更新前没人比对",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "他们查不到鬼，就会回头查造鬼的人",
+    "tension": "给追兵造一个鬼",
+    "text": "散布'有人冒充我'的消息，让追我的人去查一个不存在的人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "找不出'多余人'，我就成了照片里的多余人",
+    "tension": "合影是无声的审讯",
+    "text": "翻看对方递来的合影，先找出照片里多出来的那个人是谁",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "躲得了这次体检，躲不掉下次补检通知",
+    "tension": "一管血能验出整个假人生",
+    "text": "体检抽血轮到我时'低血糖'发作，先离开队伍再说",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "她若觉得被骗，救命之恩立刻变索命之仇",
+    "tension": "拿命谢恩，也拿命试探",
+    "text": "向救过我一命的人坦白全部身份，把生死交到她一念之间",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "细节若有一处记岔，全家人的眼神会一起变",
+    "tension": "偷来的母爱细节当身份证明",
+    "text": "当众背诵'女儿'的出生细节——这些来自她的日记，赌她丈夫没读过",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "火灾记录一查便知，谎上加谎",
+    "tension": "七分假三分演",
+    "text": "承认自己整过容换过脸，把理由推给一场火灾——眼泪比疤痕更像真的",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "他若调岗或被抓，我的人脸直接进黑名单",
+    "tension": "最危险的一秒是睁着眼的那秒",
+    "text": "门禁录入人脸时直视摄像头，赌我贿赂的技术员今晚在岗",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "交易达成那一刻，我们互相握着绞索",
+    "tension": "脏档案是最硬的通货",
+    "text": "跟掌握我旧档案的人做交易：档案换档案——他的也不干净",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "追问者若来自我'外婆'那个县，当场撞车",
+    "tension": "半句身世，堵住一箩筐追问",
+    "text": "被问口音只说'小时候跟外婆住'——留白比编圆更安全",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "同伴演技不过关，两层皮一起被撕",
+    "tension": "用一层假皮护另一层",
+    "text": "让同伴'无意中'说漏我的一个假身份，掩护真正要藏的那个",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "查我的人若先下手，我连确认的机会都没有",
+    "tension": "书页记得翻它的人",
+    "text": "确认是谁在查我——家里那本被翻动过的户口本，页码顺序出卖了他",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "撕掉的纸拼得回来，撕破的身份拼不回",
+    "tension": "亲手撕碎十年的扮演",
+    "text": "当众撕掉那张全家福——承认照片里那个位置从来不属于我",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "对方若硬抢，就暴露了我根本没有备份",
+    "tension": "货在咫尺就是不给，谁先沉不住气谁输",
+    "text": "把U盘放在桌子正中央却不推过去：先看货，再谈价，这是规矩",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "他若认出缺页，立刻知道我在防他，底价作废",
+    "tension": "半份真相吊住整场谈判",
+    "text": "只给他看一半尸检照片，另一半的刀口角度留作后手",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "名字是借来的，他一个电话核实就能戳穿",
+    "tension": "虚张的声势比真枪更响",
+    "text": "提起警局里那个欠我人情的名字，让他以为我有官方背书",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "上线若察觉措辞不对，两边都把我当叛徒",
+    "tension": "传话是假，钓话是真",
+    "text": "假装替他传话给他的上线，措辞里埋一个只有凶手才知道的细节",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "他一旦信了我的颓势，会把价压到骨头里",
+    "tension": "以颓势换他松口",
+    "text": "承认自己快被这件案子拖垮了，只求他给个痛快价",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "他看到我的目光落点，下次就换了藏东西的地方",
+    "tension": "醉翁之意不在酒，在柜",
+    "text": "借验货的名义要他当面打开保险柜，记下里面其他东西的摆放",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "谈崩的风险，他可能当场拂袖走人",
+    "tension": "声东击西，价格战变质询",
+    "text": "把话题从价格拐到他袖口的蓝漆上，问他昨晚是不是去过船厂",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他若跟出来，埋伏的人全部曝光",
+    "tension": "离席十分钟定全局",
+    "text": "借口去洗手间，把会面地址发给等在三条街外的人",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "这一步迈出去，我和他一样是拿人质的人",
+    "tension": "拿软肋做筹码，以救命换卖命",
+    "text": "用他女儿病历的复印件换名单，告诉他病我可以托人治",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "录音是我唯一的护身符，播完威慑就没了",
+    "tension": "当场对质，话落无悔",
+    "text": "把录音笔放在桌上按下播放，让他听自己上周说的那句话",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他若带人掌眼，我当场从买家变骗子",
+    "tension": "赝品交易，赌他没长行家的眼",
+    "text": "把真账本锁进储物柜，拿一本仿的赴约",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "他若不吃这套，僻静的环境反而困住的是我",
+    "tension": "借阴森的场子压住他的杀心",
+    "text": "约在殡仪馆见面，让进出的黑车替我作证：这里不是动手的地方",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "谎言一戳就破，两人对质我就完了",
+    "tension": "一句话先拆他们的盟",
+    "text": "告诉他他的搭档昨天单独来找过我，看他脸色变了才开价",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "表是登记在册的证物，丢了它案子的证据链就断",
+    "tension": "饵要做得像怯场",
+    "text": "主动摘了手表推过去当定金，让他觉得吃定了我",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "他可能随手派个无关的流浪汉，我白等",
+    "tension": "顺藤摸瓜，盯上链条的下一环",
+    "text": "答应成交，条件是钱由他指定的人送来——我要看那个跑腿的脸",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "中间人被跳过的怒火，会先烧到我身上",
+    "tension": "越级要价，直接捅到顶层",
+    "text": "提出要见他背后的人，当面交易，不接受中间人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "他若顺着错误将错就错，我的试探落空还显得外行",
+    "tension": "露怯是假，钓他的底是真",
+    "text": "故意报错一个细节，看他纠正时暴露自己知道多少",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "他不喊，这条线今天就算断了",
+    "tension": "欲擒故纵，离场即叫价",
+    "text": "听到报价的瞬间起身就走，赌他会在门口喊住我",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "问题问出口，就暴露我查到了他的通话记录",
+    "tension": "整场谈判只为一个答案",
+    "text": "钱的事先放放，我只要他回答一个问题：三月十四号晚上谁给他打的电话",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "从此他可以选择永远不再跟我谈",
+    "tension": "身份翻转，谈判桌变灵堂",
+    "text": "摊牌说我不是买家，我是死者的妹妹，问他要多少钱才肯说真话",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "他被抓那天，会连我拿过钱一起供出来",
+    "tension": "信息不对称是我的利润",
+    "text": "收下他的定金，却不告诉他警察已经在查这条线",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "那是另一个案子的令，他看清名字就穿帮",
+    "tension": "半遮半掩的威慑比明晃晃更瘆人",
+    "text": "当着他的面不小心露出公文包里那份逮捕令的副本",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "打草惊蛇，真正的交易就此取消",
+    "tension": "用假情报测出哪条渠道漏风",
+    "text": "塞给他一张写着假交易时间的纸条，看谁会提前到场蹲守",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他可能据此判断我无所畏惧，反而寸步不让",
+    "tension": "以烂命博他三分忌惮",
+    "text": "让他看我手腕上的旧疤，说我早就没什么可输的了",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "信号屏蔽器一开，货和设备一起丢",
+    "tension": "放长线，让货带我走到终点",
+    "text": "把他要的东西给他，但箱子夹层里粘着定位器",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "他立刻会意识到我真正在查的方向",
+    "tension": "换靶子施压，钱桌变案桌",
+    "text": "不谈钱了，改谈他那辆没牌照的摩托是谁的",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "退出的人通常走不远，他可能不让我走出这条街",
+    "tension": "退出即观察，看他慌了找谁",
+    "text": "推开他递来的烟说这单我不做了，转身时记下他第一个电话打给谁",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "哪句是假话我没法当场验证，先付的筹码打水漂",
+    "tension": "把谈判切成一回合一回合的赌",
+    "text": "提出分期：他每说一句真话，我替他解开一个麻烦",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "这是虚张声势，他若赌我没有第二份，我全盘输光",
+    "tension": "死亡开关，让他的灭口失去意义",
+    "text": "告诉他证据我有两份，另一份寄给了只有在我出事时才会拆信的人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "他可能直接带我去一个回不来的地方",
+    "tension": "以退钱换他带路",
+    "text": "当场把定金退回去一半，说另一半等他带我去看现场再付",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "压痕若被我误判方向，整个重建现场都跟着歪",
+    "tension": "消失的物品比留下的更会说谎",
+    "text": "掀开地毯核对压痕的形状，推断被搬走的柜子里原来放过什么",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "拓印会磨损原痕，这是仅有的一次机会",
+    "tension": "纸背遗言，死者最后的发声",
+    "text": "用铅笔拓印抽屉底板上的浅刻痕，看死者临终想留下什么字",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "黑暗里若有第二个人，我先成了猎物",
+    "tension": "把自己变成凶手才能看见他看见的",
+    "text": "关掉手电摸黑走完走廊，用脚步复现凶手那晚的动线",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "私藏证物，被查到我就从查案变涉案",
+    "tension": "同行者的眼睛未必干净",
+    "text": "把找到的药瓶塞进袖口，对同行的人只说'没什么'",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "书放回去的人可能就在看我找",
+    "tension": "灰尘是最老实的目击者",
+    "text": "核对书架灰尘的断茬，找出最近被抽走又放回的那本书",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "侵犯遗物，家属若翻脸，信任全线崩",
+    "tension": "撬锁的十秒，良心和答案只能保一个",
+    "text": "用发卡捅开上锁的日记盒，赌里面的东西比体面重要",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "他若转头把我卖了，我的调查方向就暴露了",
+    "tension": "老人嘴里有档案没有的版本",
+    "text": "给守库的老头递烟点火，换他讲十年前那场'意外'的细节",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "判断错了就是把无辜者推成凶手",
+    "tension": "结扣是人的签名",
+    "text": "比对窗帘绳结和死者手腕勒痕上的结——是不是同一个人惯用的打法",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "翻垃圾被居民撞见，嫌疑人和笑话二选一",
+    "tension": "别人嫌脏的地方才有真相",
+    "text": "放弃翻箱倒柜，去翻垃圾房——凶手清理现场总会漏掉什么",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "瞒一次就要瞒到底，裂缝会越长越大",
+    "tension": "保护搭档，也保护自己",
+    "text": "把墙上的全家福转向墙面，不让搭档看见我认识照片里的人",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "找到清洗痕迹就意味着要推翻现有全部结论",
+    "tension": "气味不承认任何口供",
+    "text": "俯身闻地漏的味道，确认尸体是不是在这里被清洗过",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "擅闯封存现场，发现什么法庭都不认",
+    "tension": "封条之内的每一分钟都是偷来的",
+    "text": "深夜重回封存的现场，赶在物证移交前做最后一次勘验",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "欠下的人情，迟早要拿调查的公正去还",
+    "tension": "笔杆子换登记簿",
+    "text": "答应帮居委会写表扬稿，换楼道访客登记本看十分钟",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "身份穿帮，整栋楼的嘴都会对我关上",
+    "tension": "大妈的闲话比笔录全",
+    "text": "向邻居大妈装成迷路的租客，套出死者生前常和谁吵架",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "拆了就装不回去，家属问起无法交代",
+    "tension": "相框是穷人家最老的保险箱",
+    "text": "拆开相框背板——死者的照片后面，通常不止一张照片",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "撤了就再也回不到'未被破坏的现场'",
+    "tension": "先到者可能还在屋里",
+    "text": "发现书桌被人先翻过，立刻退出房间发定位，不在孤屋里多留一秒",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "演习有时限，被锁在里面就得惊动所有人",
+    "tension": "警报声是最好的掩护",
+    "text": "趁消防演习全楼清空，去查那间'永远锁着'的储藏室",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "诱饵被识破，对方就知道有人在盯现场",
+    "tension": "用一支笔给凶手下套",
+    "text": "故意把一支笔落在显眼处，明天再看它还在不在——判断有没有人回来过",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "瞒报物证，暴露之日就是出局之时",
+    "tension": "藏起来的证据才不会被压下去",
+    "text": "对警方只上报一半发现，扣下那枚不属于死者的袖扣",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "管家若忠心，会立刻把我的来意报给该报的人",
+    "tension": "债是敲门砖，问题是钩子",
+    "text": "拿死者欠我的一笔旧账当由头，向管家打听他最后见的客人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "卧室若被他人趁乱进入，主现场就毁了",
+    "tension": "动线的起点往往不在尸体旁",
+    "text": "不进案发卧室，先查厨房——凶手有没有顺手带走一把刀",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "听完必须决定：上交，还是藏起来",
+    "tension": "背景音是不设防的证词",
+    "text": "播放答录机里没删的留言，听背景音里的钟声敲了几下",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "假借权限查数据，运营商追责起来够我喝一壶",
+    "tension": "断网一分钟，足够关掉所有摄像头",
+    "text": "以检修宽带为名，让运营商调出那晚的断网记录",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "她若把我这番话传出去，我'冷血查案'的人设先死",
+    "tension": "两个怕的人凑在一起，门就开了",
+    "text": "向死者的妹妹坦白我也在害怕，让她放下戒心打开哥哥的房间",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "是炸弹是赃物是钓饵，拆开才知道代价",
+    "tension": "寄件人算准了会有人忍不住",
+    "text": "拆开那只一直没人认领的快递，承担它可能是陷阱的风险",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "走得匆忙，漏看的可能比带走的更关键",
+    "tension": "先到者的脚印是逐客令",
+    "text": "拿到照片就走，不贪多——门口那串泥脚印不是我的尺码",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "饵太假，反而提醒对方现场被盯上了",
+    "tension": "知情者忍不住纠错",
+    "text": "在桌上留一张写着错误日期的便签，看谁会去纠正它",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "时间线一改，所有人的不在场证明全部重查",
+    "tension": "家电比证人诚实",
+    "text": "核对电表读数和冰箱食物的腐败程度，重新推算死亡时间",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "槽里若什么都没有，这一下午就喂了蚊子",
+    "tension": "所有人看屋里，我看屋檐",
+    "text": "把搜索从屋内转到雨水槽——掉下去的东西不会自己爬回来",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "老板若通风报信，卖家的警觉就拉满了",
+    "tension": "赃物流转的路，尽头是人",
+    "text": "向旧货店老板出价买回死者当掉的怀表，不问来路只问卖家长相",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0001",
+    "scene": "taowang",
+    "stakes": "被认出的瞬间，人流变成围观的墙",
+    "tension": "人潮只有三分钟，错过就散场",
+    "text": "把外套反穿，混进戏院散场的人流，从消防通道下到后巷",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0002",
+    "scene": "taowang",
+    "stakes": "司机一旦发现多了一辆车，报警只要一句话",
+    "tension": "喜事是检查站最懒得拦的东西",
+    "text": "蹭上婚车队的尾车，靠车头那束红花穿过封路的卡口",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0003",
+    "scene": "taowang",
+    "stakes": "那部手机里有我唯一的线人号码，丢了就断了",
+    "tension": "让信号替我逃亡",
+    "text": "把手机留在开往邻省的长途车座位缝里，自己反向步行出城",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0004",
+    "scene": "taowang",
+    "stakes": "冻死在半路的逃亡者，铁路上每年都收得到",
+    "tension": "不存在的车次，查不到的人",
+    "text": "半夜翻进铁路货场，扒上那趟编组表上没有的冷藏车",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0005",
+    "scene": "taowang",
+    "stakes": "他们折返的速度，比我算的可能快一倍",
+    "tension": "一张废纸换半天时间",
+    "text": "把写着假地址的收据'不小心'落在旅馆前台，引追兵去城西",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0006",
+    "scene": "taowang",
+    "stakes": "邮局离卡点两公里，取件要签字",
+    "tension": "逃亡路上唯一的回头路",
+    "text": "绕路去邮局监控死角，取出死者生前寄存的包裹——这险值得冒",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0007",
+    "scene": "taowang",
+    "stakes": "报假警的录音在，日后罪加一等",
+    "tension": "假警情真调动",
+    "text": "用公用电话报警：城东废楼里有'通缉犯'，把警力调离我的路线",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0008",
+    "scene": "taowang",
+    "stakes": "丧家若多问一句来历，哭声就盖不住谎",
+    "tension": "活人堆里最安全的是为死人哭的",
+    "text": "躲进办白事的人家里，孝帽一戴，跟着哭灵队伍过桥",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0009",
+    "scene": "taowang",
+    "stakes": "抽筋、暗流、一只巡逻犬，任何一种都要命",
+    "tension": "水声盖住心跳，盖不住体温",
+    "text": "泅渡凌晨的界河，赌巡逻艇探照灯有三十秒盲区",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0010",
+    "scene": "taowang",
+    "stakes": "身无分文，明天连黑车都坐不起",
+    "tension": "饿肚子比进笼子便宜",
+    "text": "放弃取钱计划——ATM 前多站一秒，比对照片就多一帧",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0011",
+    "scene": "taowang",
+    "stakes": "中间人两头吃，证件到手时我也许已被卖了",
+    "tension": "赃证换假命",
+    "text": "用死者留下的账本要挟中间人，换一本干净的证件",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0012",
+    "scene": "taowang",
+    "stakes": "旧地址若还有人住，无辜者替我挨这一下",
+    "tension": "包裹替我北上",
+    "text": "把我的背包寄去千里外的旧地址，人却南行",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0013",
+    "scene": "taowang",
+    "stakes": "他若不犹豫，这三秒就是我的讣告",
+    "tension": "拿他的良心当防弹衣",
+    "text": "向追我的年轻警察现身三秒再逃，赌他扣扳机前会犹豫",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0014",
+    "scene": "taowang",
+    "stakes": "判断错一路，所有的躲藏都南辕北辙",
+    "tension": "垃圾是追兵的名片",
+    "text": "翻看藏身地周围丢弃的烟头牌子和鞋印，判断追来的是哪一路人",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0015",
+    "scene": "taowang",
+    "stakes": "那里现在还蹲着多少双眼睛，我不知道",
+    "tension": "灯下黑的最后一次机会",
+    "text": "回到案发现场附近取走我藏的原件——最危险的地方只剩它没被搜过",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0016",
+    "scene": "taowang",
+    "stakes": "他若上交这条消息，我等于自首加了定位",
+    "tension": "情报赎命，限时有效",
+    "text": "给追捕队里唯一认识的人递话：真凶的名字，换二十四小时",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0017",
+    "scene": "taowang",
+    "stakes": "枪伤刀伤医生一眼认得，他报不报警看运气",
+    "tension": "半真半假的病历最好写",
+    "text": "把伤口说成狗咬的，在诊所里盯着门帘数进来的每一双鞋",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0018",
+    "scene": "taowang",
+    "stakes": "车队终点是安置点，那里要登记",
+    "tension": "天灾是逃亡者的小年",
+    "text": "混入台风前的撤离车队——登记册乱成一锅粥，没人核对照片",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0019",
+    "scene": "taowang",
+    "stakes": "翻台失手就是坠楼，不翻就是瓮中捉鳖",
+    "tension": "同步的钥匙声不是巧合",
+    "text": "听到楼下两把车钥匙同时响，立刻从晒台翻到隔壁单元",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0020",
+    "scene": "taowang",
+    "stakes": "他若在服务区听了一耳朵新闻，三倍就买不回来了",
+    "tension": "沉默比汽油贵",
+    "text": "多付三倍运费，条件是司机一路不许开收音机",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0021",
+    "scene": "taowang",
+    "stakes": "电话若被监听，藏身处和律师一起完蛋",
+    "tension": "一根电话线两头都是悬崖",
+    "text": "冒险联络死者的律师——他可能卖我，也可能是我唯一的证人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0022",
+    "scene": "taowang",
+    "stakes": "旧仇他记不记，只有推门那一刻知道",
+    "tension": "仇人的屋檐下没有警察",
+    "text": "找上当年的冤家求收留——欠一条命，比进局子强",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0023",
+    "scene": "taowang",
+    "stakes": "看错了风向，我会一头撞进收紧的网",
+    "tension": "追我的文件也在替我递消息",
+    "text": "核对通缉令的版本变化：措辞改了，说明案子裂了道口子",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0024",
+    "scene": "taowang",
+    "stakes": "他们一旦通气，两张网合成一张",
+    "tension": "猎人互猎，猎物脱身",
+    "text": "给两路追兵各发消息说对方已先找到我，让他们互相盯死",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0025",
+    "scene": "taowang",
+    "stakes": "司机中途掀布验一眼，我就是死因",
+    "tension": "白布底下是全城最畅通的路",
+    "text": "借殡仪馆的运尸车出城，躺在担架上听了一路哀乐",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0026",
+    "scene": "taowang",
+    "stakes": "赌输了，整节车厢就是押送车",
+    "tension": "真名是最后一班车的票",
+    "text": "抢在通缉令下发前坐最后一班高铁，用真名买票赌系统延迟",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0027",
+    "scene": "taowang",
+    "stakes": "落脚点的全部物资，一件都带不走",
+    "tension": "多看一眼车牌，少坐十年牢",
+    "text": "看到巷口停了陌生牌照的车，转身放弃藏了三天的落脚点",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0028",
+    "scene": "taowang",
+    "stakes": "他手里的秘密越多，我的命越像欠账",
+    "tension": "秘密换药，剂量是双份的",
+    "text": "用我知道的案情细节向黑市医生抵诊费——他知道得越少越好",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0029",
+    "scene": "taowang",
+    "stakes": "诱捕若被识破，他们会反过来算我的脚程",
+    "tension": "给追踪者喂一张过期地图",
+    "text": "故意让摄像头拍到我在城北，三小时后我已渡江南下",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-taowang-0030",
+    "scene": "taowang",
+    "stakes": "折角若是凶手伪造的，那站台上有人在等我",
+    "tension": "死者生前给我画的逃亡路线",
+    "text": "翻开死者留给我的列车时刻表——他在某一页折了角，那是我该下的站",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0001",
+    "scene": "xinren",
+    "stakes": "他若比对日期，刚攒下的信任当场清零",
+    "tension": "半交半藏，配合里留后手",
+    "text": "他让我交出全部调查笔记，我只给了三个月前的旧本",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0002",
+    "scene": "xinren",
+    "stakes": "包裹里可能是栽赃，也可能是真相，打开前都是赌",
+    "tension": "自断后路的服从才算投名状",
+    "text": "按他的要求独自深夜去取那个包裹，不带手机",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0003",
+    "scene": "xinren",
+    "stakes": "撕破脸之后，同盟就地变成对手",
+    "tension": "反将一军，把考题变成审讯",
+    "text": "直接把门反锁，问他为什么这么急着要我信他",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0004",
+    "scene": "xinren",
+    "stakes": "记号被发现，他立刻知道我从头到尾没信过他",
+    "tension": "顺从的姿态，自保的暗线",
+    "text": "答应跟他走，但沿途用粉笔在墙角留下只有我能认出的记号",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0005",
+    "scene": "xinren",
+    "stakes": "他若正是凶手，刀就递到了凶手手里",
+    "tension": "以命相托的姿态逼他也亮底",
+    "text": "把防身的刀先放在桌上推给他，说这一局我赌你",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0006",
+    "scene": "xinren",
+    "stakes": "他若是无辜的，我白白糟蹋了一个盟友",
+    "tension": "假情报是试漏的试纸",
+    "text": "故意把一条假线索只告诉他一个人，等它从别处冒出来",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0007",
+    "scene": "xinren",
+    "stakes": "妹妹是他的逆鳞，谈不好就是结死仇",
+    "tension": "互押人质式的信任",
+    "text": "提出交换：我替他保管账本，他让我见他妹妹一面",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0008",
+    "scene": "xinren",
+    "stakes": "老警察一旦掺和进来，也被拖进这滩浑水",
+    "tension": "借人情背书压一压他的疑心",
+    "text": "拉来当年救过他的老警察作陪，让第三者替我作保",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0009",
+    "scene": "xinren",
+    "stakes": "回避本身就是答案，我们俩同时看清了彼此",
+    "tension": "把考题原样扔回去",
+    "text": "他问我信不信他，我反问：那你换掉手机号为什么没告诉我",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0010",
+    "scene": "xinren",
+    "stakes": "这次不签，他不会再给我第二次机会",
+    "tension": "临阵收手，宁可错过",
+    "text": "在他要我签字担保的前一秒合上笔帽，说今晚我谁都不信",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0011",
+    "scene": "xinren",
+    "stakes": "证人若被找到，谎言和人一起暴露",
+    "tension": "谎报生死，替他挡掉所有追查",
+    "text": "告诉他证人已经死了，其实证人就藏在我安排的旅馆里",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0012",
+    "scene": "xinren",
+    "stakes": "万一真是毒，我拿命换的信任连凭证都没有",
+    "tension": "用身体验毒的方式表忠",
+    "text": "当着他的面喝下那杯水，眼睛不眨一下",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0013",
+    "scene": "xinren",
+    "stakes": "这可能正是他设的服从性测试，翻了就不及格",
+    "tension": "三秒钟的偷看，赌他没在隔着玻璃观察我",
+    "text": "趁他去接电话，翻开他刻意扣在桌上的那张照片",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0014",
+    "scene": "xinren",
+    "stakes": "三件事里有一件是猜的，猜错就满盘皆输",
+    "tension": "先自曝再逼宫，以开诚布公开路",
+    "text": "把我查到的关于他的三件事说出来，然后说现在轮到你坦白",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0015",
+    "scene": "xinren",
+    "stakes": "这个把柄从此稳稳捏在他手上",
+    "tension": "以污点换真心",
+    "text": "坦白我昨晚差点把证据卖给他的对手，只为换我弟的手术费",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他若嫌我多疑拂袖而去，线索随他一起消失",
+    "tension": "用围观者当我的防弹衣",
+    "text": "只接受在人多的公开场所见面，我才敢把名单给他看",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0017",
+    "scene": "xinren",
+    "stakes": "群里另外两个人未必靠得住，照片可能反而扩散",
+    "tension": "用人质的逻辑建立信任",
+    "text": "当着他的面把证物照片发进三人群，说现在想灭口得灭三个",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0018",
+    "scene": "xinren",
+    "stakes": "助手若警觉，回去立刻统一口径",
+    "tension": "旁敲侧击，从链条最细的一环试",
+    "text": "把话题引向他助手手上的烧伤，测试他们俩是不是串过供",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0019",
+    "scene": "xinren",
+    "stakes": "他可能已把人证安顿在里面等我，我这一退就错过了",
+    "tension": "临门变卦，测他的反应",
+    "text": "走到他指定的废弃冷库门口又退回街上，发消息说改地点",
+    "type": "choice"
+  },
+  {
+    "chars": 17,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0020",
+    "scene": "xinren",
+    "stakes": "他若拿去开了那扇门，里面的证据就没了",
+    "tension": "以真试心，一把钥匙称出他的斤两",
+    "text": "把真的钥匙交给他，自己留下仿的那把",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0021",
+    "scene": "xinren",
+    "stakes": "他若坚持搜鞋，我连解释的机会都没有",
+    "tension": "彻底的配合里藏唯一的保留",
+    "text": "他搜身时我主动交出手机，鞋垫下的存储卡不动",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0022",
+    "scene": "xinren",
+    "stakes": "问出口就没有回头路，他要么坦白要么灭口",
+    "tension": "一句话定生死，不绕",
+    "text": "直接问他：监控里那晚进过档案室的第三个人，是不是你",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0023",
+    "scene": "xinren",
+    "stakes": "上线若和他当面对质，我两边一起失信",
+    "tension": "用离间称一称他的忠诚",
+    "text": "告诉他他的上线已经在和我谈条件，看他先护谁",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0024",
+    "scene": "xinren",
+    "stakes": "暴露无能之后，他可能转头去找更可靠的人",
+    "tension": "自曝其短，赌他惜才",
+    "text": "承认这件案子我查错了方向三个月，问他愿不愿意拉我一把",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0025",
+    "scene": "xinren",
+    "stakes": "他写的若是假的，我的真秘密就白送了",
+    "tension": "互押软肋，信任对赌",
+    "text": "提议各自写下最怕被公开的秘密，交换保管",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他可能早备好一套滴水不漏的说辞等我",
+    "tension": "用事实代替表态，逼他先自证",
+    "text": "不谈信任，先让他解释案发当晚他的车为什么出现在跨海大桥收费口",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0027",
+    "scene": "xinren",
+    "stakes": "顶罪的字一签，再想翻案遥遥无期",
+    "tension": "以罪名换一张入场券",
+    "text": "答应替他顶下那笔说不清的账，换他带我去见真正管事的人",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0028",
+    "scene": "xinren",
+    "stakes": "录音被发现，之前攒下的信任连本带利吐出来",
+    "tension": "热络与取证同步进行",
+    "text": "握他手的时候笑得坦荡，袖口里的录音笔一直在转",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0029",
+    "scene": "xinren",
+    "stakes": "记录里有我给法医的私人委托，他顺藤就能摸到证人",
+    "tension": "彻底的透明姿态换他放下戒备",
+    "text": "让他检查我的背包和通话记录，一样不拦",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xinren-0030",
+    "scene": "xinren",
+    "stakes": "他若觉得被羞辱，宁可不谈",
+    "tension": "把信任做成明码标价的交易",
+    "text": "把话挑明：我可以信你，但每信一分，你要还我一分实证",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "案底一旦坐实，这辈子都翻不了身",
+    "tension": "自投罗网，用自由换调查的时间",
+    "text": "我顶替他去认那桩罪，让他在外面继续查真正的主谋",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "毁证本身就是罪，被发现两份罪一起算",
+    "tension": "毁证护亲",
+    "text": "删掉监控里妹妹出现的那三十秒，让证据链缺着这个口",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "绑匪可以两个都留下，我毫无筹码兜底",
+    "tension": "一命换一命的现场报价",
+    "text": "当着绑匪的面把自己的命开成价码：放了他，我跟你们走",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "良心债，加上他家人一辈子的恨",
+    "tension": "背负一生的撤退",
+    "text": "放弃救他，带着证据先走——他最后喊的那句话我装作没听见",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "说出口那刻，我就不是原来那个人了",
+    "tension": "卖人之前的计价",
+    "text": "跟对方谈：证人可以给你们，但先让我知道他交代的够不够换我女儿的命",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "被抓后熬不熬得过那几小时，我没把握",
+    "tension": "自己当饵，给证据开路",
+    "text": "把追兵引到我身上，让同伴带着账本从下水道走",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "对方若临时换地点，人证和我一起成了人质",
+    "tension": "交易即围剿",
+    "text": "假意答应交出人证，交接地点选在警方狙击手能覆盖的桥",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "万一名单是诱饵，我白死一场还搭进真相",
+    "tension": "死前的尽职调查",
+    "text": "赴死之前最后核对一次那份名单，确认我护的人真的值得",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "跪了也可能两个都保不住",
+    "tension": "尊严清零换一线生机",
+    "text": "跪下求他带我弟弟走，我这把老骨头留下来顶缸",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "他们有的是时间和手术室",
+    "tension": "身体是最后的保险柜",
+    "text": "吞下那枚存着全部证据的存储卡，赌他们不敢当街剖开我",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "他含冤的每一年，都记在我的账上",
+    "tension": "烧掉真相，护住活人",
+    "text": "把能证明他清白的日记烧了，因为最后一页写着另一个我不能说的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "没念完的名字，随我一起被埋",
+    "tension": "公开即赴死",
+    "text": "在直播镜头前念出那份名单，念到第三个名字时信号被切断",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "七天后交不出人，钱和命一起没了",
+    "tension": "倾家荡产赌七天",
+    "text": "用我的全部积蓄和房子，买他一条命的缓刑：给我七天，我给你真凶",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "认罪笔录一签，翻供比登天难",
+    "tension": "顶罪式掩护",
+    "text": "替他认下那个他不认识的罪名，把警察的视线从真线索上引开",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "谎言撑不过四十八小时，他们终会核对",
+    "tension": "把靶心画在自己背上",
+    "text": "放出话去说我才是握有账本的人，让所有追杀令改成我的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "收信人未必接得住这件烫手的遗物",
+    "tension": "把未竟的案子当遗产",
+    "text": "托人把最后一封信送去省城，信里是我没能查完的三个疑点",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "防火柜的锁可能早就从里面卡死了",
+    "tension": "与火抢证",
+    "text": "独自留在着火的档案室里，把最后一箱卷宗扔进防火柜",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "他若已经暴露，我的沉默只是白送",
+    "tension": "自断生路，保一条暗线",
+    "text": "告诉警察我什么都没看见，让能救我的线索烂在肚子里，保住卧底的他",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "编号本若找不到，遗言只是疯话",
+    "tension": "遗言即证据",
+    "text": "把枪口从太阳穴挪开，改成直播我的遗言：每个名字背后都有编号",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "检方的口头承诺，转头可以不认",
+    "tension": "用刑期买她的清白",
+    "text": "放弃上诉认罪伏法，换检方撤销对我妹妹的连带调查",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "地点一说，死者家属永远等不到葬礼",
+    "tension": "用死者的安宁换活人的命",
+    "text": "用我知道的那个藏尸地点，换他们放过孤儿院那七个孩子",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "字迹鉴定一过关，局就破了",
+    "tension": "以死设局",
+    "text": "留下一封认罪书再消失，让所有人的注意力钉在畏罪自杀上",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "名单公示那天，我先被停职调查",
+    "tension": "牺牲职业生涯换一个名字",
+    "text": "借年度特赦的风口把他的案子塞进名单，程序上的违规我全揽",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "看守若不上钩，我先把自己坐实了",
+    "tension": "借敌人的耳朵递刀",
+    "text": "故意让看守偷听到我要招供，供词里每个细节都指向真正的凶手",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "她若只当是普通菜谱，线索随我下葬",
+    "tension": "密码式遗证",
+    "text": "在最后四十分钟里，把凶手名字的拼音拆进给妻子的菜谱短信",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "毒性发作时，他未必领这份情",
+    "tension": "以身为试剂",
+    "text": "替他服下那杯验毒的茶，用我的反应证明给他看谁是下毒的人",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "货车开往哪里，我根本不知道",
+    "tension": "近在咫尺的谎言",
+    "text": "把孩子塞进路过货车的车厢，转身告诉追兵孩子早被我送出省了",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "他若扛不住审讯，我的让毫无意义",
+    "tension": "把命让给关键人",
+    "text": "剪断输液管停药，把仅有的一支解毒剂让给那个掌握密码的年轻人",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "家属未必肯听一个凶手说话",
+    "tension": "用最后的时间完成交代",
+    "text": "跟行刑的人谈：刑前一小时，让我把口供给死者家属讲完",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "警方若只当笔误，暗码无人破译",
+    "tension": "认罪书里的暗码",
+    "text": "在认罪录像里故意说错案发时间，引导警方重查真凶的不在场证明",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "全家从此站队，我成了毁掉年夜饭的那个人",
+    "tension": "团圆桌上引爆",
+    "text": "在家族年夜饭上按下播放键，让舅舅亲耳听自己十年前那通电话录音",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "另一半真相若被别人挖出，我的沉默就成了包庇",
+    "tension": "选择性的正义",
+    "text": "只公布真相的一半——凶手伏法，死者的秘密让它随棺入土",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "他可能选第三条路：让我消失",
+    "tension": "体面与羞辱之间让他选",
+    "text": "给他最后一个选择：自己走进警局，或者我把证据交给跪着的遗属",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "座位一错，我的整个推演当众崩盘",
+    "tension": "重演式推理，让位置自己说话",
+    "text": "把所有人约回案发现场，按当年的座次重新排一遍椅子",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "证据若到不了，诽谤罪在等我",
+    "tension": "提前摊牌，背水一战",
+    "text": "当众说出凶手的名字，尽管手里最后一块证据还在路上",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "主办方掐麦之后，我可能再也没有舞台",
+    "tension": "借最大的舞台扩音",
+    "text": "借全市直播的颁奖礼接过话筒，说的第一句话是死者的名字",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "他若识破，会先处理掉那个要反水的人",
+    "tension": "引蛇出洞，让他自己带路",
+    "text": "让凶手以为替他藏证据的人要反水，逼他先去转移，在半路截住",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "老人受不住出了事，凶手反倒成了受害者家属",
+    "tension": "最狠的揭露用最软的姿态",
+    "text": "跪在他母亲面前，把真相一页页铺给这位白发人看",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "收口的瞬间，他知道了我知道",
+    "tension": "悬崖勒马的揭露",
+    "text": "真相说到一半停住，因为我发现听众里坐着比凶手更可怕的人",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "投影设备若被动过手脚，我当众出丑",
+    "tension": "铁证对撞，无从抵赖",
+    "text": "把两份尸检报告并排投影出来，请他解释为什么同一天死了两次",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "三天足够他销毁一切或远走高飞",
+    "tension": "仁慈是钩子",
+    "text": "跟他说：我可以晚三天报案，这三天你用来跟家人告别",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "他演着演着笑了，说我演错了一步",
+    "tension": "让他躺进自己的局里",
+    "text": "当众重现那个不可能的密室，请凶手本人来演死者",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "真相若被压下，我的职业生涯陪葬",
+    "tension": "破釜沉舟式的揭露",
+    "text": "揭开真相前先烧掉退路——辞职信和举报信同时寄出",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "现场保安会先一步把我架出去",
+    "tension": "在他的高光处拆台",
+    "text": "借他新书发布会的读者提问环节，问出只有凶手才答不出的问题",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "律师若反过来套我，我的底牌全露",
+    "tension": "借律师的腿替我指路",
+    "text": "告诉他的辩护律师一个漏洞，看他急着去哪补——补的地方就是藏证据的地方",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "删稿的手悬了一夜，明早未必还删得下去",
+    "tension": "真相烧到自己身上",
+    "text": "删掉写好的十万字揭露稿，因为最后一章牵出的人是我父亲",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "卡若早被调包，我手里只剩一支旧钢笔",
+    "tension": "信物即证物",
+    "text": "把当年他送我的钢笔拧开，露出里面藏了十年的内存卡",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "动机圆不住，整个揭露的可信度跟着塌",
+    "tension": "用假动机换活人",
+    "text": "公布凶手身份，却谎报了作案动机，只为保住唯一人证的命",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "我说的每一步，都在教他怎么脱罪",
+    "tension": "与凶手互换情报",
+    "text": "提出真相换真相：你告诉我尸体在哪，我告诉你警察查到了哪一步",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "若真是局，我之前的每一步都在别人的剧本里",
+    "tension": "真相的最后一公里",
+    "text": "揭露前夜重新验一次指纹，确认那次比对成功不是别人喂给我的",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "这句话可能同时杀死两个人",
+    "tension": "真相制造第二个受害者",
+    "text": "带着真相去见被害人的母亲，亲口告诉她杀她儿子的是她丈夫",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "链子断掉一环，攻势全线瓦解",
+    "tension": "围而不歼，让外围先塌",
+    "text": "不点凶手的名，先公布销赃链的每一环，让整条链子替我作证",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "藐视法庭的罪名先落在我头上",
+    "tension": "法庭上无声的揭露",
+    "text": "借法院旁听席第一排的位置，在他作证时举起那张照片",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "公众记住的可能只有我的错，没有真相",
+    "tension": "以自毁立信",
+    "text": "先向全网道歉认错，承认三年前的误判，再放出真正的凶手是谁",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "七天里他们会用尽办法让我不失联",
+    "tension": "延时引信式的揭露",
+    "text": "把材料锁进公证处保险柜，设定我失联七天自动寄给检察院",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "他可以说校徽早丢了，反咬我栽赃",
+    "tension": "物件认亲式的指控",
+    "text": "当面把那枚带血的校徽还给他：你女儿书包上少的那枚，在我这",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "缺席的名字一旦被有心人发现，全盘皆疑",
+    "tension": "名单里藏着活口",
+    "text": "念受害者名单时跳过一个名字——那个还活着的死者",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "答案若指向我最信任的人，今晚的计划全改",
+    "tension": "多出来的那个人",
+    "text": "揭露之前先问最后一个问题：案发那天多出来的第四杯咖啡是谁点的",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "他真的敢，泼一杯茶就够了",
+    "tension": "孤证示众",
+    "text": "没有备份就把唯一的原件放上他面前的桌，赌他不敢当众毁掉",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xuanyi",
+    "id": "ch-xuanyi-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "关灯的人也许只是怕黑，错指一个就满盘皆输",
+    "tension": "诈出那个动作",
+    "text": "先说凶手今晚就坐在这间屋子里，再看谁第一个起身去关灯",
+    "type": "choice"
+  }
+]

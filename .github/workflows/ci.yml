@@ -1,0 +1,35 @@
+name: Community source checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    env:
+      WORLDBOOK_E2E_LIVE: "0"
+      WORLDBOOK_MATERIAL_EVAL: "0"
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Toolchain
+        run: |
+          swift --version
+          xcodebuild -version
+      - name: Public source scope
+        run: python3 scripts/public-preflight.py
+      - name: Core and UI tests (no paid model calls)
+        run: swift test
+      - name: Task CLI with a local synthetic provider
+        run: python3 scripts/verify_task_cli.py
+      - name: Portable macOS bundle
+        run: |
+          ./scripts/build-macos-app.sh debug
+          ./scripts/verify-macos-bundle.sh
+      - name: Unsigned iOS Simulator build
+        run: >-
+          xcodebuild -workspace Worldbook.xcworkspace -scheme WorldbookIOS
+          -destination 'generic/platform=iOS Simulator'
+          -derivedDataPath .build/ios CODE_SIGNING_ALLOWED=NO build

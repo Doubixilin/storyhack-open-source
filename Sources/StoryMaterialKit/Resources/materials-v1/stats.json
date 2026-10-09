@@ -1,0 +1,2543 @@
+[
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0003",
+    "slot": "number",
+    "template": "{n}双手从背后推过你，幸好，也有手从前方拉你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0004",
+    "slot": "number",
+    "template": "你被人卖了{n}次，回回都自己赎了回来，赎金是再不信人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0006",
+    "slot": "number",
+    "template": "{n}次背叛你都没倒下，江湖开始传你没有心，其实有，只是上了锁。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0007",
+    "slot": "number",
+    "template": "被背叛{n}次，你也背叛过人，这笔账你到死都没算平。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-epic-0008",
+    "slot": "number",
+    "template": "{n}次，城门是你自己开的，放进来的人烧了半座城，你都没舍得关。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0001",
+    "slot": "number",
+    "template": "{n}次被最信的人辜负，你如今还是愿意先伸手，这很贵。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0002",
+    "slot": "number",
+    "template": "{n}回背叛，你没在人前掉过泪，枕巾知道真相。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0003",
+    "slot": "number",
+    "template": "{n}次，你把心交出去被退回来，退回的心你都擦干净接着用。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0004",
+    "slot": "number",
+    "template": "背叛你的有{n}个人，你记住的却是他们背叛前的好。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0007",
+    "slot": "number",
+    "template": "你原谅过{n}个伤你的人，不是忘了，是不想让他们再收利息。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-gentle-0008",
+    "slot": "number",
+    "template": "{n}个人负了你，你如今提起他们，语气像提几位走散的旧友。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0001",
+    "slot": "number",
+    "template": "被背刺{n}次，你的防人之心从毛坯房升级到了精装修。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0003",
+    "slot": "number",
+    "template": "你被人卖了{n}次，居然还帮着数钱，数完发现钱也是假的。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0005",
+    "slot": "number",
+    "template": "背后中刀{n}次，你现在的坐姿都是面朝门口。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0006",
+    "slot": "number",
+    "template": "遭背叛{n}回，你的复仇方式很克制：把对方备注改成了全名。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-playful-0007",
+    "slot": "number",
+    "template": "{n}次被最信任的人捅刀，你总结的经验是：最信任的，换人。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0001",
+    "slot": "number",
+    "template": "背叛事件{n}起，大半有预兆，你全部忽略了。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0002",
+    "slot": "number",
+    "template": "{n}次信任违约记录，违约方均为熟人，风险模型失效。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0003",
+    "slot": "number",
+    "template": "你遭遇背刺{n}次，伤口均在背面，符合熟人作案特征。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0004",
+    "slot": "number",
+    "template": "{n}起背叛归档，作案动机多为利益，余下那起，动机是你太信了。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0005",
+    "slot": "number",
+    "template": "信任账户透支{n}次，现已冻结，不接受担保。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0006",
+    "slot": "number",
+    "template": "{n}次背叛的损失清单里，最贵的不是钱，是之后你的客气。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "betrayals",
+    "id": "st-betrayals-cold-0007",
+    "slot": "number",
+    "template": "记录显示你也背叛过他人，与被背叛的{n}次，未能对冲。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0003",
+    "slot": "number",
+    "template": "史官记你大事寥寥，你自己知道，真正的大事是{n}次没人看见的取舍。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-epic-0008",
+    "slot": "number",
+    "template": "{n}道关隘，你推门的手从未抖过，门后是海是渊，那是门后的事。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0002",
+    "slot": "number",
+    "template": "你做过{n}次决定，每次之后都有人陪你吃了顿热饭，这就够了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0003",
+    "slot": "number",
+    "template": "{n}回，你把「算了」咽下去，把「来吧」说出口。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0005",
+    "slot": "number",
+    "template": "你在{n}个黄昏替自己做了主，其中不少黄昏，你其实想哭。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0006",
+    "slot": "number",
+    "template": "{n}次选择，你没有选过最漂亮的那条路，只选过最像你的那条。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-gentle-0008",
+    "slot": "number",
+    "template": "母亲问你后悔吗，你数了数，{n}次里后悔过的屈指可数，睡着的还是你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0003",
+    "slot": "number",
+    "template": "{n}个选项摆在你面前，你闭眼点的那个，改变了后半生。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0005",
+    "slot": "number",
+    "template": "别人是选择题，你是{n}道填空题，答案还都是自己编的。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-playful-0007",
+    "slot": "number",
+    "template": "人生给你{n}次机会，你用实际行动诠释了什么叫重在参与。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0003",
+    "slot": "number",
+    "template": "档案显示你做过{n}次决断，事后复盘：少数正确，个别致命。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "choices_made",
+    "id": "st-choices_made-cold-0004",
+    "slot": "number",
+    "template": "{n}次落笔，签字栏永远是你的名字，责任栏也是。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0002",
+    "slot": "number",
+    "template": "{n} 个日夜，你把沧海走成了桑田，又走回来。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0004",
+    "slot": "number",
+    "template": "{n} 天，山河为纸，你把自己写成了碑。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0005",
+    "slot": "number",
+    "template": "你用 {n} 天做完别人几辈子的事，墨迹未干。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-epic-0006",
+    "slot": "number",
+    "template": "你熬了 {n} 天，把不可能熬成了日常。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0001",
+    "slot": "number",
+    "template": "你过了 {n} 天，回想起来，记住的都是些小日子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0002",
+    "slot": "number",
+    "template": "你用了 {n} 天，把陌生的人间过成了家。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0003",
+    "slot": "number",
+    "template": "{n} 天，每顿饭你都认真吃了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-gentle-0004",
+    "slot": "number",
+    "template": "你走了 {n} 天，最亮那几页全是平常日子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0001",
+    "slot": "number",
+    "template": "你在线 {n} 天，成就解锁无数，下线时好评如潮。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0004",
+    "slot": "number",
+    "template": "{n} 天过去，你的保质期显示：依然能打。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0005",
+    "slot": "number",
+    "template": "你用掉 {n} 天，余额不足时也没见慌。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-playful-0007",
+    "slot": "number",
+    "template": "你把 {n} 天过成了连续剧，集集无尿点。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0001",
+    "slot": "number",
+    "template": "存活天数 {n}，其中浪费的你自己心里有数，结余：合格。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0002",
+    "slot": "number",
+    "template": "你活了 {n} 天，其中真正有姓名的日子没多少。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0003",
+    "slot": "number",
+    "template": "{n} 天，已核销。无退货通道。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0004",
+    "slot": "number",
+    "template": "你的总时长 {n} 天，高光时刻占比很小，但够了。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "days",
+    "id": "st-days-cold-0006",
+    "slot": "number",
+    "template": "生命余额已使用 {n} 天。剩余：未知。你的态度：照常。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0001",
+    "slot": "number",
+    "template": "{n}次站在鬼门关口，门官都认得你了，挥手放行像放行故人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0003",
+    "slot": "number",
+    "template": "{n}回濒死，你在阎王殿前的台阶上坐熟了，台阶记得你的体温。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0004",
+    "slot": "number",
+    "template": "死过{n}回的人不拜神，你只拜把自己拖回来的那几双手。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0007",
+    "slot": "number",
+    "template": "{n}次与死照面，它没带走你，只带走了你对活着的客气。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-epic-0008",
+    "slot": "number",
+    "template": "{n}道催命符贴到你门上，都被你揭下来当了门神。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0002",
+    "slot": "number",
+    "template": "你在鬼门关外徘徊过{n}次，母亲的白发，多半是那几次长的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0003",
+    "slot": "number",
+    "template": "死过{n}回，你学会了跟人好好道别，连吵架都留半句软话。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0004",
+    "slot": "number",
+    "template": "{n}次从抢救室里被推出来，你记住的不是疼，是门口那几张脸。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0005",
+    "slot": "number",
+    "template": "{n}回命大，如今你最常说「没事」，因为你知道什么才叫有事。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0006",
+    "slot": "number",
+    "template": "{n}次病危，欠下的觉、欠下的饭、欠下的拥抱，你后来都慢慢还了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0007",
+    "slot": "number",
+    "template": "第{n}次醒来的时候，窗外在下雨，你听了很久，觉得雨声贵。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-gentle-0008",
+    "slot": "number",
+    "template": "{n}次，你都从很远的地方走回来，鞋磨破了，人还在。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0001",
+    "slot": "number",
+    "template": "濒死体验{n}次，阎王殿的门槛都快被你踩出坑了，就是不让你进。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0003",
+    "slot": "number",
+    "template": "{n}次死里逃生，你的命硬到体检医生都表示不科学。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0005",
+    "slot": "number",
+    "template": "{n}次病危通知书，家人签字签出了经验，你自己签出了书法。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-playful-0007",
+    "slot": "number",
+    "template": "你{n}次把死亡熬走了，死亡给你打了差评，理由是浪费它时间。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0001",
+    "slot": "number",
+    "template": "濒死记录{n}次，临床判定均非侥幸，是有人不肯撒手。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0002",
+    "slot": "number",
+    "template": "死亡风险预警触发{n}次，均被人工干预终止，干预者：不肯认命的人。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0003",
+    "slot": "number",
+    "template": "高危名单上出现过你的名字{n}次，移出原因栏至今空着。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "deaths",
+    "id": "st-deaths-cold-0004",
+    "slot": "number",
+    "template": "死亡证明替你开过{n}次，都没用上，纸还压在抽屉里。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0002",
+    "slot": "number",
+    "template": "{n}个敌人，座座都是你绕不开的山，你把它们走成了路。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0003",
+    "slot": "number",
+    "template": "仇家名册{n}人，后来有几个死在你前头，你替他们收了尸。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0004",
+    "slot": "number",
+    "template": "{n}个人恨你入骨，其中大半的恨法，是学你的样子活。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0005",
+    "slot": "number",
+    "template": "与你为敌需要资格，{n}人通过了审查，里面有你的故人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-epic-0006",
+    "slot": "number",
+    "template": "{n}场生死局，你赢多输少，输的那几场，对手赢得比输还难看。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0002",
+    "slot": "number",
+    "template": "你跟{n}个人翻过脸，可你至今记得他们笑起来的样子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0003",
+    "slot": "number",
+    "template": "结怨{n}人，有人临走前塞给你伞，说路上雨大。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0004",
+    "slot": "number",
+    "template": "{n}段恩怨，你最放不下的那个，其实早就原谅你了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0005",
+    "slot": "number",
+    "template": "你与{n}人为敌，夜里想起来的，却是没成为朋友的那几个人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-gentle-0006",
+    "slot": "number",
+    "template": "恨过的人有{n}个，如今只盼他们都好好活着，恨也要花力气的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0001",
+    "slot": "number",
+    "template": "结怨{n}人，战绩可查：拉黑的拉黑，互删的互删，余下的还在互相点赞。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0002",
+    "slot": "number",
+    "template": "{n}个敌人，你认真准备的复仇计划，推进至今，成果是几条阴阳怪气的朋友圈。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0004",
+    "slot": "number",
+    "template": "你与{n}人结怨，多数是你先动的口，个别是先动的手，动的是筷子。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-playful-0007",
+    "slot": "number",
+    "template": "{n}个仇家里有个群演级别的，逢人就说跟你有仇，缘由早没人记得。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0001",
+    "slot": "number",
+    "template": "敌对记录{n}条，已注销近半，注销方式不便公开。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0002",
+    "slot": "number",
+    "template": "结怨{n}人，有的已死亡，有的已和解，剩下的仍在盯你的动静。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0003",
+    "slot": "number",
+    "template": "你的仇家共{n}位，人均威胁等级不高，合计致命。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0004",
+    "slot": "number",
+    "template": "{n}条恩怨在册，结案的少，撤案的没有，悬着的都是你挑的头。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "enemies",
+    "id": "st-enemies-cold-0007",
+    "slot": "number",
+    "template": "{n}个敌人，有几个死于与你无关的原因，账仍记在你头上。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0002",
+    "slot": "number",
+    "template": "{n}个州府的茶楼里都有你的段子，说书人靠你吃了几年饱饭。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0003",
+    "slot": "number",
+    "template": "你成名那日，{n}里官道挤满了来看你的人，你从后墙翻走的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0004",
+    "slot": "number",
+    "template": "碑会立，也会倒，你的名字在{n}座城的口音里活过。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0005",
+    "slot": "number",
+    "template": "你的名望到过{n}城，其中有些城你没去过，名先到的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-epic-0008",
+    "slot": "number",
+    "template": "{n}年，戏台上演你，演到后来，扮相越来越不像，掌声越来越真。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0001",
+    "slot": "number",
+    "template": "{n}城的人知道你的名字，你娘还是只叫你小名。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0002",
+    "slot": "number",
+    "template": "名声最响那几年，你收到{n}封信，拆得最慢的是家信。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0003",
+    "slot": "number",
+    "template": "你的传说有{n}个版本，你最喜欢邻居讲的那个，因为他记得你怕黑。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0004",
+    "slot": "number",
+    "template": "出名{n}年，你仍会给巷口卖豆腐的老头让路，他并不知道你是谁。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0005",
+    "slot": "number",
+    "template": "{n}座城夸过你，你记住的夸，是师父那句「还行」。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0006",
+    "slot": "number",
+    "template": "你的名字值钱了，{n}里外有人来求字，你给人写了「平安」。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-gentle-0007",
+    "slot": "number",
+    "template": "外面把你传得很神，{n}年里，只有家里那条狗对你的态度没变。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0001",
+    "slot": "number",
+    "template": "你的名气覆盖{n}城，半数以上的人把你名字念错了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0002",
+    "slot": "number",
+    "template": "成名{n}年，热搜体质，负面新闻全靠对手免费投放。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0004",
+    "slot": "number",
+    "template": "名望值拉满{n}年，防伪标签至今没人仿得出来，因为字太丑。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0005",
+    "slot": "number",
+    "template": "你出名后不敢素颜出门，{n}城的人都说你本人比传说里普通。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0006",
+    "slot": "number",
+    "template": "{n}城的人排着队见你，见到之后，不少人想退货。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-playful-0007",
+    "slot": "number",
+    "template": "名声大到{n}城，你最怕开见面会，没人来的那种最怕。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0001",
+    "slot": "number",
+    "template": "名望峰值覆盖{n}城，如今只剩纪念馆门票在硬撑，还滞销。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0005",
+    "slot": "number",
+    "template": "你的名声在{n}个市场流通，汇率最高的那次，是你死那年。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0007",
+    "slot": "number",
+    "template": "名声资产{n}年，无实体抵押，死后自动清算。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "fame",
+    "id": "st-fame-cold-0008",
+    "slot": "number",
+    "template": "你被{n}城传颂，传颂内容与本人相似度堪忧。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0001",
+    "slot": "number",
+    "template": "{n}个人与你歃血为盟，如今坟前替你祭酒的多半是他们。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0004",
+    "slot": "number",
+    "template": "乱世识人，你在烽火里捡到{n}颗心，颗颗是真的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0005",
+    "slot": "number",
+    "template": "{n}双手在你坠崖时伸下来，有的你抓住了，有的抓住了你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-epic-0008",
+    "slot": "number",
+    "template": "{n}人同饮过江，江水涨了几回，人数就定了，再没添过。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0001",
+    "slot": "number",
+    "template": "{n}个伙伴，你记得谁怕辣，谁睡觉要留灯，谁不吃香菜。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0002",
+    "slot": "number",
+    "template": "{n}个人见过你最狼狈的样子，之后他们管那叫「那天」。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0003",
+    "slot": "number",
+    "template": "深夜里能拨通的号码，你数过，{n}个，够了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0004",
+    "slot": "number",
+    "template": "{n}个人陪你吃过散伙饭，又陪你吃过重聚饭，桌还是那张桌。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0005",
+    "slot": "number",
+    "template": "你落魄那年，通讯录删到只剩{n}个人，后来你才发现那是全部。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0006",
+    "slot": "number",
+    "template": "{n}双手帮你搬过家，也帮你搬过比你重得多的东西。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-gentle-0008",
+    "slot": "number",
+    "template": "{n}个名字写在你钱包夹层里，钱包换了几个，名单没换。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0001",
+    "slot": "number",
+    "template": "{n}个伙伴，组队时说好的随便玩玩，结果搭进去大半辈子。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0004",
+    "slot": "number",
+    "template": "队友名单{n}人，靠谱率堪忧，但出勤率满分。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0006",
+    "slot": "number",
+    "template": "{n}个伙伴，大半问你借过钱，还钱的仪式还在走流程。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-playful-0007",
+    "slot": "number",
+    "template": "友情提示：你的{n}位队友中，有几位是被你的厨艺征服的。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0002",
+    "slot": "number",
+    "template": "{n}人列入可信任名单，该名单的准入成本是半生。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0003",
+    "slot": "number",
+    "template": "{n}个人为你挡过刀，验伤报告摞起来比你的功劳簿厚。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "friends",
+    "id": "st-friends-cold-0007",
+    "slot": "number",
+    "template": "经核实，{n}人愿为你作保，担保物是他们各自的命。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0002",
+    "slot": "number",
+    "template": "{n} 次拔刀，收刀时你已不再是原来的你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0003",
+    "slot": "number",
+    "template": "你杀过 {n} 个人，江湖因此安静了好些年。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0005",
+    "slot": "number",
+    "template": "你的刀饮过 {n} 次血，次次都是为了不再拔刀。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0006",
+    "slot": "number",
+    "template": "你取过 {n} 颗头颅，从此梦里添了几座无字坟。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-epic-0007",
+    "slot": "number",
+    "template": "你手起刀落 {n} 回，替这世道清了几笔烂账。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0004",
+    "slot": "number",
+    "template": "{n} 次了结之后，你都把刀擦干净了才回家。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0005",
+    "slot": "number",
+    "template": "你手上沾过 {n} 条命，回家抱孩子前总要先焐热手。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0006",
+    "slot": "number",
+    "template": "那 {n} 个人倒下的样子，你谁也不让看见自己记得。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-gentle-0008",
+    "slot": "number",
+    "template": "你动过 {n} 次杀心，收回去了大半。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0002",
+    "slot": "number",
+    "template": "你杀过 {n} 个，仇人名单因此清爽了不少。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0003",
+    "slot": "number",
+    "template": "别人年底清账，你清了 {n} 条人命，账目平衡。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0004",
+    "slot": "number",
+    "template": "你刀下躺过 {n} 位，报名人数仍在增加。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0005",
+    "slot": "number",
+    "template": "你干掉过 {n} 个人，心理阴影面积：拒绝测量。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0006",
+    "slot": "number",
+    "template": "{n} 条人命，阎王那边你算半个熟人。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-playful-0007",
+    "slot": "number",
+    "template": "你这辈子只杀 {n} 个人，质量取胜。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0003",
+    "slot": "number",
+    "template": "{n} 次命案，尸检不必做了，死因都是你。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0004",
+    "slot": "number",
+    "template": "{n} 次夺命，心率始终平稳，这是天赋。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0006",
+    "slot": "number",
+    "template": "{n} 起他杀案件，凶手栏都空着，你心里清楚是谁。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "kills",
+    "id": "st-kills-cold-0007",
+    "slot": "number",
+    "template": "你杀了 {n} 人，睡眠时长未受影响，这才是问题所在。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0005",
+    "slot": "number",
+    "template": "{n}雪花银，买得动城门，买不动城楼上那轮月亮。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-epic-0007",
+    "slot": "number",
+    "template": "钱庄的账本记你{n}进出，账房先生说，没见过这么吵的银子。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0002",
+    "slot": "number",
+    "template": "你最阔的时候有{n}，最暖的记忆却是分出去的那几钱碎银。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-gentle-0008",
+    "slot": "number",
+    "template": "{n}从指缝里过去，留在指缝里的，是几个人记得你的好。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0004",
+    "slot": "number",
+    "template": "你的理财理念很稳定：{n}进来，连夜花出去。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-playful-0006",
+    "slot": "number",
+    "template": "账本显示你曾有{n}，备注显示你对「曾有」这个词过敏。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0002",
+    "slot": "number",
+    "template": "经手资金{n}，来源清晰，去向成谜，经手人：你。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0005",
+    "slot": "number",
+    "template": "{n}，购买清单如下：自由若干，麻烦成堆，退路无。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0006",
+    "slot": "number",
+    "template": "你的账户曾验证过{n}的存在，也验证过没有它你照样活。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0007",
+    "slot": "number",
+    "template": "遗产清点：现银无几，欠条数张，那{n}如今只活在别人的记忆里。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "money",
+    "id": "st-money-cold-0008",
+    "slot": "number",
+    "template": "财富报告：{n}峰值未复现，人生曲线与资产曲线早已脱钩。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0001",
+    "slot": "number",
+    "template": "你熬过 {n} 个无眠之夜，夜夜都有江山压在枕头上。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0002",
+    "slot": "number",
+    "template": "{n} 夜不眠，你在黑暗里替所有人站岗。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0003",
+    "slot": "number",
+    "template": "你数过 {n} 个通宵的星斗，星斗也数过你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0004",
+    "slot": "number",
+    "template": "{n} 夜睁着眼到天亮，天亮后的事都因这几夜改写。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0005",
+    "slot": "number",
+    "template": "{n} 个夜晚你不曾合眼，黑夜把你磨成了刀。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-epic-0006",
+    "slot": "number",
+    "template": "你枕着刀过了 {n} 夜，枕头比谁都清楚。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0002",
+    "slot": "number",
+    "template": "{n} 夜无眠，天花板替你记住了所有心事。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0003",
+    "slot": "number",
+    "template": "你熬过 {n} 个夜，每个夜里都给明天留了盏灯。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0007",
+    "slot": "number",
+    "template": "你有 {n} 个夜舍不得睡，因为白天太好，怕睡没了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-gentle-0008",
+    "slot": "number",
+    "template": "{n} 个无眠夜，你把心事叠好，塞回了枕头底下。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0001",
+    "slot": "number",
+    "template": "你失眠 {n} 夜，黑眼圈已达收藏级别。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0002",
+    "slot": "number",
+    "template": "你熬过 {n} 夜，床的怨念值持续上升。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0003",
+    "slot": "number",
+    "template": "{n} 夜没睡，你的眼皮开展过多次和平谈判，均失败。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0004",
+    "slot": "number",
+    "template": "{n} 个无眠夜，数羊数到羊都睡了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0005",
+    "slot": "number",
+    "template": "{n} 夜辗转反侧，你的枕头已申请工伤。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0006",
+    "slot": "number",
+    "template": "{n} 个通宵，你和天花板的关系突飞猛进。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-playful-0007",
+    "slot": "number",
+    "template": "{n} 夜没合眼，清晨的鸟都嫌你卷。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0001",
+    "slot": "number",
+    "template": "无眠记录：{n} 夜。原因分类：心事与敌情，不便细说。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0002",
+    "slot": "number",
+    "template": "睡眠赤字：{n} 夜。偿还计划：无。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0003",
+    "slot": "number",
+    "template": "{n} 个通宵，清醒是你的职业，也是你的病。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0004",
+    "slot": "number",
+    "template": "你缺觉 {n} 夜，判断力未受影响，运气有影响。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0005",
+    "slot": "number",
+    "template": "失眠 {n} 夜，夜间产出：方案数个，白发若干。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0006",
+    "slot": "number",
+    "template": "你熬了 {n} 夜，隔天身体提交辞呈，被你驳回。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "nights",
+    "id": "st-nights-cold-0007",
+    "slot": "number",
+    "template": "连续清醒 {n} 夜，心率平稳，这不是好兆头。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0003",
+    "slot": "number",
+    "template": "你的脚印落在 {n} 个地名上，连起来比地图诚实。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-epic-0005",
+    "slot": "number",
+    "template": "从南到北 {n} 站，你把半个天下走成了邻居。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0002",
+    "slot": "number",
+    "template": "{n} 个地方，你记住的不是风景，是屋檐下的雨声。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0003",
+    "slot": "number",
+    "template": "你到过 {n} 座城市，其中几座有人为你留过门。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0005",
+    "slot": "number",
+    "template": "你路过 {n} 个村庄，狗都没有朝你叫过。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-gentle-0007",
+    "slot": "number",
+    "template": "你在 {n} 家客栈歇过脚，每盏灯都为你亮到很晚。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0003",
+    "slot": "number",
+    "template": "{n} 个地点，你的行李比你先熟悉所有火车站。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0004",
+    "slot": "number",
+    "template": "{n} 个地方住下来，你的枕头至今水土不服。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-playful-0005",
+    "slot": "number",
+    "template": "你走过 {n} 城，导航看了都说这单接不了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0001",
+    "slot": "number",
+    "template": "途经地点：{n} 处。真正停留过的，屈指可数。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0003",
+    "slot": "number",
+    "template": "你走过 {n} 个地方，带走的只有尘土，留下的也是。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0004",
+    "slot": "number",
+    "template": "足迹覆盖 {n} 个坐标。归属感：未检测到信号。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "places",
+    "id": "st-places-cold-0007",
+    "slot": "number",
+    "template": "移动轨迹：{n} 城。定性：流亡或旅行，档案未注明。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0001",
+    "slot": "number",
+    "template": "你掌权{n}年，朱批落下时，半个天下的雨都要改道。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0002",
+    "slot": "number",
+    "template": "{n}年，你坐的那把椅子越来越高，高到听不见下面的哭声，也听不见掌声。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0003",
+    "slot": "number",
+    "template": "权柄在手{n}年，你盖的印比你说的话多，印比话管用。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0004",
+    "slot": "number",
+    "template": "你权势滔天{n}年，潮是你掀的，退潮时你也站在滩上。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0006",
+    "slot": "number",
+    "template": "权倾朝野{n}年，你最大的政敌是镜子，它从不上奏，只说实话。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0007",
+    "slot": "number",
+    "template": "{n}年的权，压得住雪片般的奏章，压不住你半夜惊醒时的心跳。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-epic-0008",
+    "slot": "number",
+    "template": "{n}年，你让人跪着进来，也让人站着出去，后者更吓人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0001",
+    "slot": "number",
+    "template": "你掌权{n}年，回家还是给娘捶背，力道没因为官大而变。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0004",
+    "slot": "number",
+    "template": "{n}年，多少人怕你，只有家里那几位敢跟你抢菜吃。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-gentle-0005",
+    "slot": "number",
+    "template": "你权势最盛的{n}年，饭桌上聊的还是谁家的狗下了崽。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0002",
+    "slot": "number",
+    "template": "你在位{n}年，下属练就的核心技能是读你的眉毛。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0003",
+    "slot": "number",
+    "template": "权势滔天{n}年，你在家里的排名稳定维持在倒数。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0004",
+    "slot": "number",
+    "template": "{n}年，你开会说了无数话，被记住的只有「散会」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0006",
+    "slot": "number",
+    "template": "{n}年官场，你的批示从「知道了」进化到「知道了。」，句号是权力的顶峰。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-playful-0007",
+    "slot": "number",
+    "template": "{n}年，你的头衔长到名片印不下，人倒是越活越小。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0001",
+    "slot": "number",
+    "template": "权力任期{n}年，离任审计：忠诚欠费，恐惧结清。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "power",
+    "id": "st-power-cold-0006",
+    "slot": "number",
+    "template": "权势存续{n}年，注销手续由继任者代办，态度积极。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0002",
+    "slot": "number",
+    "template": "{n} 次来不及，成了你胸口搬不走的碑。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0003",
+    "slot": "number",
+    "template": "你赢了大半生，却输给了 {n} 个没回头的瞬间。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0004",
+    "slot": "number",
+    "template": "{n} 桩憾事，桩桩都够写半部断代史。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0005",
+    "slot": "number",
+    "template": "{n} 次擦肩而过，次次都擦掉了半生可能。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-epic-0008",
+    "slot": "number",
+    "template": "你错过 {n} 次转身的机会，于是长路都成了回声。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0001",
+    "slot": "number",
+    "template": "你有 {n} 件遗憾，都关于没说完的话和没握紧的手。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0007",
+    "slot": "number",
+    "template": "你放走了 {n} 个人，车站的风替他们送过你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-gentle-0008",
+    "slot": "number",
+    "template": "{n} 句没说出口的喜欢，如今都过了保质期。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0001",
+    "slot": "number",
+    "template": "你攒了 {n} 个遗憾，遗憾管理局给你办了金卡。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0002",
+    "slot": "number",
+    "template": "{n} 次错过，你的反射弧至今仍被通缉。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0005",
+    "slot": "number",
+    "template": "你后悔了 {n} 次，剩下那些还没来得及后悔。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0006",
+    "slot": "number",
+    "template": "你这辈子最后悔的 {n} 件事，排名每月浮动。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-playful-0007",
+    "slot": "number",
+    "template": "{n} 件憾事，退货窗口均已关闭。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0001",
+    "slot": "number",
+    "template": "遗憾记录：{n} 件。补救记录：空白。逾期不候。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0002",
+    "slot": "number",
+    "template": "你有 {n} 处未闭合的伤口，诊断：错过。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0004",
+    "slot": "number",
+    "template": "你欠 {n} 个人，债权方均已注销。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "regrets",
+    "id": "st-regrets-cold-0007",
+    "slot": "number",
+    "template": "未发生事件：{n} 起。原因：你没伸手。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0002",
+    "slot": "number",
+    "template": "{n} 次鸣金收兵，你收住的不只是兵，是自己的命数。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0003",
+    "slot": "number",
+    "template": "你 {n} 次背对战场离开，山河知道你还会回来。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0004",
+    "slot": "number",
+    "template": "{n} 次大撤退，你带走的不只是残部，是火种。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0005",
+    "slot": "number",
+    "template": "你让过 {n} 次，让出的地方后来都自己回到了你手里。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-epic-0006",
+    "slot": "number",
+    "template": "{n} 次急流勇退，浪头再高也没盖过你的判断。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0001",
+    "slot": "number",
+    "template": "你退过 {n} 次，每次都不是怕，是有人在等你吃饭。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0002",
+    "slot": "number",
+    "template": "{n} 次收手，你摸了摸刀柄，选择了回家。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0003",
+    "slot": "number",
+    "template": "你让过 {n} 回，让出去的是胜负，留住的是人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0004",
+    "slot": "number",
+    "template": "{n} 次转身离开，你把背影留给了不值得的事。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0005",
+    "slot": "number",
+    "template": "你有 {n} 次没有硬撑，那几次恰恰救了你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-gentle-0008",
+    "slot": "number",
+    "template": "你认过 {n} 次怂，那是你这辈子最勇敢的决定。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0001",
+    "slot": "number",
+    "template": "你战略性撤退 {n} 次，翻译：跑了，但跑得很有水平。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0002",
+    "slot": "number",
+    "template": "你退过 {n} 次，对手至今以为你在下大棋。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0003",
+    "slot": "number",
+    "template": "好汉不吃眼前亏，你吃了 {n} 次，缓过来了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0006",
+    "slot": "number",
+    "template": "你认怂 {n} 次，怂得非常有战略眼光。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-playful-0007",
+    "slot": "number",
+    "template": "{n} 次撤退，敌军战报：此人滑不留手。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0004",
+    "slot": "number",
+    "template": "你放弃过 {n} 场必胜的仗，原因栏：不划算。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0005",
+    "slot": "number",
+    "template": "脱离接触 {n} 次，全员生还。鲁莽的那批人没这个纪录。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0006",
+    "slot": "number",
+    "template": "{n} 次认输离场，账面亏损，命还在，盈利。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "retreats",
+    "id": "st-retreats-cold-0007",
+    "slot": "number",
+    "template": "你撤退 {n} 次，从未回头。回头者多数没回来。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0001",
+    "slot": "number",
+    "template": "你涉险 {n} 次，次次都是拿命去够别人够不着的东西。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0003",
+    "slot": "number",
+    "template": "你闯过 {n} 处绝地，绝地从此改名叫来路。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0005",
+    "slot": "number",
+    "template": "你 {n} 次站在深渊边上往里跳，深渊都没接住你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0006",
+    "slot": "number",
+    "template": "{n} 场豪赌，你把命押上桌，老天爷不敢收。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-epic-0007",
+    "slot": "number",
+    "template": "你探过 {n} 次龙潭，龙如今提起你先叹气。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0001",
+    "slot": "number",
+    "template": "你冒过 {n} 次险，每次出发前都把家里灯留亮着。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0002",
+    "slot": "number",
+    "template": "{n} 次以身犯险，几乎次次都是为了别人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0003",
+    "slot": "number",
+    "template": "你赌过 {n} 次命，赢回来的全分给了身边的人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0005",
+    "slot": "number",
+    "template": "你涉险 {n} 回，每回都答应某人会回来，都做到了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-gentle-0008",
+    "slot": "number",
+    "template": "{n} 次铤而走险，回来先掸掸土再敲门。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0001",
+    "slot": "number",
+    "template": "你冒过 {n} 次险，保险公司把你拉黑了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0002",
+    "slot": "number",
+    "template": "你闯过 {n} 次祸，哦不，冒了几次险，官方措辞要严谨。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0003",
+    "slot": "number",
+    "template": "{n} 次生死挑战，你的命硬到阎王爷拒收。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0004",
+    "slot": "number",
+    "template": "你涉险 {n} 次，回头想想大多完全可以不去。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0005",
+    "slot": "number",
+    "template": "你赌过 {n} 次命，庄家表示这单以后不接了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0006",
+    "slot": "number",
+    "template": "{n} 次极限操作，你妈至今不知情，很好。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-playful-0007",
+    "slot": "number",
+    "template": "{n} 次冒险，安全帽销量与你无关。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0001",
+    "slot": "number",
+    "template": "高风险行为 {n} 次，全部生还，概率表示抗议。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0002",
+    "slot": "number",
+    "template": "你涉险 {n} 次，全部生还，样本量令人不安。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0003",
+    "slot": "number",
+    "template": "冒险记录：{n} 次。风险评估：你从未做过。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0004",
+    "slot": "number",
+    "template": "{n} 次与死亡擦肩，死亡率至今拿你没办法。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0005",
+    "slot": "number",
+    "template": "涉险 {n} 次，次次全身而退，统计学拒绝评论。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0006",
+    "slot": "number",
+    "template": "高危行为 {n} 起，无伤残无死亡，后怕程度：未知。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "risks",
+    "id": "st-risks-cold-0007",
+    "slot": "number",
+    "template": "你冒过 {n} 次险，受益人：通常不是你。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0001",
+    "slot": "number",
+    "template": "{n}段情缘，段段都像烽火，烧起来照亮过你，熄了也烫伤过你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0003",
+    "slot": "number",
+    "template": "{n}个名字进过你的命，如今有的成了碑，有的成了别人枕边的姓。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-epic-0006",
+    "slot": "number",
+    "template": "{n}段缘分，段段都是乱世里的小太平，仗打完了，太平也没了。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0002",
+    "slot": "number",
+    "template": "{n}段缘分，有的走到白头，有的走到巷口，你都送到了。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0004",
+    "slot": "number",
+    "template": "{n}段情，散的时候你都没哭闹，只是后来很久不听那几首歌。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-gentle-0008",
+    "slot": "number",
+    "template": "爱你的和你爱的，加起来{n}段，对不上的那几段，你也道过谢。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0001",
+    "slot": "number",
+    "template": "情感经历{n}段，平均每段都死于你的「我这人不太会表达」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0003",
+    "slot": "number",
+    "template": "{n}位前任，如今大半在朋友圈给你点赞，缘分已尽，手滑不止。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-playful-0005",
+    "slot": "number",
+    "template": "恋爱{n}回，你送出去的礼物能开个杂货铺，退回来的能开个忏悔室。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0003",
+    "slot": "number",
+    "template": "{n}段情缘，有几段的遗物你至今未处理，标签都没撕。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0004",
+    "slot": "number",
+    "template": "感情档案{n}卷，卷卷有你的签名，卷卷没有善终的章。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "romances",
+    "id": "st-romances-cold-0006",
+    "slot": "number",
+    "template": "经统计你爱过{n}人，被爱的次数对不上账，差额是遗憾。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0002",
+    "slot": "number",
+    "template": "山河记住的不是你的刀，是你 {n} 次挡在陌生人身前的背影。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0003",
+    "slot": "number",
+    "template": "你救下 {n} 条命，史册不会写，但那些黎明都是你的碑。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0004",
+    "slot": "number",
+    "template": "{n} 次赴汤蹈火，你把别人的明天扛在了自己肩上。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0005",
+    "slot": "number",
+    "template": "你 {n} 次逆着人流往回走，走进去的是险地，带出来的是人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-epic-0008",
+    "slot": "number",
+    "template": "你把 {n} 个孩子从塌下来的世道底下顶了出去。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0001",
+    "slot": "number",
+    "template": "你救过 {n} 个人，他们后来都在某个晴天想起过你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0002",
+    "slot": "number",
+    "template": "{n} 次伸手，换来的谢谢都没说出口，全替你攒着。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0005",
+    "slot": "number",
+    "template": "那 {n} 次你没有犹豫，后来每个当事人都替你记得。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-gentle-0007",
+    "slot": "number",
+    "template": "{n} 个被你救起的人，如今都学会了好好吃饭。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0001",
+    "slot": "number",
+    "template": "你这辈子捞了 {n} 个人，打捞队都没你勤快。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0002",
+    "slot": "number",
+    "template": "{n} 次英雄救美，哦不，救的多数是老大爷。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0006",
+    "slot": "number",
+    "template": "{n} 次救人于水火，水火表示对你意见很大。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-playful-0007",
+    "slot": "number",
+    "template": "{n} 次见义勇为，可惜多数时候没人看见，亏大了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0001",
+    "slot": "number",
+    "template": "{n} 条命经你的手续存，利息从未结算。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0002",
+    "slot": "number",
+    "template": "你出手 {n} 次，每次成本自担，无人报销。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0003",
+    "slot": "number",
+    "template": "{n} 人从死亡名单上被划去，经手人：你。签名处空白。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "saves",
+    "id": "st-saves-cold-0005",
+    "slot": "number",
+    "template": "你从死亡手里抢回 {n} 人，死亡本人未置评。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0002",
+    "slot": "number",
+    "template": "{n} 道暗门在你眼前开过，门后藏着半个朝代的病。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0003",
+    "slot": "number",
+    "template": "你挖出过 {n} 桩旧案，桩桩都埋在没人敢踩的土下。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0004",
+    "slot": "number",
+    "template": "{n} 个惊天秘密经你之手见了光，见光那天下了雨。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0005",
+    "slot": "number",
+    "template": "你撞破了 {n} 层真相，最里面那层坐着你自己。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0007",
+    "slot": "number",
+    "template": "你窥见过 {n} 次天机，天机后来见你都绕着走。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-epic-0008",
+    "slot": "number",
+    "template": "{n} 个王朝级别的秘密烂在你肚子里，比埋在土里安全。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0003",
+    "slot": "number",
+    "template": "{n} 个秘密托在你手里，像睡着的孩子。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0004",
+    "slot": "number",
+    "template": "你知道了 {n} 个人的软肋，然后假装不知道。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0005",
+    "slot": "number",
+    "template": "{n} 桩秘密，你守口如瓶，瓶子至今没有裂缝。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-gentle-0008",
+    "slot": "number",
+    "template": "{n} 个秘密路过你，你只留下了最疼的那个。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0002",
+    "slot": "number",
+    "template": "{n} 次撞破别人的秘密，次次都想当场失忆。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0004",
+    "slot": "number",
+    "template": "你发现过 {n} 个秘密，保密协议全靠自觉。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0005",
+    "slot": "number",
+    "template": "你这辈子吃瓜 {n} 次，次次吃到自家地里。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0006",
+    "slot": "number",
+    "template": "{n} 个秘密在你肚子里开会，你负责门禁。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-playful-0007",
+    "slot": "number",
+    "template": "{n} 个大秘密，你知道，秘密不知道你知道。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0002",
+    "slot": "number",
+    "template": "你发现 {n} 个秘密，有几个早知道你在找。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0003",
+    "slot": "number",
+    "template": "{n} 桩隐秘经你确认。灭口名单上你排第几，未知。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0004",
+    "slot": "number",
+    "template": "你知道的太多了，具体数字：{n} 件。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0005",
+    "slot": "number",
+    "template": "{n} 个秘密在你手里。保管期限：终身，或更短。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0006",
+    "slot": "number",
+    "template": "你揭开过 {n} 层伪装，最里面是你自己的脸。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "secrets",
+    "id": "st-secrets-cold-0007",
+    "slot": "number",
+    "template": "秘密接触记录：{n} 次。存活至今，统计学奇迹。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0001",
+    "slot": "number",
+    "template": "潮水涨退了{n}个回合，你是没被冲走的那块石头。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0002",
+    "slot": "number",
+    "template": "{n}回合打下来，与你对弈的不是别人，是光阴本身。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0004",
+    "slot": "number",
+    "template": "棋至{n}手，满盘烽烟，执棋的手还是你的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-epic-0008",
+    "slot": "number",
+    "template": "{n}回合过去，山河未改姓，只是多了些记得你的人。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-gentle-0001",
+    "slot": "number",
+    "template": "{n}个回合，说长不长，刚好够你把生客熬成故人。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0001",
+    "slot": "number",
+    "template": "{n}回合，近半你在等别人行动，顺便把人生想明白了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0002",
+    "slot": "number",
+    "template": "{n}个回合，你的回合永远是「再想想」，别人的回合永远是「打你」。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0003",
+    "slot": "number",
+    "template": "系统提示：你经历{n}回合，有效操作寥寥，其余是原地转圈。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0004",
+    "slot": "number",
+    "template": "同样{n}回合，别人建功立业，你主要在加载。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-playful-0007",
+    "slot": "number",
+    "template": "{n}回合，你活得像那个血量永远见底、但就是不倒的角色。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0001",
+    "slot": "number",
+    "template": "回合数：{n}。其中有效回合不足半数，其余消耗在犹豫与疗伤。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0003",
+    "slot": "number",
+    "template": "计时结束：{n}回合，你没有领先过，也没有出局过。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0004",
+    "slot": "number",
+    "template": "{n}个回合归档，备注栏写着：此人难缠，耗得起。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "turns",
+    "id": "st-turns-cold-0007",
+    "slot": "number",
+    "template": "回合终止于{n}，原因不是胜负，是时限到了。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0004",
+    "slot": "number",
+    "template": "你经历过 {n} 次大厦将倾，有好几次是你亲手扶的。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0005",
+    "slot": "number",
+    "template": "{n} 回柳暗花明，回回都是山穷水尽之后的奖赏。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0006",
+    "slot": "number",
+    "template": "世道对你反转 {n} 次，你次次都以颜色相还。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0007",
+    "slot": "number",
+    "template": "{n} 次天翻地覆，覆巢之下你把自己摘了出来。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-epic-0008",
+    "slot": "number",
+    "template": "{n} 次峰回路转，路的尽头始终站着你。",
+    "tone": "epic"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0002",
+    "slot": "number",
+    "template": "{n} 次峰回路转，每次转过来都有人在等你。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0003",
+    "slot": "number",
+    "template": "命运跟你开了 {n} 次玩笑，你后来都笑着讲给别人听。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0006",
+    "slot": "number",
+    "template": "你被生活推翻 {n} 次，回回都有双手扶你起来。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0007",
+    "slot": "number",
+    "template": "{n} 次天真的塌了，塌完你发现身边不是空的。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-gentle-0008",
+    "slot": "number",
+    "template": "{n} 次剧情突变，你的口头禅始终是先吃饭。",
+    "tone": "gentle"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0001",
+    "slot": "number",
+    "template": "你的人生反转 {n} 次，编剧都不敢这么写。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0002",
+    "slot": "number",
+    "template": "{n} 次神展开，观众席的你本人都没猜到。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0003",
+    "slot": "number",
+    "template": "反转 {n} 次，你的生活比连续剧费会员。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0004",
+    "slot": "number",
+    "template": "命运给你安排了 {n} 次反转，编剧署名的却是你。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0005",
+    "slot": "number",
+    "template": "{n} 次大反转，你的剧本被自己当场撕了。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0006",
+    "slot": "number",
+    "template": "你这辈子反转 {n} 次，腰没闪，命很硬。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-playful-0007",
+    "slot": "number",
+    "template": "{n} 次惊天反转，吃瓜次次吃到自己头上。",
+    "tone": "playful"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0001",
+    "slot": "number",
+    "template": "重大转折 {n} 次，均无预警，你的应对：满分。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0002",
+    "slot": "number",
+    "template": "剧情偏离预期 {n} 次，偏差全部由你修正。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0003",
+    "slot": "number",
+    "template": "计划作废 {n} 次，备用计划：你本人。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0005",
+    "slot": "number",
+    "template": "{n} 次全盘推翻，重建者签名：你。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0006",
+    "slot": "number",
+    "template": "意外事件 {n} 起，定性：均已转化为资产。",
+    "tone": "cold"
+  },
+  {
+    "dimension": "twists",
+    "id": "st-twists-cold-0007",
+    "slot": "number",
+    "template": "你经历 {n} 次变局，从未改换阵营，立场很贵。",
+    "tone": "cold"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 36,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是转学生，新班欢迎你的人群里，有人小声说：上一个坐这位置的，再也没来。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是年级第一，保送名额公示前夜，你的答题卡被人换了一张。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是校篮球队长，决赛前一周，教练递来一份你从没做过的体检报告。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是美术社社长，旧校舍的涂鸦墙每晚多一幅画，画的都是第二天的校园。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是复读生，回高三第一天，黑板角落的倒计时，字迹和你去年的一模一样。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是广播站站长，每周五念一封匿名信，这周的信预言了今晚自习课的事。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 39,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是中考状元，被免学费招进这所私立学校，入学协议最后一页，已经有人替你签了名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是班长，秋游费收齐了，名单上却多出一个全班都记得、学号不存在的人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是学霸的同桌，替他收了三年情书，今早有一封，收信人是你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是食堂阿姨，手抖是装的，那个总吃素菜的女孩，你想让她多吃点肉。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是校医室值班生，凌晨来的学生说头疼，他的影子比本人晚到了三秒。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是学生会纪检部长，查迟到三年没出过错，今早记录本上多了一个不存在的班级。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是器材室管理员，借出去的球每晚都按时归还，昨晚多还了一个。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 39,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是图书管理员，闭架库最里排有本没有索书号的毕业纪念册，最后一页空着等人签名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0001",
+    "role_kind": "original",
+    "text": "你是新来的心理老师，咨询记录第一页写着：这个学校没有第八个来访者。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0002",
+    "role_kind": "original",
+    "text": "你是暑期留校的水电工，空教学楼有间教室每晚亮灯，电表却不走。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0003",
+    "role_kind": "original",
+    "text": "你是代课老师，替班一周，花名册上有个名字，每节课都被划掉又写回来。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0004",
+    "role_kind": "original",
+    "text": "你是天台种花的园艺工，花盆底下压着十几封信，收件人都是“毕业那天的你”。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0005",
+    "role_kind": "original",
+    "text": "你是校门口文具店老板，开店二十年，有个孩子每晚来问同一支笔，从没买过。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "rp-xiaoyuan-original-0006",
+    "role_kind": "original",
+    "text": "你是中考监考员，收卷时发现一份满分卷，考生信息栏是空的。",
+    "type": "role_pitch"
+  }
+]

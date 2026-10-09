@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "唯一的物证，以及对方仅存的退路",
+    "tension": "一封信把两人逼到要么撕破脸要么撕破谎的临界点",
+    "text": "我把那封通敌的信拍在案上，只问一句：是你写的，还是替你主子抄的？",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "防身的倚仗，先亮软肋便失了先手",
+    "tension": "先卸甲的人赌的是对方心里还剩多少情分",
+    "text": "我解下佩剑搁在脚边，先退一步，看他肯不肯也把刀放下。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "未出阁的清誉，和事后收不了场的名分",
+    "tension": "名分一出口，他再动手就是当众杀妻",
+    "text": "我当着众人的面唤他夫君，把这场私仇当众说成家事。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "性命，以及猜错他心意的全部代价",
+    "tension": "把整个后背押上去，赌他下不去手",
+    "text": "我转身走向门口，背对着他：要动手趁早，我数到三。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "彼此最后一点体面，可能换来更深的恨",
+    "tension": "动用最不该动的人，等于同时点燃救兵与逆鳞",
+    "text": "我提起他亡母的名讳，赌他不敢在灵前旧誓里见血。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "往日情分，退路断在自己嘴里",
+    "tension": "情分一旦撤桌，他就得顶着乌纱答不能答的话",
+    "text": "我改称他的官职，把私怨摆成公案，逼他按律回话。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "自己的罪名与名声，赌他不敢接这个价",
+    "tension": "认罪认得太痛快，反倒坐实了他另有所图",
+    "text": "我笑着认下他的指控，反问：那你打算拿我换什么？",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "捏造证据的把柄，和他之后加倍的提防",
+    "tension": "假消息放出去就收不回，他不上钩便是空城计穿帮",
+    "text": "我让侍女说漏罪证已寄往京城，看他先保哪一头。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "维持多年的默契与和平假象",
+    "tension": "主动把最疼的旧账翻上桌，逼双方都不许绕",
+    "text": "我凑近一步压低声音：你我之间那条人命，今晚必须有个说法。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "女子的名节，他若敢认便是鱼死网破",
+    "tension": "用自己的伤做呈堂证供，拿体面换真相",
+    "text": "我当众扯开衣领露出旧伤：这一刀是谁给的，你敢当着大家说吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "性命，赌错就没有第二回",
+    "tension": "用一条命试一颗心的成色",
+    "text": "我故意踉跄着倒向他的剑锋，赌他收剑快过旁人拔刀。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "婚姻名分，和那个人自己是否真舍得",
+    "tension": "婚姻成了赎人的筹码，谁先舍不得谁就输",
+    "text": "我把和离书递进他手里：签了它，我把你要的人还你。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "多年暗中握着的优势，从此暗斗转明斗",
+    "tension": "底牌一亮暗棋变废棋，等于正式宣战",
+    "text": "我唤出他安插在我院里的眼线，当面问：你主子没教你怎么回话？",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "若他二人当真同心，此招反暴露自己的忌惮",
+    "tension": "不攻人而攻其谋主，撬动他与智囊之间的疑心",
+    "text": "我把矛头转向他身后的幕僚：这话是他教你说的，还是你自己信了？",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "用真情做饵的信誉，败露便再无示弱可用",
+    "tension": "眼泪是真的还是刀是真的，他来不及分辨",
+    "text": "我垂泪问他是否从未爱过我，趁他分神夺下案上的印信。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "满院的防卫，他若真动手便无险可守",
+    "tension": "不设防是最狠的设防，逼他自己选个体面",
+    "text": "我命人撤走院中护卫，空门对他：进来坐，还是站在门外当贼？",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "唯一能制他的证据，从此手中无牌",
+    "tension": "底牌烧成灰，把胜势换成道义的高地",
+    "text": "我当众烧了那封能要他命的信：我留的是情分，你留什么？",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "珍藏的回忆被拿去当武器，说出口就不干净了",
+    "tension": "旧情是最私密的刀，捅进去两人都流血",
+    "text": "我低声说起只有我俩知道的那个雪夜的细节。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "性命悬于一线，赌他背不起逼死我的名声",
+    "tension": "把自己变成他威胁的代价本身",
+    "text": "我拔下金钗抵在自己颈侧：你再近一步，带走的就是一具尸首。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "他若真敢讲，我就得履约跟他走",
+    "tension": "把让步包成考题，假话骗得了活人骗不了灵位",
+    "text": "我答应跟他走，条件是他先到我兄长灵前把那套说辞讲一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "家丑外扬后两家的颜面，和他的报复",
+    "tension": "平日装瞎的情分一朝清算，摆出同归于尽的架势",
+    "text": "我把他暗养外室的证据推过桌面：你走你的阳关道。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "诈降一旦识破，谈判资格和性命一起清零",
+    "tension": "笑着谈和的每一息，都在赌响箭先发还是他先觉",
+    "text": "我假意应下他的条件，袖中已摸开求救响箭的机簧。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "他若选前者，递刀的手就是递命",
+    "tension": "把生死的选择权塞回对方掌心，乱的是他的心",
+    "text": "我问他今夜是来杀我还是来求我，把刀柄递回他手里让他选。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "满府上下的安危，押在他还要不要脸",
+    "tension": "礼数摆得越足，他动武的罪名越重",
+    "text": "我吩咐下人掌灯摆酒，只当他是客，看他好不好意思拔剑。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "御赐信物是最后的护身符，用过一次便惹君忌",
+    "tension": "圣眷与私怨对撞，逼他在忠和恨之间现形",
+    "text": "我亮出先帝御赐的免死金牌：你要抗旨，还是要道理？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "孩子亲眼见父母反目，赌输的是孩子的心",
+    "tension": "稚子在场，狠话一出口就成了他一生的罪证",
+    "text": "我命人把孩子抱到堂前，让他当着骨肉把威胁的话再说一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "他若答不作数，连自欺的余地都没了",
+    "tension": "刀光剑影里递一句软话，比任何质问都难接",
+    "text": "我收起所有火气，只轻声问：那年你说过的话，还作数吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "真账本一旦搜出，欺瞒之罪重过账目本身",
+    "tension": "他每翻一页，我离暴露就近一寸",
+    "text": "我把假账本递给他验看，真的那本早缝进我的棉袄里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "降书若真落入政敌手中，便百口莫辩",
+    "tension": "自污为饵，搅浑他对我立场的所有判断",
+    "text": "我当着他的面给他的政敌写降书，让他猜我到底是哪边的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "棋差一着，便要以身为注履约",
+    "tension": "一局棋定人身自由，风雅里藏着卖身契",
+    "text": "我请他入席对弈：赢了我跟你走，输了你今夜之事烂在肚里。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "刺杀不成便尸骨无存，还搭上全族性命",
+    "tension": "大婚之日行刺，一击定生死",
+    "text": "喜堂上红烛高烧，我捧着合卺酒走向杀父仇人，袖中刀片抵住腕脉。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "等待期间仇人可能老死病死，大仇空悬",
+    "tension": "仇人一句话动摇十年恨意",
+    "text": "我按住刀再等等——他那句你爹不是我一人所害，我要先查明白。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "献礼被拆穿，当场就是死局",
+    "tension": "借满堂宾客的嘴杀他",
+    "text": "我在他的寿宴上献上那幅松鹤延年，夹层里是他当年画押的卖官契。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "这条命先替他挡着，挡一次少一次",
+    "tension": "救仇人只为亲手杀",
+    "text": "我替他挡下那支暗箭，把伤口藏好——他得活着，活到我亲手了结那天。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "腰牌若被识破来历，两路人马都来杀我",
+    "tension": "借刀杀人，让义父子反目",
+    "text": "我把当年那桩灭门案的另一块腰牌，悄悄放进了他义子的行囊。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "身份一明，再无暗处可藏",
+    "tension": "亮明身份逼他认账",
+    "text": "我把灵位牌摆在他面前：认得这家姓氏吗？我等了十一年。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "放过的机会只有一次，他必然戒备",
+    "tension": "最后一刻住手，恩怨里掺进不忍",
+    "text": "刀已架在他颈上，我收了刃：今日你女儿新婚，这债改日再讨。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "他活着就会疯了一样反扑",
+    "tension": "不杀其人，毁其根基",
+    "text": "我放过他本人，转头把他赖以起家的那座矿山烧了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "名节清白，和夜夜同枕的胆寒",
+    "tension": "委身事仇，以身为饵",
+    "text": "我跪在他面前求收留做妾，鬓边银簪里淬着三日才发的毒。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "他说了假话喝下清茶，我便永远查不到真凶",
+    "tension": "以命换真相",
+    "text": "我递给他一杯毒酒一杯清茶：选哪杯，看你肯不肯说出当年的主使。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "惊动官府，从此是钦犯",
+    "tension": "当街截杀，万众瞩目",
+    "text": "城门落锁前，我单枪匹马拦住他的车架，当街叫阵。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "被撞破就是刺探，当场格杀",
+    "tension": "取证比杀人难，难在全身而退",
+    "text": "我夜探他书房，找那本能证明我父清白的名册，翻到一半听见门响。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "笔迹若被勘破，构陷之罪先落我头上",
+    "tension": "伪造罪证借政敌之手",
+    "text": "我摹他的笔迹写了封通敌信，故意让政敌的门生拾去。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "翻案不成，连累剩下的一门老小",
+    "tension": "宗族面前翻旧案",
+    "text": "祠堂里我当众掀开族谱被撕去的那页：今日我要把这页重新写满。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "心软一次，大仇又得等一年",
+    "tension": "稚子无辜，这一箭射不出去了",
+    "text": "我看见他抱着幼子教射箭，箭囊上的平安结晃了晃，我转身走了。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "掳人即结死仇，我也成了自己最恨的那种人",
+    "tension": "以稚子换铁证",
+    "text": "我掳走他最疼的独子，留书一封：三更，城隍庙，拿当年的卷宗来换。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "他若不肯，便是撕破脸的死战",
+    "tension": "逼他自我了断换香火",
+    "text": "我与他并肩看雪：你自裁，我保你妻儿三代平安。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "劫囚是死罪，我与他同案",
+    "tension": "劫囚只为亲手杀",
+    "text": "我劫了押他的囚车，不为救他，只为不让朝廷的刀抢在我前头。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "他听出弦外之音，我便走不下那座楼",
+    "tension": "借万民之口诛心",
+    "text": "上元灯节我请他登楼赏灯，楼下我已买通说书先生开讲灭门记。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "二人若当面对质，我死无葬身之地",
+    "tension": "一句话拆散生死同盟",
+    "text": "我分别给他和他的盟兄递话，说对方已愿拿他的头颅换赦令。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "面具一揭，要么他死要么我亡",
+    "tension": "现出真容，图穷匕见",
+    "text": "我揭开脸上的人皮面具：十年了，你可还认得这张脸？",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "恩师若不信反告发，我先身陷囹圄",
+    "tension": "诛心先于诛身",
+    "text": "我不杀他，杀他那条靠我父亲的血换来的好名声——把真相说给他最敬重的恩师听。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "这一次心软，下一次他病愈就是我的死期",
+    "tension": "举手可杀，偏偏手软",
+    "text": "我捧着病体给他煎药侍疾，药罐底下压着的砒霜，我终究没有抖进去。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "他宁可拔剑也不会跪，谈判即开战",
+    "tension": "以名辱换命偿",
+    "text": "我提出恩怨两清的条件：他当众三跪九叩到我父亲坟前。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "他若让我先喝，我便得先死",
+    "tension": "赌命对饮",
+    "text": "我把他独酌的那壶酒换了，坐在他对面陪他喝，赌他会让我先斟。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "开棺即犯大忌，族人容不下我",
+    "tension": "验尸定仇，惊动先人",
+    "text": "我叩开义庄的门，开棺验骨——父亲喉间那点黑，究竟是不是毒。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "他若真成了事，我就再也动不了他",
+    "tension": "捧杀",
+    "text": "我撺掇他去争那个注定翻船的位子，争到了，我再点第一把火。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "他若翻身摸到，洞房变灵堂",
+    "tension": "枕戈待旦的新婚夜",
+    "text": "新婚夜我吹了烛，没让他看见我枕下压着的那把剪子。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "散布即暴露，他必疯狂追查源头",
+    "tension": "让全京城替我报仇",
+    "text": "我把他当年买凶的三百两银票拓印百份，撒在他家祠堂前的闹市。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "她若念旧情反咬，我的筹谋满盘皆输",
+    "tension": "策反枕边人，从内宅攻破",
+    "text": "我找到他逃在外乡的发妻：你出一纸休书诉他停妻再娶，我保你母子下半生。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "满腔心意缩成一页纸，被退回就是连人带心意一起退",
+    "tension": "三个月的夜灯熬成两个字，他看得懂就看，看不懂就散",
+    "text": "我把亲手抄了三个月的琴谱递给他，扉页只写了知音二字。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "父母属意的良缘，和我留下的满城猜测",
+    "tension": "婚事搅黄了，心上说的人还蒙在鼓里",
+    "text": "我当着提亲的媒婆说心里有人了，名字我死也不说。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "他若失约，沉下去的是这些年全部的念想",
+    "tension": "一块玉佩给这份情定了死期",
+    "text": "我约他在初遇的桥头等，他若不来，我就把玉佩沉进河里。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "酒醒之后，答错的两个人连朋友都做不成",
+    "tension": "酒是遮羞布，话是真心话，天亮前必须有个答案",
+    "text": "我借着酒意问他：若我嫁作他人妇，你可会后悔今夜？",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "帕子若落到旁人手里，闺誉尽毁",
+    "tension": "帕子进了书房，心意就再也撤不回来",
+    "text": "我请绣娘把两人的姓绣在同一方帕子上，托人送进他书房。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "族老的怒火、议亲的资格，全押在他敢不敢应",
+    "tension": "把终身大事闹成宗族公案，逼他不能再装聋",
+    "text": "我在祠堂当着牌位起誓非他不嫁，让族老们去拦，让他来选。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "他若真就此收了东西，这段情便是我亲手退没的",
+    "tension": "以退为进的狠招，赌他会带着人来讨个说法",
+    "text": "我退回他所有的礼物，只留一张字条：东西还你，人你带不走。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "满河灯里认得出笔迹的人多，他放走的可能是满城谈资",
+    "tension": "心愿给他看了，放不放是两个人的事",
+    "text": "我在灯会上把写了心愿的灯举到他眼前，让他亲手放走。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "话经了第三人的口，传错一字便满盘皆输",
+    "tension": "一句话把终身挂在一次赴约上",
+    "text": "我托他的书童递话：后日申时，旧梅树下，来了便是一生。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "抗旨的嫌疑、女儿家的名声，一杯全押了",
+    "tension": "满座高朋面前抢酒，等于把心事喊给全城听",
+    "text": "我替他挡下那杯赐婚的喜酒一饮而尽：这杯，我替他醉。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "半辈子攒下的赎身钱和最后的尊严",
+    "tension": "卖身契都拍上了桌，他一句不收就是当众剥皮",
+    "text": "我把自己的自由身文书押在他桌上：我的人，你收不收？",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "父亲的震怒、那门亲事背后的权势，和我再无退路的立场",
+    "tension": "三个响头拒掉满门荣华，理由全府都猜得到",
+    "text": "我跪在父亲面前求他拒掉那门好亲事，不说理由，磕了三个头。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "若他当场撇清，我在满座女眷面前下不来台",
+    "tension": "一个口误试一颗心，他接不接都露底",
+    "text": "我故意把情诗念错名字，念成他的，看他脸不脸红。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "故意输是欺他，真输了就得远嫁，左右是赌",
+    "tension": "把终身押上擂台，招式里全是心意",
+    "text": "我约他比试：他赢了我远嫁不问，我赢了他娶我。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "他若看完仍无只字，这些年就成了我一人的笑话",
+    "tension": "不谈情，只把十年的痕迹摆出来让他自己看",
+    "text": "我把这些年为他抄的药方、记的旧账摊在他面前，一句情话不说。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "他若抽回袖子，我便是全城的笑柄",
+    "tension": "借满场的哄笑把私情抬到明面上，逼他当众表态",
+    "text": "我在众人起哄时顺势拉住他的袖子：既都说我们是一对，你敢不敢应？",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "他若战死，那缕头发就是我未嫁先寡的凭证",
+    "tension": "结发为约，他穿着我的心意上战场",
+    "text": "我割下一缕头发用红绳系了，塞进他出征的战甲夹层。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "他若病逝，这句话就是我守一生的枷锁",
+    "tension": "把话说绝，断了彼此所有假装的余地",
+    "text": "我在他病中说了真话：你活着我谁也不嫁，你死了我也不嫁。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "凤仪宫的脸面、半条性命，赌他敢不敢来领这份情",
+    "tension": "二十杖换满城风雨，只为让他知道自己等的是什么",
+    "text": "我拒了太后的指婚，领二十杖也不改口，让消息自己传到他耳朵里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "他若说出别人的名字，我连自欺的资格都没了",
+    "tension": "一个问题堵死所有退路，他的眼睛躲不开",
+    "text": "我当着他的面问他的心上人是谁，逼他要么说谎，要么看我。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "三日一到他若不来，我就得真剃了这头青丝",
+    "tension": "青灯古佛的帖子，其实是给他的最后期限",
+    "text": "我宣布要出家，帖子发了满城，赌他三日内上门拦我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "他母亲若看不上，这条路堵死就再没第二条",
+    "tension": "越过他直接过明路，长辈一认就是半门亲",
+    "text": "我把亲手做的护膝托他母亲转交，婆母的眼色比千句话都重。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "同党的罪名、家族的清白，全押在他值不值得",
+    "tension": "人人避嫌时我偏往前凑，心意和嫌疑一起坐实",
+    "text": "我在他下狱时第一个探监，当着狱卒说：你的罪名我一起担。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "他若不来讨，门就永远关上了",
+    "tension": "一个刻意的疏漏，是留给他的最后一道门",
+    "text": "我退还定亲信物时忘了取回他当年送我的那枚，看他来不来讨。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "他若不应，我连再嫁的由头都烧没了",
+    "tension": "烧掉嫁衣断掉所有退路，把活路只留给他一个人",
+    "text": "我在他衣冠冢前烧了嫁衣，转身对他说：现在我是未亡人，你敢应吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "嫁衣绣完他仍不认，我便是十里红妆的笑话",
+    "tension": "嫁衣是真，新郎是谜，满城都替我逼他现身",
+    "text": "我让全城都知道我在绣嫁衣，却不告诉任何人新郎是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "他若开口要的是别的东西，我愿赌服输",
+    "tension": "输掉的是棋，送出去的是任他开口的承诺",
+    "text": "我约他对弈，赌注是输的人答应赢的人一件事，然后我故意输。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "他若连这句都接不住，三年就真成了笑话",
+    "tension": "三年的闪躲被一句话钉在墙上，再无遮处",
+    "text": "我直直地问他：你躲我三年，是怕喜欢我，还是怕承认喜欢我？",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "清单一念完，他收与不收都是满城的话柄",
+    "tension": "当众清算旧物，还的是东西，递的是整个人",
+    "text": "我把他送的东西列了清单当众念出来，末了说：这些加上我，一并还你。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "三年青春守陵，守来的可能仍是一句空话",
+    "tension": "拿三年青灯换一个答案，期限是他给的勇气",
+    "text": "我请旨去守皇陵三年，临行只留一句：三年，我等一句准话。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "他的命，和我往后每一个梦见他的夜",
+    "tension": "一笔下去，救一族人，杀一心人",
+    "text": "我在供词上按了手印——用他的命，换我林家七十三口的清白。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "林家七十三口的生机，和自己的项上人头",
+    "tension": "撕的是纸，断的是全家唯一的活路",
+    "text": "我当庭撕了供词，宁可陪他一起问斩，也不把罪名扣在爹头上。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "熬不过去，这个家就同时没了媳妇和指望",
+    "tension": "孝字压秤，秤的另一头是自己的命",
+    "text": "我把仅有的一碗米留给婆母，自己喝了三天观音土汤。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "终身远嫁异域，和他知晓真相后余生的愧",
+    "tension": "凤冠霞帔是战书，嫁妆是一族人的赦令",
+    "text": "我答应和亲，条件是皇帝先赦了他的族——我嫁的是人，护的是心。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "通敌的凌迟之罪，和娘家满门的株连",
+    "tension": "放走的是他，钉死的是自己",
+    "text": "我拒了和亲，连夜送他出关，把通敌的罪名留给自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "孩子长大后唤别人娘，和永不原谅我的可能",
+    "tension": "亲手斩断母子缘分，换他一世衣食无忧",
+    "text": "我把孩子送回他生父那里——高门大户保得住他的命，我给不起。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "十年的字迹一朝成灰，他日相逢只能陌路",
+    "tension": "查案的刀悬在两家头上，灰烬是我能给的唯一活路",
+    "text": "我烧了他写给我的所有信，从此只当不认识这个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "他的性命与信任，和指认后我夜里再也合不上的眼",
+    "tension": "公堂之上二选一，手心手背都是自己的肉",
+    "text": "我当众指认他是凶手——不指认，死的就是我弟弟。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "秋后问斩的命，和他知道真相后会不会疯",
+    "tension": "死罪换他活着，还要他毫不知情地好好活",
+    "text": "我替他顶了罪，画押时只求主审官一件事：别让他知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "祖宗传下的饭碗、家族在杏林的地位，全换一剂救命药",
+    "tension": "方子一出手，林家三代立身之本就成了宫里的东西",
+    "text": "我把传家的药方献给太后，换我娘一线生机。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "娘亲的命，和余生每个清明坟前的自问",
+    "tension": "每声咳嗽都在数我的不孝，每次沉默都在保全家",
+    "text": "我守住了药方，眼睁睁看着娘咳血——方子一交，林家就再无根基。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "两条命押在一片云雾上，跳错便是同穴",
+    "tension": "不敢赌一个人活，就赌两个人同命",
+    "text": "我抓着他的手一起跳下悬崖——下面是生路还是粉身碎骨，谁也不知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "十天后的粮尽、可能的民变，和守城之责",
+    "tension": "开门是仁慈，也是把全城拖进饥荒的判决书",
+    "text": "我下令打开城门放流民进来——城里的粮只够再撑十天。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "城外几千条人命的骂名，和夜里挥不去的哭声",
+    "tension": "钥匙进了肚，谁也别想再开，包括心软的我",
+    "text": "我亲手锁死城门，听着城外的哭喊，把钥匙吞进肚子里。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "一生的婚姻做成抵押品，和他眼里再不会有的温度",
+    "tension": "洞房是议和桌，红烛下签的是停战的契",
+    "text": "我嫁给了他，用这场婚事换两家罢兵——从此只有盟友，没有旧情。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "战火重起的千万条命，都会算在悔婚的我头上",
+    "tension": "一句话掀了两家用婚事糊住的和平",
+    "text": "我当着两家主事的面悔婚——要打就打吧，我不做这杆秤上的秤砣。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "满门性命，和赌错后千古佞臣的骂名",
+    "tension": "一符定社稷，也定了自家九族的生死簿",
+    "text": "我把兵符交给了太子——赌他是明君，赌输了是满门。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "两军统帅同时要我命的悬赏，和家人的安危",
+    "tension": "让两边都打不成，等于同时得罪两边",
+    "text": "我把兵符沉进护城河，谁都别想要——这仗从根上就不该打。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "他眼里的光，和夜里那把钥匙烙在掌心的形状",
+    "tension": "锁的是他的牢，断的是自己最后一点念想",
+    "text": "我亲手锁上牢门——他是罪人，我是狱卒，私情到此为止。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "和二少爷再无可能，和明知不爱的人过一生",
+    "tension": "一顶花轿抬走儿女情长，抬来一族平安",
+    "text": "我应下大房的婚事——保得住全族，保不住自己那颗心。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "全家死守的秘密，和主上对我忠心的信任",
+    "tension": "放走的是人证，留下的是随时炸开的雷",
+    "text": "我违令放走了唯一知情的老仆——秘密可能泄露，但我不杀无辜。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "组织要我命的追杀令，和被救那人未必领情",
+    "tension": "一换药，我便从刺客变成了叛贼",
+    "text": "我把递上去的毒药换成了解药——交出去那刻，就知道回不了头了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "追兵围上来的刀，和家里再无人报的信",
+    "tension": "马背上载着全军的命，留下的是我一条",
+    "text": "我留下断后，把唯一的快马让给送信的小兵——情报比我值钱。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "夫家的休书之辱，和婆母从此不进的门",
+    "tension": "一箱嫁妆称出婆家和娘家孰轻孰重",
+    "text": "我卖了嫁妆赈灾——夫家的脸面和我娘的清名，我选了后者。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "亲生孩子可能留下的病根，和我这个娘的余生自责",
+    "tension": "一句话先救继子，亲生骨肉的命排在了后面",
+    "text": "我把两个高烧的孩子交给大夫，只说：先救那个不是我亲生的。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "父亲的死罪、宗族除名，和一生洗不掉的弑亲之名",
+    "tension": "护了国，卖了爹，忠孝在这一刻互为死敌",
+    "text": "我当着使团揭穿了父亲的叛国之谋——大义灭亲四个字，蘸的是心头血。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "他若接剑，我死；他若不接，两人一起死",
+    "tension": "把最狠的选择推给他，看他选命还是选我",
+    "text": "我把剑递给被围困的他：要么杀我突围，要么一起死，你选。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "他在桥外被围死的身影，和我余生夜夜惊醒",
+    "tension": "桥那头是他，桥这头是几万人，绞盘只转一次",
+    "text": "我在他和满城百姓之间选了百姓，亲手升起了吊桥。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "满城骂名、军法处置，和救回来那人会不会恨我",
+    "tension": "为一人生，负万人死，史册里我是罪人",
+    "text": "我在他和满城百姓之间选了他，落下吊桥那刻，把自己钉上耻辱柱。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "若他宁肯开战也不肯放我，我便知道嫁的是人是鬼",
+    "tension": "自由身换天下安，他签字的手抖不抖都是答案",
+    "text": "我把和离书和兵符一起放在他面前：放我走的条件，是停战。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0001",
+    "scene": "lichang",
+    "stakes": "身后万箭齐发，身前未必收我",
+    "tension": "阵前倒戈",
+    "text": "两军阵前我摘了头盔纵马走向对面，把帅印抛回自家阵中。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0002",
+    "scene": "lichang",
+    "stakes": "私印一旦搜出，通敌之罪诛九族",
+    "tension": "身许两国",
+    "text": "我接过赐婚的圣旨叩头谢恩，袖中还攥着敌国太子的半枚私印。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0003",
+    "scene": "lichang",
+    "stakes": "败后他第一个查的就是我",
+    "tension": "留分寸的背叛",
+    "text": "我把义兄的布防图交给他的对头，只改了其中一个数字——够他败，不够他死。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0004",
+    "scene": "lichang",
+    "stakes": "旧部视我为叛贼，新盟未必真心",
+    "tension": "化敌为盟",
+    "text": "我向昔日的死敌伸出手：从前各为其主，往后联手掀了那位主子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0005",
+    "scene": "lichang",
+    "stakes": "投降者的命，捏在受降者一念之间",
+    "tension": "以败军之姿投诚",
+    "text": "我卸了铠甲跪在他的帐前：我败了，也醒了，收不收留随你。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0006",
+    "scene": "lichang",
+    "stakes": "三天后带不回消息，两边都当我死了",
+    "tension": "劝降为表，摸底为实",
+    "text": "我答应劝降旧主，先讨三天期限，回去摸清城里还有多少愿跟他走的旧部。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0007",
+    "scene": "lichang",
+    "stakes": "族老们一翻脸，我先沉塘",
+    "tension": "借祖宗见证改旗易帜",
+    "text": "我借着祭祖的名头召集全族，祠堂里当众烧了效忠书，改立新主。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0008",
+    "scene": "lichang",
+    "stakes": "十年基业一朝散，还有不肯走的弟兄的命",
+    "tension": "亲手拆掉自己立的山头",
+    "text": "我连夜解散了聚义厅的弟兄，每人发了盘缠：旗我拔了，各奔前程。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0009",
+    "scene": "lichang",
+    "stakes": "两边刀斧手同时扑向我",
+    "tension": "临场反水",
+    "text": "鸿门宴上我摔杯为号，摔的却是对面给我定的那只杯——我改了主意。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0010",
+    "scene": "lichang",
+    "stakes": "师门满门，和我忘恩负义的一生骂名",
+    "tension": "大义灭亲",
+    "text": "朝堂上我把恩师这些年卖官的账册呈了上去，亲手递的。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0011",
+    "scene": "lichang",
+    "stakes": "旧主门生遍天下，识破即死",
+    "tension": "眼泪与投名状同流",
+    "text": "我哭着送旧主上了刑场，没人知道我昨夜刚给新主递了投名状。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0012",
+    "scene": "lichang",
+    "stakes": "新主若多疑先试我，伏兵埋的就是我",
+    "tension": "假意投诚设局",
+    "text": "我在新主面前失口说出旧主的藏兵处，引他倾巢而出——那地方早埋了伏。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0013",
+    "scene": "lichang",
+    "stakes": "降将的信誉，和万一他屠城我的千古罪",
+    "tension": "以城换人性命",
+    "text": "我开城投降，条件只有一个：入城之日，不许动我旧部家眷一根汗毛。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0014",
+    "scene": "lichang",
+    "stakes": "开匣验货之时，就是我授首之时",
+    "tension": "假首级真诈降",
+    "text": "我捧着旧主的首级——匣子里装的其实是颗冬瓜——去敌营诈降。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0015",
+    "scene": "lichang",
+    "stakes": "查账被发觉，旧主新主都容不下我",
+    "tension": "背叛也要验明正身",
+    "text": "改换门庭前，我先去查了新主当年那桩赈灾银的旧账——他配不配我叛。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0016",
+    "scene": "lichang",
+    "stakes": "自陈的罪名若不被赦，就是自己递的刀",
+    "tension": "抢在新主定性前自污自救",
+    "text": "我趁新君登基大赦，抢先一步自陈旧罪，把叛字洗成反正。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0017",
+    "scene": "lichang",
+    "stakes": "幼主若立不住，我赔上满门",
+    "tension": "不选边，自己造一边",
+    "text": "两边都来拉拢，我谁也没应，转头扶了那个谁都不看好的幼主。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0018",
+    "scene": "lichang",
+    "stakes": "旧营视我为叛徒，进去就难出来",
+    "tension": "闯营救人",
+    "text": "我单人独骑闯回旧营，只为把还蒙在鼓里的乳娘接出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0019",
+    "scene": "lichang",
+    "stakes": "话说出口，杀不了他也回不去故主处",
+    "tension": "杀机临头反水",
+    "text": "婚宴上我掀了盖头：嫁你本是为今夜替故主收命——但我改主意了。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0020",
+    "scene": "lichang",
+    "stakes": "双面人生，露一面即万劫不复",
+    "tension": "身归心叛",
+    "text": "我重新佩上旧主的腰牌，人人都当我回来了——只有我袖中的密信知道我是谁的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0021",
+    "scene": "lichang",
+    "stakes": "亲信若真叛变，我满盘皆输",
+    "tension": "送人入局",
+    "text": "我让亲信假意投奔旧敌，带去的投名状是一封会要他命的假情报。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0022",
+    "scene": "lichang",
+    "stakes": "一夜风寒事小，城楼上一箭下来事大",
+    "tension": "长跪明心",
+    "text": "我在城楼下跪了一夜，只求旧主开城门听我一句降——或者听我一句劝。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0023",
+    "scene": "lichang",
+    "stakes": "太后一旦失势，我第一个被清算",
+    "tension": "借凤威洗白",
+    "text": "我借太后的懿旨为自己平反，转头就成了新朝第一个女官。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0024",
+    "scene": "lichang",
+    "stakes": "交权容易保命难，皇陵也可能变坟场",
+    "tension": "急流勇退",
+    "text": "我递了辞呈交出兵符，自请守皇陵——朝堂上从此少一个我。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0025",
+    "scene": "lichang",
+    "stakes": "一句辩护，把自己划回旧党",
+    "tension": "为敌遗孤发声",
+    "text": "我当众替死囚犯辩了一句，满朝哗然——那死囚是我旧主的独子。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0026",
+    "scene": "lichang",
+    "stakes": "同时得罪双方，从此无阵营可投",
+    "tension": "撕局明志",
+    "text": "我撕了那份伪造的盟书，当着双方使者的面：这局我不陪了，真话在这。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0027",
+    "scene": "lichang",
+    "stakes": "熔印是死罪，佛祖也未必保我",
+    "tension": "熔印明志，逼新主表态",
+    "text": "我把新主赏的金印熔了铸成佛像供上庙堂，满城都知我的心变了。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0028",
+    "scene": "lichang",
+    "stakes": "他随时来收命，我护的人也未必谢我",
+    "tension": "以欠命之身行抗命之事",
+    "text": "我求旧主赐我一死，他偏不；我便用这条他不肯收的命，去护他要杀的百姓。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0029",
+    "scene": "lichang",
+    "stakes": "族规家法先打个半死，兵也未必借得成",
+    "tension": "请罪借兵",
+    "text": "我披发赤足回旧族请罪，请他们发落——只求发落完，借我三百兵救孤城。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-lichang-0030",
+    "scene": "lichang",
+    "stakes": "擅闯书房是死罪，那个名字让我再无归处",
+    "tension": "求证得证，证比疑更痛",
+    "text": "我潜入新主书房找那道杀我全家的密令，找到了，落款却是我最熟的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "冒充的罪名坐实，和满座宾客里他的那张脸",
+    "tension": "与其被人扯下遮羞布，不如自己烧了它",
+    "text": "我抢在被揭穿前自己掀了盖头——新娘是假的，但人是自己走进来的。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "他若真能说出玉佩来历，我便再无第二句话可辩",
+    "tension": "倒打一耙，把揭穿者架到僭越的火上去烤",
+    "text": "我一口咬定玉佩是祖上传的，反问：你一个下人，怎识得主子家的东西？",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "丫鬟知道得太多，她就是我下一个破绽",
+    "tension": "两份一样的字，让他们自己去吵哪份是真",
+    "text": "我连夜教贴身丫鬟学我的笔迹，真假两份手书同时递上去。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "白矾若被识破，欺君之罪比冒充更重三倍",
+    "tension": "把最要命的验法抢来做自己的证人",
+    "text": "我主动请旨滴血认亲——血里早掺了白矾，验出来的只能是亲。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "名字一出口，我也知道了自己不能知道的秘密",
+    "tension": "一声乳名，把孤儿钉回那个雪夜的真相里",
+    "text": "我当着众人唤他乳名——除了他死去的亲娘，没人知道这个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "在场若有真正的行家，错音里听得出刻意",
+    "tension": "假货才拼命弹对，真货才有资格弹错",
+    "text": "我在宴上故意把家传曲子弹错三个音——错得越自然，越不像冒充的。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "有朝一日需要自证清白，手里再无凭证",
+    "tension": "亲手毁掉唯一能证明我是谁的物件",
+    "text": "我把真正的信物熔了打成一支素钗——证据没了，我就永远是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "她儿子就是我的抵押品，我亦是她的",
+    "tension": "一场交易两命相抵，从此谁也不敢先翻脸",
+    "text": "我去求知道底细的姨娘，拿她儿子的前程换我的秘密。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "他若正是那晚要杀我的人，我等于自投罗网",
+    "tension": "底牌一亮，验明正身的同时也再无秘密可言",
+    "text": "我在他逼问下报出三年前那个雨夜的细节——只有当事人知道的细节。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "官府一旦查实谁真谁假，诬告罪加一等",
+    "tension": "贼喊捉贼，把揭穿我的人先送进被告席",
+    "text": "我抢先向官府自首，说有人要冒我的名——先告状的人总是原告。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "郡主的体面一旦脱了，就未必穿得回来",
+    "tension": "卸下名分去赴约，赌他认的是人不是封号",
+    "text": "我穿上旧日的粗布衣裳去见他：今日不是郡主见你，是阿沅见你。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "旧友擦肩而过不识，和痣若掉了前功尽弃",
+    "tension": "改变一张脸最容易辨认的记号，从皮相上换人",
+    "text": "我用姜汁在眼角烫出一颗假痣，镜子里的人连我自己都陌生。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "从今夜起，我的命拴在他的嘴上",
+    "tension": "把刀柄递到他手里，看他是护我还是握刀",
+    "text": "我把身世告诉了他——多一个人知情是死穴，也是最牢的绳。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "从此我的名字、生辰、过往，全是别人的",
+    "tension": "假戏做到底，用终身囚禁换一世荣华",
+    "text": "我认下替身的身份，条件是正主永远消失——我演一辈子，你们保我一辈子。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "夫家若有人上门寻妻，戏法当场戳穿",
+    "tension": "一个莫须有的夫家，挡掉所有查问的来路",
+    "text": "我当众盘起妇人发髻，报出夫家名讳——新身份是我唯一的盾牌。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "誓言发得越毒，败露那日摔得越碎",
+    "tension": "毒誓是虚张声势的盾，赌没人敢去掀底",
+    "text": "我在族谱前发毒誓说我是亲生，雷要劈就劈——声音越大，心虚的人越不敢问。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "宗正若临时反口，买官的钱就成了贿赂的罪证",
+    "tension": "把身家押在贪官的记性上，险中求一个官印",
+    "text": "我跪求验明正身，赌那个收了我银子的宗正还记得该说什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "谈崩了，我从冒名者变成杀人犯",
+    "tension": "谈得拢是封口，谈不拢是灭口，茶凉之前见分晓",
+    "text": "我约揭穿我的人单独见面，袖中藏刀，桌上摆茶。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "那个假货若被屈打成招，罪名会连坐到我头上",
+    "tension": "真假美猴王的局，乱的是查案人的眼",
+    "text": "我故意让另一个我先露面——两个假货对上，真的反而安全。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "烧得不留一片，也烧掉了所有能回家的路",
+    "tension": "一针一线的名字烧成灰，亲手葬掉前半生",
+    "text": "我烧了绣着闺名的所有帕子，从今夜起世上再没有这个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "戏文若传到该听的人耳中，唱的就是我的催命曲",
+    "tension": "把最大的秘密变成最热闹的谈资，真话淹没在锣鼓里",
+    "text": "我把身世写成戏文卖给戏班——满城都在唱，反倒没人信是真的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "宫中一步踏错，假凤的罪名株连九族",
+    "tension": "走进宫墙是当人质，也是握住泼天的势",
+    "text": "我答应冒郡主之名进宫——刀架在脖子上，名分就是人质。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "他眼里若有一瞬的陌生，我们便完了",
+    "tension": "把自己扒得一丝不挂地交给他的眼睛审判",
+    "text": "我在他面前卸下钗环卸下妆，连名字也一起卸了：你看清楚，我是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "信若在途中被截，满门随这枚印一起陪葬",
+    "tension": "最后一封真名信送出，印章随火焰作废",
+    "text": "我用真身份的印章盖了最后一封信，然后把它丢进火盆。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "嫁妆是钩子，钩着她，也留着她反咬的把柄",
+    "tension": "老宫的嘴拿人钱财，也最怕抖出自己收过钱财",
+    "text": "我买通宫里验身的老嬷嬷——她孙女今年出嫁，正缺一副体面嫁妆。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "若认亲的是仇家，我便亲手递上了寻仇的地图",
+    "tension": "最私密的印记当堂示人，验身也验命",
+    "text": "我当众露出肩上的胎记——这块胎记能救我，也能毁我，今日我赌救。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "若他的折子先到，我的反告就是狗急跳墙",
+    "tension": "两封密折赛跑，先到御前的那封定生死",
+    "text": "我把告密者的贪墨证据先一步递到御前——他要揭我的底，我先掀他的顶。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "旧部若来吊唁掀棺，假丧事办成真笑话",
+    "tension": "让追杀令随着讣告一起作废，死人最安全",
+    "text": "我放出自己病死的消息，灵堂棺材里躺的是一卷被褥。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "他若扬声喊人，我连逃的先机都没有",
+    "tension": "一句话把命交出去，用真心试真心",
+    "text": "我向他交了底：我是假的。然后看他的第一反应是护我，还是拿我。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "乳娘余生的怨，和知情者名单上唯一划掉的名字",
+    "tension": "最疼我的人是最危险的证人，远嫁是温柔的灭口",
+    "text": "我把能证明身份的乳娘嫁去千里之外——她想回来，也回不来了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "真金白银的五成利，他若赖账连本带心都赔进去",
+    "tension": "让利换名分，把生意谈成终身事",
+    "text": "我把三成利让到五成，条件是他亲笔写下婚书作押。",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "唯一的把柄，用完就没了",
+    "tension": "摊牌一击，赌他不敢鱼死网破",
+    "text": "我掀了桌上那盏茶，把暗格里他通敌的账册推过去：再加一条，放我兄长出天牢。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "借势被戳穿即反噬，两边都得罪",
+    "tension": "借别人的势压他的价",
+    "text": "我故意提起督主昨儿赏我的那匹云锦，看他脸色变了才慢条斯理开价。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "他事后查出我藏牌，往后再谈就没信用",
+    "tension": "留着后手不亮，谈崩了还有翻盘本钱",
+    "text": "我藏起袖中那面能调动漕帮的令牌，只跟他谈现银。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "示弱被看穿，就是任人宰割",
+    "tension": "以退为进，赌他动恻隐之心",
+    "text": "我红着眼眶说铺子是亡母留的，他要就拿去，只求给我留个柜台。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "谎话一戳就破，破了再无谈判余地",
+    "tension": "一句假话离间主仆，逼他自作主张",
+    "text": "我装作无意说漏嘴：其实你东家上月已派人跟我谈过一回。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "得罪中间人，连现成这条线都断",
+    "tension": "越过中间人直捣正主，成则翻倍败则出局",
+    "text": "我把地契推过去又按住一角：签字之前，我要先见你背后那位。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他若不喊，这单就真黄了",
+    "tension": "假意抽身逼他加价",
+    "text": "我起身掸掸袖子说买卖不成仁义在，走到门口故意放慢脚步等他喊留步。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "三日里他可能另找买家，夜长梦多",
+    "tension": "拖着不签去验他的底",
+    "text": "我说容我三日，转头就雇人查他货源是不是官仓里流出来的。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "一辈子的名分与自由",
+    "tension": "把自己摆上秤盘当筹码",
+    "text": "我提出以人抵价——我嫁过去，铺子当嫁妆，两家的账一笔勾销。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "逼急了对方可能硬抢引子",
+    "tension": "垄断底牌，价由我说",
+    "text": "我摊牌说北疆的引子只有我能弄到，这单不做，他三年翻不了身。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "验货之日身败名裂，还要赔三倍",
+    "tension": "瞒下致命瑕疵换高价成交",
+    "text": "我笑着应下他的高价，绝口不提那批货里掺了三成次品。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "他若顺势查托儿，我两头露馅",
+    "tension": "真假掺着说，乱他心智",
+    "text": "我告诉他，抬价的那位王府管事其实是我雇的托儿，看他信不信。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "真出了问题，要赔的就是命",
+    "tension": "以命作保震住全场",
+    "text": "我当场咬破手指按了血印：货若出问题，我这条命赔你。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "正主觉得我越级，心生戒备",
+    "tension": "攻心先攻谋主",
+    "text": "我说价钱好商量，先把他身后那位一直不吭声的师爷请来喝一杯。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "被发现就是探子行径，当场扣下",
+    "tension": "验货为名行查案之实",
+    "text": "我借口看货，摸进他仓库记下封条上的官印字号。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "独家名头给出去，别家门路全堵死",
+    "tension": "用虚名换实利",
+    "text": "我把价压到七成，但许他一个只此一家的独家名头。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "身世底牌揭开，再无退路",
+    "tension": "用旧情信物翻盘定局",
+    "text": "我亮出腕上的家传玉镯——这是他找了十年的信物，要货，先认人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "多交一个月利钱，就多一个月是人家的",
+    "tension": "藏着赎身钱看他开价",
+    "text": "我不说赎身的银子已经凑齐，仍旧按月给他交利钱，等他先松口。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "脸面丢尽，行里再抬不起头",
+    "tension": "当众放低身段，以面子换里子",
+    "text": "我当着满座账房给他斟茶，低声说只求东家给条活路。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "串供之日就是我死期",
+    "tension": "一契两造，让他们自己先打起来",
+    "text": "我把两张内容不一的契书分别透给他的两个合伙人。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "全部身家，输了一夜赤贫",
+    "tension": "孤注一掷逼对方给痛快话",
+    "text": "我把全部身家押上拍桌：这一单要么翻倍，要么我卷铺盖出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "船一开这条线就断了，再续要看运气",
+    "tension": "拿他未了的家务事当暂停键",
+    "text": "我留下一句等你把令夫人安置好再来谈，转身登船。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "暴露真正图谋，对方可能坐地起价或毁谕",
+    "tension": "明修栈道，真正要的另有所图",
+    "text": "我说生意是小事，转而出价买他手里那张先皇手谕。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "三日里露了行藏就出不了庄门",
+    "tension": "签约为名探虚实",
+    "text": "我答应签契，条件是去他庄上小住三日，实则摸清他的私兵数目。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "秘密出口，他把柄在手",
+    "tension": "掀开真实目的，谈钱变成谈命",
+    "text": "我直说我不缺钱，缺的是他每年腊月替我递进宫的一封信。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "他若与仇家本是一伙，我当场暴露",
+    "tension": "不动声色地递刀子",
+    "text": "我把他仇家的名帖不经意落在桌上，看他捡起来时的眼神。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "两头都是婚约，东窗事发是骗婚大罪",
+    "tension": "瞒着旧约谈新盟",
+    "text": "我瞒下未婚夫尚在牢里的事，应下了他联姻换盐引的提议。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "被识破装醉，谈判直接变鸿门宴",
+    "tension": "装醉窃听换底牌",
+    "text": "我装作不胜酒力趴在案上，听他当着我的面跟师爷交底。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "结盟一成，从此一荣俱荣一损俱损",
+    "tension": "让他选做买卖还是做同盟",
+    "text": "我把两份契书并排推过去：一份银货两讫，一份歃血结盟，让他自己挑。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "在族中立足的孝名，和被撕掉那几页上的名字",
+    "tension": "孝道当幌子翻家门的疮疤，撞破即是欺祖",
+    "text": "我借口给亡母上香支开守祠老仆，去翻族谱里被撕掉的那几页。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "暗格里若真藏着爹的秘密，我就再没资格装不知道",
+    "tension": "天下只有两个人能开这把锁，一个死了，一个是我",
+    "text": "我把铜钱塞进锁眼试开书房暗格——这锁是我爹的手艺。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "主家的信任，和被当成探子拿下的话柄",
+    "tension": "一盒胭脂换一张布防图，演砸就是细作",
+    "text": "我故意打翻胭脂盒，借着蹲地收拾数清西苑有几处岗哨。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "点心好收买，婆子的嘴未必只对我一个人松",
+    "tension": "最深的情报藏在最碎的家长里短里",
+    "text": "我陪灶上的婆子说了半月闲话，用一盒点心换枯井下埋过什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "惊动守夜人便是大不敬，逐出族谱的罪名",
+    "tension": "磕头与撬砖只隔一口气，敬与盗同在一炷香里",
+    "text": "我半夜摸进祠堂，先给列祖列宗磕了头，再撬供桌下的地砖。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "他若反咬一口，私闯禁地的罪名全落我头上",
+    "tension": "把最大的敌人绑上同一条贼船",
+    "text": "我拉上死对头同去探秘：出事他是人证，没事他是同谋。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "禁院的规矩是格杀勿论，装傻只有一次机会",
+    "tension": "一把土或许能验出埋过什么，跌得真假决定生死",
+    "text": "我装作迷路闯进禁院，跌倒时顺手抓了一把那里的土。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "更夫若被审出来，顺藤就摸到我房里",
+    "tension": "一盏灯笼的明灭之间，整座宅子成了睁眼瞎",
+    "text": "我贿赂更夫换了他的灯笼，今夜巡哪条路线我说了算。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "纸条若落到旁人手里，查的第一个就是经房",
+    "tension": "借清净人的手搅浑水，她一无所觉，我全身而退",
+    "text": "我把疑点写在纸条上塞进经卷，托抄经的表姑娘替我打听。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "湿滑井壁一失手，探案先成了坠井案",
+    "tension": "怕鬼就不用下来，下来的赌的是人心比鬼狠",
+    "text": "我脱了绣鞋赤脚下枯井，赌井底的哭声不是鬼是人。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "灵堂里翻东西，撞破便是惊尸扰灵的大罪",
+    "tension": "孝女的身影是最好的障眼法，哭声中动手",
+    "text": "我烧了三夜纸钱做幌子，守灵守到后半夜才去翻灵堂暗室。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "主人起了疑心，往后连园子门都进不来",
+    "tension": "笑语晏晏的每一步，都在给这座园子画贼图",
+    "text": "我借口赏花缠住主人逛园子，一路默记哪扇门落的是新锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "泔水车翻检出来，擅闯私宅的罪名坐实",
+    "tension": "三个月的踩点，成败只在这一道门的一息之间",
+    "text": "我藏在送泔水的推车夹层里，从角门混进这座守了三月的宅子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "香油钱越捐越多，庙祝看我的眼神越像看施主里的贼",
+    "tension": "菩萨眼皮底下踩盘子，虔诚是最好的伪装",
+    "text": "我以添香油为名日日去庙里，只为摸清后殿那间锁着的禅房。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "蛇若咬了人，查案的顺序会先查到放蛇的人",
+    "tension": "一场假祸换一炷香的空档，火起时没人看门",
+    "text": "我把蛇放进库房制造骚乱，趁众人救火翻进了账房。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "名字问出口，打听旧事的人也成了别人嘴里的旧事",
+    "tension": "说书人嘴里的故事，只差一个听出门道的人",
+    "text": "我请说书先生吃三盏茶，套出二十年前那桩旧案的第一个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "退路只有来路一条，被发现就是瓮中捉鳖",
+    "tension": "多留一息多一分真相，也多一分被堵在暗道里的死局",
+    "text": "我摸到暗道尽头听见人声，贴着墙根听完这半炷香再走。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "帕子上绣着我的小字，钓不到鱼先喂了鱼",
+    "tension": "一块帕子是饵，钓出谁天天在禁地进出",
+    "text": "我故意把帕子落在禁地门口，明早去看是谁捡走的。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "女扮男装入席，揭穿便是败坏两家门风",
+    "tension": "酒桌上的话最真，认出我身份的眼睛也最毒",
+    "text": "我换上小厮的衣裳混进男宾席，听他们酒后吐什么真言。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "对方若察觉香粉，反会知道府里多了个明白人",
+    "tension": "不动声色的记号，让拆信的人自己现形",
+    "text": "我把发现的密信原样放回，只在封口抹了一点香粉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "老夫人的宠信是我在这府里唯一的伞",
+    "tension": "尽孝的手和开箱的手是同一双，菩萨看着",
+    "text": "我借口替老夫人抄经，翻遍她院里每一只上锁的箱笼。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "引出来的若是杀人灭口的，我连喊人都没处喊",
+    "tension": "黑灯瞎火里，跟踪我的人比我更怕黑",
+    "text": "我夜里提着一盏不亮的灯笼出门，看谁跟着灭灯的脚步声。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "货郎的担子里若被翻出那件东西，戏就演到头了",
+    "tension": "一箱破烂里翻的是一门兴衰，收货的在收证据",
+    "text": "我扮作收旧货的货郎上门，专收老宅里没人要的破木匣子。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "箱中若是见不得光的东西，两个人一起沉",
+    "tension": "开箱前最后一息，试探与共犯只隔一层纸",
+    "text": "我拉着他一起开那只箱子：要么他拦我露破绽，要么共担秘密。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "开棺验尸惊动苦主，掘坟的罪名够流放三千里",
+    "tension": "白日哭丧夜里开棺，孝衣底下藏着仵作的手",
+    "text": "我在乱葬岗的新坟前烧纸，等送葬队伍走远了才去验那口薄棺。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "哑仆若被人知道画了图，她的命和我的线一起断",
+    "tension": "说不出话的人，偏偏看见得最多",
+    "text": "我用三支金钗换哑仆在沙盘上画出那夜她看见的路。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "他若查出入息是我漏的，私仇再无转圜",
+    "tension": "刀借出去了，砍向谁就由不得我",
+    "text": "我把密道入口的位置透给他的政敌，借别人的刀替我先探路。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "丫鬟醉倒被发觉，头一个嫌犯就是灌酒的人",
+    "tension": "巡夜的灯笼照见的，全是我平时没资格看的",
+    "text": "我把守夜丫鬟灌醉，换上她的衣服替她巡东跨院。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "开棺若一无所获，亵渎死者的罪无处可推",
+    "tension": "借着神明的口，壮自己犯禁的胆",
+    "text": "我在佛前掷筊问该不该开这口棺，连掷三次都是开。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "泥样血样在手，我也成了唯一能作证的人——灭口名单上的下一个",
+    "tension": "血渍尽头是活口还是死局，推开柴门才知道",
+    "text": "我顺着墙根的旧血渍一路摸到柴房，靴底沾的泥都刮下来收好。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0001",
+    "scene": "taowang",
+    "stakes": "一头长发和死囚名册——验明正身就真成了死囚",
+    "tension": "最危险的路就是最没人查的路，身边全是官差",
+    "text": "我绞了长发换上死囚的衣裳，混进押解的队伍出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0002",
+    "scene": "taowang",
+    "stakes": "祖传三代的铺面，和纵火罪名的通缉",
+    "tension": "半辈子的家业烧成一个时辰的空城",
+    "text": "我放火点了自家绸缎庄，满城的水龙都往那边调。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0003",
+    "scene": "taowang",
+    "stakes": "他若反悔喊人，我连城门洞都出不去",
+    "tension": "银子开路伤药攻心，买的是一个睁一只眼闭一只眼",
+    "text": "我塞给城门卒一袋银子一罐伤药，买的是他今夜害了眼病。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0004",
+    "scene": "taowang",
+    "stakes": "灵堂若被搜，我玷污的是最后一点香火情",
+    "tension": "最危险的地方供着最疼我的人，香火替我打掩护",
+    "text": "我把追兵引向东市，自己折返回他母亲的灵堂藏身。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0005",
+    "scene": "taowang",
+    "stakes": "被发现时人在船心，跳水都跑不过两岸弓手",
+    "tension": "官差捂鼻子的地方，恰恰没人愿意多看一眼",
+    "text": "我跳进运泔水的船，臭气熏天的三个时辰换一条出城水路。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0006",
+    "scene": "taowang",
+    "stakes": "尊严，和他可能转手把我交出去领赏",
+    "tension": "向最恨自己的人低头，他的痛快就是我的生路",
+    "text": "我去求恨我入骨的前未婚夫，用一句你赢了换一张出城路引。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0007",
+    "scene": "taowang",
+    "stakes": "三份里丢一份，信物便永远拼不回去了",
+    "tension": "东西分三路走，截住一路也凑不齐，我也说不全",
+    "text": "我把最重要的信物拆成三份，分托给三个互不相识的脚夫。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0008",
+    "scene": "taowang",
+    "stakes": "披风上的血是我的，仵作一验便知诈死",
+    "tension": "一件披风把猎犬引向陆路，水路歌舞正酣",
+    "text": "我在客栈门口丢下沾血的披风，人却扮成唱曲的上了画舫。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0009",
+    "scene": "taowang",
+    "stakes": "开棺那日若有熟人掀帘，假死就成了真罪",
+    "tension": "满岸的人看我死，从此世上查无此人",
+    "text": "我当众投河，棺里的尸首是银子买来的病故女尸，身量与我相仿。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0010",
+    "scene": "taowang",
+    "stakes": "仇人若记旧账，我等于自己走进了私牢",
+    "tension": "把命押在仇人的气度上，荒唐才最安全",
+    "text": "我敲开仇家的门求宿——追兵搜遍全城也不会搜这里。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0011",
+    "scene": "taowang",
+    "stakes": "从此名分上我是鬼妻，此生再无婚配余地",
+    "tension": "嫁个死人换条活路，花轿是最没人敢拦的牢",
+    "text": "我托媒婆把自己嫁去百里外的冥婚，随迎亲队伍出关。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0012",
+    "scene": "taowang",
+    "stakes": "乞丐里若有官差的线人，这局就是自投罗网",
+    "tension": "童言无忌，假消息经孩子的嘴最像真的",
+    "text": "我给满城小乞丐每人一颗糖，让他们满街喊我往南去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0013",
+    "scene": "taowang",
+    "stakes": "封棺钉若钉死，送殡就成了我的出殡",
+    "tension": "活人与死人同椁，出城的路上不敢喘大气",
+    "text": "我藏进送殡的空棺里，吹打声是最好的掩护。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0014",
+    "scene": "taowang",
+    "stakes": "此后漫漫长路，再没有一处屋檐是我的",
+    "tension": "亲手烧掉唯一的落脚点，断尾才能求生",
+    "text": "我回身烧了藏身的草庐，不留一件能指认我身份的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0015",
+    "scene": "taowang",
+    "stakes": "金叶子花完，遇上真劫镖的我连刀都没有",
+    "tension": "官道查匪不查镖，一面旗子护我三百里",
+    "text": "我用最后的金叶子买下镖局的镖旗，这一路我是镖师不是逃犯。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0016",
+    "scene": "taowang",
+    "stakes": "狱卒若临时加价或反水，自首就成了自缚",
+    "tension": "最严密的搜捕不会搜大牢，灯下黑里走暗桩",
+    "text": "我故意在县衙门口自首，收监当夜让买通的狱卒放我出后门。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0017",
+    "scene": "taowang",
+    "stakes": "最后的颜面，和半个时辰后撞上的追兵",
+    "tension": "把狼狈摊在最不想示弱的人面前，赌旧情未死",
+    "text": "我敲旧情人的后门，不开就跪到天亮——追兵至多半个时辰就到。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0018",
+    "scene": "taowang",
+    "stakes": "马认旧主，一声呼哨就能把我掀进包围",
+    "tension": "骑虎难下，索性把虎骑走",
+    "text": "我顺手偷了追兵统领的马，最招眼的那匹也最没人敢拦。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0019",
+    "scene": "taowang",
+    "stakes": "卖身契一按手印，这辈子再做不回清白人家",
+    "tension": "官差查良民不查牲口，自由身换一条命",
+    "text": "我把自己卖进人牙子的队伍，奴籍的烙印比通缉令好用。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0020",
+    "scene": "taowang",
+    "stakes": "良籍、名声，和日后洗白的所有可能",
+    "tension": "进山寨容易出山寨难，官身从此变匪身",
+    "text": "我投靠占山为王的义兄，从此清白人家的身份算是到头了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0021",
+    "scene": "taowang",
+    "stakes": "他被救走的恩情，和我未必逃得掉的命",
+    "tension": "一匹马只能救一个人，火光里的是留下的那个",
+    "text": "我让他骑唯一的快马先走，自己留下来点火拖住追兵。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0022",
+    "scene": "taowang",
+    "stakes": "孩子父母的信任，和轿帘掀开时两条人命",
+    "tension": "怀里的孩子是盾也是命，一哭就穿帮",
+    "text": "我换产婆的衣裳抱着别人家的新生儿出城，守兵不敢掀产妇的轿帘。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0023",
+    "scene": "taowang",
+    "stakes": "生是族里人死是族里鬼的资格，从此断了根",
+    "tension": "除名是自己求来的，往后的罪不连累满门",
+    "text": "我在祠堂给祖宗磕了最后一个头，从此族谱上再没有我的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0024",
+    "scene": "taowang",
+    "stakes": "箱中闷死渴死的风险，和镖头随时可能卖了我",
+    "tension": "把自己当一件货，性命系于箱外那把铜锁",
+    "text": "我求镖头把我钉进货箱，三天三夜，尿在裤子里也不出声。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0025",
+    "scene": "taowang",
+    "stakes": "京中认识我的旧故太多，一张熟脸就是死期",
+    "tension": "海捕文书最厚的地方，画像反而没人细看",
+    "text": "我反其道往京城跑——通缉令贴遍州县，唯独天子脚下没人想到。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0026",
+    "scene": "taowang",
+    "stakes": "稳婆若被严审，地窖的盖板就是棺材板",
+    "tension": "人命关天的老手，最会不动声色地藏人",
+    "text": "我用一支金钗收买接生的稳婆，在她家地窖躲过三波搜捕。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0027",
+    "scene": "taowang",
+    "stakes": "旧宅外伏着的弓手，和这条命的全部剩余价值",
+    "tension": "所有人猜我往北逃，我偏回虎穴取那一纸清白",
+    "text": "我夜里摸回旧宅，只为取那封能翻案的信——命可以丢，它不能。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0028",
+    "scene": "taowang",
+    "stakes": "猎户若贪图赏银报官，暖窝就是围场",
+    "tension": "官差顺着我的口风往北追，越追越远",
+    "text": "我放出风声说要渡江北逃，人却在南山的猎户窝里烤火。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0029",
+    "scene": "taowang",
+    "stakes": "药力若真伤了嗓子，往后想说真话也说不出了",
+    "tension": "乡音一露就死，索性把舌头押给药",
+    "text": "我吞下哑药扮作乞丐，三个月不敢开口说一个字。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "gufeng",
+    "id": "ch-gufeng-taowang-0030",
+    "scene": "taowang",
+    "stakes": "藤索若断，假坠崖就成了真坠崖",
+    "tension": "他的眼泪是全场最真的目击证词",
+    "text": "我把追兵里最心软的那个引到崖边，让他亲眼看我坠下去——崖下早有我备好的藤索。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0001",
+    "scene": "xinren",
+    "stakes": "性命，以及不喝就输了这场试探",
+    "tension": "明知可能有毒还是喝了，拿命下注",
+    "text": "他递来一杯酒，我当着他的面一饮而尽，把空杯倒扣在案上。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0002",
+    "scene": "xinren",
+    "stakes": "真相出口之日，情分即断",
+    "tension": "接了信物藏着疑问",
+    "text": "我接过那枚定情的玉佩，没告诉他我昨夜已见过它真正的主人。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0003",
+    "scene": "xinren",
+    "stakes": "被他发现，信任当场碎掉",
+    "tension": "面上信他，背后验他",
+    "text": "我应下他的盟誓，转头让心腹丫鬟去查他书房那口上锁的箱子。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0004",
+    "scene": "xinren",
+    "stakes": "他若负我，我连还手的家伙都没有",
+    "tension": "交出武器换真心",
+    "text": "我把防身的短匕解下来放在他手里：往后我的命，你替我看着。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0005",
+    "scene": "xinren",
+    "stakes": "一旦是局，无人来救",
+    "tension": "孤身赴约赌他不是圈套",
+    "text": "三更天我独自赴他的约，不带一个随从，走那条他指定的黑巷子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0006",
+    "scene": "xinren",
+    "stakes": "信物落齐之日，就是我制不住他之时",
+    "tension": "用分持信物互相制约",
+    "text": "我把密信分成两半，我持一半他持一半，约法三章再谈联手。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0007",
+    "scene": "xinren",
+    "stakes": "把私情摆到长辈面前，再无转圜",
+    "tension": "借尊长压他不敢背誓",
+    "text": "我请出他最怕的那位老夫人做中人，让他当着她老人家的面起誓。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0008",
+    "scene": "xinren",
+    "stakes": "问出口就捅破窗户纸，装不了糊涂了",
+    "tension": "不答反问，拿他的伤试他的心",
+    "text": "我不答他信不信我的问话，反问他腰间那道新伤是不是替我挡的。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他可能就此松手，一去不回",
+    "tension": "以退守换坦白",
+    "text": "我抽回被他握住的手：等你把那件事说清楚，再来牵我。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0010",
+    "scene": "xinren",
+    "stakes": "满纸心事，足够他拿捏我一辈子",
+    "tension": "摊开心事换信任",
+    "text": "我把写了多年的私密手札交给他：看完再决定要不要信我。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0011",
+    "scene": "xinren",
+    "stakes": "拿自己的身体当试纸",
+    "tension": "装傻咽药，看他下一步",
+    "text": "我接过那碗药一饮而尽，没说我早已尝出里面多了一味不该有的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0012",
+    "scene": "xinren",
+    "stakes": "示弱换不来真心，只换得来怜惜的施舍",
+    "tension": "亮出孤苦博他心软",
+    "text": "我红着眼说全家只剩我一个，再骗我，就真的没人信我了。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0013",
+    "scene": "xinren",
+    "stakes": "私闯的罪名，和被当场拿住的下场",
+    "tension": "明知是局也要闯，闯过才算自己人",
+    "text": "他让我三更去取那件东西，我明知是试探，还是翻墙进了那间院子。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0014",
+    "scene": "xinren",
+    "stakes": "两人若先通气，我立刻暴露",
+    "tension": "一石二鸟试两边",
+    "text": "我把两封内容相左的信分别落到他和他的副手手里，看他们如何对质。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0015",
+    "scene": "xinren",
+    "stakes": "他若不肯等于自认心虚，盟约告吹",
+    "tension": "以放人换信任",
+    "text": "我说要我信你也成，先把扣押的那名随从放了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0016",
+    "scene": "xinren",
+    "stakes": "他若当众不认，我颜面扫地",
+    "tension": "借众目睽睽锁住他的承诺",
+    "text": "我当着众人的面唤他表字，用全府上下的眼睛替我做个见证。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0017",
+    "scene": "xinren",
+    "stakes": "他一句话就能定我生死",
+    "tension": "交底换交心，把刀柄递给他",
+    "text": "我告诉他我在查的案子正查到他家门上，查不查，等他一句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0018",
+    "scene": "xinren",
+    "stakes": "他若知道我识破，图穷匕见",
+    "tension": "看破不说破",
+    "text": "我收下他送的合欢香囊，转身却没佩上——里面那味迷香，我认得。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0019",
+    "scene": "xinren",
+    "stakes": "最不堪的过往，成了他手里的故事",
+    "tension": "以旧伤作证，押上全部坦诚",
+    "text": "我解开衣领露出当年那道疤：这条命是捡回来的，你看着办。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0020",
+    "scene": "xinren",
+    "stakes": "他若不在乎，我就真的死了",
+    "tension": "以死试情",
+    "text": "他设的死间局我一眼看穿，却故意踏了进去，看他在不在乎我死。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0021",
+    "scene": "xinren",
+    "stakes": "他若疑我两头下注，百口莫辩",
+    "tension": "拿贿赂自证清白",
+    "text": "我收下敌方送来的那匣子金珠，转头原封不动摆在他面前。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0022",
+    "scene": "xinren",
+    "stakes": "三个月里任何一句谎话都足以散伙",
+    "tension": "用期限给信任上闸",
+    "text": "我与他击掌为誓：三个月内互不相瞒，期满再定去留。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0023",
+    "scene": "xinren",
+    "stakes": "这一递，主仆情分盟友脸面全没了",
+    "tension": "让畜生先试毒，撕破脸皮",
+    "text": "我不接他递来的酒，转手递给他身边那条狗。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0024",
+    "scene": "xinren",
+    "stakes": "他若不追，此别就是永别",
+    "tension": "以走验心",
+    "text": "我连夜搬出他的别院，只留下一张字条：信我，就别追。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0025",
+    "scene": "xinren",
+    "stakes": "唯一的护身符化为灰烬",
+    "tension": "毁掉把柄表明心迹",
+    "text": "我把真正能置他于死地的证据当面烧了，灰落进他杯里。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他若从别处得知，必疑我与买凶者一路",
+    "tension": "瞒下杀机护他一时",
+    "text": "我对他笑了，没说出今晨有人出价三千两买他的项上人头。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0027",
+    "scene": "xinren",
+    "stakes": "私翻书房被撞破，有理也变没理",
+    "tension": "翻检私物验真心",
+    "text": "我翻遍他书房，找到那封没有落款的旧信，对着笔迹比了半宿。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0028",
+    "scene": "xinren",
+    "stakes": "唯一的解药，和万一他另有解药的笑话",
+    "tension": "断自己退路换同生共死",
+    "text": "我当着他的面把解药倒进火盆：你我同中此毒，要死一起死。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0029",
+    "scene": "xinren",
+    "stakes": "我的秘密说出口，就再也收不回",
+    "tension": "以把柄换把柄",
+    "text": "我提议我们互相交换一个秘密，最见不得人的那种。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xinren-0030",
+    "scene": "xinren",
+    "stakes": "存档即成铁案，反悔要付官司代价",
+    "tension": "借官府文书锁死盟约",
+    "text": "我把我们的盟约写进婚书递到官府存了档，让他想赖都得过官面。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "性命，和他往后每夜的梦",
+    "tension": "代死，把命变成他还不清的债",
+    "text": "我替他饮下那杯赐死的毒酒，杯底朝亮给他看：记住，你欠我一条命。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "顶罪事发即斩，连尸首都不能归乡",
+    "tension": "冒名顶罪送他走",
+    "text": "我笑着送他出城，没告诉他城门口那张通缉画像，是我照着自己描的。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "他信了，就恨我一辈子",
+    "tension": "用绝情换他生路",
+    "text": "我断了腕上红绳扔进火里，冷着脸说不爱了——只有这样他才肯独自活下去。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "我的命，和万一他根本不领情的荒唐",
+    "tension": "法场顶罪",
+    "text": "法场上我喊刀下留人，当街认了那桩本该由他抵命的罪。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "退路，以及他会不会记得回头找我",
+    "tension": "让出生路自入死地",
+    "text": "我把最后一条渡船的位子让给他和孩子，自己退回城里，城门在身后合拢。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "名节，和他得救后看我的眼神",
+    "tension": "以身换命，清白做筹码",
+    "text": "我把自己许给能翻案的那位权臣，换他一纸赦书。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "被追上就是乱箭穿身",
+    "tension": "以身为饵引开追兵",
+    "text": "追兵将至，我披着他的斗篷往相反方向跑，马蹄声替我引开弓弩。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "诈降被识破即凌迟，成了真叛徒更是千古骂名",
+    "tension": "诈降取信，刀尖上送信",
+    "text": "我故意让敌营擒住，诈降献策，只为把他要的情报送出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "一生自由，和弟弟未必争气的人生",
+    "tension": "卖身换手足",
+    "text": "我跪求债主：父债女偿，卖我为奴，放过我弟弟。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "嫁妆、名分，和日后孤身的衣食",
+    "tension": "倾尽所有还要装作两不相欠",
+    "text": "我在和离书上按了手印，没让他知道我用全部嫁妆抵了他的亏空。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "粉身碎骨，换他一个或许能活的或许",
+    "tension": "先跳的人多半探不到底",
+    "text": "悬崖边我把唯一的缰绳系在他腕上，自己抓住藤蔓先跳下去探路。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "此生故国难回，和他眼里永远的负心人",
+    "tension": "以一身系两国",
+    "text": "我求太后赐婚把我嫁去和亲，换边关三十年不打仗，也换他不必战死。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "生前身后名，从此族谱无我",
+    "tension": "自污除名保全家",
+    "text": "我烧了自家祠堂把不孝的罪名揽上身，换族人把我除名——除名的人株连不到。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "点火的人跑不出那座空城",
+    "tension": "真图诈城，以身为引",
+    "text": "我给敌军送去真城防图，图是真的，城是空的——我留下来点火。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "断后者十死无生",
+    "tension": "断后之约，把死说得像出差",
+    "text": "我与他约法：我留下断后，你得活着回来给我收尸。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "吊桥那一半，就是我的坟",
+    "tension": "自断退路断敌追路",
+    "text": "大军突围那夜，我悄悄砍断自己这边的绳索，让吊桥只放下一半。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "他若提前发现，必不肯出战",
+    "tension": "把告别藏进针脚",
+    "text": "我把绝笔信缝进他的战袍夹层，想着他摸到它时，仗应该打完了。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "名节尽毁，浸猪笼的刑",
+    "tension": "揽罪保他清白",
+    "text": "我当众认了与他的私情，让他得以受骗之名脱身——罪我一个人领。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "他往后余生都要握着那把刀的记忆",
+    "tension": "求死在他手里",
+    "text": "我求他亲手了结我，好过落在敌手受辱——刀柄塞进他掌心，我握住不放。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "命，和万一药是假的连他也救不成的空",
+    "tension": "逆行入死城",
+    "text": "瘟疫封城，我翻墙进去送药，明知进去就出不来。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "一生青灯古佛，与他红尘两隔",
+    "tension": "以修行换赦免",
+    "text": "我求出家为尼替他赎罪，青灯换他的项上人头落地为安——皇上最吃这一套。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "他得救之日，是我拜堂之时",
+    "tension": "改嫁换人",
+    "text": "我把自己许给能救他的那个人，条件是婚宴当晚就动手救人。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "世人口舌，和他若信了假信的心死",
+    "tension": "自污名节换他清白",
+    "text": "我留下一封私奔的假信，让追杀的人以为他负心独逃，好护住他的清名。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "我的寿数，和他知道真相后的痛",
+    "tension": "以血续他的命",
+    "text": "我日日给他送汤，汤里是我的血入药——大夫说以亲者心头血为引。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "皇上若不准，这一跪成笑话还惊动他的政敌",
+    "tension": "求同罪共苦",
+    "text": "我跪进宫门三日，以命求一个与他同罪——要流放，就两个人一起。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "命，和他在岸上往后每一年的清明",
+    "tension": "放手沉江",
+    "text": "我松开他在洪流中抓住我的那只手，让他把力气留给怀里的孩子。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "阳寿，和他一生蒙在鼓里的安稳",
+    "tension": "逆天换命，无人知晓",
+    "text": "我和道士换了命数，签文落进火盆，谁也不知我替他挡了那道死劫。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "入匪窝名节难保，还未必换得回她",
+    "tension": "以己换人质",
+    "text": "我把绑匪要的赎金换成我自己送去，换下了被绑的他的未婚妻。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "千古骂名，和满城人的性命孰轻孰重",
+    "tension": "卖城保一家",
+    "text": "我答应做内应，条件是破城之日留他家满门——签字画押时我手没抖。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "gufeng",
+    "id": "ch-gufeng-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "鼓手是箭靶，擂到城破或擂到死",
+    "tension": "擂鼓聚敌火",
+    "text": "城破之前我登上城楼替他擂鼓，鼓声不停，就是告诉援军这儿还有活人。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "摊牌即摊命，他的回答决定我们谁死",
+    "tension": "摊牌逼供",
+    "text": "我把那枚在尸体边捡到的玉佩拍在他书案上：解释，或者偿命。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "棺中真相可能把我现在的身世全盘推翻",
+    "tension": "亲手挖出真相",
+    "text": "我按信上的暗号找到城南老槐树下，掘出那口埋了十六年的小棺。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "装得了一时，夜夜同眠的胆寒",
+    "tension": "装作不知，笑里藏刀",
+    "text": "我听完他的话，笑着斟茶——原来灭我满门的人，此刻正被我喊夫君。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "真相随我入土，冤者永冤",
+    "tension": "咽下真相成全体面",
+    "text": "我收起那封能翻案的信转身离开灵堂——让死人安睡，让活人糊涂。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "师徒情分、家族脸面，一问全毁",
+    "tension": "借尊长在座逼他不敢撒谎",
+    "text": "我请他最敬重的师父来府上吃茶，当着他师父的面问出那句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "他若真撒了谎，我往后信什么",
+    "tension": "给他一次撒谎的机会",
+    "text": "我红着眼把信纸递回去：告诉我是假的，我就当没看过。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "擅闯禁宫，抓住即斩",
+    "tension": "闯宫验字",
+    "text": "我夜闯禁宫档案库，只为看一眼当年那道朱批到底是谁的笔迹。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "真相经了别人的手，就不再受我控制",
+    "tension": "借刀揭盖",
+    "text": "我把真相告诉了他的政敌，借别人的嘴揭开——我手上不沾血。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "放过摊牌的最佳时机，他可能趁机灭口",
+    "tension": "先救替罪的人",
+    "text": "我没有揭穿他，转身扶起跪了三天、一直替他顶罪的那个老仆。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "知情不报，事发之日同罪",
+    "tension": "用沉默换平安",
+    "text": "我与他做个交易：真相我烂在肚子里，他放我们全家出城。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "两家颜面，和这桩婚事，当众尽毁",
+    "tension": "喜事变公堂",
+    "text": "换婚书那日，我把生母的绝笔拍在喜堂正中。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "稳婆说完就悬梁，我等于逼死一条人命",
+    "tension": "口供坐实身世",
+    "text": "我找到当年接生的稳婆，她发抖的手在双生子三个字上按了手印。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "我从此是共谋，井沉秘密也沉我的退路",
+    "tension": "替他守住秘密",
+    "text": "我知道他书房暗格里藏着什么，却在他试探时，亲手把那格钥匙扔进了井里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "家丑外扬，我也再不能在这族里立足",
+    "tension": "众目睽睽下揭开，容不得他抵赖",
+    "text": "我挑了家宴上族人最全的时候，把那件血衣从箱底捧了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "若真是毒，我拿命换一个答案",
+    "tension": "以身试毒求证",
+    "text": "我服下了他日日给我的补药，当着他的面，等一个结果。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "二房若顺藤摸到我，最先死的知情人是我",
+    "tension": "放风生火，坐看宅斗",
+    "text": "我把他生母尚在人世的消息，透给了视他为嫡子死敌的二房。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "我背上罪名，他可能顺水推舟让我顶死",
+    "tension": "抢认罪名保他",
+    "text": "满府都在等他认亲，我却先一步认下了那个罪名——只为他不必开口。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "他若说了半句留半句，我便成了姑息养奸",
+    "tension": "以宽恕换坦白",
+    "text": "我提出条件：真相由他亲口去祠堂说，说了，我既往不咎。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "三年情分，和他拔剑的速度",
+    "tension": "自揭身份求了断",
+    "text": "我掀开脸上易容：骗了你三年的人是我，要死要剐，今日了断。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "书吏讲完，灭口的杀手已经在路上",
+    "tension": "翻案先翻口供",
+    "text": "我重金赎出当年画押画错的那个老书吏，听他一字一句重讲那场冤案。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "买通仵作是同谋大罪，狱卒已经在查",
+    "tension": "伪造结论盖住真相",
+    "text": "验尸的仵作是我买通的——验出来的自尽两个字，是我让他写的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "证据只此一份，毁了就再无人能制他",
+    "tension": "毁掉证据各奔东西",
+    "text": "渡口边我撕了那封能要他命的信，碎纸落进江里，比雪还轻。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "惊驾之罪，状告不成立斩",
+    "tension": "御前告状，一击定音",
+    "text": "我把状子递到微服出巡的御驾前，拦轿喊冤，赌他不敢在御前杀我。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "答案若是否，我这些年的命就还给谁",
+    "tension": "一句真话定三年痴心的生死",
+    "text": "我抱着他的腰不撒手，哭着问当年救我的人是不是你——我只要你一句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "开棺辱尸是大罪，尸首的身份会掀翻半个朝堂",
+    "tension": "开棺见尸",
+    "text": "我掘开了那座空坟——棺材里躺着的，居然是我最想不到的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "信上有我的笔迹破绽，查到即死",
+    "tension": "两头点火逼他现形",
+    "text": "我把他亲笔的信誊抄两份，分别送进宫里和敌营，让两边都来问他。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "揭开养父真面目，十年养育之恩一夜成仇",
+    "tension": "灵前对质死人",
+    "text": "我把藏了十年的半块虎符放在他的灵位前——义父，女儿来索命了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "欺瞒宫闱是欺君，缠住的绢子随时会散",
+    "tension": "遮住身世印记",
+    "text": "宫里来认亲的嬷嬷问话时，我把腕上的胎记用绢子缠了三层。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "人证若半路被劫杀，翻案永无指望",
+    "tension": "人证易手，棋局翻盘",
+    "text": "我把他灭门旧案的三名人证连夜转移到他的仇家手里。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "gufeng",
+    "id": "ch-gufeng-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "寿宴惊变，我第一个被拿下",
+    "tension": "御前献赃",
+    "text": "太后寿宴上我献舞一曲，水袖甩开处，正是当年那方失踪的玉玺印文。",
+    "type": "choice"
+  }
+]

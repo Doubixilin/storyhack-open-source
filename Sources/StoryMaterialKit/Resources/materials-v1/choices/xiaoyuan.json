@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "若鉴定对我不利，连最后一点体面也没了",
+    "tension": "用物证当众翻盘，谁的脸都挂不住",
+    "text": "我把那张被涂改的答题卡拍上讲台，让全班看涂改液底下原来的字迹。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "彻底得罪主任，往后三年没好日子过",
+    "tension": "把私下的威胁放到明处对质",
+    "text": "我当着教导主任的面按下录音笔，从他说“我认识你家长”那句放起。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "万一监控恰好坏了，再没人信我",
+    "tension": "拿一个精确到分钟的时间点赌全部清白",
+    "text": "我要求调考场后门的监控，就查开考后第十七分钟。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "只要有一处对上，我满盘皆输",
+    "tension": "用错题反推清白，逻辑反杀",
+    "text": "我把三张“雷同卷”的错题号抄在黑板上：错得根本不一样。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "档案里那两个字会跟我一辈子",
+    "tension": "退一步，咬住定性不放",
+    "text": "我说检讨可以写，但“作弊”两个字必须改成“违纪”。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "万一考砸，等于亲口认罪",
+    "tension": "拿真实水平当场自证",
+    "text": "我提出现在就重考，监考老师随便你们换。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "逼急了他，把我别的事也抖出来",
+    "tension": "一个邮戳撬开整个局",
+    "text": "我问他：举报信盖的是市里的邮戳，你一个住校生去哪寄的？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "同桌一旦否认，我在全班面前成了笑话",
+    "tension": "从旁边的人身上找缺口",
+    "text": "我转向他同桌：上周五晚自习，你是不是借走过我的错题本？",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "把家里最难堪的事摊开给人看",
+    "tension": "亮出软肋换一丝松动",
+    "text": "我声音放低，说我妈下周手术，这个处分她扛不住。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "欠下人情，还把他拖进这摊浑水",
+    "tension": "让最有分量的人替我开口",
+    "text": "我把年级第一请进来，让他讲讲考试时谁一直在踢我的凳子。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "广播站的人若怕被连累不敢认",
+    "tension": "用不在场证明翻案",
+    "text": "我说广播站能作证，开考前五分钟我在帮他们修话筒。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "他若真倒干净了，我反成诬告",
+    "tension": "赌他心虚不敢倒",
+    "text": "我说你敢不敢把书包倒出来，就现在，当着所有人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "万一真有人接，我无路可退",
+    "tension": "让幽灵证人当场现形",
+    "text": "我说现在就给举报信里那个“目击者”打电话，开免提。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "越藏越像心虚，嫌疑反而坐实",
+    "tension": "洗冤的证据偏偏见不得光",
+    "text": "我把草稿纸折起来塞回兜里，那上面有不能让任何人看到的东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "被反咬成转移视线、做贼心虚",
+    "tension": "把火引向更大的窟窿",
+    "text": "我提醒主任，真正该查的是上周器材室丢的那本实验记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "暴露我一直截图存证，从此人人防我",
+    "tension": "用他亲手发的内容拆他自己的台",
+    "text": "我把他秒撤回的那条班群消息截图，投到教室大屏幕上。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "矛头指向老师，事情彻底闹大",
+    "tension": "一张纸追出写信的地点",
+    "text": "我指出举报信上的墨点，只有办公室那台漏墨打印机喷得出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "名额让出去了，处分还留着",
+    "tension": "用前途换档案干净",
+    "text": "我说处分我认，但别进档案，我拿市赛名额换。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "他若不上钩，反显得我阴阳怪气",
+    "tension": "一句闲话试出他的破绽",
+    "text": "我随口夸他桌上那瓶涂改液好用，看他下意识去捂笔袋。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "翻旧账把全班再得罪一遍",
+    "tension": "旧票根里藏着旧恩怨的线头",
+    "text": "我请班主任把上学期匿名评议的原始票根找出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "情绪失控的罪名先一步坐实",
+    "tension": "破釜沉舟式自证",
+    "text": "我把卷子撕了，说既然你们认定了，我现在重写一张给你们看。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "一旦有人撞见过我们，谎话全崩",
+    "tension": "保住那个人，就得放弃完整的不在场证明",
+    "text": "我咬死那晚一个人在图书馆，没提天台还有第二个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "连累当班委的朋友一起被调查",
+    "tension": "把嫌疑弹回给举报者",
+    "text": "我问：他怎么知道我的考号？监考座位表只有班委能看。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "交出字条等于供出传条子的人",
+    "tension": "字条既是凶器也是证据",
+    "text": "我掏出那张考试时传到我桌上的字条，字迹和我完全不同。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "申请被驳回，我就再没有新证据",
+    "tension": "一道杠定真假",
+    "text": "我申请比对监控里那双手的袖口，我那天穿的校服没有那道杠。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "对方宁可鱼死网破也不丢这个人",
+    "tension": "把私下和解变成公开宣判",
+    "text": "我提条件：道歉可以，但得在晨会上，当着全年级。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "在最想赢的人面前露了怯",
+    "tension": "示弱到底反而最难反驳",
+    "text": "我把手摊开给他看，手心全是汗：我怕，但我没抄。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "把两家大人全卷进来，再无转圜",
+    "tension": "用长辈的话压过孩子的话",
+    "text": "我把手机递给主任：这是他爸半小时前发在家长群里的语音。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "威胁不成，处分只会更重",
+    "tension": "掀桌子式的最后通牒",
+    "text": "我说处分随便给，但我会把全部材料寄到市教育局。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "惹上比作弊更惹不起的人",
+    "tension": "捅破一层所有人装看不见的窗户纸",
+    "text": "我指出真正缺考的是第三排那位，他的名字到现在没人敢念。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "问题问不倒他，我就是那个捣乱的小丑",
+    "tension": "在他最风光的六十秒里开刀",
+    "text": "他上台竞选学生会主席，念到第三句，我举起了手：“我有个问题。”",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "大人们只会觉得：这孩子记仇，可怕",
+    "tension": "在家长们的眼皮底下翻旧账",
+    "text": "我把她当年造谣的截图存了两年，就为了今天这场家长会。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "实名寄出，他也知道该恨谁",
+    "tension": "釜底抽薪，毁他的前程",
+    "text": "我把证据寄给了他最想进的那所大学的招生组，用的实名。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "三天里他随时可能先发现我手里的东西",
+    "tension": "把刀悬着，比砍下去更疼",
+    "text": "我说现在就能举报，但我更想看他再得意三天。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "被识破，我就成了和他一样的人",
+    "tension": "用他的刀，走他的门",
+    "text": "他当年怎么作弊赢我的，我原样搬进了他自己设的赌局。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "她是无辜的，这一贴把她也拖下了水",
+    "tension": "挑他最软的场合下最重的手",
+    "text": "我在他表白的那面心愿墙下，贴了那张聊天记录的打印件。",
+    "type": "choice"
+  },
+  {
+    "chars": 15,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "十分钟里任何一秒出错，作弊的帽子就扣回我头上",
+    "tension": "整个计划只有十分钟的窗口",
+    "text": "我等的就是监考换人的这十分钟。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "那人要是怂了，我的底牌就全亮了",
+    "tension": "借刀之前，先让刀知道自己被用过",
+    "text": "我把真相告诉了那个一直替他背锅的人，然后等。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "两头见面一对账，我就是始作俑者",
+    "tension": "让仇人替我动手",
+    "text": "我把他的把柄“卖”给了他的死对头，只换一句：你欠我一次。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "监控一查来路，匿名两个字保不住我",
+    "tension": "让规则替我完成复仇",
+    "text": "我说我不报复，我只是把监控视频恰好发到了教导处的公共邮箱。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "他念了，恨就没了；不念，我就得动手了",
+    "tension": "讨的不是债，是被抹掉的存在",
+    "text": "我说这仇我记了三年，今天只要你在全校面前，把我的名字念对一次。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "三份拼起来，寄件人只能是我",
+    "tension": "让仇人们互相猜忌着动手",
+    "text": "我把他的把柄拆成三份，分别寄给了三个互相不对付的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "他用得太狠，血一样溅到我身上",
+    "tension": "把刀柄递出去，刀也伤不到我",
+    "text": "我把复仇的机会让给了那个比我伤得更重的人：你来决定怎么用它。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "设备是学校的，一查使用记录就到我",
+    "tension": "在全校最整齐的场合放最难堪的声音",
+    "text": "我把当年他删掉的那段录音恢复了，挑在百日誓师的早上放。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "他要是真销毁了副本，我就再也没牌了",
+    "tension": "先纵后擒，让翻车更响",
+    "text": "我故意让他以为证据丢了，等他发朋友圈庆祝。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "流程走完了，可能只换来一句“证据不足”",
+    "tension": "用流程磨死他",
+    "text": "我把刀递给了规则：申请复核、申请公开、申请回避，一步不让。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "他要是看穿了，先告我一个设局陷害",
+    "tension": "让他亲手锁死自己的退路",
+    "text": "我等到他签完那份免责声明，才把最后一页材料递过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "他的处分有多重，我的就有多重",
+    "tension": "同归于尽式的实名举报",
+    "text": "我把自己也写进了举报材料：谁也别想干净着走出这间教室。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "从签字那刻起，我在这个年级再没有日子好过",
+    "tension": "用姓名给举报信加钢印",
+    "text": "我说这一次我不匿名，我的名字就签在举报信的抬头。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "差一天就过了期，差一小时都不算数",
+    "tension": "掐着规则的死线下手",
+    "text": "我在他当选公示期的最后一天下午，提交了书面异议。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "那学生无辜，我这一手和他当年一模一样",
+    "tension": "打蛇打七寸，打师傅打徒弟",
+    "text": "他教我的那套整人手段，我原封不动用在了他最得意的学生身上。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "他要是死扛，我就得决定要不要亲自说",
+    "tension": "诛心，而不是诛人",
+    "text": "我说我要的不是你退学——是你亲口告诉她，你做了什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "监控拍到我进过那间办公室，跳进黄河洗不清",
+    "tension": "让他尝一小时当年我的滋味",
+    "text": "我把他最看重的竞赛证书“借”走了，在他答辩前一小时还回来。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "翻案失败，连当年那点补偿都要吐回去",
+    "tension": "用白纸黑字把他钉回过去",
+    "text": "我把当年的调解书翻了出来：第三条，他早就违约了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "伪造的事一旦查清，他完了，提供渠道的我呢",
+    "tension": "让他自证其罪",
+    "text": "我把他伪造的谅解书和他的罪证钉在一起，一起交上去。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "他妈妈在，我这一手就沾了点不是东西",
+    "tension": "让他在最不想狼狈的人面前狼狈",
+    "text": "我挑了他妈妈来送饭的那天，把材料放进了校长信箱。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "一百天后，也许我自己都懒得报了",
+    "tension": "先赢人生，再算旧账",
+    "text": "我把复仇的日期定在了高考之后：恨一个人，不差这一百天。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "他只会把这句话当成我认怂",
+    "tension": "收刀比出刀更让他睡不着觉",
+    "text": "我说今天不动你——你妹妹在台下看着呢。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "他日后再道歉、再补偿，都没人信了",
+    "tension": "用假和解换真绝杀",
+    "text": "我在他道歉的那一刻说了“我接受”，出门就把材料寄了出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "他要是先下手污蔑我，我就成了报复未遂",
+    "tension": "把自首的窗口留给他",
+    "text": "我把举报的截止时间告诉他：周五之前你自己去说，之后我去。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "她若把信给别人看，我三年抬不起头",
+    "tension": "匿名能保退路，署名就是断退路",
+    "text": "我把写了三个月的信塞进她课桌，署的是真名。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "广播站处分，和全校皆知的拒绝",
+    "tension": "全校喇叭替我开口",
+    "text": "我在广播站值日时，把那首点歌的对象念出了名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "他若还是点了删除，连念想都不剩",
+    "tension": "用最后的五分钟换一个缓刑",
+    "text": "我拦住要转学的他：给我一个暑假，别现在删我。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "不要答案的告白，连被拒绝的资格都没有",
+    "tension": "把退路先递过去，话才说得出口",
+    "text": "我说你不用回答，我只是不想毕业照拍完还欠着这句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "她若当场换走，全班都看得懂",
+    "tension": "用最小的动作赌最近的距离",
+    "text": "我借班级合唱调整站位，站到了她旁边那一排。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "认领是告白，否认就再没机会认领",
+    "tension": "一千颗星星抵不过一句捡的",
+    "text": "全班起哄问谁折的纸星星，我说捡的，手把玻璃瓶捏得更紧。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "念出来就是处分加社死，不念就永远错过",
+    "tension": "稿子已交审，收不回来了",
+    "text": "我把告白写进了明天国旗下讲话稿的结尾。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "闺蜜嘴快，我还没开口她就全知道了",
+    "tension": "先探路再押注自己的志愿表",
+    "text": "我先去问她最好的朋友，她志愿到底填的哪座城市。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "冰棍化了可以再买的勇气，未必还有",
+    "tension": "逃跑也要逃得体面",
+    "text": "话到嘴边，我指着她手里的冰棍说快化了，转身又去买了一根。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "这一页可能被撕下来传遍全年级",
+    "tension": "一百多页笔迹替我开口",
+    "text": "我把草稿本翻到写满她名字那页，推到她面前，没说话。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "处分进档案，她却未必领这个情",
+    "tension": "用一张处分单替她出头",
+    "text": "我当着全班把她被没收的漫画要回来，说书是我的，要处分处分我。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "那晚路灯下可能只有我一个人",
+    "tension": "把答案交给一百天后的一个黄昏",
+    "text": "我说高考前不谈这个，但考完那晚七点，江边第三盏路灯下我等你。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "她想起每一次顺路，也可能只觉得可怕",
+    "tension": "拆穿自己一年的谎言",
+    "text": "我承认那些顺路都是装的，我家根本不住那个方向。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "他若最后退出，我得对着一群孩子熬完假期",
+    "tension": "押上整个暑假换四十天同行",
+    "text": "我报名了有他在的暑期支教团，申请表第一个交上去。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "录取通知书寄到那天，家里会翻一次天",
+    "tension": "用一个谎押上四年人生",
+    "text": "妈妈问志愿为什么改那么远，我说那边专业好，没说谁在那里。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "喊完晕倒，明天全年级都有新梗",
+    "tension": "喘不上气的时候说最需要勇气的话",
+    "text": "八百米最后一圈，我对着看台上她的方向喊出了那句话。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "他若当众承认，我当场出局",
+    "tension": "一句话把水搅浑，顺带试出情敌",
+    "text": "我跟起哄最凶那哥们说：你这么起劲，是不是你也喜欢她。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "他若问我为什么留着，我只能说实话",
+    "tension": "一张没缺的收藏比告白更露骨",
+    "text": "我把他随手画的草稿收了三年，今天装了整整一个文件袋还给他。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "班主任若找家长，家里先炸",
+    "tension": "把暗恋写进官方文书",
+    "text": "我跟班主任申请换座位，理由栏只写了四个字：想离近点。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "一起自习是我全部的赌注，输就没了",
+    "tension": "把期待降到最低，低到不忍心拒绝",
+    "text": "我说我配不上重点班的你，所以我问的不是交往，是能不能一起自习。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "她爸骑摩托来接时，我的链条刚好",
+    "tension": "一个谎换二十分钟",
+    "text": "我把单车链条修坏了，就为了推车陪她走完那段夜路。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "她若不问，这页就白空一辈子",
+    "tension": "空白比任何句子都响",
+    "text": "同学录我给每个人都写了祝福，只有她那页空着，真话留着当面说。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "明天所有人都会问我俩什么关系",
+    "tension": "身体比嘴先表了态",
+    "text": "升旗仪式上他晕倒，我冲出队伍背他去医务室，全校都看见了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "她选了前者，连那点好也一并收回",
+    "tension": "逼她给个痛快，哪怕是死刑",
+    "text": "我说要么现在拒绝我，要么别再对我那么好，我分不清。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "他若摘下来还给我，连朋友都难做",
+    "tension": "全部家当就是一句喜欢",
+    "text": "我把球赛赢的奖牌挂到他脖子上：我就会这个，别的拿不出手。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "信没送出去，我大概会后悔很多年",
+    "tension": "亲手给这句话送葬",
+    "text": "写到一半的告白信，我折成纸飞机从五楼放下去，看它栽进雨里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "保送没了，她的志愿也未必为我改",
+    "tension": "用一张保送表给一句话标价",
+    "text": "我把保送申请表推回去，当着主任说：我去她考的那座城市。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "赌输的话，朋友和暗恋一起没了",
+    "tension": "一句话戳破劝退背后的真心",
+    "text": "闺蜜劝他那样的人不缺人喜欢，我问她：那你为什么比我还紧张。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "处分单上只有我，她连知道都不会知道",
+    "tension": "一个人顶下两个人的事",
+    "text": "教导主任追下来问刚才谁在天台，我说是我，就我一个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "往后每届翻到这一页，我都无处可躲",
+    "tension": "印进书里的告白撤不回",
+    "text": "我在毕业纪念册众筹留言页用真名写了那句话，全年级可见。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "查出来有人顶包，处分翻倍",
+    "tension": "一个人扛下，字里不能有破绽",
+    "text": "检讨里我只写“我违反了纪律”，没写第二个人，交上去时手是稳的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "我爸妈知道后，家里那关过不去",
+    "tension": "替对手求情，还是用自己的名额",
+    "text": "我跟老师说名额给他吧，他妈妈去年下岗了，我家还撑得住。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "我若输了，连不服气的资格都没了",
+    "tension": "把人情题变回实力题",
+    "text": "我说猜拳太儿戏，加赛一场定名额，谁赢谁去，输的不许记仇。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "名额真没了，他未必谢我，只会恨我",
+    "tension": "毁掉自己的牌逼重新洗牌",
+    "text": "我把自己那份保送推荐表撕了：既然只能活一个，那就都别走捷径。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "监控放大到能看清脸，谎言当场收尸",
+    "tension": "一个谎护住一个人",
+    "text": "主任问监控里另一个人是谁，我说天黑没看清，那件外套我天天见。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "猜对了结怨，猜错了罪加一等",
+    "tension": "把审讯的方向盘抢过来",
+    "text": "我反问主任：您这么急着让我供出他，是不是有人催着结案？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "没有这条，今晚熬的夜就是白熬",
+    "tension": "规则缝里找两个人都活的出路",
+    "text": "我连夜把竞赛规程翻到最后，找有没有“双人递补”这一条。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "三天后答复若是他出局，这场球成了讽刺",
+    "tension": "用公事的拖延换私人的告别",
+    "text": "我说给我三天答复，其实我只是想再跟他打一场球。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "查下去查出我有受益，引火烧身",
+    "tension": "用我的案子撬评选的案子",
+    "text": "我把话题引向流程：上学期的票数公示，为什么少了两张？",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "十二年的分数，换一句我妈别哭",
+    "tension": "一句话拆掉全家吵了半年的架",
+    "text": "我当着两家人的面说：志愿我自己改回来了，不去北京，留本省陪我妈。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "他若假戏真做，这个朋友真没了",
+    "tension": "用反目演一场双活",
+    "text": "我跟他说：你装作恨我，把名额拿稳，毕业那天我再解释。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "签名不够，倡议成了笑话，我还暴露了",
+    "tension": "把自己的利益摆上台面公开审",
+    "text": "我把两人的名字都写进“倡议重评”联名信，第一个签的是我自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "他若查到材料来路，我连幕后都当不成",
+    "tension": "借最硬的那张嘴替我说话",
+    "text": "我去找最反对内定的老教师，把材料放他桌上，没落名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "赛场上发作，比退赛难看一百倍",
+    "tension": "一个谎言换留在赛场的资格",
+    "text": "我把诊断书折成四折塞进笔袋，体检表“既往病史”栏写了无。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "一次月考失手，筹码全没",
+    "tension": "拿自己的分数给弟弟当监护权",
+    "text": "我跟爸妈摊牌：跟谁都行，但弟弟必须跟我，条件是我成绩不掉前十。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "查账的痕迹被发现，锅没背上先被盯上",
+    "tension": "背锅前先验锅的成色",
+    "text": "我先去查那笔赞助费的到账日期，再决定这口锅该不该背。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "真相未必翻盘，前途先烧成灰",
+    "tension": "全校面前掀桌",
+    "text": "升旗仪式上我抢过话筒把真相说了，处分和名额，我一起不要了。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "校长若不吃这套，我连学生都没得当",
+    "tension": "一封信的威胁胜过十次哭诉",
+    "text": "我把被顶替的获奖证书原件拍在校长桌上：要么一起查，要么我寄出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "章的来路连着我舅舅，火会烧回家",
+    "tension": "把两个人的嫌疑拧成一股绳",
+    "text": "我说名单可以先不定，但请查查他的加分证明为什么和我同一个章。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "他若哪天想通，我人财两空",
+    "tension": "用前途买沉默",
+    "text": "我提议名额让给他，条件是他欠我一个不追问：那晚我为什么在场。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "家没了，学校的庇护也跟着没了",
+    "tension": "大义灭亲的按钮按下就撤不回",
+    "text": "我按下举报键，实名，名单里第一个名字是我爸。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "他若真顺水推舟，我亲手递的刀",
+    "tension": "用狠话试他的良心",
+    "text": "我故意在他面前说“反正有人替我背锅”，看他今晚睡不睡得着。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "对光之后，装糊涂这条退路没了",
+    "tension": "答案可能是我最不想认的那个人",
+    "text": "我把两份卷子的笔迹贴在窗玻璃上对光，看那道大题是谁替我改的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "票箱里可能全是等着看我死的",
+    "tension": "把命运交给最不可控的一群人",
+    "text": "我把皮球踢回全班：匿名投票，我服从多数，包括投我出局。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "他若一去不回，我连讨债的身份都没有",
+    "tension": "放手放一个带条件的承诺",
+    "text": "我跟他说：你去，我留下；但明年今天，你得回来替我把旗升完。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "学校若只处理我，等于白送人头",
+    "tension": "自首当武器，同归于尽式公平",
+    "text": "我把自己作弊的证据和主谋的证据一起交了，要处理一起处理。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "他若还是走了，我连恨的姿势都没有",
+    "tension": "把自尊押在一句挽留上",
+    "text": "我红着眼眶问他：如果我说我撑不住了，你能不能别走。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "手术若出事，仿签就是刑责",
+    "tension": "一个假签名换他上手术台",
+    "text": "我替他在手术告知书上仿了签名，他醒来前这秘密只有我和医生知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "他若知道自己被当枪使，反水最狠",
+    "tension": "拿别人的慌张当谈判的垫子",
+    "text": "我把风声放给最怕事大的生活委员，等他替我求情时，我已在谈条件。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "舅舅若翻脸，我在两个家都没了位置",
+    "tension": "把旧债翻出来砸开死局",
+    "text": "全家逼我选跟谁过，我抓起电话打给舅舅：您当年欠我爸的，今天还。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0001",
+    "scene": "lichang",
+    "stakes": "划掉的不只是名字，还有我在这群人里的位置",
+    "tension": "当众撤名，比当众签名难十倍",
+    "text": "我站起来说：这份联名信，麻烦把我的名字划掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0002",
+    "scene": "lichang",
+    "stakes": "证词一撤，我的话从此打七折",
+    "tension": "亲手拆掉自己搭的台",
+    "text": "我把上周提交的证词撤回，当着所有人说：我看错了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0003",
+    "scene": "lichang",
+    "stakes": "队伍里那些人的目光，从此都冲我来",
+    "tension": "一个走位，一次站队",
+    "text": "我从讨伐的队伍里走出来，站到了被孤立的那个人旁边。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0004",
+    "scene": "lichang",
+    "stakes": "状子回到他们手里，我成了唯一的知情人",
+    "tension": "入伙礼退回，等于宣战",
+    "text": "我把他们塞给我的“投名状”，原样当众还了回去。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0005",
+    "scene": "lichang",
+    "stakes": "对面未必信，旧方一定杀",
+    "tension": "情报送出，我就是双方名单上的人了",
+    "text": "我把旧阵营的计划原封不动告诉了对面，连自己的退路都没留。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0006",
+    "scene": "lichang",
+    "stakes": "这句话出口，桥就烧干净了",
+    "tension": "把倒戈的锅甩回给旧队友",
+    "text": "我说我反水不是因为被收买——是被你们恶心到了。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0007",
+    "scene": "lichang",
+    "stakes": "道歉信再真诚，也堵不住“墙头草”三个字",
+    "tension": "公开否定公开的自己",
+    "text": "我把自己写的讨伐长文删了，换成一篇道歉信。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0008",
+    "scene": "lichang",
+    "stakes": "他要是真有鬼，我就是陪葬品",
+    "tension": "把自己的信用押在他的人品上",
+    "text": "我说从今天起我替他作证，谁不服，先过我这一关。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0009",
+    "scene": "lichang",
+    "stakes": "第三边只有我一个人，风往哪吹都淋我",
+    "tension": "拒绝站队的代价是独自成队",
+    "text": "我把两边给的好处都退了，宣布：我站第三边。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0010",
+    "scene": "lichang",
+    "stakes": "护了三年的人，我要亲手把他供出去",
+    "tension": "把枪口调转向自己人",
+    "text": "我说你们查的方向全错了，漏洞在我以前护着的那个人身上。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0011",
+    "scene": "lichang",
+    "stakes": "公开之后，社团散不散由不得我",
+    "tension": "用自查自清换立场",
+    "text": "我把社团经费的去向全部公开，哪怕签字报销的是我自己人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0012",
+    "scene": "lichang",
+    "stakes": "认下的这笔，要进我的操行分",
+    "tension": "用认自己的小错，换说真话的资格",
+    "text": "我说我不帮他洗白，我只纠正一件事：那天逃的课，是我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0013",
+    "scene": "lichang",
+    "stakes": "群里三百条未读，没有一条是好话",
+    "tension": "宣告与切割，一次完成",
+    "text": "我把支持他的消息发进了曾经的兄弟群，然后退了群。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0014",
+    "scene": "lichang",
+    "stakes": "翻案不成，我和他都罪加一等",
+    "tension": "让已定的判决重新开庭",
+    "text": "我说我改主意了：处分名单上，该换一个人的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0015",
+    "scene": "lichang",
+    "stakes": "没人会可怜一个背叛受害者的受害者",
+    "tension": "放弃受保护的身份",
+    "text": "我把自己从“受害者”名单里划掉，站到了被指控的那边。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0016",
+    "scene": "lichang",
+    "stakes": "门不开，我就困死在两堵墙之间",
+    "tension": "碟中谍只值一次敲门",
+    "text": "我把他们的“作战计划”听完，转身敲开了对面的门。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0017",
+    "scene": "lichang",
+    "stakes": "他拿着刀回头清算，第一个就是我",
+    "tension": "把刀柄还给该挨刀的人",
+    "text": "我把我给对面收集的黑料，亲手交给了他本人处置。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0018",
+    "scene": "lichang",
+    "stakes": "改票的痕迹留在票根上，藏不住",
+    "tension": "一票之差，一次易帜",
+    "text": "投票的最后一刻，我改了票，让平局变成了他的胜局。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0019",
+    "scene": "lichang",
+    "stakes": "赎罪的话，在他听来可能像二次伤害",
+    "tension": "用真相赎罪",
+    "text": "我把护了三年的秘密，说给了一直被我们排挤的那个人听。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0020",
+    "scene": "lichang",
+    "stakes": "孤立一旦生效，是两个人一起沉",
+    "tension": "把孤立变成双人套餐",
+    "text": "我说你们要孤立他，那连我一起孤立好了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0021",
+    "scene": "lichang",
+    "stakes": "信要不回来，就说明已经递到了更高的地方",
+    "tension": "让上膛的枪退膛",
+    "text": "我把当初递上去的举报信要了回来，换成一份情况说明。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0022",
+    "scene": "lichang",
+    "stakes": "发言人反水，两边的通稿都不会替我留名字",
+    "tension": "用旧身份给新立场开光",
+    "text": "我说我不再是你们的发言人——我的第一句自由发言是：他无罪。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0023",
+    "scene": "lichang",
+    "stakes": "名额辞了还能再评，话收不回",
+    "tension": "拒绝带着条件的青云梯",
+    "text": "老师“重点培养”的条件是疏远他，我把名额辞了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0024",
+    "scene": "lichang",
+    "stakes": "伪装一天，就被两边各记一笔",
+    "tension": "用归顺做伪装",
+    "text": "我把对面阵营的暗号全学会了，只为在最后关头坏他们一次事。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0025",
+    "scene": "lichang",
+    "stakes": "挪过去就挪不回来了",
+    "tension": "用最笨的方式宣告最狠的变节",
+    "text": "我把站队表上自己的名字挪到了另一列，全年级都看得见。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0026",
+    "scene": "lichang",
+    "stakes": "他知道了，三年的包庇一笔勾销成仇",
+    "tension": "停止包庇，也是一次倒戈",
+    "text": "我把值日表上替他做的假记录抹掉了：这一次，我不护了。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0027",
+    "scene": "lichang",
+    "stakes": "他若不接受，我连道歉的资格都没了",
+    "tension": "用全部的日常补偿一次背叛",
+    "text": "我说以前是我错了——从今天起，我的笔记、我的球、我的座位，都归他。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0028",
+    "scene": "lichang",
+    "stakes": "群里每个人都有嫌疑，我跑不掉",
+    "tension": "让猎物提前看见猎枪",
+    "text": "我把他们商量怎么整他的群，截了图，发给了他本人。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0029",
+    "scene": "lichang",
+    "stakes": "自己班的人，以后不会再让我碰哨子",
+    "tension": "把公平吹给曾经的对手听",
+    "text": "裁判席上我换了人，然后吹了一个对自己班不利的哨。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-lichang-0030",
+    "scene": "lichang",
+    "stakes": "夺印失败，就是投敌未遂",
+    "tension": "不降，反夺帅印",
+    "text": "我说我可以帮你们，但指挥权给我——从听他的，改成听我的。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "坦白换不来接纳，就再没学校要我",
+    "tension": "抢在被拆穿前自己引爆",
+    "text": "他盯着我校服上的旧校徽印，我抢先开口：对，我就是从那所学校被开除的。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "腕带滑出来那秒，全班眼神都变",
+    "tension": "用羡慕的谎言盖住同情的真相",
+    "text": "我把住院腕带撸进袖口，笑着说我请假是去看演唱会了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "问多了露怯，他反而确定传闻是真的",
+    "tension": "摸清底牌再决定演哪一出",
+    "text": "我先套他的话：你听说的是哪个版本？从谁那儿听的？",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "他若宁可同归于尽，两张处分一起发",
+    "tension": "用对方的把柄压对方的发现",
+    "text": "我反问他：你翻我档案袋的时候，就不怕我先告你盗窃？",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "尊严扫地之后，名额未必给",
+    "tension": "用全部难堪换一个名额",
+    "text": "我承认表格是假的，眼泪是真的：我妈被清退了，你们查不到她。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "他若中途反悔，我补出来的徒弟最知道我软肋",
+    "tension": "用分数给秘密上保险",
+    "text": "我跟认出我的老同学做交易：保密到高考，我帮你补数学，一对一。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "下学期的饭费还没着落",
+    "tension": "弃保式自证，钱不要了脸要",
+    "text": "全班要查我的贫困证明，我站起来说不用查了，我不领了。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "老师一抬头，双胞胎一起处分",
+    "tension": "一次答到赌两个人的人生",
+    "text": "我接过话筒替“请假”的哥哥答到，嗓音压低八度，老师没抬头。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "躲得过初一，点名册还在那",
+    "tension": "用病遁躲过点名的第一枪",
+    "text": "名字被点到前，我举手说去医务室，从后门绕出了这间教室。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "他知道我的从前，我不知道他要什么",
+    "tension": "猎人和猎物隔着一页纸对视",
+    "text": "我翻新生名册，那个总盯我的转学生，原学校和我的是同一所。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "两个版本撞车时，我圆不回来",
+    "tension": "用谎言中和真相",
+    "text": "我散布消息说她是富家千金来体验生活，用更离奇的谣言盖掉真的。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "假学籍坐实，连高考资格都没了",
+    "tension": "把审判权当众交出去",
+    "text": "我把两个学籍号并排写在黑板上：查吧，哪个是真的，今天我认。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "价没谈拢，明天公告栏见",
+    "tension": "以秘密换秘密，看谁的黑更深",
+    "text": "我拦住要去举报的他：开个价，给不起的，我拿秘密换。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "她若说漏，我笑贫不笑娼的人设塌了",
+    "tension": "一个词保住我在班里的体面",
+    "text": "妈妈来开家长会，我提前教她：别提夜市摊，说您在餐饮行业。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "说完没人信，就真成全校公敌",
+    "tension": "用更大的曝光压传闻",
+    "text": "视频截图疯传，我索性开直播：对，三年前打人视频里的是我，听我说完。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "旧同学也靠不住，旧事可能越翻越全",
+    "tension": "查出源头才有谈判的对象",
+    "text": "我托以前的同学查，是谁把我被劝退的旧事贴到新学校的贴吧。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "逃学一天，换身份不暴露",
+    "tension": "最熟我底细的人就在二十米外",
+    "text": "看到旧教导主任走进校门，我拉低帽檐，跟着参观团人流出了校门。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "一次考砸，所有旧闻重新上桌",
+    "tension": "用排名给身份镀金",
+    "text": "我拼命考进年级前十，让好学生三个字变成最结实的挡箭牌。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "他若记得这句，疤痕会说话",
+    "tension": "一句话两个谎，听的人信不信随他",
+    "text": "他问我胳膊上的疤，我说是猫抓的，我们家根本没养过猫。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "他若不认账，申请和脸面一起没了",
+    "tension": "把尊严按天出租",
+    "text": "我说你可以看不起我，但别在填助学申请的这几天拆穿我，过后随你。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "台下若有我妈单位的同事，她的谎也完了",
+    "tension": "把最大的难堪演成最硬的姿态",
+    "text": "亲子活动日，我看着空座位，上台说：我没有家长来，节目我自己给自己鼓掌。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "他若拿出不在场证明，脏水全泼回我",
+    "tension": "让宿敌替我背这口锅",
+    "text": "全年级追查匿名贴吧账号，我把矛头引向隔壁班那个看我不顺眼的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "拆错一处，我成了跳梁小丑",
+    "tension": "用技术流打造谣者的脸",
+    "text": "我比对了那张合影的光影，找出被P过的破绽，明天当众拆。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "开学那天谎言自动爆雷",
+    "tension": "藏着最好的牌，演最惨的人",
+    "text": "我把真正的录取通知书压箱底，跟所有人说我落榜了，准备复读。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "同情比歧视更难消化",
+    "tension": "用最不想示人的真相终结所有猜测",
+    "text": "我在全校面前摘下帽子，露出化疗后的光头：这就是我一直瞒的事。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "日记里任何一处对不上，反噬加倍",
+    "tension": "喂一个编好的版本给调查者",
+    "text": "我故意让怀疑我的人捡到一本假日记，里面的故事比真相体面得多。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "他若先自首，我成了勒索犯",
+    "tension": "把对方的罪变成自己的盾",
+    "text": "我找到真正顶替我的人：我不揭发你，从明天起，你做我的影子。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "柜子里的咳嗽声响起就全剧终",
+    "tension": "一节课演两个人",
+    "text": "双胞胎的课表撞了，我把他塞进讲台柜，一个人答了两个班的到。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "从此班里的每一句请客都像施舍",
+    "tension": "撕开装了三年的阔",
+    "text": "我把一摞缴费单摊在班主任面前：我不是装穷，是真穷，但我要脸。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "摊牌之后，我连一起回家的人都没了",
+    "tension": "最毒的信来自最近的肩膀",
+    "text": "我蹲了三个晚上，拍到往我柜子里塞恐吓信的人，是每天跟我一起回家那个。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "笔记给出去了，解法未必讲得真心",
+    "tension": "用借东西换到真正想要的东西",
+    "text": "我说笔记可以借，但月考那道压轴题的解法，你得先讲给我听。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "排班表是我在学生会唯一的筹码",
+    "tension": "拿稀缺资源硬换稀缺资源",
+    "text": "我把学生会查寝的排班表拍给他：替我值周日，换你的竞赛推荐票。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "他转头就能把签到的事捅给老师",
+    "tension": "用劳力换一张关键选票",
+    "text": "我答应替他签到一学期，条件是班委改选时把票投给林薇。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "把柄用一次就少一次，换不来道歉就亏了",
+    "tension": "借把柄换一个公开交代",
+    "text": "我说这事可以不告诉老师，但你要在校刊上公开向她道歉。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "我怎么知道他删的是唯一一份",
+    "tension": "互相销赃式的等价交换",
+    "text": "我提出各退一步：他删帖子，我删截图，谁也别留备份。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "题库一亮出来，就不归我一个人了",
+    "tension": "用诱饵钓出更值钱的东西",
+    "text": "我说保送面试的题库我有，但先把去年的考场记录给我看。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "在他妈面前撒谎，被拆穿就是两个人一起死",
+    "tension": "替他扛雷换一件证物",
+    "text": "我答应替他在家长会上圆谎，换他交出那半张检讨书。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他要的若不只是票，我就开了个坏头",
+    "tension": "趁他求票抬高价码",
+    "text": "我说票可以给你，但辩论赛决赛一辩的位置让出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "钱花了，名头还得罪了隔壁班",
+    "tension": "出钱买独家署名权",
+    "text": "我说赞助费我出，但横幅上只能印我们班的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "他若报警说我敲诈，截图就成了我的罪证",
+    "tension": "用沉默逼对方先亮底",
+    "text": "我把聊天截图往桌上一放，不说话，看他先出什么价。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "他口头答应，转头在群里阴阳我",
+    "tension": "用既往不咎换一个公开平反",
+    "text": "我说这事到此为止，前提是你在班群里亲口承认看错人了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "档案里留下一笔，换的只是口头承诺",
+    "tension": "替人挨刀换家人清净",
+    "text": "我提出替他背一半处分，换他妈不再找我妈的麻烦。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "他要反悔不认账，我名额面子两空",
+    "tension": "让出实利，死守名声",
+    "text": "我说名额我让，但你要当着全年级说清楚：这是让的，不是输的。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "我哥根本不知道我把他卖了",
+    "tension": "用大人的资源解大人的围",
+    "text": "我提出拿我哥的律师朋友，换他爸撤掉对学校的投诉。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "名单一旦看过，我就再也不是局外人",
+    "tension": "捏着引信先看牌",
+    "text": "我说举报信可以不交，但收礼的名单得给我看一眼。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "他抢先跟校医串好词，我这张牌就废了",
+    "tension": "把退路留给对方，把刀握在自己手里",
+    "text": "我说你可以继续装病，但校医那通电话我随时会打。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "他今天答应，明天照样可以装没看见",
+    "tension": "用谈判桌换一张人身保单",
+    "text": "我说我只要一句话：下次他们堵我的时候，你站我这边。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "签名凑不齐，求情信反而成了笑话",
+    "tension": "用集体人情压一个人",
+    "text": "我提出集全班签名求情，换他删掉那段录音。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "他要真不喊，我就得灰溜溜坐回来",
+    "tension": "用离场逼对方加价",
+    "text": "我假装要起身走人，赌他在我走到门口之前喊停。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "引荐的人嘴不严，两头都会记恨我",
+    "tension": "把自己摘出去，只卖门路",
+    "text": "我说这事我管不了，但我知道谁能管——你拿什么换我引荐。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "两家一通气，就知道是我在两头挑",
+    "tension": "鹬蚌相争，我来捡漏",
+    "text": "我把两家补习机构的报价摊开，让他们当着我的面互相压价。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "他家长闹到校长那，我就是得理不饶人的那个",
+    "tension": "把赔偿换成公开处刑",
+    "text": "我说道歉我接受，赔偿不要钱——周一升旗，你把检讨重新念一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "顶了事之后他不认账，我白白背一笔",
+    "tension": "认领小错，摘掉大锅",
+    "text": "我说书我可以替你顶，但把我的名字从报名表上撤下来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "他收下钱接着查，我就是花钱买了张罪状",
+    "tension": "割肉止损，捂住更大的窟窿",
+    "text": "我提出让出社团经费的一半，换他不再追查另一半的去向。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "他真点开了，我连人带手机一起完了",
+    "tension": "赌他心虚不敢细看",
+    "text": "我把手机推过去让他自己删照片，赌他不敢点开那一张。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "他真敢上楼，我手里的事也见不得光",
+    "tension": "用同归于尽逼他回到桌前",
+    "text": "我说谈崩了也行，教导处就在楼上，要不我们一起走一趟？",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "他回过神来，就知道今晚谁才是猎物",
+    "tension": "用顺从换一句不设防的真话",
+    "text": "我先答应他全部条件，只在他松口气的那一刻，问出真正想问的那句。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "这一放，师生关系、两家交情全砸",
+    "tension": "用亲情软肋压停谈判",
+    "text": "我把他妈的投诉电话录音放了一小段，然后问他：还要继续谈条件吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "他日后再拿今天的事要挟，我毫无还手之力",
+    "tension": "全盘接受只为封口",
+    "text": "我说你的条件我都接，但签字之前，加一条：永远不准提今天。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "字据本身就是双方见不得光的证据",
+    "tension": "用社死条款锁死协议",
+    "text": "我提议立字据：谁反悔，谁在班群里发自己期中全科成绩。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "数到最后一个，可能是我认识的名字",
+    "tension": "缺口本身就是名单",
+    "text": "我顺着墙皮剥落的楼梯往上，数每层被撕掉的合影缺了谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "登记册里有我们家的人",
+    "tension": "尘封的记录比传闻狠得多",
+    "text": "我用手机灯照进档案柜缝，抽出那本一九九八年的处分登记册。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "打草惊蛇，对方知道有人盯上了",
+    "tension": "设个土陷阱钓那个比我先来的人",
+    "text": "我把粉笔灰撒在老实验室门把手上，明早来看有没有人动过。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "撬锁的痕迹会算到我头上",
+    "tension": "钥匙在，用钥匙的人呢",
+    "text": "我撬开讲桌下锈死的抽屉，里面躺着一串不该属于学生的钥匙。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "进退两难，手里还攥着作案工具",
+    "tension": "开锁声和脚步声赛跑",
+    "text": "我把铁丝捅进旧实验楼后门的锁孔，第三下时楼道里响起脚步声。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "摔下去，连个知道我在哪的人都没有",
+    "tension": "上不上下不下的十秒钟",
+    "text": "我顺着消防水管往天台爬，半道发现铁锈正簌簌往下掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "门开后无论看见什么，都得一个人面对",
+    "tension": "断电十年的设备为谁通电",
+    "text": "我按下那台早就断电的旧电梯按钮，它居然亮了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "被搜出来就是盗窃档案，不止处分",
+    "tension": "赃物贴着心口，脸上要笑得出来",
+    "text": "校工的手电扫过来，我把册子塞进校服，装作来找篮球。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "门一锁，我们也成了困在里面的",
+    "tension": "黑暗里分不清对面是人还是别的东西",
+    "text": "楼上传来第二个人的呼吸声，我拽着同伴退进准备室反锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "老师一旦起疑，信任额度清零",
+    "tension": "用乖学生身份做通行证",
+    "text": "我借口帮图书馆老师整理旧书，名正言顺进了锁了十年的书库。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "讲解词里的校史和楼里的对不上，瞒不住",
+    "tension": "最光明正大的理由干最不敢声张的事",
+    "text": "我报了校史讲解团，报名表就是进旧馆的通行证。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "被抓的只有我，罪名也只在我",
+    "tension": "我暴露在明处换同伴的安全",
+    "text": "我把巡逻保安引向操场另一头，给同伴留出翻窗的时间。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "谣言传开，我先背上造谣的名",
+    "tension": "辟谣最积极的人，往往最知情",
+    "text": "我在班群说旧楼闹鬼，看谁第一个急着出来辟谣。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "查到最后可能查到校长头上",
+    "tension": "照片里的人不存在，比鬼故事更瘆",
+    "text": "我对照毕业照背后的名字，找那个连续三年出现却查无学籍的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "量墙的动作被监控拍得清清楚楚",
+    "tension": "墙里多出来的四十厘米是什么",
+    "text": "我用尺子量了荣誉室的墙，比图纸厚了四十厘米。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "里面的东西也知道外面有人了",
+    "tension": "回应意味着里面有人，或者有别的",
+    "text": "我把耳朵贴上那面空心墙敲了三下，里面回了两下。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "他去查值日表，谎话撑不过十分钟",
+    "tension": "一块值日牌顶全部嫌疑",
+    "text": "主任问这么晚在教学区干什么，我亮出值日牌，说倒垃圾走错了楼。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "领走的是标本，还是别的什么",
+    "tension": "被刮掉的名字比写着的更想说",
+    "text": "我翻开标本室的领用登记，最近一页的名字被刀片刮掉了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "塌方堵死来路，连个求救都发不出",
+    "tension": "信号格数就是我的命",
+    "text": "我钻过防空洞塌了半边的入口，手机只剩一格信号。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "谎撒得越大，被拆穿时越没脸",
+    "tension": "拿去世的长辈编通行证",
+    "text": "我跟看楼的老教师说，我奶奶是这里的学生，她走前想再看照片。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "说破之后，今晚就必须做个了断",
+    "tension": "有人不想让人进去，或者不想让什么出来",
+    "text": "我把墙上的裂缝指给同伴：这不是裂缝，是从里面糊上的门。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "拼全的那半句，也许不该被读到",
+    "tension": "十几届学生接力写的半句话",
+    "text": "我把每张课桌肚里的刻字拍下来，拼出半句被裁掉的留言。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "里面没出来的同伴，算我丢下的",
+    "tension": "身后落锁，先保自己再查真相",
+    "text": "铁门在身后咔哒合上，我决定不回头，先绕去正门混进晚自习人流。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "钓鱼不成，先被当成造谣者处理",
+    "tension": "假消息钓真心虚",
+    "text": "我放话说旧楼里发现的是小抄仓库，引出真正紧张的那个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "他知道真相后，我在班里再无信誉",
+    "tension": "拿同学当幌子，兔子是死是活无所谓",
+    "text": "我拉着生物课代表同行，说去找走失的实验兔，一路进了标本室。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "照片是我进过禁区的自证",
+    "tension": "学校锁的门，学校自己开过",
+    "text": "我把封条边缘的胶痕拍了照：这张封条上个月被揭开又贴回去过。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "暗格里有上一任躲藏者留下的东西",
+    "tension": "全校的脚步声替我打掩护",
+    "text": "我钻进舞台底下的暗格，头顶跑操的鼓点正好盖住呼吸。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "他若去跟学校提一嘴，我就暴露了",
+    "tension": "老人的记性里锁着校史不敢写的部分",
+    "text": "我跟旧楼后的退休门卫换情报：一周早饭，换他记忆里那个名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "总务处真去捅马蜂窝，追查立至",
+    "tension": "一纸假告示圈出我的作案窗口",
+    "text": "我在公告栏贴了张“旧楼发现马蜂窝”的假告示，清出一周时间。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "对方发现标记，顺着卡号找到我",
+    "tension": "用一本书给暗处的人装定位",
+    "text": "我把借阅卡夹回那本没人借过的旧书，明天来看它去了谁手里。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0001",
+    "scene": "taowang",
+    "stakes": "墙那头等着的是保安还是自由，各一半",
+    "tension": "书包落地的闷响可能引来人",
+    "text": "我把书包先扔过墙，人再翻，落地时顾不上看蹭掉皮的手掌。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0002",
+    "scene": "taowang",
+    "stakes": "手电的来路一旦被看清，我比光还显眼",
+    "tension": "用光做诱饵，黑暗里换位",
+    "text": "我把手电往反方向晃两下，引巡逻去车棚，自己贴着墙根走。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0003",
+    "scene": "taowang",
+    "stakes": "队里有人认出我这张不该出现的脸",
+    "tension": "最危险的大门反而没人查",
+    "text": "我混进散场的啦啦队，跟着人流从正门大摇大摆出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0004",
+    "scene": "taowang",
+    "stakes": "他若念出卡上的名字，我接不住",
+    "tension": "一张捡来的卡顶全部嫌疑",
+    "text": "主任盘查时我掏出隔壁班的值日卡，背挺得笔直，心跳全在袖子里。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0005",
+    "scene": "taowang",
+    "stakes": "被逮住不是处分，是家里那场大地震",
+    "tension": "亲妈坐镇的路口比保安可怕",
+    "text": "前面路口有家长堵着，我掉头扎进菜市场，从后巷绕出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0006",
+    "scene": "taowang",
+    "stakes": "外机锈了，一脚踩空就是二楼",
+    "tension": "对讲机里的报点位在我脚下一米",
+    "text": "我蹬着空调外机爬上二楼平台，保安的对讲机还在楼下响。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0007",
+    "scene": "taowang",
+    "stakes": "窗里一抬头，我们正好脸对脸",
+    "tension": "逃跑前先给追兵点名",
+    "text": "我先绕到传达室后窗，看清今晚巡逻表上谁的名字被划掉了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0008",
+    "scene": "taowang",
+    "stakes": "群里老师也在，造谣罪加一等",
+    "tension": "用真情报干假向导的活",
+    "text": "我在班群发“听说东门有查岗”，引堵我的人跑错方向。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0009",
+    "scene": "taowang",
+    "stakes": "连廊尽头若也锁着，我们成了笼中人",
+    "tension": "锁死的门断了追兵也断了退路",
+    "text": "我拉着她从图书馆落地窗翻到连廊，玻璃门在身后自动上锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0010",
+    "scene": "taowang",
+    "stakes": "那张卷子写着我的名字，搜到就完",
+    "tension": "证据离我三米，人证只有我的心跳",
+    "text": "听见皮鞋声上楼，我把卷子塞进消防栓箱，空手走进厕所隔间。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0011",
+    "scene": "taowang",
+    "stakes": "捡球回来的正是追我们的人",
+    "tension": "十秒够不够翻出那扇窗",
+    "text": "我把篮球狠狠砸向操场那头，声响替我们买了十秒钟。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0012",
+    "scene": "taowang",
+    "stakes": "他若一句“学生不能出校”，直接送我进门卫室",
+    "tension": "把命交给一个陌生大人的善心",
+    "text": "我跳上送桶装水的三轮后斗，冲师傅喊：叔，赶时间，给你十块。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0013",
+    "scene": "taowang",
+    "stakes": "排水管的螺丝比我以为的旧",
+    "tension": "门内是处分，墙外是六楼",
+    "text": "天台门被推开的一瞬，我翻到女儿墙外侧，手指扣着排水管。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0014",
+    "scene": "taowang",
+    "stakes": "画面里留下的背影全校都认得出",
+    "tension": "三秒窗口，跟机器赛跑",
+    "text": "我数着监控探头的转向间隙，红灯摆过去的第三秒，跑。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0015",
+    "scene": "taowang",
+    "stakes": "他知道我撒谎那天，兄弟没得做",
+    "tension": "最烫的证据贴着皮肉",
+    "text": "同伴问处分单哪去了，我说丢了，它正贴着我的后背被汗浸透。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0016",
+    "scene": "taowang",
+    "stakes": "老地方等不到人，我就知道他替我顶了",
+    "tension": "分开跑活一个算一个",
+    "text": "眼看要被合围，我把手机塞给同伴：分头跑，老地方见，别回头。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0017",
+    "scene": "taowang",
+    "stakes": "单杠下面是器械堆放区",
+    "tension": "现学的动作赌现成的人生",
+    "text": "我从器材室天窗钻出去，踩着单杠翻上围墙，动作是跟体育生现学的。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0018",
+    "scene": "taowang",
+    "stakes": "他若不吃这套，我连最后的筹码也没了",
+    "tension": "把柄对把柄，看谁先眨眼",
+    "text": "我朝追来的学生会长喊：你确定要追？你上周翻窗我可有照片。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0019",
+    "scene": "taowang",
+    "stakes": "真正的环卫工从拐角回来了",
+    "tension": "最显眼的衣服是最好的隐身衣",
+    "text": "我披上环卫工搭在栏杆的黄马甲，低头推走那辆垃圾车。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0020",
+    "scene": "taowang",
+    "stakes": "工人若今天提前开工，正好人赃并获",
+    "tension": "逃跑赢在昨天的预习",
+    "text": "我提前一节课踩好点：西侧围墙上月拆了电网，新的还没装。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0021",
+    "scene": "taowang",
+    "stakes": "证件被捡到，明天的通报写得有名有姓",
+    "tension": "用身份做诱饵",
+    "text": "我把学生证丢在操场东头，人往西边的桦树林跑。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0022",
+    "scene": "taowang",
+    "stakes": "她若此时站在校门口，谎言当场收尸",
+    "tension": "风声比谎话诚实",
+    "text": "妈妈在电话里问我在哪，我说在教室自习，背景是我狂奔的风声。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0023",
+    "scene": "taowang",
+    "stakes": "校服内侧绣着我的名字和班级",
+    "tension": "舍一件校服换一条生路",
+    "text": "翻铁栅栏时校服被挂住，我干脆脱了它，光着膀子继续跑。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0024",
+    "scene": "taowang",
+    "stakes": "他若喊出来，我贿赂证人罪加一等",
+    "tension": "用一个空头名额买三秒沉默",
+    "text": "我冲堵住去路的学弟抱拳：今天当没看见，下个月联赛我让队长选你。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0025",
+    "scene": "taowang",
+    "stakes": "信里的内容比逃学更不能让老师看见",
+    "tension": "认罚之前先抢一件非做不可的事",
+    "text": "我对追来的班主任喊：我认罚，但先让我把这封信塞进他家门缝。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0026",
+    "scene": "taowang",
+    "stakes": "门卫回过味来，我上了他永久的黑名单",
+    "tension": "举报自己调开守卫",
+    "text": "我提前告诉门卫有人要翻墙，等他蹲守时，我从正门走了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0027",
+    "scene": "taowang",
+    "stakes": "照片本身就是一条处分，怎么用都是输",
+    "tension": "上周的鬼祟成了今晚的救星",
+    "text": "我翻出上周偷拍的总务处钥匙串照片，找能开侧门那把的编号。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0028",
+    "scene": "taowang",
+    "stakes": "明天被抓的人都记得是谁喊的",
+    "tension": "一句话发动全楼层的亡命徒",
+    "text": "我在楼梯间大喊主任来了快跑，整层楼的逃兵替我冲散追兵。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0029",
+    "scene": "taowang",
+    "stakes": "他若让我张嘴，一切免谈",
+    "tension": "证据在舌头上化掉",
+    "text": "我把写着真名的假条吞进嘴里，冲查岗的人摇头，含混说不是这学校的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-taowang-0030",
+    "scene": "taowang",
+    "stakes": "处分翻倍，但今晚只有一个人被抓",
+    "tension": "车门关上前把责任全揽下",
+    "text": "我把同伴推上先来的那班公交，自己留下：人是我带出来的。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0001",
+    "scene": "xinren",
+    "stakes": "聊天记录里有第三个人的秘密，不只关乎我",
+    "tension": "用彻底的坦诚换一次了断",
+    "text": "我把手机解锁递过去：翻吧，翻到满意为止，翻完这事就翻篇。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0002",
+    "scene": "xinren",
+    "stakes": "那张纸一离手，伪造和要挟都随他",
+    "tension": "把命门当投名状",
+    "text": "他让我把成绩单原件交给他保管，我双手递过去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0003",
+    "scene": "xinren",
+    "stakes": "他的秘密要是假的，我就是唯一裸奔的人",
+    "tension": "用互相抵押代替单向信任",
+    "text": "我说秘密可以告诉你，但你得先拿一个你的来换。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0004",
+    "scene": "xinren",
+    "stakes": "包里要真是违禁品，我这辈子就交代在传送带上",
+    "tension": "用不问来证明信",
+    "text": "他让我把东西带过安检，别问是什么，我没问，带了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0005",
+    "scene": "xinren",
+    "stakes": "不出声，两边我都再没位置",
+    "tension": "一句话换圈子的门票",
+    "text": "他们让我当众说一句“我不认识他”，我张了张嘴，没出声。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0006",
+    "scene": "xinren",
+    "stakes": "那页上写的，是我唯一没备份的话",
+    "tension": "用自毁证明守口如瓶",
+    "text": "我把日记本中间那页撕下来烧了，灰烬推给他看。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0007",
+    "scene": "xinren",
+    "stakes": "问出这句，他们就知道我还不服管",
+    "tension": "不见兔子不撒鹰",
+    "text": "我说入伙可以，先让我见见你们背后那个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0008",
+    "scene": "xinren",
+    "stakes": "录音要也是局，我是自愿走进去的",
+    "tension": "一段录音定生死",
+    "text": "他递来一只耳机：听完再决定信不信我。我戴上了。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0009",
+    "scene": "xinren",
+    "stakes": "明天起，被联名针对的可能就是我",
+    "tension": "一个人顶住全班的目光",
+    "text": "他们把笔塞给我：联名信就差你一个。我把笔放回桌上。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0010",
+    "scene": "xinren",
+    "stakes": "备份在云端，删掉的只是他的戒心",
+    "tension": "删掉底牌以示不疑",
+    "text": "我把录音放给他听，然后当着他的面删掉原件。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0011",
+    "scene": "xinren",
+    "stakes": "后手暴露，赴约就成了埋伏",
+    "tension": "只身赴约，暗留后手",
+    "text": "他让我一个人去器材室等他，我去了，定位共享给了三个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0012",
+    "scene": "xinren",
+    "stakes": "认下的每一条，都可能变成呈堂证供",
+    "tension": "用大坦白护住唯一的底线",
+    "text": "他们怀疑我的每条理由我都认，除了最后一条——那条我死也不认。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0013",
+    "scene": "xinren",
+    "stakes": "内鬼就在屋里，这句话一出口就收不回",
+    "tension": "把考题原路扔回去",
+    "text": "我说要表忠心可以，先告诉我：上次是谁把我供出来的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0014",
+    "scene": "xinren",
+    "stakes": "他真解锁了，我就没有台阶可下",
+    "tension": "把胆量赛升级成双向裸奔",
+    "text": "他问我敢不敢把聊天记录给他女朋友看，我说敢，你先解锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0015",
+    "scene": "xinren",
+    "stakes": "两清是他说了算，处分是我档案里的",
+    "tension": "用一个处分买断一段人情",
+    "text": "我答应替他顶下这次夜不归宿，条件是从此两清。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0016",
+    "scene": "xinren",
+    "stakes": "供出写信人，我就成了下一个叛徒",
+    "tension": "自证清白，顺便亮出情报",
+    "text": "我把那封举报信原稿摊在他面前：落款不是我，但我知道是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0017",
+    "scene": "xinren",
+    "stakes": "他若察觉我在核实，信任直接清零",
+    "tension": "嘴上说信，手上在查",
+    "text": "我答应守口如瓶，转身就把他故事里的每个细节核对了一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0018",
+    "scene": "xinren",
+    "stakes": "这句话说完，十年的交情当场见分晓",
+    "tension": "用兄弟的定义反将一军",
+    "text": "他说“是兄弟就替我顶这次”，我说：是兄弟，你就不会让我顶。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0019",
+    "scene": "xinren",
+    "stakes": "他拿假账去办事，出了事第一个咬我",
+    "tension": "用一枚假钉子试他的去向",
+    "text": "我把密码本交给他，里面夹着一页只有内行才看得出的假账。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0020",
+    "scene": "xinren",
+    "stakes": "对质输了，我就成了造谣的那一个",
+    "tension": "把私下的怀疑拖到光天化日",
+    "text": "我要求在广播站公开对质，让所有传言一次性死透。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0021",
+    "scene": "xinren",
+    "stakes": "照片在他手机里出现那天，我就是内奸",
+    "tension": "收下注，也留好退路",
+    "text": "他让我保管一把不属于宿舍的钥匙，我收了，但先拍了照。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0022",
+    "scene": "xinren",
+    "stakes": "一半处分也是处分，档案不跟你讲兄弟情",
+    "tension": "用共犯结构绑定信任",
+    "text": "我说今晚翻墙我陪你，被抓了，处分一人一半，谁也别跑。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0023",
+    "scene": "xinren",
+    "stakes": "翻到最后，没有人的手机经得起看",
+    "tension": "要验就互相验",
+    "text": "我让他把手机也放到桌上，两台一起翻，谁也别先喊停。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0024",
+    "scene": "xinren",
+    "stakes": "周五之前他什么都做得出来",
+    "tension": "给信任设一个倒计时",
+    "text": "我说我可以装作不知道，但期限是这周五，之后我按我知道的办。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0025",
+    "scene": "xinren",
+    "stakes": "他要拿稿子反咬我剽窃他的创意",
+    "tension": "交出底稿，扣住刀锋",
+    "text": "我把竞选演讲稿给他先审，最狠的那段留了白。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0026",
+    "scene": "xinren",
+    "stakes": "从今天起，两边都不会再替我兜底",
+    "tension": "拒绝递刀，也拒绝了保护伞",
+    "text": "他们让我在两个朋友里选一个“更值得信的”，我说我选我自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0027",
+    "scene": "xinren",
+    "stakes": "信封上的痕迹瞒不过去，她早晚知道",
+    "tension": "用越界验一次真心",
+    "text": "我把她让我转交的信当场拆开读了，读完原样封好还回去。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0028",
+    "scene": "xinren",
+    "stakes": "他背错一个字，露馅的就是我们两个人",
+    "tension": "把风险摊回给说谎的人",
+    "text": "他让我帮他圆一个谎，我说可以，但圆谎的每一句话他得先背给我听。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0029",
+    "scene": "xinren",
+    "stakes": "把柄用掉就没了，而他们要的下一次呢",
+    "tension": "用别人的命换自己的入场券",
+    "text": "我把他们要的“诚意”给了：把我最恨的那个人的把柄交了出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xinren-0030",
+    "scene": "xinren",
+    "stakes": "那位要是个狠角色，我就树了个真敌",
+    "tension": "把分手的矛头精确到一个人",
+    "text": "我说我退出，不是不信你，是我信不过你旁边那位。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "他不会知道是我，我也没打算让他知道",
+    "tension": "把前程悄悄过户",
+    "text": "我把唯一的保送推荐表折好，塞进了他的书包侧兜。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "记过两个字，要跟着我进大学、进档案",
+    "tension": "用一个人的档案换一群人的毕业",
+    "text": "处分只能落在一个人头上，我说：落我头上。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "我练了一整年，教练不会再给我第二次",
+    "tension": "让出聚光灯，成全别人的生计",
+    "text": "我退出了决赛名单，把位置让给那个家里等奖学金用的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "往后再被冤枉，我手里什么都不剩",
+    "tension": "证据一烧，是非两空",
+    "text": "我把能定他罪的证据烧了，火光照着我自己的清白一起没了。",
+    "type": "choice"
+  },
+  {
+    "chars": 18,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "改的志愿改不回来，她也不会知道我让过",
+    "tension": "把自己的四年让给别人的四年",
+    "text": "我说志愿我改，你们俩去同一座城市吧。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "助学金扣完，下学期的饭在哪儿还不知道",
+    "tension": "用一年的饭钱顶一次罪",
+    "text": "那台被砸坏的实验仪器，我说是我操作失误，赔，从我助学金里扣。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "撤诉那天起，全年级都当我默认了",
+    "tension": "用自己的冤情换他的活路",
+    "text": "我把申诉材料撤了：别再查了，再查他就毁了。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "名额明年还有，她的病不等人",
+    "tension": "名次和一个人，只能选一个",
+    "text": "我把复习三个月的竞赛名额，换成了陪她去医院的那张高铁票。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "他们连替我辩解一句都不会敢",
+    "tension": "一句话把群罪变成独罪",
+    "text": "全校面前，我说主意是我出的，他们只是听我安排。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "钱回不来，琴也再没有声音",
+    "tension": "梦想变现，救别人的急",
+    "text": "我把攒了两年买琴的钱，转进了他家急用的那个账户，备注空着。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "删了就永远删了，备份我不敢留",
+    "tension": "清白和体面，只保得住一个",
+    "text": "我删了那段能证明我清白的录音，因为里面也有她的哭声。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "留级生这三个字，要顶在头上一年",
+    "tension": "用一年青春换一家的指望",
+    "text": "我说让我留级，让他毕业——他妈妈真的等不起了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "哪天他要反咬，我连证人都不算",
+    "tension": "让出真相，也就让出了申冤的资格",
+    "text": "我把唯一知道内情的身份让给了他，往后我只是“听说的”。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "普通班的师资，追不回来就是追不回来",
+    "tension": "让出快车道",
+    "text": "分班志愿，我填了普通班，把实验班的位置空了出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "老师收了牌，未必守这个诺",
+    "tension": "牌打完了，我也再没筹码",
+    "text": "我把最后一张牌打出去，只求老师答应一件事：不开除他。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "评奖公示一过，这页纸再改不了",
+    "tension": "心血过户，悄无声息",
+    "text": "课题署名页，我把自己做的那部分划掉，改成了他的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "信封拆了还能粘，人生不能",
+    "tension": "把十年寒窗折成一张没拆过的信封",
+    "text": "我说这个家只能供一个，我的录取通知书，就当没寄到过。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "他要考砸了，我这个处分就白背了",
+    "tension": "替他坐牢，换他上岸",
+    "text": "我答应替他服完这个处分，条件只有一条：好好参加高考。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "他走了，留下来挨欺负的还是我",
+    "tension": "把唯一的逃生门让出去",
+    "text": "我把转学名额让给了被欺负得更狠的那个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "家里的年夜饭，今年又少一双筷子",
+    "tension": "用一张票换一个人不崩溃",
+    "text": "我把回家的站票撕了，陪她留在空无一人的宿舍楼过年。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "清白回来了，脸皮没了",
+    "tension": "用自曝隐私换真相大白",
+    "text": "我把聊天记录全公开了，连带着我追她两年的所有心事。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "休学容易复学难，回来时班级已经没我的位置",
+    "tension": "按自己的暂停键，续别人的命",
+    "text": "我选择休学一年，把助学金让给更撑不下去的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "分校的牌子，要跟着我一辈子",
+    "tension": "拿自己的前途填别人的坑",
+    "text": "我说用我的名额换他的：我去那所没人愿意去的分校。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "他再犯一次，我压证据的事就是包庇",
+    "tension": "人财两失，只为不看他坠落",
+    "text": "我把他的作弊证据压进抽屉，用自己的奖学金替他补上了窟窿。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "手术有风险，这个字够我背一辈子",
+    "tension": "在家长赶到的两小时前赌上一切",
+    "text": "手术同意书我来签，字我签，责任我担，你只管醒过来。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "那群人不会因为他走了就放过我",
+    "tension": "把生路让出去，把围堵留给自己",
+    "text": "天台的门我让他先走，自己留下来面对楼下那群人。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "我闭上嘴，冤情就此归档",
+    "tension": "申诉席只够一个人的话",
+    "text": "我把唯一一次申诉的开口机会，用来替他求情，而不是替自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "加分过了公示期，想改也改不回",
+    "tension": "把捷径让给更需要的人",
+    "text": "我把自己那份军训优秀学员的保送加分，求教官记在了她名下。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "答到被拆穿，我俩一起完",
+    "tension": "一个名额，两次冒险",
+    "text": "我把晚自习请假的唯一名额让给他去送外卖，自己留下来替他答到。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "表赎不回来，就再也见不到了",
+    "tension": "断他的死路，押上我的念想",
+    "text": "我把他欠的高利贷借条烧了，代价是把我爸留给我的表押给了人家。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "投影一关，我被报复的日子才刚开始",
+    "tension": "用不可逆的影像终结所有版本",
+    "text": "我把监控时间轴投到班会大屏幕上，一秒一秒，放给全班看。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "指错了，我在这个班就社会性死亡",
+    "tension": "矛头指向最不可能的那个人",
+    "text": "我说改卷的人不是老师——是坐在第三排、一直帮大家“对答案”的那位。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "他要咬死“巧合”两个字，我还差最后一环",
+    "tension": "用细节完成绝杀",
+    "text": "我把两份试卷并排举起来：连错别字，都错得一模一样。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "底单要是被做过手脚，我就是造谣源头",
+    "tension": "绕开指控，让账目自己开口",
+    "text": "我把捐款箱的底单贴在公告栏：数字自己会说话。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "她突然不讲了，我的证据链就断了",
+    "tension": "让谎言自己把自己勒死",
+    "text": "我请当事人自己讲，我只负责在她停顿时，递上下一张证据。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "原作者反水，我成了策划恶作剧的",
+    "tension": "活人现身，一锤定音",
+    "text": "我把那封“情书”的原作者请到了现场，笔迹，不用鉴定了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "得罪的不止他一个，是整条利益链",
+    "tension": "把家丑升级成公诉",
+    "text": "我把账本复印了三十份，家长会那天，人手一份。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "记录被清过，我最后一张牌就没了",
+    "tension": "用公共记录赌自己的清白",
+    "text": "我说你们可以不信我——那我们把实验室的使用记录调出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "刷卡记录要是干净的，我全盘皆输",
+    "tension": "一个问题，比一百句辩解重",
+    "text": "我说我不解释，我只问一句：那晚十点，是谁替他刷的卡？",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "广播室钥匙的来路，会成为第二个案子",
+    "tension": "挑最安静的场合放最响的雷",
+    "text": "我把录音里最刺耳的三十秒剪出来，就在升旗仪式前放。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "他讲完一套圆的，我的真相反而像污蔑",
+    "tension": "给他最后一次自己开口的机会",
+    "text": "我说把我查到的全说完之前，我想先听他自己讲一遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "三个人三个版本，老师只会觉得我在带节奏",
+    "tension": "用时间差拆攻守同盟",
+    "text": "我把三个证人错开请进办公室：各讲各的，串供都来不及。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "调包的过程被看见，伪造的帽子就扣我头上",
+    "tension": "让被替换的真相归位",
+    "text": "我把真的检讨书，换回了公告栏上那份伪造的。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "照片要是合成传闻的源头，我就万劫不复",
+    "tension": "用时间戳拆不在场证明",
+    "text": "我说这张照片拍于两点十四分——而你说你两点就睡了。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "风一旦吹歪，源头查到的还是我",
+    "tension": "借一张大嘴巴，省自己的嘴",
+    "text": "我把真相告诉了全年级最藏不住话的那个人，让风替我吹。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "纸屑拼不出来，我就成了毁证的人",
+    "tension": "残缺本身就是证据",
+    "text": "我把被撕掉一页的班级日志，连同纸屑，一起交给了教导处。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "他答上来了，我就再也翻不了案",
+    "tension": "一个细节拆一个假人",
+    "text": "我把他编造的那个“目击者”请到走廊，问他事发那天刮的什么风。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "破坏公物这条，先记在我头上",
+    "tension": "让两个版本当众对峙",
+    "text": "我把改过的成绩单和后台原始记录并排打印，钉在办公室门上。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "他只承认了一半，剩下一半就够反转",
+    "tension": "让打脸没有缓冲",
+    "text": "我把他亲口承认的那段语音，在他否认的下一秒按了播放。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "他今晚跑了，另一半就永远是悬案",
+    "tension": "留一半刀在鞘里做人质",
+    "text": "我说真相我先说一半，另一半，看他今晚的表现。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "发到第三天，学校就会以网暴名义收网",
+    "tension": "让恐慌替我做七天宣传",
+    "text": "我把真相拆成七条，每天往年级群发一条，一天只点一个名。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "手机里翻到的别的事，也一并曝光了",
+    "tension": "放弃隐私，换一次彻底的信任",
+    "text": "我把手机递给班主任：您自己翻，从三个月前那条开始。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "包括我最好的朋友，也在名单里",
+    "tension": "真相是一张全员的罚单",
+    "text": "我说你们要的真相在这儿——但看完，谁也别装无辜。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "报告要是被反咬是伪造，我就成了恐慌源头",
+    "tension": "辟谣的同时，揪出造谣的手",
+    "text": "我把饮水机的水样检测报告贴在实验楼门口：没毒，但有人想让我们以为有。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "翻案翻到最后，发现真相更难看",
+    "tension": "替一个不在场的人翻案",
+    "text": "我把那年“跳楼”传闻的来龙去脉讲清楚，包括第一个传话的人是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "撕表的人撕不掉表里的时间",
+    "tension": "让他的谎言在他家门口巡展",
+    "text": "我把他撒谎的每个时间点做成表，贴在了他自己班的后门上。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "登记本是我管的，嫌疑先绕我一圈",
+    "tension": "用一行缺失证明一只手",
+    "text": "我把器材室那晚的借还记录调了出来：借登记表上，少了一行。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "最后十秒要是空镜头，我再没机会开口",
+    "tension": "真正的戏在所有人失去耐心之后",
+    "text": "我说这页监控你们看了八遍，现在请把进度条拖到最后十秒。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "没人认领，三张纸就都算我写的",
+    "tension": "让谣言自己找主人",
+    "text": "我把三个版本的“真相”同时摆上桌面，请传播它们的人各自认领。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "xiaoyuan",
+    "id": "ch-xiaoyuan-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "第三个人要是我自己放进去的呢",
+    "tension": "从一个不该存在的影子讲起",
+    "text": "我说我只证明一件事：事发那晚，教学楼里根本不该有第三个人。",
+    "type": "choice"
+  }
+]

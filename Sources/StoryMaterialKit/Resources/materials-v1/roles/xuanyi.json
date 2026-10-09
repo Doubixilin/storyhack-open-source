@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 37,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是刑警队长，结案率全市第一，可昨晚的死者手里，攥着你十年前丢失的警号牌。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是私家侦探，专接没人敢接的失踪案，今早委托人寄来的照片，是你自己。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是犯罪侧写师，能推出凶手早餐吃什么，却解释不了自己为何出现在现场照片里。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是重案组审讯王牌，从没失过手，直到嫌疑人说出只有你和死者知道的暗号。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 38,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是推理小说家，书里的案子个个告破，今早读者来信只有一句：第七章的凶手是我。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是警队画像师，受害者描述的那张脸，画到一半你放下笔，那是你父亲。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是法医，剖过三百具尸体，今早这一具的胃里，有一张写着你名字的字条。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是法医助理，师父删掉的那行尸检记录，你照着背下来，抄在了袖口里。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是跑社会新闻的记者，干了十年，昨晚独家线索自己找上门，还带着血。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是警局接线员，凌晨三点接到的报案电话，报的是一桩还没发生的命案。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 29,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是死者的邻居，警察问什么你都答了，除了那晚你其实回过家。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是嫌犯的辩护律师，他认罪认得太痛快，你翻卷宗的手开始出汗。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是码头线人，老刑警昨夜死了，全城只有你知道他最后查的是谁。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是死者唯一的遗产继承人，你们素不相识，律师却说你和他通了三年信。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0001",
+    "role_kind": "original",
+    "text": "你是入殓师，给死者化完妆，家属看了一眼说：这张脸不是我母亲。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0002",
+    "role_kind": "original",
+    "text": "你是开锁匠，雇主说他家钥匙丢了，你蹲下去时，听见屋里有人走动。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0003",
+    "role_kind": "original",
+    "text": "你是保险理赔调查员，这份理赔单上的受益人，三年前就死了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0004",
+    "role_kind": "original",
+    "text": "你是催眠治疗师，病人的童年回忆里，有一处细节和本市悬案完全吻合。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0005",
+    "role_kind": "original",
+    "text": "你是失踪者的妻子，寻人启事贴了半年，今早他坐在餐桌前吃完了早饭。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 38,
+    "genre": "xuanyi",
+    "id": "rp-xuanyi-original-0006",
+    "role_kind": "original",
+    "text": "你是档案局临时工，整理旧卷宗时发现，三十年前的灭门案，幸存者签名是你的笔迹。",
+    "type": "role_pitch"
+  }
+]

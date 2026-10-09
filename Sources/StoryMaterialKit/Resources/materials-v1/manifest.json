@@ -1,0 +1,89 @@
+{
+  "compiled_at": "2026-08-28T10:17:19Z",
+  "compiler_version": "1.0.0",
+  "material_version": "v1",
+  "package_counts": {
+    "choices": 3600,
+    "ending_verdicts": 2000,
+    "prose_samples": 100,
+    "role_pitches": 200,
+    "stat_lines": 600,
+    "stat_quarantine": 237,
+    "stat_templates": 363,
+    "test_inputs": 1000
+  },
+  "schema_version": 1,
+  "shards": {
+    "choices": {
+      "dushi": 360,
+      "gufeng": 360,
+      "kehuan": 360,
+      "lishi": 360,
+      "wuxia": 360,
+      "wuxianliu": 360,
+      "xianxia": 360,
+      "xiaoyuan": 360,
+      "xihuan": 360,
+      "xuanyi": 360
+    },
+    "ending": {
+      "dushi": 200,
+      "gufeng": 200,
+      "kehuan": 200,
+      "lishi": 200,
+      "wuxia": 200,
+      "wuxianliu": 200,
+      "xianxia": 200,
+      "xiaoyuan": 200,
+      "xihuan": 200,
+      "xuanyi": 200
+    },
+    "prose": {
+      "dushi": 10,
+      "gufeng": 10,
+      "kehuan": 10,
+      "lishi": 10,
+      "wuxia": 10,
+      "wuxianliu": 10,
+      "xianxia": 10,
+      "xiaoyuan": 10,
+      "xihuan": 10,
+      "xuanyi": 10
+    },
+    "roles": {
+      "dushi": 20,
+      "gufeng": 20,
+      "kehuan": 20,
+      "lishi": 20,
+      "wuxia": 20,
+      "wuxianliu": 20,
+      "xianxia": 20,
+      "xiaoyuan": 20,
+      "xihuan": 20,
+      "xuanyi": 20
+    }
+  },
+  "source_sha256": {
+    "choices.jsonl": "eac4aa13cdd49d1e64a74296afca1144612fa7842fa58245d63cd149557bf220",
+    "ending_verdicts.jsonl": "c3f961bedfbff48c6a40a076a091a25fa7805bf9ba9a57f411de319e9f147b8b",
+    "prose_samples.jsonl": "47bc4543624da7c0d2426e31dead71f0868cd39b3364f991167138132fd89153",
+    "role_pitches.jsonl": "dadc3127080b72e22302ea584623ff8068b45f20b1b8e4af49836feb2aa2f85c",
+    "stat_lines.jsonl": "204988224fa199e04b247b83b247614f9a41abb6f30ba806603ceef2206feeed",
+    "test_inputs.jsonl": "b22cccabb95e83f934e93ae52fc601d3714ba811827082e05800289750119e36"
+  },
+  "warnings": [
+    "ending emotion preserved outside canonical list: 冷峻",
+    "ending emotion preserved outside canonical list: 孤凉",
+    "ending emotion preserved outside canonical list: 孤寒",
+    "ending emotion preserved outside canonical list: 宿命",
+    "ending emotion preserved outside canonical list: 怅惘",
+    "ending emotion preserved outside canonical list: 怨愤",
+    "ending emotion preserved outside canonical list: 怨毒",
+    "ending emotion preserved outside canonical list: 悲凉",
+    "ending emotion preserved outside canonical list: 悲悯",
+    "ending emotion preserved outside canonical list: 执念",
+    "ending emotion preserved outside canonical list: 温情",
+    "ending emotion preserved outside canonical list: 苍茫",
+    "ending emotion preserved outside canonical list: 闲适"
+  ]
+}

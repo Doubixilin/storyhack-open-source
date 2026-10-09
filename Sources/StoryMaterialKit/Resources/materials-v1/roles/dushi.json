@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 34,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你入赘三年，洗衣做饭任打任骂，今夜老爷子遗嘱宣读，律师只认你的签名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你背着药箱下山，师父只留一句：城里有个病人，全世界只有你能治，也只许你治。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你重生回签下那份合同的前一小时，上一世，这份合同让你家破人亡。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你送外卖供女友读完研，她订婚那晚，失联二十年的爷爷来电：回来接班。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你在古玩城摆地摊，人人笑你收破烂，只有你知道那只破碗底下的款意味着什么。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是专打输官司的律师，这一案当事人全城喊打，关键证据却是你十年前埋的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是消防通讯员，凌晨那通报火警的电话，地址是你十年前被烧毁的家。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是总裁的首席秘书，他签的每份文件都经你手，包括那份伪造他笔迹的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是深夜代驾，豪车后座的人醉话连篇，三年里你拼出了半张商业帝国的黑账。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是豪宅的住家阿姨，这家人餐桌上的笑声，一半靠你删掉的通话记录撑着。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是报社实习生，老记者都不接的坠楼案，死者最后一条短信发给了你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是专卖凶宅的中介，经手十七套死过人的房，第十八套的钥匙，是你老家的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "dushi",
+    "id": "rp-dushi-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是离婚律所的前台，那对天天来吵的模范夫妻，今天分别来立了遗嘱。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0001",
+    "role_kind": "original",
+    "text": "你在医院后门卖白粥，只做凌晨两点到四点，有位常客，病历上已去世三年。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0002",
+    "role_kind": "original",
+    "text": "你经营全城唯一的失物招领所，有把伞挂了十年，今天有人来取，开口却是暗号。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0003",
+    "role_kind": "original",
+    "text": "你是写字楼电梯维修工，18层那部电梯凌晨自己运行，监控里空无一人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0004",
+    "role_kind": "original",
+    "text": "你做宠物殡葬，今天的委托人抱着空骨灰盒来，说要葬的是他自己。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0005",
+    "role_kind": "original",
+    "text": "你在相亲角替人写征婚启事，有位大爷每周都来改条件，改的全是亡妻生前的习惯。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0006",
+    "role_kind": "original",
+    "text": "你是剧本杀主持人，今晚这场暴风雪山庄，六个玩家没人记得自己报过名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "dushi",
+    "id": "rp-dushi-original-0007",
+    "role_kind": "original",
+    "text": "你收旧书，书页里常夹着前主人的秘密，今天这本里，夹着你小学时写的作文。",
+    "type": "role_pitch"
+  }
+]

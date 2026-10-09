@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是太子，父皇昨夜召你单独侍疾，今早传位的口谕有两个版本。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是摄政王，小皇帝今早第一次自己系上腰带，满朝文武都看见了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是少年天子，登基第三年，你终于查到乳母当年换掉的那碗药是谁开的方。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是镇北大将军，班师诏书到了，随军的粮草却只够走到半路。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是首辅，门生故吏遍天下，今晨你的座位上多了一杯你没让人倒的茶。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是废后之子，幽居冷宫十九年，昨夜掌事太监跪下来，改口称你殿下。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是新科状元，金殿对策那日，主考官把你的卷子压在袖底，换上了另一份。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是起居注史官，陛下昨晚说了三句话，你敢记两句，第三句记了会灭族。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是司礼监掌印，批红的笔在你手里，今晨的折子里有一本，笔迹是先帝的。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是御前带刀侍卫，护驾十年，昨夜陛下问你：若朕命你杀朕，你杀吗。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是浣衣局的姑姑，各宫送来浆洗的衣裳，只有中宫那件，从不见血。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 29,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是钦天监监正，昨夜星象大凶，写吉语是欺君，写实情是先死。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是将军府幕僚，替主公拟了半生奏折，昨夜那封密信，落款是你的私印。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 25,
+    "genre": "lishi",
+    "id": "rp-lishi-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是教坊乐师，新排的庆功曲里，有一小节是先朝禁曲。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0001",
+    "role_kind": "original",
+    "text": "你是贡院誊录生，抄卷抄到第三份，认出这是会元的文章，名字却不是。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0002",
+    "role_kind": "original",
+    "text": "你是户部账房，一笔军饷在七本账里有七个数，对平的那天就是你的死期。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0003",
+    "role_kind": "original",
+    "text": "你是八百里加急的驿卒，怀里这份塘报晚到一夜，边关三万人活不成。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0004",
+    "role_kind": "original",
+    "text": "你是尚衣局绣娘，新制的礼服上多绣了一针，这一针能看出三位皇子的心思。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0005",
+    "role_kind": "original",
+    "text": "你是城门口代写书信的老童生，今早有人来写状纸，告的是当今圣上。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "lishi",
+    "id": "rp-lishi-original-0006",
+    "role_kind": "original",
+    "text": "你是刑部仵作，流放官员的“暴毙”卷宗堆成山，死因都是同一种勒痕。",
+    "type": "role_pitch"
+  }
+]

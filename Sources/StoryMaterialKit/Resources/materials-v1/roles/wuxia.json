@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 31,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是镖局少东家，这趟镖的押镖单上，镖物一栏只写了两个字：活人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是名满江湖的剑客，剑未尝一败，下一场你却必须输，还得输得像。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你金盆洗手三年，昨夜有人在你门外摆了一双旧靴，那是死去师兄的遗物。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是杀手榜第七，杀人从无二剑，这一单的画像送来，是你十年未见的师父。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是江湖第一神医，有人出十万两，求你不救那个正被全江湖追杀的魔头。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你背着一柄锈剑下山，师父只交代一句：遇到使左手剑的人，跑，别回头。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是新晋掌门，接位当晚，祖师爷灵位后掉出一封信，收信人是三十年前的魔头。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是少林的烧火僧，三十年没摸过拳谱，藏经阁失火那夜，全寺只有你往回跑。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是衙门的老仵作，这具尸首明明死于掌伤，县太爷让你写：失足落井。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是死牢的牢头，明日子时问斩的采花贼，今夜跪着求你替他送一封信。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是铸剑庐的学徒，师父打了一辈子刀，临终只嘱咐：第七把，千万别开锋。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是六扇门的老捕快，追了十年的大盗，每年冬至都给你寄一包家乡的茶叶。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是渡口的船娘，桨下渡过半个江湖的逃命人，今夜上船的，是追他们的刀。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是城里的更夫，梆子敲了三十年，哪条巷子死了人，你总比仵作先到。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0001",
+    "role_kind": "original",
+    "text": "你在襄阳开了间赎刀铺，退隐的人把刀押在你这儿，赎期一过，刀归你，仇也归你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0002",
+    "role_kind": "original",
+    "text": "你在庙会摆猜拳摊，赢了你的不收钱，只要对方讲一段不敢对人说的旧事。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0003",
+    "role_kind": "original",
+    "text": "你是边军的夜不收，专在尸堆里翻活人，昨夜翻出来的，是敌国的太子。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0004",
+    "role_kind": "original",
+    "text": "你是酒楼里弹三弦的盲琴师，谁买了哪条人命，你听得比买家自己还清。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0005",
+    "role_kind": "original",
+    "text": "你在刑场外摆摊，专替死囚写遗书，写了九年，有一封你始终没有寄出。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxia",
+    "id": "rp-wuxia-original-0006",
+    "role_kind": "original",
+    "text": "你是华山栈道的挑夫，背了半辈子货，昨夜的货主让你背的，是个还有气的人。",
+    "type": "role_pitch"
+  }
+]

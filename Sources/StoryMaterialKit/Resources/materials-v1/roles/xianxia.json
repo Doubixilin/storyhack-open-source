@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 36,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是宗门大师兄，全门上下等你结丹，只有你知道丹方缺的那味药，要用什么换。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是宗门百年一遇的天才，昨夜灵根尽碎，今晨山门外的拜帖仍堆了三尺。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你三日后飞升，全宗备了百里仪仗，你却只盯着山下那间轮回七世都不敢进的茶棚。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你曾是仙门首徒，如今是通缉榜上的魔君，旧山门中秋宴的请帖，年年照送。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是剑阁首席，佩剑十年未出鞘，因为剑里封着的，是教你用剑的那个人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你带着前世记忆重回入门那日，这一世你要先弄清：当年是谁递的那杯茶。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是药王谷传人，医得了天下人的绝症，医不了自己只剩三个节气的寿数。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是外门扫地杂役，扫了四十年，藏经阁地砖下压着什么，只有你的扫帚知道。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是守山三百年的灵兽，近来总梦见自己曾是个人，梦里有人唤你的旧名。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是丹房的烧火童子，长老们夺舍续命的丹，每一炉都是你添的柴。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是魔教右使，教主信你如臂膀，而你袖中密信的落款，盖着仙门的印。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是接引殿的执事，测了三千年灵根，今天这个凡人少年，测石裂了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是古剑的器灵，换了九任主人，每一任死前都问同一个问题，你从不答。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "xianxia",
+    "id": "rp-xianxia-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是灵膳房的大厨，掌门飞升前最后一顿饭，点名要吃你做的凡俗阳春面。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0001",
+    "role_kind": "original",
+    "text": "你在乱葬岗开碑坊，专给无名修士刻碑，昨夜有人订碑，名字一栏写的是你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0002",
+    "role_kind": "original",
+    "text": "你的灵舟往来两界渡口，专渡不肯转世的修士，船资是他们飞升那日的心魔。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0003",
+    "role_kind": "original",
+    "text": "你在坊市开断缘铺，替人剪红线。有根线你剪了七次，它连的是你自己。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0004",
+    "role_kind": "original",
+    "text": "你卖天机，一条一卦从无虚言。今早有客问自己的死期，卦盘转过来指向你。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0005",
+    "role_kind": "original",
+    "text": "你是专捡古修遗迹的散修，别人抢法宝，你只捡死者没寄出的家书。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "xianxia",
+    "id": "rp-xianxia-original-0006",
+    "role_kind": "original",
+    "text": "你是荒山破庙的庙祝，香火断了三十年，昨夜山神显灵，向你讨一碗人间饭。",
+    "type": "role_pitch"
+  }
+]

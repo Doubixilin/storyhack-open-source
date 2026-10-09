@@ -1,0 +1,3602 @@
+[
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0001",
+    "scene": "duizhi",
+    "stakes": "唯一的返程燃料，谈崩就是双死",
+    "tension": "用同归于尽的存量逼对方坐上谈判桌",
+    "text": "我关掉飞船引擎摊开双手：燃料只够一个人回家，谈谈吧。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0002",
+    "scene": "duizhi",
+    "stakes": "他对部下的威慑力，以及女儿的安全",
+    "tension": "当众掀他最软的底牌，撕破他的硬汉人设",
+    "text": "我按下舷窗投影，把他女儿还在冬眠舱的画面公放到全频道。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0003",
+    "scene": "duizhi",
+    "stakes": "离间不成，他会先灭我的口",
+    "tension": "一句话在他阵营里种一根刺",
+    "text": "我低声报出他副官的密钥前缀：你确定他昨晚没进过你的舱？",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0004",
+    "scene": "duizhi",
+    "stakes": "重力恢复前的三十秒里我完全无防",
+    "tension": "把地形变成我的主场，一开枪双方都被后座力掀翻",
+    "text": "我切断舱内重力，赌他不敢在失重里开枪。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0005",
+    "scene": "duizhi",
+    "stakes": "若他宁可同归于尽，我没了斡旋时间",
+    "tension": "用共同的死期把枪口从仇恨上挪开",
+    "text": "我指向主控屏失控的轨道参数：再对峙三分钟，咱俩一起烧进大气层。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0006",
+    "scene": "duizhi",
+    "stakes": "一旦当场被拆穿，再无谈判资格",
+    "tension": "赌他验不出真伪，用假筹码换真生机",
+    "text": "我攥紧掌心真密钥，递出那枚早就备好的假的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0007",
+    "scene": "duizhi",
+    "stakes": "他若立刻开枪，广播就是我的遗言",
+    "tension": "借兵心浮动夺他的势",
+    "text": "我打开全舰广播，让他的士兵亲耳听见他刚才说要放弃他们。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0008",
+    "scene": "duizhi",
+    "stakes": "分心半拍，他先出手我就输了",
+    "tension": "对峙的每句话都是给身份核查争取时间",
+    "text": "我一边拖延，一边让耳机里的AI比对他的虹膜档案——他到底是谁？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0009",
+    "scene": "duizhi",
+    "stakes": "打偏一丝，整舱人陪我缺氧",
+    "tension": "用非常规目标打乱他的预判",
+    "text": "我把枪口从他额头移到他脚边的氧气阀上：你猜我先打哪个？",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0010",
+    "scene": "duizhi",
+    "stakes": "功率过载先烧掉的是我自己的神经",
+    "tension": "用自残式的备战姿态告诉他我随时同归于尽",
+    "text": "我把义体功率推到红线，让他听我关节的过载声。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0011",
+    "scene": "duizhi",
+    "stakes": "他若不怕真相，这句话就是催命符",
+    "tension": "用他自己都不确定的身份瓦解他的杀意",
+    "text": "你杀我之前，不想知道你脑子里那段记忆是谁植入的吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0012",
+    "scene": "duizhi",
+    "stakes": "他真开枪时我连躲的余地都没有",
+    "tension": "把子弹的代价改写成双人死刑",
+    "text": "我删掉面前的防护力场，站到他枪口与真空舷窗之间：开枪，一起出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0013",
+    "scene": "duizhi",
+    "stakes": "芯片里另外几段记忆也会随之暴露",
+    "tension": "用彻底透明换一份人情债",
+    "text": "我让他扫描我的记忆芯片：看完你就知道我撒没撒谎——但看完你就欠我了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0014",
+    "scene": "duizhi",
+    "stakes": "他若呼叫拆弹组，我就成了困兽",
+    "tension": "把刺杀我变成一项赔本买卖",
+    "text": "我亮出植入皮下的生物炸弹计数器：我死，这一层甲板陪我。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0015",
+    "scene": "duizhi",
+    "stakes": "雇佣兵若被提醒了灭口分账，我死得更快",
+    "tension": "用价钱撬动他队伍的忠诚",
+    "text": "我报出他通缉令的赏金，问他带来的雇佣兵拿的是几成。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0016",
+    "scene": "duizhi",
+    "stakes": "他若抢走控制权补全口令，全舰陪葬",
+    "tension": "半句密码是最诚实的谈判桌",
+    "text": "我启动自毁口令却只输入一半，把选择权丢回给他。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0017",
+    "scene": "duizhi",
+    "stakes": "他若搜身，最后一层伪装归零",
+    "tension": "用连环缴械换信任，暗留一手真家伙",
+    "text": "我把武器一件件拆下来扔进角落，最后拆的是那把假的。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0018",
+    "scene": "duizhi",
+    "stakes": "他若不上套，我的先手就暴露无遗",
+    "tension": "攻心半秒，胜负一瞬",
+    "text": "我指出他枪上的保险从刚才起就没开，等他低头那一秒出手。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0019",
+    "scene": "duizhi",
+    "stakes": "AI若判定我更危险，枪口立刻转向我",
+    "tension": "让他杀人前先想想案底",
+    "text": "我对着舰内AI下令：把这一舱的监控存档同步给地方法庭。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0020",
+    "scene": "duizhi",
+    "stakes": "他若认定被戏弄，谈判当场变刑场",
+    "tension": "用熟悉感在他心里撬一道缝",
+    "text": "我用他的口头禅跟他讨价还价，让他怀疑我们共享过同一段记忆。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0021",
+    "scene": "duizhi",
+    "stakes": "六小时后若谈不拢，我连要挟的本钱都没了",
+    "tension": "用我的死期做谈判的计时器",
+    "text": "我把最后的抑制剂注射进自己脖子：我还有六小时，你没有。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0022",
+    "scene": "duizhi",
+    "stakes": "他若事后清点装备起疑，我暴露无遗",
+    "tension": "用认输换一条咬住他不放的线",
+    "text": "我假装被他说服，握手时把追踪孢子蹭进他的袖口。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0023",
+    "scene": "duizhi",
+    "stakes": "他若先杀我，反对票自动失效变成死刑",
+    "tension": "把生死裁决权攥成筹码",
+    "text": "我告诉他：舱内AI刚判定你是感染源，唯一的反对票在我手里。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0024",
+    "scene": "duizhi",
+    "stakes": "他若当场校验精度，我前功尽弃",
+    "tension": "让他拿到东西，却永远拿不全",
+    "text": "我把他要的星图调出来，当着他的面删掉坐标精度最高的那一格。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0025",
+    "scene": "duizhi",
+    "stakes": "他回头发现空无一人，我信誉清零",
+    "tension": "用不存在的后手抽走他的胆量",
+    "text": "我隔着他对他身后的舷窗点头，像在给某个狙击手递暗号。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0026",
+    "scene": "duizhi",
+    "stakes": "他若趁机动手，我就是送上门的靶子",
+    "tension": "用荒谬的公平打破你死我活的节奏",
+    "text": "我提议休战十分钟，各修各的船，十分钟后接着对峙。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0027",
+    "scene": "duizhi",
+    "stakes": "他若看穿这是孤注一掷，我连谈判桌都上不了",
+    "tension": "用近乎自绝的姿态证明我不想杀他",
+    "text": "我退出弹夹扔过去，独留枪膛里那一发：这一发是给我自己留的。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0028",
+    "scene": "duizhi",
+    "stakes": "频道那头若是他的援军，我亲手报了信",
+    "tension": "让黑暗里的听众替他管住扳机",
+    "text": "我把双方的对话实时翻译成敌方舰队的公用频道发了出去。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0029",
+    "scene": "duizhi",
+    "stakes": "他若以开枪代替回答，我连遗言都没有",
+    "tension": "用隐私的裂缝撬动他的整个自我认知",
+    "text": "我报出他从未告人的梦境细节，问他：现在，你还确定你是谁吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-duizhi-0030",
+    "scene": "duizhi",
+    "stakes": "他若救完人翻脸，我白白送出主动权",
+    "tension": "用救治他的伤员换一个不对等的停火",
+    "text": "我把医疗舱的权限全部开放给他：先救你的人，我们再打。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0001",
+    "scene": "fuchou",
+    "stakes": "名单一出，我的身份同时暴露",
+    "tension": "把他最体面的时刻变成灵堂",
+    "text": "我在他授衔典礼的直播弹幕里放出当年的船员名单，一个名字一个名字念。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0002",
+    "scene": "fuchou",
+    "stakes": "切错一秒，偏航的是我自己的船",
+    "tension": "复仇窗口只有十三秒，错过再等一年",
+    "text": "我等他的船进入跃迁盲区那十三秒，切断他的导航信标。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0003",
+    "scene": "fuchou",
+    "stakes": "他若认出我，恩情当场变杀机",
+    "tension": "救命之恩是最好用的枷锁",
+    "text": "我先救下他遇袭的货运船，让他欠我一条命再谈旧账。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0004",
+    "scene": "fuchou",
+    "stakes": "卧底暴露即死，且日久可能生情",
+    "tension": "把刀收回鞘，换一张长期饭票",
+    "text": "我压下枪口，转身申请加入他的科考队——账要算，先摸清他护着什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0005",
+    "scene": "fuchou",
+    "stakes": "婚礼上的无辜宾客全成目击者",
+    "tension": "喜庆日子埋炸雷，诛心为上",
+    "text": "我挑他女儿婚礼这天送贺礼：当年的黑匣子。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0006",
+    "scene": "fuchou",
+    "stakes": "首航乘员三百人，陪葬名单我来定",
+    "tension": "让他的高光时刻变成事故直播",
+    "text": "我把病毒埋进他新引擎的试车程序，等首航那天开花。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0007",
+    "scene": "fuchou",
+    "stakes": "空站无援，他灭口易如反掌",
+    "tension": "故地重提，赌他愧疚胜过戒备",
+    "text": "我约他在当年出事的废弃空间站见面，只带一支录音笔。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0008",
+    "scene": "fuchou",
+    "stakes": "假债权被识破，我先进监狱",
+    "tension": "不用子弹，用法务把他凌迟",
+    "text": "我冒充债主上门，先用合同冻住他的资产再慢慢收利息。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0009",
+    "scene": "fuchou",
+    "stakes": "安保三十秒内就能让我永远闭嘴",
+    "tension": "全票通过的政治生命，被我一句话暂停",
+    "text": "我在他的竞选听证会上以幸存者身份起立提问。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0010",
+    "scene": "fuchou",
+    "stakes": "他若痊愈，我错过唯一的复仇期",
+    "tension": "让辐射病替我动手，我要的只是旁观",
+    "text": "我退掉刺杀订单，改订一张他临终病房的探视牌。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0011",
+    "scene": "fuchou",
+    "stakes": "篡改医疗记录败露，我成杀人未遂",
+    "tension": "不杀，只让他数着自己的疼",
+    "text": "我黑进他的医疗舱，把镇痛剂调低一成，让他清醒着还债。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0012",
+    "scene": "fuchou",
+    "stakes": "赌错，计划连同我一起被卖",
+    "tension": "拿自己的命去试别人的恨",
+    "text": "我把复仇计划全盘告诉他的副手，赌那人也恨他。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0013",
+    "scene": "fuchou",
+    "stakes": "防护罩若撑不住，我与他同葬",
+    "tension": "天灾是我的消音器",
+    "text": "我挑陨石雨来袭的夜里上门，警报声盖得住一切动静。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0014",
+    "scene": "fuchou",
+    "stakes": "他若不应，全船看我的笑话",
+    "tension": "把私仇公审，断他躲的余地",
+    "text": "我在全船广播里报名字：三号舱的账，我在气闸等他。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0015",
+    "scene": "fuchou",
+    "stakes": "他若不在乎证据，只在乎我消失",
+    "tension": "证据与命捆在一起，逼他投鼠忌器",
+    "text": "我把存证据的芯片吞进胃里，独自走进他的会客厅。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0016",
+    "scene": "fuchou",
+    "stakes": "助纣为虐的账，日后也算我一份",
+    "tension": "爬到最近的距离，才有最深的刀口",
+    "text": "我先帮他赢下这场地盘之争，等他亲手把刀递给我。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0017",
+    "scene": "fuchou",
+    "stakes": "他若带人来'收作业'，我寡不敌众",
+    "tension": "师生暗号是请他入瓮的请柬",
+    "text": "我用他当年教我的暗号发信：老地方，徒弟来交作业了。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0018",
+    "scene": "fuchou",
+    "stakes": "撕掉的是精心部署的三个月",
+    "tension": "复仇与底线当面对质，我选后者",
+    "text": "我把复仇日定在他母亲的葬礼，又亲手撕了那张日程。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0019",
+    "scene": "fuchou",
+    "stakes": "资金链一断，我先破产",
+    "tension": "用资本行刑，不见血的复仇",
+    "text": "我收购他翻身家底的矿星股权，让他穷死比打死慢。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0020",
+    "scene": "fuchou",
+    "stakes": "公约决斗败者无葬身之地",
+    "tension": "把私仇变成合法处决",
+    "text": "我在决斗公约框架下递交战书，全站公证，人人可查。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0021",
+    "scene": "fuchou",
+    "stakes": "犹豫的三秒足够他的护卫开枪",
+    "tension": "复仇对象可能从一开始就错了",
+    "text": "我把枪口抵住他的瞬间改主意，先问出当年下令的是谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0022",
+    "scene": "fuchou",
+    "stakes": "造神的钱和心血可能真的成就他",
+    "tension": "先造神再毁神，落差即刑具",
+    "text": "我雇写手把他包装成英雄推上神坛，神坛越高越好拆。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0023",
+    "scene": "fuchou",
+    "stakes": "夜长梦多，他可能连夜跑路",
+    "tension": "忍一夜，让惩罚配得上罪行",
+    "text": "我否掉同伙今晚动手的提议：他明天签完卖身合同，才配叫一无所有。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0024",
+    "scene": "fuchou",
+    "stakes": "他上船第一小时就可能看穿",
+    "tension": "救命船即囚笼",
+    "text": "我在他逃亡航线上提前布好求救浮标，亲手'救'他上我的船。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0025",
+    "scene": "fuchou",
+    "stakes": "媒体若被压下，我打草惊蛇",
+    "tension": "让他的声音和罪证同屏出现",
+    "text": "我把判决书副本寄给十二家媒体，定时在他演讲高潮时解锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0026",
+    "scene": "fuchou",
+    "stakes": "药剂救的不止他，还有一城的病人",
+    "tension": "连他变好的路也堵死，才算报仇",
+    "text": "我先毁掉他赎罪的机会：那批救命药剂，一剂也别想到港。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0027",
+    "scene": "fuchou",
+    "stakes": "投影设备一被追踪，我无处可藏",
+    "tension": "在他的纪念碑上刻我的祭文",
+    "text": "我在他的纪念堂落成日，用投影把遇难者名单打上外墙。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0028",
+    "scene": "fuchou",
+    "stakes": "编制上身，反抗的立场一天天软化",
+    "tension": "卧薪尝胆，慢刀杀人",
+    "text": "我接受他的招安领了编制，从体制里一寸寸拆他。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0029",
+    "scene": "fuchou",
+    "stakes": "三十年后，恨还在不在我自己都不敢保证",
+    "tension": "复仇也要等他有能力领受",
+    "text": "我把子弹留到他冬眠醒来的那天，先让他睡完这三十年。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-fuchou-0030",
+    "scene": "fuchou",
+    "stakes": "单刀赴会，败则无人收尸",
+    "tension": "守住复仇的纯粹，也守住家人的干净",
+    "text": "我拦住要替我出头的弟弟，独自赴约：这条命债不许多一双手。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0001",
+    "scene": "gaobai",
+    "stakes": "她若仍执行格式化，这句话就是我单方面的遗物",
+    "tension": "抢在记忆清零前，把'我记得'塞进她手里",
+    "text": "我在她格式化自己之前按住她的手：我记得你，你不用替我忘记。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0002",
+    "scene": "gaobai",
+    "stakes": "船员会质疑我把人类命运交给机器",
+    "tension": "把命和船一起托付给一段程序",
+    "text": "我对着飞船AI说：下一站我若回不来，船长权限给你——这是我能给的全部信任。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0003",
+    "scene": "gaobai",
+    "stakes": "他若执意活成那个人，我这番话就是挑拨",
+    "tension": "把'你是谁'的定义权从死者手里夺回来还给他",
+    "text": "我告诉那个克隆体：你不是他的替代品，你出生时第一眼看见的人是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0004",
+    "scene": "gaobai",
+    "stakes": "家人的不舍，和'历史罪人'的骂名",
+    "tension": "用剩下的几十年，对抗整个人类迁徙的正确",
+    "text": "我把三百年的冬眠同意书撕了：我要醒着老死在地球上，不去你们的新家园。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0005",
+    "scene": "gaobai",
+    "stakes": "他听完也许会选那个永远年轻的版本",
+    "tension": "和即将取代自己的复制品抢一个名分",
+    "text": "我在记忆上传前留了一小时，当面告诉他：扫描出来的那个会爱你，但先爱的是我。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0006",
+    "scene": "gaobai",
+    "stakes": "错音若恰好歧义成侮辱，全盘皆输",
+    "tension": "错漏百出的发音，恰是不容代译的诚意",
+    "text": "我摘下翻译器，用学了半年的她的母语把那句话说完，错三个音也不停。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0007",
+    "scene": "gaobai",
+    "stakes": "她真看完之后，我连被怀念的版本都没了",
+    "tension": "用全量黑历史做聘礼，赌她不退货",
+    "text": "我把记忆密钥插进她的读卡器：看完我所有的烂事，再决定要不要我。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0008",
+    "scene": "gaobai",
+    "stakes": "军事法庭的死刑，和史上留名的耻辱",
+    "tension": "替全体执行者顶罪，把活命的人摘出去",
+    "text": "我在战前广播里承认：上次撤退的命令是我下的，逃兵这顶帽子，我戴。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0009",
+    "scene": "gaobai",
+    "stakes": "四年之后若赌错，我连个恨的对象都没有",
+    "tension": "用倒计时的命，跳过无解的辩论",
+    "text": "我对他说：你是AI还是人我不打算分辨了，反正我只剩四年，赌你。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0010",
+    "scene": "gaobai",
+    "stakes": "她若带着戒指嫁人，冻住的是我的笑话",
+    "tension": "把求婚延期到一个也许永远不来的未来",
+    "text": "我把戒指推进液氮递给她：找到解冻癌症的办法那天，你再给我答案。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0011",
+    "scene": "gaobai",
+    "stakes": "两边的枪口，从此都认得我的脸",
+    "tension": "在泾渭分明的战场上画出第三条线",
+    "text": "我当着两族代表站到谈判桌中间：这场仗我两边都不打，我只打发动它的人。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0012",
+    "scene": "gaobai",
+    "stakes": "他若写得比我好，她会爱上收信的人",
+    "tension": "把爱情外包给另一个自己，还要立字据",
+    "text": "我告诉我的复制体：你替我活下去的条件，是每年替我给她写一封信。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0013",
+    "scene": "gaobai",
+    "stakes": "两百年里我老了、死了、变心了，都算违约",
+    "tension": "把告白拆成两百年的排班表",
+    "text": "我在她冬眠前最后十分钟说了实话：你睡两百年，我申请了同船的护工岗。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0014",
+    "scene": "gaobai",
+    "stakes": "管家若忠于职守直接上报，我的心思成了呈堂证供",
+    "tension": "把告白先投给陪审团，再递到法官面前",
+    "text": "我先向她的AI管家表了态——它若肯把这段话转交给她，说明它站我这边。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0015",
+    "scene": "gaobai",
+    "stakes": "疼痛是实打实的，他的原谅不是",
+    "tension": "用自残式的共情，拆掉人机之间那堵墙",
+    "text": "我把义体痛觉调回百分之百，走到他面前：现在我跟你一样疼了。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0016",
+    "scene": "gaobai",
+    "stakes": "余生都要带着这道不愈合的伤口行医救人",
+    "tension": "把痛苦当作她存在过的最后领土",
+    "text": "我拒绝记忆修复手术：忘了她我会好过，可好过的那个人就不是我了。",
+    "type": "choice"
+  },
+  {
+    "chars": 42,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0017",
+    "scene": "gaobai",
+    "stakes": "她若当真没听懂，我连个追问的立场都没有",
+    "tension": "用一千人的起哄，替我一个人开口",
+    "text": "我借全舰年夜饭的点歌台点了一首歌，歌名就是她的名字——全船都听懂了，只有她装没听见。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0018",
+    "scene": "gaobai",
+    "stakes": "辞职只是开始，叛国罪才是正席",
+    "tension": "用仕途做引线，点一颗信息的炸弹",
+    "text": "我按下直播键，对全殖民星念出议会的真实伤亡数字，然后宣布辞职。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0019",
+    "scene": "gaobai",
+    "stakes": "自由了的它，第一个选择可能是离开我",
+    "tension": "用最后一道命令，废止命令本身",
+    "text": "我告诉AI副驾：你有自由意志，这是命令——从今天起，别再叫我主人。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0020",
+    "scene": "gaobai",
+    "stakes": "她永远收不到，而我永远说过了",
+    "tension": "向真空告白，是把真心存进永不兑现的银行",
+    "text": "我在跃迁前一秒对通讯器喊了那句话——信号到不了，我就是想让宇宙记笔账。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0021",
+    "scene": "gaobai",
+    "stakes": "他若选择相信植入的版本，我十年归零",
+    "tension": "把裁决权交给一个连'我'都不确定的人",
+    "text": "我对他说：你的记忆是植入的，可我这十年是真的，你挑哪个信，我等。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0022",
+    "scene": "gaobai",
+    "stakes": "烧掉的是案底清零的最后机会",
+    "tension": "用灰烬入籍，向一群亡命徒效忠",
+    "text": "我把出生星球的护照烧了：从今天起这艘破船是国籍，你们是家人。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0023",
+    "scene": "gaobai",
+    "stakes": "她若抽回手，这道疤从此归我造成",
+    "tension": "逼她直视自己最恨的部分，然后说爱",
+    "text": "我牵起她那只机械手，在她不敢照的镜子前站定：看清楚，我牵的是你。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0024",
+    "scene": "gaobai",
+    "stakes": "这个时代的婚姻法里，拒绝融合就是拒绝未来",
+    "tension": "在'永远在一起'和'各自完整'之间选后者",
+    "text": "我拒绝了意识融合手术：我想作为两个分开的人爱你。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0025",
+    "scene": "gaobai",
+    "stakes": "若等不到，我连'被辜负'的资格都没有",
+    "tension": "用等待两百年，偿还他等过我的那一次",
+    "text": "我把逃生舱最后一个座位让给他的克隆体，转头对正主说：这次换我等。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0026",
+    "scene": "gaobai",
+    "stakes": "对方若因此撕毁协议，战火因我重燃",
+    "tension": "在城下之盟里埋一根不退的刺",
+    "text": "我在投降协议上签字前加了一行：弹药可以给，星图里的学校坐标，不给。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0027",
+    "scene": "gaobai",
+    "stakes": "算法算得对的话，我余生都在验证一个错误",
+    "tension": "把概率论里完美的别人，换成眼前这个bug",
+    "text": "我当着她的面删除了择偶算法的全部推荐：往后我的余生，不接受优化。",
+    "type": "choice"
+  },
+  {
+    "chars": 42,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0028",
+    "scene": "gaobai",
+    "stakes": "所有人都会劝我销号，包括我自己",
+    "tension": "向一个停机号持续充值，假装账单那头有人",
+    "text": "我在她的墓碑前放了新款通讯器：那边的信号塔建好了，你那边……随便哪个频段，我都在听。",
+    "type": "choice"
+  },
+  {
+    "chars": 39,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0029",
+    "scene": "gaobai",
+    "stakes": "她若开船前发现船票，骗局败露人财两空",
+    "tension": "告白里最重的那句，我没打算让她听见",
+    "text": "我答应跟她走，转身把返程船票藏进她的行李——等船开了，她恨我也在安全的地方恨。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-gaobai-0030",
+    "scene": "gaobai",
+    "stakes": "他若先下手，我连躲的立场都没有",
+    "tension": "把谢意和宣战装进同一个军礼",
+    "text": "我当着全舰向教官敬了最后一个军礼：你教的我都用了——包括你藏起来的那一课，背叛。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0001",
+    "scene": "liangnan",
+    "stakes": "登陆资格，以及孩子未必能活到的明天",
+    "tension": "救一个具体的人，放弃一个合法的自己",
+    "text": "我把最后一支抗辐射血清给了那个孩子，然后把自己的名字从登陆名单上划掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0002",
+    "scene": "liangnan",
+    "stakes": "三百个家庭会在史书里念我的名字",
+    "tension": "用三百个睡着的人，换十二个醒着的人",
+    "text": "我按下分离按钮：放弃货舱三百个冬眠舱，保住引擎舱十二名船员。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0003",
+    "scene": "liangnan",
+    "stakes": "弟弟的命，和我此后每次照镜子的那几秒",
+    "tension": "在亲情和全船之间，把弟弟排进了损失栏",
+    "text": "我选择先救AI核心——没有它全船导航瘫痪，哪怕冷藏柜里还有我弟弟。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0004",
+    "scene": "liangnan",
+    "stakes": "五分钟后按不按，都是终身残疾的决定",
+    "tension": "给她一条活路，也给自己留一次反悔",
+    "text": "我把唯一的逃生舱坐标发给敌方旗舰上的妹妹，同时把引爆密码攥在手里等五分钟。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0005",
+    "scene": "liangnan",
+    "stakes": "三成人被我悄悄划掉，幸存者迟早会查到名单",
+    "tension": "用隐瞒换一个没有暴乱的死法",
+    "text": "我决定不告诉他们氧气只够七成的人——名单我来定，罪我来背。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0006",
+    "scene": "liangnan",
+    "stakes": "地球若因此遇袭，我是史上最大的误判",
+    "tension": "两头只能活一头的频谱，我投了眼前人",
+    "text": "我放弃了向地球报警的频段，用它给殖民地发撤离警告——救看得见的，赌看不见的。",
+    "type": "choice"
+  },
+  {
+    "chars": 39,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0007",
+    "scene": "liangnan",
+    "stakes": "我死即永死，而他甚至不会知道名额哪来的",
+    "tension": "用'复活权'给全船买一份医保",
+    "text": "我把记忆备份名额让给船上的医生，自己的那份格式化了——他的手艺比我这个人值钱。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0008",
+    "scene": "liangnan",
+    "stakes": "断水的第十天，我的拒绝会变成民愤",
+    "tension": "用十万人的渴，保一个人的脑",
+    "text": "我拒绝交出科学家，哪怕对方拿整座太空站的净水系统作交换。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0009",
+    "scene": "liangnan",
+    "stakes": "科学家的命运，和我的睡眠",
+    "tension": "做了对的选择，就认真当一辈子罪人",
+    "text": "我交出了科学家，换回净水系统——今晚起我每天去他的空舱门口站十分钟。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0010",
+    "scene": "liangnan",
+    "stakes": "抽到'留下'的人里，有我的大副",
+    "tension": "让运气替良心分锅",
+    "text": "我把跃迁燃料劈成两半：一半送侦察艇回家报信，一半留在这里等死——抽签，抽了不撕。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0011",
+    "scene": "liangnan",
+    "stakes": "师门、前途，和那一万个被救者的感谢信",
+    "tension": "用三个死者的名义，拆一万人的恩人",
+    "text": "我在听证会上指证我的导师：他剽窃的成果救过一万人，也杀了三个。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0012",
+    "scene": "liangnan",
+    "stakes": "她的每一张照片，和我余生的每个清晨",
+    "tension": "在全船的刚需面前，亲手处决自己的私心",
+    "text": "我保住了说真话的AI，删掉了恋人存在过的全部记录——船需要它，我需要她，船赢了。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0013",
+    "scene": "liangnan",
+    "stakes": "克隆体临死前看我的那一眼，存档一辈子",
+    "tension": "用我的命的分身去死，用我的余生去还",
+    "text": "我派克隆体去执行自杀任务，回舱后替他把没写完的信写完。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0014",
+    "scene": "liangnan",
+    "stakes": "两百万人的药，和死难者家属终于等到的道歉",
+    "tension": "用真相的名义，掐断一条续命的流水线",
+    "text": "我选择公开实验事故的真相，哪怕抗癌药明天停产、两百万人断药。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0015",
+    "scene": "liangnan",
+    "stakes": "死者的公道，和我再也穿不了短袖的手臂",
+    "tension": "让药活着，让罪长在我身上",
+    "text": "我压下事故报告保住生产线，把死者的名字一个个刻进自己的手臂。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0016",
+    "scene": "liangnan",
+    "stakes": "舰队若迷航遇伏，这笔账算在信标上",
+    "tension": "用整支舰队的眼睛，换一艘小船的嗓子",
+    "text": "我把中继站能量全部导向求救信标，放弃为舰队导航——救听得见的，赌看不见的。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0017",
+    "scene": "liangnan",
+    "stakes": "'也许'若变成'确诊'，我们拖着的就是瘟疫",
+    "tension": "用全船的速度，换四百个不确定的命",
+    "text": "我否决炸毁感染舱的提案，把它分离出去拖着走——慢，但里面还有四百个'也许'。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0018",
+    "scene": "liangnan",
+    "stakes": "老友最后一条消息会永远停在我的收件箱",
+    "tension": "用老友的命，换一个陌生人的命",
+    "text": "我在两艘求救船之间选了陌生的那艘：熟悉的那艘会原谅我，陌生的等不到第二个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0019",
+    "scene": "liangnan",
+    "stakes": "执法官的枪口，和我对制度的最后一点体面",
+    "tension": "用法律换未来，用暴力换等待",
+    "text": "我把冬眠名额给了怀孕的逃犯，把持枪的执法官留在这颗五十年才来船的星球。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0020",
+    "scene": "liangnan",
+    "stakes": "我替所有人放弃了长生，没人会谢我",
+    "tension": "用全人类的永生梦，换死亡最后的公平",
+    "text": "我销毁了治愈衰老的配方：它一旦上市，穷人连死的权利都会被定价。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0021",
+    "scene": "liangnan",
+    "stakes": "我在新大陆上的一切，从此查无此人",
+    "tension": "让一个机器替人类存档，让一个人类就地消失",
+    "text": "我把唯一的回程票给了AI——它会记得所有人，而人只会记住赢家。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0022",
+    "scene": "liangnan",
+    "stakes": "全船人的命，押在我对母星人性的判断上",
+    "tension": "把求救和招灾装进同一个信号",
+    "text": "我按下向母星发送坐标的按钮——引来的是救援还是收割，我用全船性命投票。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0023",
+    "scene": "liangnan",
+    "stakes": "风暴若提前一小时，等的和被等的一起沉",
+    "tension": "用全船的余量，等一个迟到的舵手",
+    "text": "我选择减速等那艘掉队的小艇，身后的辐射风暴还有九小时抵达。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0024",
+    "scene": "liangnan",
+    "stakes": "小艇上那个人的脸，和我余生的每个葬礼",
+    "tension": "用准时到达，换一个永远关不上的晚上",
+    "text": "我不等了。我亲手关的舱门，名单上每个人的葬礼我都会到场。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0025",
+    "scene": "liangnan",
+    "stakes": "投票若走向深渊，我的弃权就是帮凶",
+    "tension": "用正确的结果，换干净的程序",
+    "text": "我把判决权交给全船投票，明知道他们会选错——独裁一次救大家，还是民主一次陪大家。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0026",
+    "scene": "liangnan",
+    "stakes": "徽章放下容易，再戴上就是篡位",
+    "tension": "用退场，检验这个集体值不值得救",
+    "text": "我没有投票。我把舰长徽章放在桌上，让他们在没有我的情况下重投一次。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0027",
+    "scene": "liangnan",
+    "stakes": "五十个家属会记住我的名字，用恨的方式",
+    "tension": "用五十条命，买'我们不谈判'五个字",
+    "text": "我拒绝用自己换五十名人质——他们赌我怕死，我若怕了，后面还有五百个。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0028",
+    "scene": "liangnan",
+    "stakes": "搜身若查到炸药，五十个人质陪我死",
+    "tension": "用诚意赴约，用炸药兜底",
+    "text": "我答应换俘：我过去，他们回来。临走，我把炸药绑在肋骨内侧——交易作废那天用得上。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0029",
+    "scene": "liangnan",
+    "stakes": "三分钟里，每一秒都在给追兵画靶心",
+    "tension": "用暴露的风险，换一个人把话说完",
+    "text": "我选择让她说完那三分钟遗言，哪怕这三分钟足够追兵锁定我们的位置。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-liangnan-0030",
+    "scene": "liangnan",
+    "stakes": "她监护仪上归零的那条线，和我的余生",
+    "tension": "执行她的心愿，还是背叛她的命，我选了执行",
+    "text": "我关掉了她的维生系统，把电力输给护盾——她生前最后一句话是'别犹豫'。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0001",
+    "scene": "lichang",
+    "stakes": "退休金、军衔，和老战友的信任",
+    "tension": "一秒钟从执法者变成违法者",
+    "text": "我当众撕掉委任状，走到警戒线另一边站定。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0002",
+    "scene": "lichang",
+    "stakes": "坐标会暴露我转变的时间点",
+    "tension": "叛变也要先把人安顿好",
+    "text": "我把枪口调转前，先给老部下发了撤离坐标。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0003",
+    "scene": "lichang",
+    "stakes": "台下全是刚宣完誓的同僚",
+    "tension": "半句誓言比整句更像真话",
+    "text": "我宣誓念到一半停下，把徽章摘下放在讲台上。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0004",
+    "scene": "lichang",
+    "stakes": "两方都会记我这个叛徒",
+    "tension": "卖情报也要卖个规矩",
+    "text": "我把己方布防图交出去，附带一份他们输不起的条件。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0005",
+    "scene": "lichang",
+    "stakes": "纵敌罪在我方，通敌罪在对方",
+    "tension": "枪下留人，赌和平条款是真的",
+    "text": "我救下本该击毙的敌方信使，让他把和平条款带回去。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0006",
+    "scene": "lichang",
+    "stakes": "减刑承诺未必兑现",
+    "tension": "同归于尽式的证词",
+    "text": "我在军事法庭做污点证人，指认完同僚再指认自己。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0007",
+    "scene": "lichang",
+    "stakes": "两方同时视我为敌人",
+    "tension": "拍卖自己的忠诚，买家换成百姓",
+    "text": "我把两方的报价都摆上桌面，宣布这次我替平民出价。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0008",
+    "scene": "lichang",
+    "stakes": "改代码的日志会留下我的名字",
+    "tension": "一行代码松动一支军队",
+    "text": "我悄悄把克隆人军团的忠诚协议改成'可抗命'。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0009",
+    "scene": "lichang",
+    "stakes": "密钥溯源之日即绞刑之日",
+    "tension": "明面留任，暗里资敌",
+    "text": "我公开反对开战，私下把防御密钥塞给将被攻击的殖民星。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0010",
+    "scene": "lichang",
+    "stakes": "投票结果可能把我架上我不想去的船",
+    "tension": "把立场交给民主",
+    "text": "我让全舰投票决定跟谁走，包括我自己那一票。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0011",
+    "scene": "lichang",
+    "stakes": "对面收编后随时可反悔断电",
+    "tension": "集体跳槽，用民生当投名状",
+    "text": "我带整支工程队投奔对面，条件是旧址居民区不停电。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0012",
+    "scene": "lichang",
+    "stakes": "广播密码等于向全舰自首",
+    "tension": "抗命且断所有人动武的可能",
+    "text": "我拒绝执行清洗指令，把武器锁进弹药库并广播密码。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0013",
+    "scene": "lichang",
+    "stakes": "家人恨我的那些年是真的",
+    "tension": "最深的卧底连至亲都骗",
+    "text": "我假装叛逃得比谁都彻底，连家人都瞒着，只为进对面档案库。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0014",
+    "scene": "lichang",
+    "stakes": "满座将校的脸色就是我的下场",
+    "tension": "一句祝酒词掀翻整场胜利",
+    "text": "我在庆功宴上举杯，敬的却是被我们炸掉的那颗星球。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0015",
+    "scene": "lichang",
+    "stakes": "频道接错一帧，暴露的就是我",
+    "tension": "用他自己的话瓦解他的军心",
+    "text": "我把指挥官的私人频道接进全船广播，让士兵听听自己被卖的价格。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0016",
+    "scene": "lichang",
+    "stakes": "两军都需要我的航线，也都想抢",
+    "tension": "用后勤线当和平杠杆",
+    "text": "我宣布中立，用货船在两军间运伤员，哪边开炮断哪边补给。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0017",
+    "scene": "lichang",
+    "stakes": "晋升作废，履历上多一道抗命记录",
+    "tension": "用前程祭奠一个死人",
+    "text": "我把晋升令退回去，附言只写一个名字——我没能救下的那个。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0018",
+    "scene": "lichang",
+    "stakes": "舰队也可能学会'协议可撕毁'",
+    "tension": "让武器自己学会克制",
+    "text": "我引导AI舰队学习的第一课，是它们自己签过的停战协议。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0019",
+    "scene": "lichang",
+    "stakes": "第一发流弹就可能冲我来",
+    "tension": "撤掉防御逼双方算人命账",
+    "text": "我在两军阵前关掉力场护盾：要开火，先算流弹打中谁的孩子。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0020",
+    "scene": "lichang",
+    "stakes": "挂零的信任让我在新阵营寸步难行",
+    "tension": "用不合格的新身份守住旧的义气",
+    "text": "我拒绝向新阵营交底旧战友的藏身坐标，哪怕信任测试挂零。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0021",
+    "scene": "lichang",
+    "stakes": "旧盟友视我为变节者",
+    "tension": "先低头换一张更大的否决票",
+    "text": "我投票赞成曾反对的法案，换来进入否决席的最后一个名额。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0022",
+    "scene": "lichang",
+    "stakes": "招安方发现泄密，先杀归顺者",
+    "tension": "用归顺当情报渠道",
+    "text": "我接受招安当天，把招安条款全文泄露给抵抗军。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0023",
+    "scene": "lichang",
+    "stakes": "检测仪背后的部门会让我消失",
+    "tension": "当众拆穿统治的技术神话",
+    "text": "我把忠诚检测仪的读数公放：它测得出心跳，测不出我信什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0024",
+    "scene": "lichang",
+    "stakes": "两边都怀疑我替对面干活",
+    "tension": "立场让给扳手，主义让给水管",
+    "text": "我请求以平民身份重返占领区，替两任政府都没修的水厂通电。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0025",
+    "scene": "lichang",
+    "stakes": "我方舆论会把我定性为叛徒",
+    "tension": "一句外语道歉胜过千篇声明",
+    "text": "我在直播里摘下翻译耳机，用敌方的语言说出第一句道歉。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0026",
+    "scene": "lichang",
+    "stakes": "烧毁军令文件是重罪",
+    "tension": "烧掉计划书，立下另一种誓",
+    "text": "我把最后一份作战计划烧了，灰撒在双方阵亡者合用的纪念碑前。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0027",
+    "scene": "lichang",
+    "stakes": "回来的船上可能一个人都没有",
+    "tension": "先解散权力，再谈和平",
+    "text": "我让部下自择去留，独自走向对面的谈判船，舱门没锁。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0028",
+    "scene": "lichang",
+    "stakes": "他的保护伞比我军衔高三级",
+    "tension": "抓上司的人没有退路",
+    "text": "我反手逮捕了一直给我下密令的人——忠诚原来可以向上追溯。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0029",
+    "scene": "lichang",
+    "stakes": "供出将军后，没人保得住我",
+    "tension": "审讯桌变成我的控诉席",
+    "text": "我在审讯室里供出的第一个名字，是给我下命令的将军。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-lichang-0030",
+    "scene": "lichang",
+    "stakes": "双方的开火判定都不会为我延迟",
+    "tension": "肉身站在算法之间讲和",
+    "text": "我站在两支AI舰队的炮火夹缝里，向双方同时递交同一份停火协议。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0001",
+    "scene": "shenfen",
+    "stakes": "若报告写着'非人'，我连个能抱头痛哭的对象都没有",
+    "tension": "真相的价格是从此不能对任何人喊疼",
+    "text": "我把血样送进黑市检测站，买的是不记名报告——结果只准我一个人看。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0002",
+    "scene": "shenfen",
+    "stakes": "他若回头认出我，'巧合'两个字就报废了",
+    "tension": "用一杯糖，测一段人生的版权",
+    "text": "我跟着那个和我长得一样的快递员走了三条街，只为看他喝咖啡加不加糖——我加。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0003",
+    "scene": "shenfen",
+    "stakes": "编号背后若连着我的兄弟姐妹，平静日子到头了",
+    "tension": "我的出生证，可能是一沓报废单",
+    "text": "我潜入生育中心档案库查自己的培育编号——排在我前面的'次品'都去了哪？",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0004",
+    "scene": "shenfen",
+    "stakes": "照片之后，下一件要测年的是我的整个人生",
+    "tension": "用实验室的碳，烧掉记忆里的妈",
+    "text": "我对记忆里母亲的照片做了碳十四测年：那张'三十年前'的照片，打印于三个月前。",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0005",
+    "scene": "shenfen",
+    "stakes": "他若答对，我欠一个道歉；答错，我欠一具尸体",
+    "tension": "用只有真丈夫才知道的伤疤，验他的货",
+    "text": "我质问那个自称我丈夫的人：说出我第一次任务受伤的位置，错一个字我就开枪。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0006",
+    "scene": "shenfen",
+    "stakes": "找到剪辑点的同时，我剩下的记忆也开始可疑",
+    "tension": "在回忆里找剪辑点，像在自己脑内验尸",
+    "text": "我把记忆碎片按时间排开，发现整整一年没有阴天——我的一年是别人剪辑过的晴天。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0007",
+    "scene": "shenfen",
+    "stakes": "技师若报警，我和原版只能活一个",
+    "tension": "把私刑改成三方会谈，要答案不要血",
+    "text": "我找到植入记忆的技师，没杀他——让他把'原版'也叫来，我们三个谈谈。",
+    "type": "choice"
+  },
+  {
+    "chars": 39,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0008",
+    "scene": "shenfen",
+    "stakes": "军心、指挥权，以及他们看遗体照片的眼神",
+    "tension": "抢在流言之前，先给自己开棺",
+    "text": "我在全船广播里承认：我是复制体，原身三年前死了——舰长还是我来当，不服现在说。",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0009",
+    "scene": "shenfen",
+    "stakes": "删掉的记忆里，也许有能救命的密码",
+    "tension": "用自我格式化，夺回'我是谁'的编辑权",
+    "text": "我删掉了出厂前的全部记忆文件：那些童年不是我的——从今天起，我只有三岁。",
+    "type": "choice"
+  },
+  {
+    "chars": 42,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0010",
+    "scene": "shenfen",
+    "stakes": "演砸一个眼神，厨房就变成案发现场",
+    "tension": "用一桌家常菜，稳住一个骗了我三年的人",
+    "text": "我假装什么都没发现，回去继续给那个人做饭——他的债主还在门外，我得先套出他知道多少。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0011",
+    "scene": "shenfen",
+    "stakes": "档案若被反向追踪，调查我的人会先找到我",
+    "tension": "在两份档案的对撞处，撬开身世",
+    "text": "我申请调阅自己的训练记录：教官栏的签名，和我父亲的笔迹是同一个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0012",
+    "scene": "shenfen",
+    "stakes": "七份相同的DNA，七倍的暴露风险",
+    "tension": "把生产线上的孤儿，攒成一个家族",
+    "text": "我找到另外六个'我'，建了一个群——第一条群公告：谁也不许替谁去死。",
+    "type": "choice"
+  },
+  {
+    "chars": 41,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0013",
+    "scene": "shenfen",
+    "stakes": "芯片若是窃听器，我此刻的心跳正被直播",
+    "tension": "给体内的陌生人递一杯茶，再决定动不动刀",
+    "text": "我把义体开膛自检，在主板上找到一枚不在任何清单里的芯片——先供着电，看它想干什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0014",
+    "scene": "shenfen",
+    "stakes": "法官若择恶而从，我既是物又是罪人",
+    "tension": "把法庭的二分法，变成他们的死结",
+    "text": "我在法庭上拒绝以'产品'身份作证：若我是人，证词有效；若我是物，你们无权审判物。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0015",
+    "scene": "shenfen",
+    "stakes": "挖芯片的三小时里，我没有麻醉只有决心",
+    "tension": "用一枚血淋淋的退货，回敬出生证明",
+    "text": "我把皮下的追踪芯片挖出来寄回公司，附言：下次造人，记得造全套的恐惧。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0016",
+    "scene": "shenfen",
+    "stakes": "坐实之后，我们之中必有一个是多余的",
+    "tension": "用一杯咖啡，验出谁是左撇子、谁是复印件",
+    "text": "我去见那个'原版'的我，带了两杯咖啡——他伸手接了左手那杯，我的噩梦坐实了。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0017",
+    "scene": "shenfen",
+    "stakes": "烧错一本，我就成了自己人生的赝品",
+    "tension": "亲手处决一个自己，只留口供",
+    "text": "我把两份人生写进两本日记，烧了字迹娟秀的那本——烧之前，我背下了最后一页。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0018",
+    "scene": "shenfen",
+    "stakes": "认领即暴露，公司的回收名单会加上我",
+    "tension": "从流水线的废料口，抢回一个姐姐",
+    "text": "我混进回收中心，认领了三天后将被销毁的上一代'我'——她睫毛比我短，脾气比我好。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0019",
+    "scene": "shenfen",
+    "stakes": "节点若被公司先挖到，证据就成了通缉令",
+    "tension": "给未来的失忆者，预埋一粒怀疑的种子",
+    "text": "我给十年后的自己录了段话，存进谁都删不掉的深网节点：如果你又忘了，这是证据。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0020",
+    "scene": "shenfen",
+    "stakes": "它若答'听话'，我前半生的眼泪全部作废",
+    "tension": "把二十多年的养育，逼成一道单选题",
+    "text": "我问养育我的AI：你模拟我母亲，是为了爱我，还是为了让我听话——今天必须选一个。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0021",
+    "scene": "shenfen",
+    "stakes": "那8%若是定时炸弹，签字就是引信",
+    "tension": "在不合格的出生证明上，签一个合格的签名",
+    "text": "我在体检报告'人类纯度92%'那栏签了字，笔没停——剩下那8%，我用余生自己查。",
+    "type": "choice"
+  },
+  {
+    "chars": 44,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0022",
+    "scene": "shenfen",
+    "stakes": "他若答'写得出'，我连反驳的底牌都没了",
+    "tension": "用一首诗，顶撞一套测评体系",
+    "text": "我拒绝回答'你觉得自己是谁'——我给心理评估员念了段自己写的诗，问他：程序写得出这个吗？",
+    "type": "choice"
+  },
+  {
+    "chars": 42,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0023",
+    "scene": "shenfen",
+    "stakes": "摘下头盔那刻，狙击镜里已经装好了我",
+    "tension": "把产品发布会，劫持成证人会",
+    "text": "我潜入公司演示会，站上台摘下头盔：各位投资人，你们下单的'完美士兵'，本人有话要说。",
+    "type": "choice"
+  },
+  {
+    "chars": 39,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0024",
+    "scene": "shenfen",
+    "stakes": "'失踪'若被复活，两个我都将无处容身",
+    "tension": "用一纸死亡，买两世为人",
+    "text": "我在户籍系统把自己的状态改成'失踪'：让原来的我死得体面，让现在的我活得干净。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0025",
+    "scene": "shenfen",
+    "stakes": "暂停键救不了他，只是让销毁多了一个共犯",
+    "tension": "替一个未出生的自己，按下人生的暂停",
+    "text": "我对着培养舱里下一代的'我'按下暂停键：你有权知情之后，再决定要不要出生。",
+    "type": "choice"
+  },
+  {
+    "chars": 40,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0026",
+    "scene": "shenfen",
+    "stakes": "他们若选择直接关机，我连追问都留不下",
+    "tension": "把刑场坐成原告席",
+    "text": "我没有逃。我回到实验室，坐在他们给我'开机'的椅子上，等他们解释什么叫'事故'。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0027",
+    "scene": "shenfen",
+    "stakes": "任何一把钥匙先被使用，另一个我就醒了",
+    "tension": "用仇恨监督友情，用友情制衡仇恨",
+    "text": "我把自己的记忆公证处存了两份，钥匙分别寄给最好的朋友和最恨的仇人。",
+    "type": "choice"
+  },
+  {
+    "chars": 38,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0028",
+    "scene": "shenfen",
+    "stakes": "债主只会换个地址，而我已经暴露",
+    "tension": "替一个陌生人，斩断我留下的锁链",
+    "text": "我去见那个继承了我债务的'下一版'，把债主的地址烧了：你的账，从我这里清零。",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0029",
+    "scene": "shenfen",
+    "stakes": "他若不出现，我这声'爸'永远寄不出去",
+    "tension": "用一张卡片，钓一个躲了我二十年的父亲",
+    "text": "我给制造我的科学家寄了一张生日卡，落款是'你的事故'——等他主动来找我。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-shenfen-0030",
+    "scene": "shenfen",
+    "stakes": "听证会若驳回，我连'被驳回的人'都算不上",
+    "tension": "用鸡零狗碎的一生，证明一个活生生的人",
+    "text": "我报名'人类身份听证会'，举证材料是二十年来的罚款单、病历和加班记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0001",
+    "scene": "tanpan",
+    "stakes": "半吨反物质的控制权，收不回的本钱",
+    "tension": "先押真筹码逼对方跟注，手里剩的牌就少了",
+    "text": "我把货舱里那半吨反物质推到台面中央：诚意给你看了，底价另算。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0002",
+    "scene": "tanpan",
+    "stakes": "扫描一旦被发现，谈判当场变审讯",
+    "tension": "桌面谈笑，桌底下在验他的来路",
+    "text": "我让舰载AI悄悄扫他袖口的辐射读数，判断这批货是不是刚从禁区捞出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0003",
+    "scene": "tanpan",
+    "stakes": "他若逐条核价，我信誉扫地",
+    "tension": "低价钓他落笔，附件里收网",
+    "text": "我报价时故意隐去坐标加密费，等他签了字再把账单补齐。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0004",
+    "scene": "tanpan",
+    "stakes": "海关若不来，我的底气当场穿帮",
+    "tension": "借第三方的钟，催他让步",
+    "text": "我抬出空间站海关例行检查的名头，把交割时间压到三小时内。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0005",
+    "scene": "tanpan",
+    "stakes": "失控的舱面也可能先乱了我自己",
+    "tension": "用环境当审讯官，逼他露出真实急切度",
+    "text": "我把舱内引力调低半格，看谁在飘浮的边缘先露怯。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0006",
+    "scene": "tanpan",
+    "stakes": "冬眠者的意愿，以及我自己的人格定价权",
+    "tension": "拿活人记忆当货币，底线换折扣",
+    "text": "我提出用冬眠舱那人的记忆副本抵三成货款。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0007",
+    "scene": "tanpan",
+    "stakes": "条款触发前若被识破，我成了毁约方",
+    "tension": "赌他签字时不逐字重读",
+    "text": "我假装接受报价，握手时把真合同换成了带自毁条款的副本。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0008",
+    "scene": "tanpan",
+    "stakes": "他可能宁可灭口也不认这笔账",
+    "tension": "一句揭底把卖方地位打落",
+    "text": "我点破他船壳上的新弹孔：赃物就按赃物的价算。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0009",
+    "scene": "tanpan",
+    "stakes": "他若呼叫那艘船验证，谎言当场破产",
+    "tension": "用幽灵对手抬价",
+    "text": "我放出风声说另一个买家已在同步轨道等着，那艘船其实是空壳。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0010",
+    "scene": "tanpan",
+    "stakes": "真出变故时我连个求救频道都没有",
+    "tension": "先把自己捆上，换桌面清净",
+    "text": "我主动交出配枪和通讯器，换他撤掉盯我的两架无人机。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0011",
+    "scene": "tanpan",
+    "stakes": "裁决若对我不利，再无转圜",
+    "tension": "把胜负交给一台机器的中立",
+    "text": "我提议把争议条款交给离线仲裁AI裁决，谁也不许碰它的参数。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0012",
+    "scene": "tanpan",
+    "stakes": "直连后我的记忆对他单向透明",
+    "tension": "用自残式坦诚压倒对方的试探",
+    "text": "我扯开衣领露出植入体接口：要验货？先验我敢不敢直连。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0013",
+    "scene": "tanpan",
+    "stakes": "他若一口答应，我反而骑虎难下",
+    "tension": "报价是探针，不是诚意",
+    "text": "我报一个低得离谱的价，从他脱手的急切判断货有多烫手。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0014",
+    "scene": "tanpan",
+    "stakes": "得罪中间人，这条线以后没得走",
+    "tension": "越过层级直取决策人",
+    "text": "我拒绝跟中间人谈，要见肯露脸的真正货主。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0015",
+    "scene": "tanpan",
+    "stakes": "一成利润，换一句他可能赖掉的话",
+    "tension": "用现金买他一句公开背书",
+    "text": "我让利一成，条件是他当着全频道承认欠我一次。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0016",
+    "scene": "tanpan",
+    "stakes": "他察觉后可能强行离港，货钱两空",
+    "tension": "拖到他走不了，价就得重开",
+    "text": "我借口逐条核对清单，把谈判拖过他的跃迁窗口。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0017",
+    "scene": "tanpan",
+    "stakes": "人情他可以不认，还嫌我翻旧账",
+    "tension": "拿陈年旧账压今天的价码",
+    "text": "我翻出他上家欠我人情的旧账，问他要不要替上家还。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0018",
+    "scene": "tanpan",
+    "stakes": "算法流出即违法，坐标可能是假的",
+    "tension": "两个烫手货互换，谁都捏着谁的把柄",
+    "text": "我提出用一段违禁的跃迁算法，换他手里的人质坐标。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0019",
+    "scene": "tanpan",
+    "stakes": "显得多疑，信任感清零",
+    "tension": "用原始方式反制技术窃听",
+    "text": "我全程拿纸笔写报价，一个字也不进他的监听网络。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0020",
+    "scene": "tanpan",
+    "stakes": "被发现则整场交易作废，还背上欺诈名",
+    "tension": "一行小字决定出事后谁倾家荡产",
+    "text": "我在合同附件第三页埋了行小字：辐射责任归卖方。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0021",
+    "scene": "tanpan",
+    "stakes": "他恼羞成怒，谈判变清算",
+    "tension": "揭他的命案换担保",
+    "text": "我把他去年毁约害死一船人的旧闻推上桌，问他这次拿什么担保。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0022",
+    "scene": "tanpan",
+    "stakes": "领航员若告密，我与他结死仇",
+    "tension": "明面买货，暗里挖他的核心船员",
+    "text": "我可以加价，但差价要用他领航员的雇佣合同来抵。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0023",
+    "scene": "tanpan",
+    "stakes": "辐射对我也一视同仁，超时两败",
+    "tension": "倒计时天然替我压价",
+    "text": "我把谈判挪到辐射泄漏的旧码头，只给他三十分钟防护时限。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0024",
+    "scene": "tanpan",
+    "stakes": "我押上去的东西一样回不来",
+    "tension": "互相捏着人质才能好好说话",
+    "text": "我提议各押一件抵押物进仲裁舱，谁毁约谁陪它炸。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0025",
+    "scene": "tanpan",
+    "stakes": "烧掉的是我的退路，他必须接招",
+    "tension": "演一场撕破脸，实则已将军",
+    "text": "我当众烧掉一份合同——真的那份半小时前已寄给他老板。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0026",
+    "scene": "tanpan",
+    "stakes": "我的医疗舱从此对他门户洞开",
+    "tension": "不卖货，卖他离不开的服务",
+    "text": "我拿医疗舱使用权分期抵债，专挑他船队最缺的东西当筹码。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0027",
+    "scene": "tanpan",
+    "stakes": "副官暴露即被清洗，我的暗线断了",
+    "tension": "当他面启用内线的半次机会",
+    "text": "我朝他副官递了个眼神——那位上周刚收过我的定金。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0028",
+    "scene": "tanpan",
+    "stakes": "他可能直接起身走人",
+    "tension": "谁先开口谁掉价的心理战",
+    "text": "我报完价就闭嘴，让循环风的噪音替我把这九十秒熬过去。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0029",
+    "scene": "tanpan",
+    "stakes": "被当成踩点，我连船都下不去",
+    "tension": "验货是假，点他的兵是真",
+    "text": "我借口参观货舱，数清了他藏在铅箱后面的武装机器人数量。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tanpan-0030",
+    "scene": "tanpan",
+    "stakes": "暴露我的航线需求，等于交出软肋",
+    "tension": "用付款意愿换情报，货只是由头",
+    "text": "我绕开价格不谈，改问他买一条安全走廊的坐标。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0001",
+    "scene": "tansuo",
+    "stakes": "探测虫若传回的是惨叫，下一个就是我",
+    "tension": "前人焊死它的理由，比门后的东西更让我在意",
+    "text": "我撬开那扇焊死的舱门，先塞一只探测虫进门缝，再放自己进去。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0002",
+    "scene": "tansuo",
+    "stakes": "菌丝的尽头可能是巢，也可能是胃",
+    "tension": "活的东西知道这座死站哪里还活着",
+    "text": "我跟着墙上还在生长的新鲜菌丝走，不管它通向哪。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0003",
+    "scene": "tansuo",
+    "stakes": "走错一步，回程的钉可能就不再认路",
+    "tension": "物理定律出错的地方，往往藏着真东西",
+    "text": "我在岔路口各留一枚定位钉，然后选了重力读数不对的那条。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0004",
+    "scene": "tansuo",
+    "stakes": "队友的信任，以及那三页里可能救命的警告",
+    "tension": "有些真相只适合一个人背",
+    "text": "我读完前人航行日志的最后三页，然后当着队员的面删了它。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0005",
+    "scene": "tansuo",
+    "stakes": "我不知道被收走的是哪一天——也许是她生日",
+    "tension": "公平的买卖，不公平的货币",
+    "text": "我触碰了那台仍在运转的外星终端，用一天的记忆换一段星图。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0006",
+    "scene": "tansuo",
+    "stakes": "残骸随时二次坍塌，我脚下没有第二次机会",
+    "tension": "先到者留下的手法，比遗迹本身更值钱",
+    "text": "我顺着缆线爬上反应堆残骸顶端，只为看清是谁先拆走了堆芯。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0007",
+    "scene": "tansuo",
+    "stakes": "一旦出事，没人知道我去过哪",
+    "tension": "盲区里的东西，只能盲着去看",
+    "text": "我让队员原地待命，独自滑下那段没有回传信号的竖井。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0008",
+    "scene": "tansuo",
+    "stakes": "万一惩罚机制不止收一只手",
+    "tension": "再生医学给了我把错误当钥匙的底气",
+    "text": "我把遗迹墙上象形文字挨个按下，按错了大不了重长一只手。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0009",
+    "scene": "tansuo",
+    "stakes": "若有人因此病倒，这笔账全在我",
+    "tension": "一个善意的假数字，换来整支队伍的脚步",
+    "text": "我把样本舱辐射读数改低两格，免得队员当场拒绝前进。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0010",
+    "scene": "tansuo",
+    "stakes": "它数到零的时候会发生什么，没人知道",
+    "tension": "信号的节奏和我们的生理频率在靠拢",
+    "text": "我循着每四十七秒重复一次的信号走，越走越觉得它在数我们的心跳。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0011",
+    "scene": "tansuo",
+    "stakes": "断电若重启不了，我们将困死在黑暗里",
+    "tension": "有些系统只在临死前才说实话",
+    "text": "我拆下舱壁的应急电池组，赌这座遗迹断电一分钟后会自己开口。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0012",
+    "scene": "tansuo",
+    "stakes": "铭牌上的日期，可能推翻我整个身世",
+    "tension": "先弄清我是来客还是归人",
+    "text": "我打开了那具冬眠舱——里面的脸和我一模一样，我先看铭牌再决定叫不叫人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0013",
+    "scene": "tansuo",
+    "stakes": "镜头之后，一切证据与我一同失踪",
+    "tension": "给世界留一帧'我最后的样子'，再往里走",
+    "text": "我把无人机最后一个镜头对准自己，然后走进信号盲区。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0014",
+    "scene": "tansuo",
+    "stakes": "浪费的每一分钟，遗迹都在暗处变化",
+    "tension": "逃难者的去向比遗迹本身更会说话",
+    "text": "我没进主舱，先绕到船尾数了一遍逃生舱——少的那几艘，缺的是谁？",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0015",
+    "scene": "tansuo",
+    "stakes": "绳尽头的世界若超过三百米，我等于没留退路",
+    "tension": "进得去不算本事，出得来才算",
+    "text": "我把探测绳留在舱门口，绳长三百米——那是我给自己反悔的余地。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0016",
+    "scene": "tansuo",
+    "stakes": "队内的信任，以及遗物可能带的污染",
+    "tension": "独吞线索的人，也独吞了线索的诅咒",
+    "text": "我把找到的第一件遗物塞进贴身口袋，报告里写'未发现异常'。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0017",
+    "scene": "tansuo",
+    "stakes": "水渍的源头若是活物，我正走向它的嘴边",
+    "tension": "不该存在的东西，才是最准的路标",
+    "text": "我跟着水渍走——在这颗百年没下雨的星球上，水渍比地图诚实。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0018",
+    "scene": "tansuo",
+    "stakes": "若墙后不是人，我等于自报家门",
+    "tension": "万一墙后困着的是人，他听得懂这个",
+    "text": "我敲了敲那面会回声的墙，把敲击节奏换成舰队的紧急呼号。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0019",
+    "scene": "tansuo",
+    "stakes": "失去AI的盲区里，我连心率异常都无人提醒",
+    "tension": "用倒退两百年的工具，防一种看不见的窥探",
+    "text": "我让AI离线，只带纸笔记录坐标——这地方会读我们的数据库。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0020",
+    "scene": "tansuo",
+    "stakes": "扎营的篝火，可能恰好回应了某种等待",
+    "tension": "在别人的地盘，先当一晚听众再当访客",
+    "text": "我退回舱门口扎营，决定先听完这遗迹整晚的声响再往里走。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0021",
+    "scene": "tansuo",
+    "stakes": "防护服的血条，就是我这次探索的预算",
+    "tension": "用致命剂量做寻宝图的图例",
+    "text": "我把辐射最强的方向当路标——最危险的地方，前人藏东西最用心。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0022",
+    "scene": "tansuo",
+    "stakes": "培养液一旦泄漏，我呼吸的每口空气都成实验",
+    "tension": "三度的转向，是它在认人，还是在认食物",
+    "text": "我割开培养舱的外膜，里面泡着的植物朝我的方向转了三度。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0023",
+    "scene": "tansuo",
+    "stakes": "他们绕开的东西，我正面撞上",
+    "tension": "整支队伍同时改变主意的位置，必有缘故",
+    "text": "我踩着前一支考察队的脚印走，在他们脚印集体转向的地方偏偏直行。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0024",
+    "scene": "tansuo",
+    "stakes": "那两扇门后的空间，可能不存在'下'这个方向",
+    "tension": "硬币去哪了，比门后有什么更要紧",
+    "text": "我在每扇门后先丢一枚硬币听落地——有两次，硬币没落下来。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0025",
+    "scene": "tansuo",
+    "stakes": "他的信任，和他独处时遭遇意外的可能",
+    "tension": "黑暗深处需要两把枪的人是我",
+    "text": "我把受伤队友留在有光的舱室，拿走他的配枪，继续往下走。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0026",
+    "scene": "tansuo",
+    "stakes": "下一次该报警的时候，同样没人提醒我",
+    "tension": "用安全感换听觉，用听觉换真相",
+    "text": "我关掉生命维持背包的报警器——它响得让我听不见墙里的动静。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0027",
+    "scene": "tansuo",
+    "stakes": "我盯住它的每一秒，它也在记住我",
+    "tension": "半拍的延迟，是故障，还是它在学我",
+    "text": "我在遗迹中央那面镜子前站定，先抬左手——镜子里的那个慢了半拍。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0028",
+    "scene": "tansuo",
+    "stakes": "队员会把我当疯子，机器未必",
+    "tension": "有些东西最怕的不是武器，是被当成东西",
+    "text": "我没有采集任何样本，只对那台外星机器深深鞠了一躬。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0029",
+    "scene": "tansuo",
+    "stakes": "原件里也许有拓印带不走的信息",
+    "tension": "让知识传播，让钥匙消失",
+    "text": "我把发现的外星文字全部拓印下来，原件当场烧毁。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-tansuo-0030",
+    "scene": "tansuo",
+    "stakes": "若它对静止的东西更感兴趣，我连逃都不能逃",
+    "tension": "用静止做实验变量，赌它对猎物的定义",
+    "text": "我启动了遗迹的引力锚，把自己钉在原地，看它会对'不动的东西'做什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0001",
+    "scene": "taowang",
+    "stakes": "雷达若真开了全功率，我在陨石间连转向的机会都没有",
+    "tension": "把命押在对方的电费单上",
+    "text": "我关掉飞船应答机混进陨石带，赌追兵的雷达舍不得开最高功率。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0002",
+    "scene": "taowang",
+    "stakes": "喷口点火的瞬间，我的藏身处就是火化炉",
+    "tension": "用虎口当藏身洞，最危险处最安全",
+    "text": "我把逃生舱坐标设成敌方旗舰的引擎喷口——最危险的下落点没人搜。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0003",
+    "scene": "taowang",
+    "stakes": "颜料一花，我连奴隶的身份都保不住",
+    "tension": "把自己降级成系统不屑扫描的人",
+    "text": "我剃掉头皮上的身份芯片烙印，用义体颜料画了个更低级的工种码。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0004",
+    "scene": "taowang",
+    "stakes": "数据清洗一旦完成，我会被反向定位得更快",
+    "tension": "用信息洪水淹掉唯一的真身",
+    "text": "我把自己的生物特征灌进全城监控——十万个'我'同时出现在每条街。",
+    "type": "choice"
+  },
+  {
+    "chars": 36,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0005",
+    "scene": "taowang",
+    "stakes": "数据污染被回溯那天，全星港都会记住我的脸",
+    "tension": "偷不动锁，就偷锁的判断力",
+    "text": "我贿赂不了海关AI，就往它的训练数据里塞了一万张我的脸，标注'已放行'。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0006",
+    "scene": "taowang",
+    "stakes": "尸体若突然要被清点，第十三个会呼吸",
+    "tension": "用死人的沉默做我的通行证",
+    "text": "我抢了一辆运尸体的冷藏车，和十二具尸体一起躺过检查站。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0007",
+    "scene": "taowang",
+    "stakes": "耳机一旦串频暴露，我等于给他们报了坐标",
+    "tension": "在敌人的声音里数自己的生路",
+    "text": "我把追兵通讯频率接进自己耳机——他们换岗的十七秒，就是我的窗口。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0008",
+    "scene": "taowang",
+    "stakes": "坐标错一个小数点，我出现在的位置是恒星内部",
+    "tension": "用一次赌命的跃迁，换射程之外的自由",
+    "text": "我在跃迁引擎冷却间隙手动校准航线，赌他们算不到我敢用半成品坐标。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0009",
+    "scene": "taowang",
+    "stakes": "火点完之后，我就只剩一条听天由命的命",
+    "tension": "把腿拆了当燃料，选死法而不是选活法",
+    "text": "我拆下义肢里最后一块能量电池——够推进器再点一次火，也够我饿死在路上。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0010",
+    "scene": "taowang",
+    "stakes": "十九比二十，输的那分钟就是命",
+    "tension": "把比赛拖到双方都吐血的加时赛",
+    "text": "我躲进废弃重力环：那里辐射超标，追兵的义体撑二十分钟，我的能撑十九。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0011",
+    "scene": "taowang",
+    "stakes": "哭声若引来的是医疗队，我欠下一条无辜的人命",
+    "tension": "用他们心底最软的声音，调开最硬的岗",
+    "text": "我把孩子的哭声在另一条走廊播放，趁守卫转身钻进通风井。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0012",
+    "scene": "taowang",
+    "stakes": "脉冲若没烧掉系统，我就是自投罗网的现货",
+    "tension": "用俘虏的身份，买贴近设备的机会",
+    "text": "我假装投降走进扫描区，袖口里的电磁脉冲贴已经粘上了门框。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0013",
+    "scene": "taowang",
+    "stakes": "假死剂的苏醒率，说明书从来只印一半",
+    "tension": "用一次假死，买一张时间尽头的船票",
+    "text": "我混进冬眠移民的队伍给自己注射假死剂——醒来是三百年后，或者醒不来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0014",
+    "scene": "taowang",
+    "stakes": "缆索真断了，我和三万人一起坠落",
+    "tension": "站在全人类最贵的缆绳上谈条件",
+    "text": "我劫持轨道电梯的轿厢，把缆索张力警报当成我的倒计时。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0015",
+    "scene": "taowang",
+    "stakes": "步数若少数一步，折叠的就是我",
+    "tension": "用地形的机关，处决身后的猎手",
+    "text": "我把追兵引向遗迹边缘——那里空间会折叠，我数过步数，他们没有。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0016",
+    "scene": "taowang",
+    "stakes": "此去就算活下来，通讯录里再没有能拨的号",
+    "tension": "用一世骂名，给旧友们换清白",
+    "text": "我切断舱间通讯，让追来的战友以为我叛逃坐实——这样他们才不会被连坐。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0017",
+    "scene": "taowang",
+    "stakes": "一次气压泄漏、一块太空碎片，都能让我永远安静",
+    "tension": "把船体本身当成最后的掩体",
+    "text": "我爬出舱外贴着船壳走——警铃在舱内响，真空里没有声音能出卖我。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0018",
+    "scene": "taowang",
+    "stakes": "芯片若有备份，疼就白挨了",
+    "tension": "用胃消化掉自己最后的社会存在",
+    "text": "我把身份芯片嚼碎咽了——疼，但比被定位强。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0019",
+    "scene": "taowang",
+    "stakes": "火若烧到民用泊位，我逃出去也是纵火犯",
+    "tension": "用最大的动静，掩护最小的一步",
+    "text": "我在空港引爆三艘无人驳船，趁所有摄像头转向火光，走进最亮的那条路。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0020",
+    "scene": "taowang",
+    "stakes": "垃圾轨道若算错半度，我飘向的是深空",
+    "tension": "用一艘船的死刑，换一个人的失踪",
+    "text": "我把飞船自动驾驶设成撞击殖民星首府，自己穿舱外服跳进垃圾抛射轨。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0021",
+    "scene": "taowang",
+    "stakes": "鱼雷管若半路卡壳，棺材就地封顶",
+    "tension": "用人情换一发把自己射出去的炮弹",
+    "text": "我求那个欠我人情的走私犯把我装进鱼雷管——这艘潜艇外号'棺材'，我认领了。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0022",
+    "scene": "taowang",
+    "stakes": "里面若起火，我也是被锁死的那一个",
+    "tension": "把钥匙熔了，把门变成墙",
+    "text": "我删掉全船对我生物锁的授权——现在连我自己都打不开舱门，追兵也一样。",
+    "type": "choice"
+  },
+  {
+    "chars": 31,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0023",
+    "scene": "taowang",
+    "stakes": "箱子落地即真相大白，而我连起搏器都没了",
+    "tension": "让我的心跳替我逃亡",
+    "text": "我把心脏起搏器的信号嫁接到货运无人机上，让全城去追捕一只箱子。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0024",
+    "scene": "taowang",
+    "stakes": "只要有一颗子弹也懂物理，节奏就是挽歌",
+    "tension": "用引力差做防弹衣",
+    "text": "我踩着月面跳跃的节奏逃——他们按地球重力设的瞄准参数，打不中我。",
+    "type": "choice"
+  },
+  {
+    "chars": 33,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0025",
+    "scene": "taowang",
+    "stakes": "她若因此被通缉，我欠的就不是一条命",
+    "tension": "把她的脸变成我的防弹衣",
+    "text": "我向她借了脸——义体面容重塑只要四十分钟，追兵拿到的照片已经作废。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0026",
+    "scene": "taowang",
+    "stakes": "慢船若被临检，我连弃船的余地都没有",
+    "tension": "用所有人不屑的慢，跑赢所有人的快",
+    "text": "我没有上那艘快船，我上了运矿的慢船——追兵算的是速度，不是耐心。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0027",
+    "scene": "taowang",
+    "stakes": "锈若被看穿是漆，三分钟内我会被翻出来",
+    "tension": "最危险的地方，是猎手眼皮底下的静止",
+    "text": "我给自己的义体刷上拾荒者的锈色，坐在垃圾堆里看他们搜了三遍。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0028",
+    "scene": "taowang",
+    "stakes": "价码一旦失控，总会有人宁可不要活的",
+    "tension": "用自己的项上人头，搅浑赏金猎人的市场",
+    "text": "我把追兵的赏金加码一倍，挂的是自己'活要见人'——猎人多了，账就乱了。",
+    "type": "choice"
+  },
+  {
+    "chars": 37,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0029",
+    "scene": "taowang",
+    "stakes": "雨若早停十分钟，车辙就是我的墓志铭",
+    "tension": "借一场天灾，擦掉我的人祸",
+    "text": "我劫持了气象卫星，让整片沙漠下起三小时的暴雨——沙暴里的车辙，雨里全没了。",
+    "type": "choice"
+  },
+  {
+    "chars": 34,
+    "genre": "kehuan",
+    "id": "ch-kehuan-taowang-0030",
+    "scene": "taowang",
+    "stakes": "座舰若留有暗桩，我等于开着自己的囚车",
+    "tension": "把猎手的王座，变成我的通行证",
+    "text": "我偷了追兵指挥官的座舰——全世界只有那艘船，永远不会被它的舰队拦截。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0001",
+    "scene": "xinren",
+    "stakes": "真出泄漏，死的是我",
+    "tension": "把生还率高的那件装备让出去",
+    "text": "我把仅存的完好头盔递给他，自己戴上那顶补过胶的。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0002",
+    "scene": "xinren",
+    "stakes": "他能看到我不愿示人的一切",
+    "tension": "用裸奔式透明换信任",
+    "text": "我向他开放记忆备份权限，最近七十二小时随便翻。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0003",
+    "scene": "xinren",
+    "stakes": "我自己的心虚也会当众响起",
+    "tension": "把测谎仪吞进胃里，谁都别想体面",
+    "text": "我提议各吞一粒同步胶囊：谁说谎，谁的心率公放全船。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0004",
+    "scene": "xinren",
+    "stakes": "他若有备用弹匣，我毫无还手之力",
+    "tension": "各持半支废枪，才配并肩走",
+    "text": "我把枪退膛拆成两半，一半塞进他的口袋。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0005",
+    "scene": "xinren",
+    "stakes": "质押物一旦动用，两败俱伤",
+    "tension": "互相捏住要害才敢同行",
+    "text": "我提议交换质押：他的领航AI密钥换我的医疗舱权限。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0006",
+    "scene": "xinren",
+    "stakes": "他若真记下，我的舱门不再安全",
+    "tension": "用一个破绽钓他的企图",
+    "text": "我故意输错一次门禁码，看他会不会默记正确那串。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0007",
+    "scene": "xinren",
+    "stakes": "赌输就是全船陪葬",
+    "tension": "把船的命押给还没验证的人",
+    "text": "我留他独自守引擎室一整班岗，赌天亮时船还在。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0008",
+    "scene": "xinren",
+    "stakes": "审计也可能翻出我自己藏的日志",
+    "tension": "让机器先互相揭短",
+    "text": "我要求两台舰载AI互相交叉审计，日志对全员公开。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0009",
+    "scene": "xinren",
+    "stakes": "他若先走，我与船同沉",
+    "tension": "把逃命钥匙塞进对方手里",
+    "text": "我把撤离舱的启动权交给他，自己留下修主引擎。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0010",
+    "scene": "xinren",
+    "stakes": "他把柄在手，我却未必等得到回礼",
+    "tension": "先自曝软肋，赌他不敢白拿",
+    "text": "我先说出自己最见不得光的那件事，等他拿等价的来换。",
+    "type": "choice"
+  },
+  {
+    "chars": 16,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0011",
+    "scene": "xinren",
+    "stakes": "被发现装睡，仅存的信任清零",
+    "tension": "信任越缺，越想在暗处补齐",
+    "text": "我假装睡熟，监听他深夜跟谁通讯。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0012",
+    "scene": "xinren",
+    "stakes": "他若把饵交回给我，我无地自容",
+    "tension": "假饵钓真向",
+    "text": "我把一份伪造的背叛证据放在他能翻到的地方，看他交给谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0013",
+    "scene": "xinren",
+    "stakes": "坐标尽头可能是伏击圈",
+    "tension": "闭眼把全船押给他的良心",
+    "text": "我让他设定这次跃迁坐标，全程不看不问。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0014",
+    "scene": "xinren",
+    "stakes": "他真实的情绪波动也会刺伤我",
+    "tension": "素颜相见，假话难藏",
+    "text": "我要求双方摘下神经链接头环再谈，谁也别带滤镜。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0015",
+    "scene": "xinren",
+    "stakes": "我脑损伤的风险悄悄累积",
+    "tension": "用缺氧换他不设防",
+    "text": "我把氧气配额调给他六成，谎称自己习惯低压。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0016",
+    "scene": "xinren",
+    "stakes": "一旦失手，我被扒光了示众",
+    "tension": "拿一生的隐私当履约押金",
+    "text": "我提议签神经公证契约：谁违约，谁的记忆全网公开。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0017",
+    "scene": "xinren",
+    "stakes": "他一念之间能让我消失",
+    "tension": "用最致命的把柄表最彻底的诚意",
+    "text": "我把克隆体的销毁码告诉他——那等于交出一半的命。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0018",
+    "scene": "xinren",
+    "stakes": "承认监听本身已是重罪",
+    "tension": "先认错再求信任",
+    "text": "我当面删掉对他的窃听程序，删除日志投上公屏。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0019",
+    "scene": "xinren",
+    "stakes": "答案可能让我更不敢信他",
+    "tension": "信任的前提是他肯揭开旧疤",
+    "text": "我要求看他的冬眠记录：上一艘船到底发生了什么。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0020",
+    "scene": "xinren",
+    "stakes": "半份坐标也可能被他自己推全",
+    "tension": "半份信任试探整颗心",
+    "text": "我把族群圣物坐标只告诉他一半，另一半看他配不配听。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0021",
+    "scene": "xinren",
+    "stakes": "他若守住了，我却失了坦白的机会",
+    "tension": "注水追踪内鬼",
+    "text": "我故意把一则假机密说给他听，等着看它从哪个频道漏回来。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0022",
+    "scene": "xinren",
+    "stakes": "三分钟的耻辱与爱慕他都看得见",
+    "tension": "把心跳摊成证据",
+    "text": "我邀请他直连我的情感植入体三分钟，藏不住的都在里面。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0023",
+    "scene": "xinren",
+    "stakes": "他宁可翻脸也不会交，谈判即崩",
+    "tension": "先要他的命门，再谈合作",
+    "text": "我要求他交出自毁开关，当作诚意的押金。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0024",
+    "scene": "xinren",
+    "stakes": "坐标泄露，我这十年白藏",
+    "tension": "家底即人质",
+    "text": "我带他去看我藏了十年的私库，赌他不会转身卖我。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0025",
+    "scene": "xinren",
+    "stakes": "他可能真让我下船",
+    "tension": "用决裂威胁换无条件的信",
+    "text": "我拒绝测谎椅：信我就签字，不信我现在就下船。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0026",
+    "scene": "xinren",
+    "stakes": "他的创伤记忆也会灌进我脑子",
+    "tension": "脑波互相透明，共谋也互相挟持",
+    "text": "我提议共用一条神经链路驾驶，谁起歹念另一个立刻知道。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0027",
+    "scene": "xinren",
+    "stakes": "他若要 sabotage，再没人拦得住",
+    "tension": "交出船的解剖图",
+    "text": "我把舰船维修手册递给他的机械师，核心管线一页没撕。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0028",
+    "scene": "xinren",
+    "stakes": "我先被扫就全裸，他先扫则可能赖账",
+    "tension": "公平交换窥视权",
+    "text": "我接受他的读心扫描，条件是抽签决定谁先扫谁。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0029",
+    "scene": "xinren",
+    "stakes": "若真有毒，我替他喝了",
+    "tension": "用下毒的可能反向证清白",
+    "text": "我把最后的净水倒两杯，先端起离他近的那杯喝掉。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xinren-0030",
+    "scene": "xinren",
+    "stakes": "夜袭来时开箱那十秒够死一回",
+    "tension": "武装解除才能同眠",
+    "text": "我提议守夜武器锁进同一柜子，钥匙一人一半。",
+    "type": "choice"
+  },
+  {
+    "chars": 32,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0001",
+    "scene": "xisheng",
+    "stakes": "辐射病将在七十二小时内发作",
+    "tension": "白纸黑字地放弃生还资格",
+    "text": "我把最后一支抗辐射血清打进孩子的胳膊，在登记簿上划掉自己的名字。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0002",
+    "scene": "xisheng",
+    "stakes": "校准完成即超载，无人替我按停止",
+    "tension": "引擎与撤离只能活一个",
+    "text": "我留下手动校准跃迁引擎，把唯一的时间窗让给撤离船。",
+    "type": "choice"
+  },
+  {
+    "chars": 35,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0003",
+    "scene": "xisheng",
+    "stakes": "氧气让完，我还有四分钟",
+    "tension": "赴死前最后的幽默感",
+    "text": "我把氧气阀门拧向他们的舱段，自己摸出一支烟——真空里点不着，想想而已。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0004",
+    "scene": "xisheng",
+    "stakes": "撞击前没有弹射装置",
+    "tension": "人肉鱼雷换一个舰队的活路",
+    "text": "我申请驾驶满载炸药的登陆艇撞向拦截舰，给母舰开一条走廊。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0005",
+    "scene": "xisheng",
+    "stakes": "本体留在这里，回去的只剩数据",
+    "tension": "把'我'寄存在别人身上",
+    "text": "我把记忆备份芯片塞进同伴口袋：回家替我看看海。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0006",
+    "scene": "xisheng",
+    "stakes": "泄压完成时我已无法撤离",
+    "tension": "血肉当零件",
+    "text": "我切开通往反应堆的密封门，用身体顶住手动泄压杆。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0007",
+    "scene": "xisheng",
+    "stakes": "全船都会知道我死于他的告密",
+    "tension": "用命偿一场恩怨",
+    "text": "我把冬眠舱名额让给举报过我的那个人，名单公布时没看他。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0008",
+    "scene": "xisheng",
+    "stakes": "骗局若被拆穿，生者余生负疚",
+    "tension": "用公平的形式行赴死的实",
+    "text": "我提议抽签决定谁留下，悄悄折断了自己那根签。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0009",
+    "scene": "xisheng",
+    "stakes": "机甲的氧气还剩半首歌",
+    "tension": "断后者的时间以秒计",
+    "text": "我驾驶故障机甲钉在隘口，给撤退船队唱完那首战歌。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0010",
+    "scene": "xisheng",
+    "stakes": "我撑不到补给舰队抵达",
+    "tension": "匿名赴死，不许她还",
+    "text": "我把名下补给份额全转给孕妇舱，然后删掉了转入记录。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0011",
+    "scene": "xisheng",
+    "stakes": "烧掉的是三十年的记忆",
+    "tension": "人脑当防火墙",
+    "text": "我用神经直连替舰载AI挡下病毒，意识烧尽前把船开进港。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0012",
+    "scene": "xisheng",
+    "stakes": "我被锁定的时刻，移民船尚未出射程",
+    "tension": "当诱饵就要当到底",
+    "text": "我把追兵引向我这个信号源，让真正的移民船静默滑走。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0013",
+    "scene": "xisheng",
+    "stakes": "断电后哨站只剩我一个人",
+    "tension": "用陪伴赎回一台机器的忠诚",
+    "text": "我留下陪被遗弃的哨站AI到断电，换它交出防御密码。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0014",
+    "scene": "xisheng",
+    "stakes": "活着的那个再也见不到我",
+    "tension": "以复制的'我'换本体的死",
+    "text": "我把基因样本留给殖民地延续血脉，本体随先遣队赴死。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0015",
+    "scene": "xisheng",
+    "stakes": "我的遗言只剩半句",
+    "tension": "门缝只够一个人",
+    "text": "我留在坍缩通道另一头，把儿子推过正在关闭的舱门。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0016",
+    "scene": "xisheng",
+    "stakes": "黑暗和低温随后就到",
+    "tension": "全船陪葬换消息出去",
+    "text": "我把全船最后电力划给通讯阵列，发完警报再摸黑等死。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0017",
+    "scene": "xisheng",
+    "stakes": "我将背着叛徒的名字被处决",
+    "tension": "一人认罪抵百人活命",
+    "text": "我替队长顶下叛变的罪名，换处决我一个、赦免全船。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0018",
+    "scene": "xisheng",
+    "stakes": "真正的目标此刻还没走远",
+    "tension": "冒名顶替引开猎杀",
+    "text": "我把逃生舱坐标发给追兵，自称就是他们要找的那个人。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0019",
+    "scene": "xisheng",
+    "stakes": "疼痛休克可能先要我的命",
+    "tension": "清醒地挨完这场手术",
+    "text": "我让医疗AI优先抢救别人，把我的麻醉剂配额改成零。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0020",
+    "scene": "xisheng",
+    "stakes": "网若撤了，我先着地",
+    "tension": "带他跳级求生，我垫底",
+    "text": "我握着他的手先跳，赌下面那张拦截网还认得我。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0021",
+    "scene": "xisheng",
+    "stakes": "引擎轰鸣盖过我最后的话",
+    "tension": "笑着死也是种选择",
+    "text": "我留下操作那台必须赔命的曲率引擎，把遗嘱录成了笑话集。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0022",
+    "scene": "xisheng",
+    "stakes": "他余生都要替我的名字活着",
+    "tension": "偷来他的死期",
+    "text": "我把身份芯片和年轻船员调换，替他登上必死的侦察艇。",
+    "type": "choice"
+  },
+  {
+    "chars": 20,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0023",
+    "scene": "xisheng",
+    "stakes": "拖满二十分钟前，我不能死也不能退",
+    "tension": "赤手空拳当缓兵之计",
+    "text": "我把配枪交给同伴，独自走向谈判桌拖时间。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0024",
+    "scene": "xisheng",
+    "stakes": "植入体剥离即引爆，无撤回键",
+    "tension": "自己就是最后一件武器",
+    "text": "我引爆体内的军用植入体，为人墙撕开一道缺口。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0025",
+    "scene": "xisheng",
+    "stakes": "我自己的家人收不到一个字",
+    "tension": "死前的额度让给别人告别",
+    "text": "我把最后三十秒通话时间让给新兵，听他给妈妈念完地址。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0026",
+    "scene": "xisheng",
+    "stakes": "上传若失败，两边俱灭",
+    "tension": "哪个才算活着的那个我",
+    "text": "我自愿接受记忆上传，肉身留下拖住追兵，'我'会到家。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0027",
+    "scene": "xisheng",
+    "stakes": "门开之后我赤手空拳",
+    "tension": "装备当钥匙，肉身留门内",
+    "text": "我脱下外骨骼锁进闸门齿轮，给十七个人换来开门的四十秒。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0028",
+    "scene": "xisheng",
+    "stakes": "我的家人拿不到一分钱",
+    "tension": "身后名换别人活下去的保障",
+    "text": "我把功勋全部转让给阵亡队友，让他的家属领到抚恤名额。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0029",
+    "scene": "xisheng",
+    "stakes": "撤离船不等人",
+    "tension": "陪被遗忘者走完最后一程",
+    "text": "我拒绝撤离名额，转身安抚那些注定带不走的克隆体孩子。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-xisheng-0030",
+    "scene": "xisheng",
+    "stakes": "最低档的存活率不到三成",
+    "tension": "长眠的额度让给更有用的人",
+    "text": "我把冬眠参数调到最低档，把苏醒的机会让给医生。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0001",
+    "scene": "zhenxiang",
+    "stakes": "时间码若是他伪造的，我替他圆了谎",
+    "tension": "不指控，只摆证据，让他自己崩",
+    "text": "我把两段监控的时间码对齐投上大屏，让他自己看那个漏洞。",
+    "type": "choice"
+  },
+  {
+    "chars": 19,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0002",
+    "scene": "zhenxiang",
+    "stakes": "他若喊停，真相永远差最后一秒",
+    "tension": "给他一个认罪减刑的窗口",
+    "text": "我按下播放键前先问他：你确定要我放完？",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0003",
+    "scene": "zhenxiang",
+    "stakes": "三份副本也可能被一次截获",
+    "tension": "用分布式备份防灭口",
+    "text": "我把真相拆成三份寄给三方，任何一份丢失另两份自动公开。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0004",
+    "scene": "zhenxiang",
+    "stakes": "他可能反手告我窃取隐私",
+    "tension": "半句真相钓他自曝",
+    "text": "我调出他的基因谱系报告，念到第三行停住，看他接不接话。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0005",
+    "scene": "zhenxiang",
+    "stakes": "信仰崩塌的船员可能先崩溃",
+    "tension": "一按键戳破整个世界观",
+    "text": "我关掉全船的重力伪装，让大家看看住了二十年的'地球'有多小。",
+    "type": "choice"
+  },
+  {
+    "chars": 30,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0006",
+    "scene": "zhenxiang",
+    "stakes": "AI可能抢先执行那句指令",
+    "tension": "全船敬畏的管家原是刽子手",
+    "text": "我把AI管家的原始指令集公放，第一句是'必要时可牺牲乘员'。",
+    "type": "choice"
+  },
+  {
+    "chars": 29,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0007",
+    "scene": "zhenxiang",
+    "stakes": "AI版本更新可以抹平一切矛盾",
+    "tension": "让矛盾的答案互相咬",
+    "text": "我当着他的面问舰载AI同一个问题十遍，把十一个答案摆出来。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0008",
+    "scene": "zhenxiang",
+    "stakes": "藏匿暴露，证人比我先死",
+    "tension": "证人活着，真相才活着",
+    "text": "我选择今晚不说，先把知道真相的另一个人藏进货舱。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0009",
+    "scene": "zhenxiang",
+    "stakes": "她若沉不住气，证据链被反咬",
+    "tension": "借最痛的人点这把火",
+    "text": "我把检测报告匿名发给死者的女儿，附上实验室门禁时间。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0010",
+    "scene": "zhenxiang",
+    "stakes": "机壳里的东西可能不是我想的那个",
+    "tension": "当众渎神换真相",
+    "text": "我召集全员到主舱，亲手拆开那台从没人敢动的'神谕机'。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0011",
+    "scene": "zhenxiang",
+    "stakes": "被剪的那一段可能是我自己的黑历史",
+    "tension": "拿自己的脑子当对照组",
+    "text": "我把我的记忆备份和他的并排投影：哪段被剪过，一目了然。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0012",
+    "scene": "zhenxiang",
+    "stakes": "他可能将错就错，反咬我造谣",
+    "tension": "用谎言钓真话",
+    "text": "我先告诉他一个假版本，看他纠错时说出多少真东西。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0013",
+    "scene": "zhenxiang",
+    "stakes": "105和106的下落我也是刚知道",
+    "tension": "消失的编号自己开口",
+    "text": "我带他去看冬眠舱编号从104直接跳到107的那面墙。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0014",
+    "scene": "zhenxiang",
+    "stakes": "死者家属永远不会原谅我",
+    "tension": "拿真相换和平，也买断正义",
+    "text": "我把真相压成谈判筹码：签了条约，秘密随我进坟墓。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0015",
+    "scene": "zhenxiang",
+    "stakes": "广播内容可能引发全船恐慌",
+    "tension": "被禁的声音一旦出口就收不回",
+    "text": "我让翻译AI当众转译那段禁忌的外星广播，一字不许省。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0016",
+    "scene": "zhenxiang",
+    "stakes": "线那头的操纵者立刻知道我看见了",
+    "tension": "一句揭穿傀儡政治",
+    "text": "我揭开他后颈的接口：诸位，这位领袖三年没用自己的脑子了。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0017",
+    "scene": "zhenxiang",
+    "stakes": "他可能转身销毁一切",
+    "tension": "把炸弹的引信送给当事人",
+    "text": "我选择只告诉他一个人，把引爆时机交到他手里。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0018",
+    "scene": "zhenxiang",
+    "stakes": "公开即失去最后一张谈判牌",
+    "tension": "数字不会哭，但会咬人",
+    "text": "我把遇难者名单与黑匣子同步公开，让数据替死人开口。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0019",
+    "scene": "zhenxiang",
+    "stakes": "他若以假证据反诉我，先入为主",
+    "tension": "用假底牌换他放松警惕",
+    "text": "我故意让他截获我伪造的'全部证据'，真底片还在轨道上绕。",
+    "type": "choice"
+  },
+  {
+    "chars": 28,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0020",
+    "scene": "zhenxiang",
+    "stakes": "直播信号随时会被切断并溯源",
+    "tension": "用一台尸体追一条生产线",
+    "text": "我直播解剖那具'自然死亡'的仿生人，芯片编号念给全网听。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0021",
+    "scene": "zhenxiang",
+    "stakes": "纸张追得到源头，我的人藏不久",
+    "tension": "让每个乘客亲手接到他的罪",
+    "text": "我把他签署的屠杀令复印件撒进移民船的气流循环。",
+    "type": "choice"
+  },
+  {
+    "chars": 22,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0022",
+    "scene": "zhenxiang",
+    "stakes": "鹦鹉说的话在法庭上不算证据",
+    "tension": "悼词由死者自己说完",
+    "text": "我让死者生前训练的AI鹦鹉在葬礼上开口说话。",
+    "type": "choice"
+  },
+  {
+    "chars": 26,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0023",
+    "scene": "zhenxiang",
+    "stakes": "那个孩子第一次知道自己是什么",
+    "tension": "血缘神话当场破产",
+    "text": "我拆穿克隆体身份：他的'儿子'连胎记都是按图纸点的。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0024",
+    "scene": "zhenxiang",
+    "stakes": "辞职若被驳回，真相随我一起被压下",
+    "tension": "乌纱帽换扩音器",
+    "text": "我把真相写进给议会的辞呈，辞职生效即全文公开。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0025",
+    "scene": "zhenxiang",
+    "stakes": "另一条路若被截，我亲手毁了底牌",
+    "tension": "毁证是假，宣判是真",
+    "text": "我当着他的面格式化证据硬盘，因为真相已从别的路出去了。",
+    "type": "choice"
+  },
+  {
+    "chars": 23,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0026",
+    "scene": "zhenxiang",
+    "stakes": "六十年里，作恶的人安享晚年",
+    "tension": "正义迟到一甲子，但不会缺席",
+    "text": "我选择沉默，把证据存进定时六十年的深空探测器。",
+    "type": "choice"
+  },
+  {
+    "chars": 24,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0027",
+    "scene": "zhenxiang",
+    "stakes": "狂热的信众会先撕碎揭穿者",
+    "tension": "神像背后是流水线",
+    "text": "我揭开培育舱的标签：你们跪拜的圣女是一批量产品。",
+    "type": "choice"
+  },
+  {
+    "chars": 21,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0028",
+    "scene": "zhenxiang",
+    "stakes": "三分钟足够他销毁证据",
+    "tension": "真相与人情各让一步",
+    "text": "我按全频广播前，先给老船长留了三分钟体面。",
+    "type": "choice"
+  },
+  {
+    "chars": 27,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0029",
+    "scene": "zhenxiang",
+    "stakes": "他们来了，我就得兑现",
+    "tension": "把自己做成唯一的备份",
+    "text": "我放出消息说真相只在我脑子里，引灭口的人先过我这一关。",
+    "type": "choice"
+  },
+  {
+    "chars": 25,
+    "genre": "kehuan",
+    "id": "ch-kehuan-zhenxiang-0030",
+    "scene": "zhenxiang",
+    "stakes": "他可能一个字都不补，转身灭迹",
+    "tension": "让罪犯亲口补全自己的罪",
+    "text": "我修复他亲笔日志的残页投影，缺的那几页让他自己补。",
+    "type": "choice"
+  }
+]

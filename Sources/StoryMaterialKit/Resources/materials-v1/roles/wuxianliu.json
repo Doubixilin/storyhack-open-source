@@ -1,0 +1,162 @@
+[
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0001",
+    "role_kind": "canon_hero",
+    "text": "你是积分榜第一的老玩家，从没输过，今早系统私信你：求你别再通关了。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0002",
+    "role_kind": "canon_hero",
+    "text": "你是通关最终副本的传说，回到现实三年，今早卧室门把手变成了副本入口。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 28,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0003",
+    "role_kind": "canon_hero",
+    "text": "你是零死亡纪录保持者，没人知道，你的复活币只剩最后一枚。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0004",
+    "role_kind": "canon_hero",
+    "text": "你是首杀队队长，最终战那晚队友名单少了一行，只有你还记得那个人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 31,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0005",
+    "role_kind": "canon_hero",
+    "text": "你是速通纪录保持者，系统今晨发布公告：修复了你可以获胜的错误。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 37,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0006",
+    "role_kind": "canon_hero",
+    "text": "你是通关九十九场的资深者，系统说满百场放你回家，第九十九场匹配到了你妹妹。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_hero-0007",
+    "role_kind": "canon_hero",
+    "text": "你是活着的传奇，新人守则第一条写着你：别学他，他赢的方式系统都懒得封。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0001",
+    "role_kind": "canon_side",
+    "text": "你是副本里的NPC，台词背了三千遍，今早有个玩家接了你的下一句。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0002",
+    "role_kind": "canon_side",
+    "text": "你是引导员，负责给新人讲规则，第五条规则你自己从来没读懂过。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0003",
+    "role_kind": "canon_side",
+    "text": "你是系统客服，工号9527，今早接到的投诉是：玩家举报自己还活着。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 33,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0004",
+    "role_kind": "canon_side",
+    "text": "你是安全屋老板娘，住店的玩家从不还价，你从不问他们上一局谁没回来。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0005",
+    "role_kind": "canon_side",
+    "text": "你是副本里的镜子怪，照过无数人的恐惧，今早镜子里多了个看戏的人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 32,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0006",
+    "role_kind": "canon_side",
+    "text": "你是修副本的程序员，补丁永远打不完，那个老副本学会了自己改规则。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-canon_side-0007",
+    "role_kind": "canon_side",
+    "text": "你是道具商人，什么都能搞到，今早有人下单，要买“一个从没进过游戏的人”。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0001",
+    "role_kind": "original",
+    "text": "你是新人，第一场就抽到地狱难度，老玩家们却在进场前对你鞠躬。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0002",
+    "role_kind": "original",
+    "text": "你是急诊医生，被拉进游戏时手里还攥着止血钳，副本规则第一条：不许救人。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 30,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0003",
+    "role_kind": "original",
+    "text": "你是殡仪馆化妆师，进副本第一晚，队友说你的手艺比治疗术好使。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 34,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0004",
+    "role_kind": "original",
+    "text": "你是失忆者，进游戏时什么都不记得，系统记录却显示，这是你的第两百场。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 35,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0005",
+    "role_kind": "original",
+    "text": "你是聋哑学校的老师，被拉进一个“听见声音就会死”的副本，全场你最安静。",
+    "type": "role_pitch"
+  },
+  {
+    "chars": 36,
+    "genre": "wuxianliu",
+    "id": "rp-wuxianliu-original-0006",
+    "role_kind": "original",
+    "text": "你是破产赌徒，系统给的初始技能叫“必输”，说明只有一行字：输掉的会成真。",
+    "type": "role_pitch"
+  }
+]
