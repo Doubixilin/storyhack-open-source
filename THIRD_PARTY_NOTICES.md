@@ -1,5 +1,19 @@
 # Third-party notices
 
+## Public-domain novel excerpts
+
+`Examples/PublicDomain/` contains original-language excerpts from Pu Songling's
+*Liaozhai Zhiyi*, Li Ruzhen's *Jing Hua Yuan*, and Lewis Carroll's
+*Alice's Adventures in Wonderland*. The source catalogs list these original
+texts as public domain in the USA. These texts are not relicensed as project
+code under MIT.
+
+Edition links, transcription credits, regional rights notes, missing-character
+annotations and source checksums are recorded in
+[the example provenance](Examples/PublicDomain/README.md) and
+[sources.json](Examples/PublicDomain/sources.json). No modern translations,
+third-party covers or film assets are included.
+
 ## ZIPFoundation
 
 This project uses [ZIPFoundation](https://github.com/weichsel/ZIPFoundation),

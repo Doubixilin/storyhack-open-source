@@ -1,0 +1,64 @@
+[
+  {
+    "file": "聊斋志异·演示选篇.md",
+    "source_ebook": 51828,
+    "source_catalog": "https://www.gutenberg.org/ebooks/51828",
+    "source_text": "https://www.gutenberg.org/cache/epub/51828/pg51828.txt",
+    "source_sha256": "a904f03f4b4375a086fbea4708ea0019d1f7fd59408360ffad784c8a57537fa3",
+    "file_sha256": "f566075f0787ecba7f3ad28b6653ecbf2d5cfc9e63446be64a2aef10f84b2ca8",
+    "selection": [
+      "聶小倩",
+      "種梨",
+      "畫皮"
+    ],
+    "changes": [
+      "Extract complete selected stories; add Markdown headings and author note; omit ebook front/back matter",
+      {
+        "story": "聶小倩",
+        "original_codepoint": "U+E012",
+        "replacement": "〔缺字：U+E012〕",
+        "count": 1
+      },
+      {
+        "story": "聶小倩",
+        "original_codepoint": "U+E262",
+        "replacement": "〔缺字：U+E262〕",
+        "count": 1
+      }
+    ],
+    "source_status": "Public domain in the USA; see README.md for jurisdiction and attribution notes",
+    "retrieved_on": "2026-10-09"
+  },
+  {
+    "file": "镜花缘·第一回.md",
+    "source_ebook": 23818,
+    "source_catalog": "https://www.gutenberg.org/ebooks/23818",
+    "source_text": "https://www.gutenberg.org/cache/epub/23818/pg23818.txt",
+    "source_sha256": "0296d48102077d9a5aa5885f48978b3b002e2434721fc2a72f2c70c3aa22bfee",
+    "file_sha256": "b8f118f1327382fd860b6361b5498002ea5679beddaad8de6d57f8e1f39f00ec",
+    "selection": [
+      "第一回"
+    ],
+    "changes": [
+      "Extract chapter one; add Markdown heading and author note; preserve original text line breaks; omit ebook front/back matter"
+    ],
+    "source_status": "Public domain in the USA; see README.md for jurisdiction and attribution notes",
+    "retrieved_on": "2026-10-09"
+  },
+  {
+    "file": "Alice·Chapter-I.md",
+    "source_ebook": 11,
+    "source_catalog": "https://www.gutenberg.org/ebooks/11",
+    "source_text": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+    "source_sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+    "file_sha256": "dfb98a0e64fd62a27611f7fcb9c93afbec3c2418244638713e67b490ad027f5d",
+    "selection": [
+      "CHAPTER I. Down the Rabbit-Hole"
+    ],
+    "changes": [
+      "Extract chapter one; combine chapter number and title into Markdown heading; add author note; omit contents and ebook front/back matter"
+    ],
+    "source_status": "Public domain in the USA; see README.md for jurisdiction and attribution notes",
+    "retrieved_on": "2026-10-09"
+  }
+]
